@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#EAF2F8"/>
+  <rect x="120" y="120" width="160" height="60" rx="30" fill="#D6EAF8" stroke="#2980B9" stroke-width="2"/>
+  <line x1="155" y1="125" x2="155" y2="175" stroke="#2980B9" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="185" y1="125" x2="185" y2="175" stroke="#2980B9" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="215" y1="125" x2="215" y2="175" stroke="#2980B9" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="245" y1="125" x2="245" y2="175" stroke="#2980B9" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="200" cy="150" r="5" fill="#1ABC9C"/>
+  <text x="200" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7F8C8D">Foam Roller</text>
+</svg>

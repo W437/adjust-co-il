@@ -1,0 +1,1293 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "blog": "Blog",
+    "bookTreatment": "Book a Consultation",
+    "navBadges": [
+      "15+ Years Experience",
+      "Tel Aviv & Tuval",
+      "Sports Rehab Expert",
+      "IDF Medical Corps",
+      "Yoga-Based Rehab",
+      "Ministry of Health Licensed",
+      "Dry Needling & IMS",
+      "Posture Correction"
+    ]
+  },
+  "hero": {
+    "eyebrow": "About Dr. Victor Duani",
+    "headlineLine1": "Expert Chiropractic Care.",
+    "headlineLine2": "Proven Results.",
+    "tagline": {
+      "pre": "Helping you ",
+      "item1": "move better",
+      "sep1": ", ",
+      "item2": "feel stronger",
+      "sep2": ", and ",
+      "item3": "live pain-free",
+      "post": "."
+    },
+    "body": {
+      "pre": "Dr. Victor Duani's journey began with a simple belief: ",
+      "accent": "the body is designed to heal",
+      "post": " when it moves well. Since 2004, he's helped thousands of people in Israel and beyond overcome pain, restore function, and get back to doing what they love."
+    },
+    "credentials": [
+      {
+        "title": "Doctor of Chiropractic",
+        "sub": "DUT, South Africa"
+      },
+      {
+        "title": "Ministry of Health",
+        "sub": "Licensed"
+      },
+      {
+        "title": "IDF Medical Corps",
+        "sub": "Air Crew Chiropractor"
+      },
+      {
+        "title": "Member",
+        "sub": "Israeli Chiropractic Society"
+      }
+    ],
+    "ctaPrimary": "Book a Consultation",
+    "ctaSecondary": "Explore Services",
+    "doctorName": "Dr. Victor Duani",
+    "doctorCredential": "Doctor of Chiropractic, South Africa",
+    "doctorFeatures": [
+      "Specializing in sports injuries, spinal health, and rehabilitation",
+      "Over 15 years of experience helping patients move and live better",
+      "Trusted by leading medical centers across Israel"
+    ],
+    "portraitAlt": "Dr. Victor Duani, Rehabilitative Chiropractor",
+    "valueStrip": [
+      {
+        "title": "Patient-Centered",
+        "desc": "Every plan is tailored to your unique needs and goals."
+      },
+      {
+        "title": "Whole-Body Approach",
+        "desc": "We treat the root cause, not just the symptoms."
+      },
+      {
+        "title": "Trusted Expertise",
+        "desc": "Years of experience you can rely on for lasting results."
+      },
+      {
+        "title": "Move Freely. Live Fully.",
+        "desc": "Get back to the activities you love, pain-free."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About Dr. Victor Duani",
+    "heading": "From Mumbai's Yoga Mats to Israel's Top Medical Centers",
+    "p1": "Dr. Victor Duani's path to chiropractic began through <strong>yoga in Mumbai in 2004</strong>, where he discovered the deep connection between movement, rehabilitation, and spinal health. He went on to graduate from the <strong>Durban University of Technology (DUT)</strong> School of Chiropractic in <strong>South Africa in 2010</strong>.",
+    "p2": "After returning to Israel, Dr. Duani worked as a chiropractor at <strong>Assaf Harofeh Medical Center</strong> and managed rehabilitative chiropractic at <strong>Sheba Medical Center, Tel Hashomer</strong>, while simultaneously serving in the <strong>IDF Medical Corps</strong> reserves as a chiropractor for the air crew. Today he runs his private clinics in <strong>Tel Aviv and Tuval</strong>, specializing in rehabilitative chiropractic for orthopedic problems, spinal maintenance and care, and sports injuries.",
+    "credentials": [
+      "Doctor of Chiropractic, DUT, South Africa",
+      "Israeli Chiropractic Society",
+      "Ministry of Health Licensed",
+      "IDF Medical Corps, Air Crew Chiropractor"
+    ],
+    "cta": "Book a Consultation"
+  },
+  "services": {
+    "eyebrow": "Treatment Techniques",
+    "heading": "Comprehensive Rehabilitative Care",
+    "sub": "A holistic approach combining classic chiropractic with advanced rehabilitation techniques, focused on your back, joints, and head.",
+    "focusBack": "Back",
+    "focusHead": "Head",
+    "focusJoints": "Joints",
+    "items": [
+      {
+        "title": "Classic Chiropractic",
+        "desc": "Precise spinal adjustments to restore proper alignment, improve nervous system function, and relieve pain at its source."
+      },
+      {
+        "title": "Dry Needling & IMS",
+        "desc": "Targeted dry needling for trigger point release using IMS techniques to relieve deep muscular tension and chronic pain."
+      },
+      {
+        "title": "Kinesio & Neurodynamic Taping",
+        "desc": "Strategic taping techniques that support muscles, improve circulation, and facilitate the body's natural healing process."
+      },
+      {
+        "title": "Yoga-Based Rehabilitation",
+        "desc": "Targeted stretches and yoga exercises designed specifically for pain release, increased mobility, and spinal recovery."
+      },
+      {
+        "title": "Fascia Release",
+        "desc": "Manual fascia release therapy to break down adhesions, restore tissue elasticity, and improve overall structural balance."
+      },
+      {
+        "title": "Posture Improvement",
+        "desc": "Comprehensive postural assessment and correction therapy to address imbalances from desk work, injuries, and daily habits."
+      }
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "How It Works",
+    "heading": "Your Path to Recovery",
+    "sub": "Getting started is simple. We focus on understanding your body first, then building the right treatment plan for lasting results.",
+    "steps": [
+      {
+        "title": "Get in Touch",
+        "desc": "Call us or fill out the contact form. We'll find a convenient time at either our Tel Aviv or Tuval clinic."
+      },
+      {
+        "title": "First Assessment",
+        "desc": "Bring your medical records and imaging. Dr. Duani will perform a thorough orthopedic and chiropractic examination to identify the root cause."
+      },
+      {
+        "title": "Personalized Treatment",
+        "desc": "Receive a tailored treatment plan combining the right techniques for your body, with the goal of maximum results in minimum sessions."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "heading": "What Our Patients Are Saying",
+    "sub": "Real reviews from real patients. Average rating 4.9 out of 5.",
+    "reviewCount": "36",
+    "totalReviewCount": "79",
+    "avgRating": "4.9",
+    "totalReviews": "Total Reviews",
+    "showMore": "Show More Reviews",
+    "showLess": "Show Less",
+    "googleReviews": "Google Reviews",
+    "items": [
+      {
+        "name": "יפית חתן",
+        "date": "06.01.2026",
+        "treatment": "General",
+        "quote": "A sensitive and wonderful practitioner. Highly professional and precise. You can tell he truly knows what he's doing. Very happy with my treatment.",
+        "rating": 5
+      },
+      {
+        "name": "דיוויד בומזון",
+        "date": "24.12.2025",
+        "treatment": "Cervical & Skeletal Headaches",
+        "quote": "An outstanding professional. I came to him with an acute vertigo episode that left me unable to move freely without falling, intense nausea, and the urge to vomit. After a short session with Victor, I felt dramatically better: the nausea was gone and so was the dizziness. Highly recommend him.",
+        "rating": 5
+      },
+      {
+        "name": "י.",
+        "date": "09.12.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "I came to Dr. Victor with pain that had been following me for nearly 8 years. After the first session, I knew I was in the right place with the right professional. The lower back pain disappeared completely and hasn't come back even after six months. We then treated my upper back pain, and again, after just one session the pain was gone. This is real treatment. I'm very happy.",
+        "rating": 5
+      },
+      {
+        "name": "Michael",
+        "date": "21.11.2025",
+        "treatment": "Lower Back Pain / Radiculopathy",
+        "quote": "Victor Duani has saved me from severe back pain multiple times. I came in barely able to walk, and after half an hour I already felt 95% better. Of course it took several sessions for a full recovery, and it was worth every penny. I'm deeply grateful and highly recommend him.",
+        "rating": 5
+      },
+      {
+        "name": "נועם רבינוביץ",
+        "date": "19.11.2025",
+        "treatment": "Disc Herniation",
+        "quote": "A caring and super professional chiropractor with amazing energy who takes care of his patients down to the last detail. Very satisfied.",
+        "rating": 5
+      },
+      {
+        "name": "טל בירנבויפ",
+        "date": "19.11.2025",
+        "treatment": "General",
+        "quote": "A highly professional practitioner. An absolute 10 out of 10 as a person.",
+        "rating": 5
+      },
+      {
+        "name": "גל",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Victor is a dedicated and professional practitioner. He demonstrates extensive knowledge and inspires confidence. He helped me tremendously with my lower back pain.",
+        "rating": 5
+      },
+      {
+        "name": "הגר יטבת",
+        "date": "18.11.2025",
+        "treatment": "General",
+        "quote": "A practitioner who is first and foremost a genuinely good person. He understands the patient as a whole, is attentive and precise. After the treatment there's a real sense of relief and significant improvement. Highly recommend.",
+        "rating": 5
+      },
+      {
+        "name": "יסמין ש",
+        "date": "18.11.2025",
+        "treatment": "Shoulder Blade Pain / Lower Back Pain",
+        "quote": "Victor treats with grace and you can trust him completely. A true professional. Highly recommend.",
+        "rating": 5
+      },
+      {
+        "name": "פ.",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Highly professional, pleasant, and really helped with the back pain I was suffering from.",
+        "rating": 5
+      },
+      {
+        "name": "דני פיינשטיין",
+        "date": "18.11.2025",
+        "treatment": "Neck Pain",
+        "quote": "A true professional who approaches the problem methodically. Kind and empathetic.",
+        "rating": 5
+      },
+      {
+        "name": "לירון",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Victor arrived right on time. I was suffering from terrible pain and he solved the problem without any unnecessary medication.",
+        "rating": 5
+      },
+      {
+        "name": "חלי גרינוולד",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Victor is a true expert who knows exactly what he's doing. Attentive and intuitive. Highly recommend.",
+        "rating": 5
+      },
+      {
+        "name": "עירית הלביא",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Thanks to his professional treatment, the back and leg pain I was suffering from is completely gone. A wonderful and pleasant person. Deeply grateful.",
+        "rating": 5
+      },
+      {
+        "name": "נורית בכר",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Very professional and responsible treatment. Attentive and sensitive. I felt great relief in my condition.",
+        "rating": 5
+      },
+      {
+        "name": "ליאור",
+        "date": "18.11.2025",
+        "treatment": "Radiculopathy",
+        "quote": "Professional and courteous service. I've been seeing him for many years and he has always solved my issues. Highly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "ליעוז קדוש",
+        "date": "18.11.2025",
+        "treatment": "General",
+        "quote": "A true back pain specialist. He helped me enormously in getting back to my routine of sports and training.",
+        "rating": 5
+      },
+      {
+        "name": "משה אהרן",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Victor is a true expert who knows how to treat my back problems extremely well.",
+        "rating": 5
+      },
+      {
+        "name": "גאד חבש",
+        "date": "18.11.2025",
+        "treatment": "General",
+        "quote": "Da best.",
+        "rating": 4
+      },
+      {
+        "name": "ליאורה פינסקי",
+        "date": "18.11.2025",
+        "treatment": "General",
+        "quote": "Very thorough, sensitive, and tried different approaches to find the optimal solution.",
+        "rating": 5
+      },
+      {
+        "name": "עדי פרידמן",
+        "date": "18.11.2025",
+        "treatment": "Disc Herniation",
+        "quote": "Treated me wonderfully during a very acute period. Available, professional, and attentive.",
+        "rating": 5
+      },
+      {
+        "name": "מירי מתתיה",
+        "date": "18.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "After years of pain and being bedridden, thanks to him I'm back to hiking and being active. Recommend with all my heart.",
+        "rating": 5
+      },
+      {
+        "name": "ניר סלמה",
+        "date": "18.11.2025",
+        "treatment": "Disc Herniation",
+        "quote": "Within 10 sessions he resolved a problem I'd had for years. Highly recommend.",
+        "rating": 5
+      },
+      {
+        "name": "חגית הסל",
+        "date": "18.11.2025",
+        "treatment": "Knee Pain",
+        "quote": "Dedicated, professional, and personalized care on another level. Helped me get back on track fast.",
+        "rating": 5
+      },
+      {
+        "name": "ליאב",
+        "date": "18.11.2025",
+        "treatment": "Sports Injuries",
+        "quote": "He treated me during my ACL tear rehabilitation. I returned to full sports activity without surgery. Recommended.",
+        "rating": 5
+      },
+      {
+        "name": "ד.",
+        "date": "14.11.2025",
+        "treatment": "Disc Herniation",
+        "quote": "Excellent.",
+        "rating": 4
+      },
+      {
+        "name": "דיאנה",
+        "date": "12.11.2025",
+        "treatment": "Jaw Joint Pain",
+        "quote": "The treatments have always helped me tremendously. Pleasant atmosphere, very professional, and the relief is felt immediately.",
+        "rating": 5
+      },
+      {
+        "name": "ג׳ודי כהן גלעדי",
+        "date": "12.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Professional, precise, and effective. Real improvement after just a few sessions.",
+        "rating": 5
+      },
+      {
+        "name": "ד.ה.",
+        "date": "12.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Victor has been taking care of my back for years. A true professional with golden hands. Warm and personal care.",
+        "rating": 5
+      },
+      {
+        "name": "ינאי",
+        "date": "12.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Attentive and works with patience. I always left with real pain relief.",
+        "rating": 5
+      },
+      {
+        "name": "זיו חכם",
+        "date": "12.11.2025",
+        "treatment": "Upper Back / Lower Back / Shoulder Blades",
+        "quote": "After every treatment I felt better immediately. Recommend without hesitation.",
+        "rating": 5
+      },
+      {
+        "name": "הילה אקרמן",
+        "date": "12.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Immediate improvement in pain. Pleasant clinic. Highly recommend.",
+        "rating": 5
+      },
+      {
+        "name": "בת׳",
+        "date": "12.11.2025",
+        "treatment": "Neck Pain",
+        "quote": "Professional, pleasant, attentive.",
+        "rating": 5
+      },
+      {
+        "name": "בת איש כסית",
+        "date": "12.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "A real magician. Solves back problems with the utmost professionalism.",
+        "rating": 5
+      },
+      {
+        "name": "גרי ויינמן",
+        "date": "12.11.2025",
+        "treatment": "Sports Injuries",
+        "quote": "A top-notch professional chiropractor with an excellent ability to solve problems.",
+        "rating": 5
+      },
+      {
+        "name": "דפנה גלעד גרנות",
+        "date": "12.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Wonderful and professional. Helped me through my healing process.",
+        "rating": 5
+      },
+      {
+        "name": "אביבה בן ברוך",
+        "date": "11.11.2025",
+        "treatment": "Lower Back / Disc Herniation / Fibromyalgia",
+        "quote": "After years of pain, I'm functioning again. Treatment at the highest level. Recommend with all my heart.",
+        "rating": 5
+      },
+      {
+        "name": "אופיר פוגל",
+        "date": "08.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Thanks to him I feel so much better and can stay active in sports. Highly recommend.",
+        "rating": 5
+      },
+      {
+        "name": "Arieh Acton",
+        "date": "07.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Excellent.",
+        "rating": 4
+      },
+      {
+        "name": "איריס",
+        "date": "06.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Professional, pleasant, and reliable. He also gave me exercises to do at home.",
+        "rating": 5
+      },
+      {
+        "name": "אופיר",
+        "date": "06.11.2025",
+        "treatment": "Lower Back Pain",
+        "quote": "Very professional and the treatments really help. Recommended.",
+        "rating": 5
+      },
+      {
+        "name": "ארנון מגידס",
+        "date": "06.11.2025",
+        "treatment": "Sports Injuries / Shoulder Pain / Pediatric",
+        "quote": "A true expert. Short, focused treatments that delivered fast results.",
+        "rating": 5
+      },
+      {
+        "name": "שחר",
+        "date": "06.11.2025",
+        "treatment": "Upper Back",
+        "quote": "Dedicated and goal-oriented treatment that delivers results.",
+        "rating": 5
+      },
+      {
+        "name": "יורם דרור",
+        "date": "06.11.2025",
+        "treatment": "Lower Back / Sports Injuries",
+        "quote": "Accurate diagnostics and effective treatment.",
+        "rating": 5
+      },
+      {
+        "name": "חנה רגב",
+        "date": "27.10.2025",
+        "treatment": "Knee / Lower Back",
+        "quote": "Professionalism, pleasant atmosphere, attentiveness, and genuine care.",
+        "rating": 5
+      },
+      {
+        "name": "צ.ר.",
+        "date": "25.10.2025",
+        "treatment": "General",
+        "quote": "Courteous and professional. It was a pleasure being his patient.",
+        "rating": 5
+      },
+      {
+        "name": "Aliza Schwartz",
+        "date": "01.02.2024",
+        "treatment": "Neck Pain",
+        "quote": "I was in a lot of pain and could not even move my neck or move at all. I went to Dr Duani and after 2 times I was better. It was really amazing.",
+        "rating": 5
+      },
+      {
+        "name": "Eran Arad",
+        "date": "01.09.2025",
+        "treatment": "Disc Herniation",
+        "quote": "I came to Dr. Victor Duani with a herniated disc between the lower vertebrae: severe pain in my hip and shin, leg weakness, limping, foot drop, and numbness. After intensive chiropractic treatment combined with physiotherapy, I improved steadily every week. After 3 months my leg was back to normal with no limitations. A professional and deeply human experience. Highly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "Ron Ozery",
+        "date": "01.02.2023",
+        "treatment": "General / Pediatric",
+        "quote": "Warmly recommended. A gentle treatment with an amazing effect that simply helps with any issue, for children or adults. The kids surprisingly surrender to him and you can see them relax in his hands within minutes. Thank you!",
+        "rating": 5
+      },
+      {
+        "name": "Inbal Laor",
+        "date": "01.05.2025",
+        "treatment": "Acute Back Pain",
+        "quote": "Dr. Duani is professional and humane. He saved me from an acute locked-back episode, pain I'd never experienced before. With the right equipment and dry needling, seasoned with genuine care, I feel much better. Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "סיגל בן חמו",
+        "date": "01.02.2020",
+        "treatment": "Disc Herniation",
+        "quote": "I arrived skeptical after trying many practitioners. The back pain was unbearable. I bought a series of 5 treatments at a very reasonable price, and after the very first treatment I felt relief. From session to session I kept improving. Today I can bend over, something I couldn't do before. I sent my parents too and they're just as happy. Thank you, you truly deserve it.",
+        "rating": 5
+      },
+      {
+        "name": "Yarden Nezer Harel",
+        "date": "01.02.2023",
+        "treatment": "Acute Back Pain",
+        "quote": "I came in with a 'locked' back, painful and limited movement. Victor is super professional. I felt significant improvement after just one session. A day later I forgot I could barely move the day before. Available in the center and up north. Highly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "רחלי מעוז",
+        "date": "01.02.2023",
+        "treatment": "Vertigo / Spinal Maintenance",
+        "quote": "I came to Dr. Victor with vertigo. He humbly offered treatment. Each time I went home feeling something words can't describe. Today, after a series of treatments, no more vertigo, and I plan to continue maintaining my spine and neck. Thank you, a true professional.",
+        "rating": 5
+      },
+      {
+        "name": "Almog Benjamin",
+        "date": "01.02.2022",
+        "treatment": "Acute Back Pain",
+        "quote": "My back locked up two days ago. Victor took me in on short notice and after a quick, effective treatment got me back on my feet. Warmly recommended!",
+        "rating": 5
+      },
+      {
+        "name": "עומר הראל",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "I've known Victor for several years and always come back. Always available, kind, and of course very professional. He always helps with my issues. Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "Oz Porat",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "Excellent chiropractor. Managed to diagnose and recommend a solution that actually worked: the pain was gone within 48 hours. Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "פיטר פלדמן",
+        "date": "01.02.2021",
+        "treatment": "Sleep Issues",
+        "quote": "Excellent chiropractor. I had sleep problems and he helped me tremendously. Today whenever I have an issue I go to him and get very professional care. Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "שגית לוי",
+        "date": "01.02.2022",
+        "treatment": "General",
+        "quote": "Dr. Duani is first and foremost a wonderful person: caring, thorough, and professional. He examines the problem on all levels, is attentive and humane. After several treatments I felt relief despite my very complex issue. Warmly recommended!",
+        "rating": 5
+      },
+      {
+        "name": "Aviv Aflalo",
+        "date": "01.02.2021",
+        "treatment": "Knee Pain",
+        "quote": "I came with a knee problem, couldn't run. After a short treatment, Dr. Victor Duani got me running normally again. A wonderful person who also knows how to listen. Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "שני שטור",
+        "date": "01.02.2020",
+        "treatment": "Disc Herniation",
+        "quote": "I've suffered from a herniated disc for 8 years and tried a wide range of treatments. None worked until I found Dr. Duani through a friend. A truly precious doctor: patient, attentive, and precise. The results came quickly! Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "אריאל ד",
+        "date": "01.02.2021",
+        "treatment": "Lower Back Pain",
+        "quote": "Pleasant place, great atmosphere. Victor does an amazing job. He significantly improved my back condition and almost eliminated all my pain. Simply a magician. Warmly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "hila hakim",
+        "date": "01.02.2020",
+        "treatment": "General",
+        "quote": "I came to Dr. Victor Duani after seeing several doctors. Fortunately, he quickly understood the problem and provided a fast solution to the pain. A professional doctor. Thank you for the treatment.",
+        "rating": 5
+      },
+      {
+        "name": "אורית לוי",
+        "date": "01.02.2020",
+        "treatment": "General",
+        "quote": "Warmly recommended. Very happy with the treatment and the results that came quickly.",
+        "rating": 5
+      },
+      {
+        "name": "Yael Dabah",
+        "date": "01.02.2020",
+        "treatment": "General",
+        "quote": "Dr. Duani is a patient, attentive, and highly professional doctor!",
+        "rating": 5
+      },
+      {
+        "name": "Joseph Weiss",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "Very gentle and attentive to my needs.",
+        "rating": 5
+      },
+      {
+        "name": "Israel Shahar",
+        "date": "01.02.2024",
+        "treatment": "General",
+        "quote": "Professional and courteous chiropractor.",
+        "rating": 5
+      },
+      {
+        "name": "Eugene Efremov",
+        "date": "01.02.2024",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "ראני גרנות",
+        "date": "01.02.2023",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "חן אמנוני",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "שלמה גלנטי",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "Rachel Gaon",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "RUTHIE IZHAR",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "איריס נגר",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "anna izakson",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "shaked waisman",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "Ira Feldman",
+        "date": "01.02.2021",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "Igal Elimelech",
+        "date": "01.02.2020",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "חן אייזיק",
+        "date": "01.02.2020",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      },
+      {
+        "name": "נהוראי עקרוני",
+        "date": "01.02.2020",
+        "treatment": "General",
+        "quote": "",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "heading": "Ready to Start Feeling Better?",
+    "sub": "Book your treatment today or reach out with any questions. We're here to help.",
+    "infoHeading": "Visit Our Clinics",
+    "infoSub": "Two convenient locations, in Tel Aviv and the North. Give us a call or fill out the form to schedule your first visit.",
+    "phone": "Phone",
+    "email": "Email",
+    "center": "Center",
+    "centerAddress": "Brodetzky 36, Tel Aviv",
+    "north": "North",
+    "northAddress": "Tuval (near Karmiel)",
+    "officeHours": "Clinic Hours",
+    "sunThu": "Sunday – Thursday",
+    "sunThuTime": "8:00 AM – 7:00 PM",
+    "friday": "Friday",
+    "fridayTime": "8:00 AM – 1:00 PM",
+    "saturday": "Saturday",
+    "saturdayTime": "Closed",
+    "formHeading": "Send Us a Message",
+    "formSub": "Fill out the form below and we'll get back to you as soon as possible.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "05X-XXX-XXXX",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your@email.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your concerns or what you'd like help with...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "thankYou": "Message Sent!",
+    "thankYouSub": "Thank you for reaching out. We'll get back to you within 24 hours.",
+    "errorMsg": "Something went wrong. Please try again.",
+    "sendAnother": "Send Another Message",
+    "wazeNavigate": "Navigate with Waze",
+    "callNow": "Call",
+    "emailNow": "Email"
+  },
+  "cta": {
+    "heading": "Ready to Adjust?",
+    "sub": "Take the first step toward pain-free movement. Book your treatment with Dr. Victor Duani today: two convenient clinic locations, flexible scheduling, and over 20 years of rehabilitative chiropractic expertise.",
+    "buttonPrimary": "Book a Consultation",
+    "buttonSecondary": "053-276-7776",
+    "phone": "0532767776",
+    "imageAlt": "Dr. Victor Duani, Rehabilitative Chiropractor",
+    "stats": [
+      {
+        "number": "20+",
+        "label": "Years"
+      },
+      {
+        "number": "4.9",
+        "label": "Rating"
+      },
+      {
+        "number": "2",
+        "label": "Locations"
+      },
+      {
+        "number": "79",
+        "label": "Reviews"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Rehabilitative chiropractic care by Dr. Victor Duani. Combining classic techniques with yoga-based rehabilitation for lasting results.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "treatments": "Treatments",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "treatmentsHeading": "Treatments",
+    "classicChiro": "Classic Chiropractic",
+    "dryNeedling": "Dry Needling & IMS",
+    "kinesioTaping": "Kinesio Taping",
+    "yogaRehab": "Yoga Rehabilitation",
+    "fasciaRelease": "Fascia Release",
+    "contactHeading": "Contact",
+    "copyright": "adjust, Dr. Victor Duani Chiropractic. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "trustBar": {
+    "items": [
+      {
+        "number": "20+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "2",
+        "label": "Clinic Locations"
+      },
+      {
+        "number": "Licensed",
+        "label": "Ministry of Health"
+      },
+      {
+        "number": "Yoga",
+        "label": "& Rehab Focused"
+      }
+    ]
+  },
+  "mobileBar": {
+    "call": "Call Now",
+    "contact": "Send Message"
+  },
+  "shop": {
+    "eyebrow": "Shop",
+    "heading": "Recommended Wellness Products",
+    "sub": "Clinic-approved products to support your recovery and daily well-being. Order easily via WhatsApp.",
+    "orderButton": "Order via WhatsApp",
+    "closeModal": "Close",
+    "currency": "₪",
+    "items": [
+      {
+        "name": "Orthopedic Cervical Pillow",
+        "desc": "Ergonomic memory-foam pillow designed to support the natural curve of your neck for deeper, pain-free sleep.",
+        "details": "Premium visco-elastic memory foam that adapts to your head and neck contour. Hypoallergenic, breathable cover with zipper for easy washing. Dimensions: 60 × 35 × 11 cm. Ideal for back and side sleepers suffering from neck pain, cervical stiffness, or tension headaches.",
+        "price": "249"
+      },
+      {
+        "name": "Lumbar Support Cushion",
+        "desc": "Contoured back cushion for office chairs and car seats. Helps maintain proper spinal alignment all day.",
+        "details": "Ergonomic high-density foam with memory layer that molds to your lower back. Adjustable strap fits any chair or car seat. Dimensions: 33 × 32 × 10 cm. Recommended for office workers, drivers, and anyone experiencing lower-back fatigue or disc-related discomfort.",
+        "price": "179"
+      },
+      {
+        "name": "Posture Corrector Brace",
+        "desc": "Lightweight adjustable brace that gently pulls shoulders back to improve posture and reduce upper-back tension.",
+        "details": "Breathable mesh fabric with padded shoulder straps for all-day comfort. Adjustable front buckle fits chest sizes 70–120 cm. Wear 30–60 minutes daily and gradually increase. Suitable for desk workers, students, and post-rehab patients working on postural correction.",
+        "price": "149"
+      },
+      {
+        "name": "Foam Roller (45 cm)",
+        "desc": "High-density foam roller for self-myofascial release, muscle recovery, and improved flexibility after workouts.",
+        "details": "EVA high-density foam, 45 cm length × 15 cm diameter. Textured surface for deeper tissue work. Use before or after training to reduce muscle soreness, improve blood flow, and increase range of motion. Clinic-recommended for back, IT band, and quadriceps release.",
+        "price": "119"
+      },
+      {
+        "name": "Resistance Bands Set",
+        "desc": "Set of 3 graduated resistance bands for rehab exercises, stretching, and strength training at home or on the go.",
+        "details": "Set includes light (5 kg), medium (10 kg), and heavy (15 kg) natural latex bands. Each 120 cm long. Comes with a carrying pouch and an exercise guide. Perfect for physiotherapy exercises, shoulder stabilization, hip strengthening, and travel-friendly workouts.",
+        "price": "89"
+      },
+      {
+        "name": "Massage Ball Duo",
+        "desc": "Firm + soft therapy balls for targeted trigger-point release in the back, shoulders, and feet.",
+        "details": "Includes one firm lacrosse-style ball (6.5 cm) and one softer textured ball (7.5 cm). Use against a wall or on the floor for self-massage of deep knots. Targets trigger points in the upper back, shoulder blades, glutes, and plantar fascia. Portable, fits in any bag.",
+        "price": "69"
+      },
+      {
+        "name": "Hot & Cold Gel Pack",
+        "desc": "Reusable gel compress for heat or cold therapy. Soothes inflammation, muscle spasms, and joint stiffness.",
+        "details": "Medical-grade non-toxic gel, 25 × 15 cm with soft fabric cover. Microwave for heat therapy (muscle tension, stiffness) or freeze for cold therapy (swelling, acute injury). Flexible even when frozen. Reusable hundreds of times.",
+        "price": "59"
+      },
+      {
+        "name": "Kinesiology Tape Roll",
+        "desc": "Elastic therapeutic tape that supports muscles and joints without restricting movement. Waterproof, lasts 3–5 days.",
+        "details": "5 m × 5 cm roll of latex-free, hypoallergenic cotton tape with medical-grade acrylic adhesive. Provides support and proprioceptive feedback without limiting range of motion. Waterproof and sweat-resistant, so it stays on during showers and workouts. Used professionally for sports injuries, postural taping, and lymphatic drainage.",
+        "price": "49"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Insights on chiropractic care, rehabilitation, and spinal health from Dr. Victor Duani.",
+    "readMore": "Read Article",
+    "backToBlog": "Back to Blog",
+    "publishedOn": "Published",
+    "readTime": "min read",
+    "share": "Share",
+    "relatedPosts": "More Articles",
+    "bookCta": "Experiencing pain? Book a consultation with Dr. Duani today.",
+    "bookCtaButton": "Book a Consultation"
+  },
+  "servicePage": {
+    "learnMore": "Learn more",
+    "breadcrumbHome": "Home",
+    "breadcrumbServices": "Services",
+    "backToServices": "All Treatments",
+    "faqHeading": "Frequently Asked Questions",
+    "relatedHeading": "Related Reading",
+    "bookCta": "Ready to start? Book a consultation with Dr. Duani today.",
+    "bookCtaButton": "Book a Consultation"
+  },
+  "siteTitle": "adjust · Dr. Victor Duani | Rehabilitative Chiropractic",
+  "metaDescription": "Rehabilitative chiropractic care by Dr. Victor Duani in Tel Aviv and Tuval. Specializing in orthopedic rehabilitation, spinal maintenance, and sports injury recovery. 20+ years experience, 4.9 rating.",
+  "ui": {
+    "toLight": "Switch to light mode",
+    "toDark": "Switch to dark mode",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "book": "Book",
+    "bookVisit": "Book a visit",
+    "bookConsult": "Book a consultation",
+    "waMessage": "Hi, I'd like to book a consultation.",
+    "minRead": "min read",
+    "learnMore": "Learn more",
+    "readArticle": "Read the article",
+    "openUntil": "Open now · until {t}",
+    "opensToday": "Closed · opens today at {t}",
+    "opensTomorrow": "Closed · opens tomorrow at {t}",
+    "opensDay": "Closed · opens {d} at {t}",
+    "days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "today": "Today"
+  },
+  "nav2": {
+    "conditions": "Conditions",
+    "treatments": "Treatments",
+    "about": "About",
+    "reviews": "Reviews",
+    "clinics": "Clinics",
+    "blog": "Blog"
+  },
+  "home": {
+    "hero": {
+      "label": "Rehabilitative chiropractic · Tel Aviv & Tuval",
+      "h1": "Your body is built to heal",
+      "h1Em": "when it moves well.",
+      "lede": "Dr. Victor Duani treats back pain, neck pain, headaches and sports injuries at the source, combining precise chiropractic with dry needling and yoga-based rehab. The aim is the most improvement in the fewest sessions.",
+      "proofReviews": "79 Google reviews",
+      "proofLicensed": "Licensed",
+      "proofMoh": "Ministry of Health",
+      "proofSheba": "Sheba & Assaf Harofeh",
+      "proofFormerly": "Hospital rehab background",
+      "alt": "Dr. Victor Duani, rehabilitative chiropractor",
+      "name": "Dr. Victor Duani",
+      "cred": "Doctor of Chiropractic · DUT, South Africa · 2010"
+    },
+    "creds": [
+      {
+        "t": "Durban University of Technology",
+        "s": "D.C. · 2010"
+      },
+      {
+        "t": "Assaf Harofeh Medical Center",
+        "s": "Chiropractor"
+      },
+      {
+        "t": "Sheba Medical Center, Tel Hashomer",
+        "s": "Managed rehab chiropractic"
+      },
+      {
+        "t": "IDF Medical Corps",
+        "s": "Air crew chiropractor"
+      },
+      {
+        "t": "Israeli Chiropractic Society",
+        "s": "Member"
+      }
+    ],
+    "cond": {
+      "label": "Where does it hurt?",
+      "h2": "Pick what's bothering you. See how it's usually treated.",
+      "combo": "Usually combines",
+      "patient": "From a patient",
+      "items": [
+        {
+          "key": "Lower back",
+          "title": "Lower back pain & sciatica",
+          "body": "Usually a mix of stiff joints and the muscles guarding them. Treatment frees the joints, releases the deep muscles around them, then adds exercises so the pain does not come back.",
+          "tech": [
+            "Classic chiropractic",
+            "Dry needling & IMS",
+            "Yoga-based rehab"
+          ],
+          "q": "I came in barely able to walk, and after half an hour I already felt 95% better.",
+          "who": "Michael · Radiculopathy",
+          "read": "Sciatica relief without surgery"
+        },
+        {
+          "key": "Neck & headaches",
+          "title": "Neck pain & tension headaches",
+          "body": "Stiffness in the upper neck often drives headaches and even dizziness. Gentle work on the cervical spine and the soft tissue around it treats the source.",
+          "tech": [
+            "Classic chiropractic",
+            "Fascia release",
+            "Posture correction"
+          ],
+          "q": "After a short session the nausea was gone and so was the dizziness.",
+          "who": "David B. · Vertigo & cervical headaches",
+          "read": "Neck pain and tension headaches"
+        },
+        {
+          "key": "Disc herniation",
+          "title": "Disc herniation",
+          "body": "Treatment is planned around your MRI. The goal is to take pressure off the nerve, calm the muscles around it and rebuild stability.",
+          "tech": [
+            "Classic chiropractic",
+            "Neurodynamic taping",
+            "Yoga-based rehab"
+          ],
+          "q": "Within 10 sessions he resolved a problem I'd had for years.",
+          "who": "Nir S. · Disc herniation",
+          "read": "Can a chiropractor help you avoid surgery?"
+        },
+        {
+          "key": "Sports injury",
+          "title": "Sports injuries",
+          "body": "From runners to weekend players. Treatment restores joint mechanics and muscle function, with taping to support you as you return to training.",
+          "tech": [
+            "Dry needling & IMS",
+            "Kinesio taping",
+            "Yoga-based rehab"
+          ],
+          "q": "He treated me during my ACL tear rehabilitation. I returned to full sports activity without surgery.",
+          "who": "Liav · Sports injury",
+          "read": "Sports injury recovery"
+        },
+        {
+          "key": "Posture & upper back",
+          "title": "Posture & upper-back strain",
+          "body": "Hours at a screen load the upper back, shoulder blades and neck. A postural assessment finds the imbalance, and treatment plus a few daily habits correct it.",
+          "tech": [
+            "Posture correction",
+            "Fascia release",
+            "Classic chiropractic"
+          ],
+          "q": "After every treatment I felt better immediately.",
+          "who": "Ziv H. · Upper back & shoulder blades",
+          "read": "Posture & spinal health in the digital age"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Treatment techniques",
+      "h2": "Six techniques, combined for your body",
+      "p": "Classic chiropractic sits at the center. The other methods are added when they speed up recovery or keep the result from slipping back.",
+      "items": [
+        {
+          "h": "Classic chiropractic",
+          "p": "Precise spinal adjustments that restore alignment and relieve pain at its source."
+        },
+        {
+          "h": "Dry needling & IMS",
+          "p": "Trigger-point release for deep muscular tension and long-standing pain."
+        },
+        {
+          "h": "Kinesio & neurodynamic taping",
+          "p": "Taping that supports muscles and circulation between sessions."
+        },
+        {
+          "h": "Yoga-based rehabilitation",
+          "p": "Targeted stretches and exercises you keep doing at home to hold the gains."
+        },
+        {
+          "h": "Fascia release",
+          "p": "Manual work that breaks down adhesions and restores tissue elasticity."
+        },
+        {
+          "h": "Posture correction",
+          "p": "Assessment and correction for the imbalances desk work and old injuries leave behind."
+        }
+      ]
+    },
+    "story": {
+      "label": "About Dr. Duani",
+      "h2": "From Mumbai's yoga mats to Israel's top medical centers",
+      "p": "Victor Duani came to chiropractic through yoga. That start still shapes the work: adjustments free the joints, and movement keeps them free.",
+      "mumbai": {
+        "place": "Mumbai, India",
+        "text": "Discovers yoga, and the link between movement, rehabilitation and spinal health.",
+        "alt": "Illustration: a man meditating on a Mumbai rooftop at sunrise, facing the Gateway of India"
+      },
+      "durban": {
+        "place": "Durban, South Africa",
+        "text": "Graduates as a Doctor of Chiropractic from the Durban University of Technology.",
+        "alt": "Illustration: the Durban beachfront promenade on the Indian Ocean"
+      },
+      "israel": {
+        "year": "Israel",
+        "place": "Since then",
+        "alt": "Illustration: the old port of Jaffa with the Tel Aviv skyline across the bay",
+        "list": [
+          "Chiropractor at Assaf Harofeh Medical Center",
+          "Managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer",
+          "Air crew chiropractor in the IDF Medical Corps reserves",
+          "Today: his own clinics in Tel Aviv and Tuval"
+        ]
+      }
+    },
+    "visit": {
+      "label": "Your first visit",
+      "h2": "Understand the problem first. Then treat it.",
+      "p": "The first appointment is a full orthopedic and chiropractic assessment, calm and unhurried.",
+      "steps": [
+        {
+          "h": "Get in touch",
+          "p": "Call, send a WhatsApp or fill in the form. We'll find a time in Tel Aviv or Tuval."
+        },
+        {
+          "h": "Assessment",
+          "p": "Dr. Duani goes through your history and imaging, then examines posture, range of motion and nerve function to find the root cause."
+        },
+        {
+          "h": "Your treatment plan",
+          "p": "A plan built from the techniques that fit your case, with a realistic estimate of how many sessions it should take."
+        }
+      ],
+      "roomAlt": "Treatment room at the Tuval clinic in warm afternoon light, with a chiropractic table and anatomy posters",
+      "roomCap": "Treatment room, Tuval clinic",
+      "bringH": "What to bring",
+      "bring": [
+        "Any imaging you have: X-ray, MRI or CT, even from years ago",
+        "A short list of the medications you take",
+        "Notes on past treatments and what helped",
+        "Comfortable clothes you can move in"
+      ]
+    },
+    "sessions": {
+      "label": "How many sessions?",
+      "h2": "Realistic ranges, not a prepaid package",
+      "p": "The number depends on your diagnosis and how you respond to the first sessions. These are the typical ranges from the clinic's guide to treatment length.",
+      "c1": "Typical number of sessions",
+      "axis": "sessions",
+      "ranges": [
+        {
+          "l": "Recent, acute problem",
+          "s": "over 4–6 weeks"
+        },
+        {
+          "l": "Weeks to a few months old",
+          "s": "over 2–3 months"
+        },
+        {
+          "l": "Chronic, months to years",
+          "s": "over 3–6 months"
+        }
+      ],
+      "c2": "A typical rhythm, week by week",
+      "phases": [
+        "Twice a week",
+        "Weekly",
+        "Every 10–14 days, then stop or keep occasional maintenance"
+      ],
+      "fine": "Visits get less frequent as you improve, not more.",
+      "link": "Read the full guide"
+    },
+    "reviews": {
+      "label": "Patient reviews",
+      "h2": "What patients say after treatment",
+      "count": "79 reviews on Google",
+      "ratingAria": "4.9 out of 5",
+      "featured": "I came to Dr. Victor with pain that had been following me for nearly 8 years. The lower back pain disappeared completely and hasn't come back even after six months.",
+      "featuredWho": "Y. · Google review",
+      "featuredTag": "Lower back pain",
+      "filterAria": "Filter reviews",
+      "cats": {
+        "all": "All",
+        "back": "Back",
+        "disc": "Disc herniation",
+        "neck": "Neck & head",
+        "sports": "Sports & joints"
+      },
+      "more": "Show more reviews",
+      "less": "Show fewer",
+      "showing": "Showing {n} of {t} reviews. Translated from Hebrew where needed.",
+      "stars": "stars"
+    },
+    "faq": {
+      "label": "Questions",
+      "h2": "Before you book",
+      "p": "Short answers from the clinic's articles. Each one links to the full piece.",
+      "items": [
+        {
+          "q": "How many sessions will I need?",
+          "a": "It depends on the problem and how long you've had it. A recent problem often takes 4–8 sessions; a chronic one 10–20 over a few months. You get a realistic estimate after the assessment, and visits get less frequent as you improve."
+        },
+        {
+          "q": "Is chiropractic safe?",
+          "a": "When a licensed, properly trained chiropractor treats patients who have been screened first, it has an excellent safety record. Adjustments are low-force, controlled movements, and the assessment checks for anything that needs a different approach."
+        },
+        {
+          "q": "Does the cracking sound mean something is wrong?",
+          "a": "No. The pop is a small gas bubble releasing inside the joint fluid, the same thing that happens when you crack your knuckles. Many effective adjustments make no sound at all."
+        },
+        {
+          "q": "Will I have to keep coming forever?",
+          "a": "No. Treatment has a defined goal and an end point. Some patients choose occasional maintenance visits, but that is a choice, not a requirement."
+        },
+        {
+          "q": "What happens at the first appointment?",
+          "a": "A conversation about your history, a physical exam of posture, movement and nerve function, then an explanation of what's causing the problem and the plan to treat it."
+        }
+      ]
+    },
+    "loc": {
+      "label": "Locations",
+      "h2": "Two clinics. Pick the one closer to you.",
+      "p": "Dr. Duani treats at both. Book either one by phone or WhatsApp.",
+      "ta": "Tel Aviv",
+      "tu": "Tuval",
+      "taPin": "Center",
+      "tuPin": "North",
+      "taSub": "Clinic in the center",
+      "tuSub": "Clinic in the north",
+      "taAlt": "Illustration: a leafy north Tel Aviv street with white Bauhaus buildings and the skyline by the sea",
+      "tuAlt": "Illustration: stone houses among olive trees in the Galilee hills",
+      "call": "Call to book",
+      "waze": "Navigate with Waze",
+      "hours": "Clinic hours",
+      "sunThu": "Sunday – Thursday",
+      "fri": "Friday",
+      "sat": "Saturday",
+      "closed": "Closed"
+    },
+    "book": {
+      "label": "Book a consultation",
+      "h2": "Tell us what hurts. We'll call you back within 24 hours.",
+      "p": "Or reach the clinic directly, Sunday to Thursday 08:00 to 19:00 and Friday until 13:00.",
+      "copy": "Copy",
+      "copied": "Copied",
+      "selected": "Selected",
+      "wa": "Message on WhatsApp",
+      "name": "Name",
+      "namePh": "Your name",
+      "phone": "Phone",
+      "email": "Email (optional)",
+      "clinic": "Preferred clinic",
+      "either": "Either is fine",
+      "msg": "What's bothering you?",
+      "msgPh": "e.g. lower back pain for 3 months, worse when sitting",
+      "submit": "Request a call back",
+      "sending": "Sending…",
+      "thanks": "Thanks, we got it.",
+      "thanksSub": "The clinic will call you back within 24 hours.",
+      "again": "Send another request",
+      "error": "The request didn't go through. Please try again, or call 053-276-7776."
+    },
+    "footer": {
+      "explore": "Explore",
+      "treatments": "Treatments",
+      "contact": "Contact",
+      "rights": "All rights reserved."
+    }
+  },
+  "pages": {
+    "blog": {
+      "eyebrow": "Articles by Dr. Victor Duani",
+      "h1": "Clear answers about pain, treatment and recovery",
+      "count": "{n} articles",
+      "latest": "Latest article",
+      "toc": "On this page",
+      "all": "All articles",
+      "askTitle": "Questions about your own pain?",
+      "askText": "Dr. Duani can assess it in person at the Tel Aviv or Tuval clinic.",
+      "notFound": "We couldn't find that article",
+      "notFoundSub": "It may have moved or been renamed. All articles are on the blog page."
+    },
+    "service": {
+      "onThisPage": "On this page",
+      "otherTreatments": "Other treatments",
+      "notFound": "We couldn't find that treatment.",
+      "notFoundSub": "It may have moved. You can see all six treatments on the homepage."
+    },
+    "notFound": {
+      "h1": "This page slipped out of place.",
+      "p": "The link may be old or mistyped. Everything on the site is one click away from the homepage.",
+      "home": "Back to the homepage"
+    }
+  }
+}

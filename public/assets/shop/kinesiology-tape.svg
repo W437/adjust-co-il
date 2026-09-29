@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#EAF2F8"/>
+  <circle cx="200" cy="145" r="45" fill="none" stroke="#2980B9" stroke-width="2"/>
+  <circle cx="200" cy="145" r="35" fill="none" stroke="#D6EAF8" stroke-width="8"/>
+  <circle cx="200" cy="145" r="18" fill="#D6EAF8" stroke="#2980B9" stroke-width="1.5"/>
+  <path d="M200 100 Q220 120 200 145" stroke="#1ABC9C" stroke-width="2" fill="none"/>
+  <text x="200" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7F8C8D">Kinesiology Tape</text>
+</svg>

@@ -1,0 +1,17 @@
+.mbar {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 0;
+  z-index: 40;
+  display: none;
+  gap: 0.5rem;
+  padding: 0.6rem 16px calc(0.6rem + env(safe-area-inset-bottom, 0px));
+  background: var(--paper);
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -10px 30px -24px rgba(15, 29, 44, 0.5);
+}
+.mbar .btn { flex: 1; padding-inline: 0.5rem; }
+
+@media (max-width: 700px) {
+  .mbar { display: flex; }
+}

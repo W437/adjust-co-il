@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#EAF2F8"/>
+  <circle cx="200" cy="110" r="20" fill="#D6EAF8" stroke="#2980B9" stroke-width="2"/>
+  <path d="M180 130 L160 180 M220 130 L240 180" stroke="#2980B9" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M160 180 Q200 200 240 180" stroke="#1ABC9C" stroke-width="2" fill="none"/>
+  <path d="M170 150 Q200 140 230 150" stroke="#1ABC9C" stroke-width="2" fill="none" stroke-dasharray="5 3"/>
+  <text x="200" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7F8C8D">Posture Corrector</text>
+</svg>
