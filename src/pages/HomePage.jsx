@@ -13,7 +13,7 @@ import Sessions from '../components/home/Sessions';
 import Reviews from '../components/home/Reviews';
 import Faq from '../components/home/Faq';
 import Locations from '../components/home/Locations';
-import Shop from '../components/Shop';
+// import Shop from '../components/Shop'; // hidden for now
 import Booking from '../components/home/Booking';
 import Footer from '../components/Footer';
 
@@ -54,7 +54,7 @@ export default function HomePage() {
         <Reviews />
         <Faq />
         <Locations />
-        <Shop />
+        {/* <Shop /> */}
         <Booking />
       </main>
       <Footer />
