@@ -1,6 +1,5 @@
 import { useTranslation } from '../../i18n/LanguageContext';
-import { useClinicStatus } from '../../hooks/useClinicStatus';
-import { PHONE_TEL } from '../../utils/format';
+import { PHONE_TEL, israelDay } from '../../utils/format';
 import { PhoneIcon, PinIcon } from '../icons';
 import './Locations.css';
 
@@ -9,15 +8,17 @@ const CLINICS = [
   { id: 'tu', img: '/assets/loc-tuval.webp', waze: 'https://www.waze.com/ul?ll=32.92684384968411,35.2425406270441&navigate=yes', address: 'contact.northAddress' },
 ];
 
+// Reception hours from the Google Business profile (shared by both clinics).
 const HOURS = [
-  { days: [0, 1, 2, 3, 4], label: 'home.loc.sunThu', time: '08:00 – 19:00' },
-  { days: [5], label: 'home.loc.fri', time: '08:00 – 13:00' },
-  { days: [6], label: 'home.loc.sat', time: null },
+  { days: [1, 3], label: 'home.loc.monWed', time: '08:00–14:00, 16:00–20:00' },
+  { days: [5], label: 'home.loc.fri', time: '07:00–14:00' },
+  { days: [0, 2, 4], label: 'home.loc.sunTueThu', text: 'home.loc.byArrangement' },
+  { days: [6], label: 'home.loc.sat', text: 'home.loc.closed' },
 ];
 
 export default function Locations() {
   const { t } = useTranslation();
-  const status = useClinicStatus();
+  const today = israelDay();
 
   return (
     <section className="block alt" id="clinics">
@@ -54,13 +55,13 @@ export default function Locations() {
           <h3>{t('home.loc.hours')}</h3>
           <dl>
             {HOURS.map((h) => (
-              <div key={h.label} className={h.days.includes(status.day) ? 'today' : undefined}>
+              <div key={h.label} className={h.days.includes(today) ? 'today' : undefined}>
                 <dt>{t(h.label)}</dt>
-                <dd dir={h.time ? 'ltr' : undefined}>{h.time || t('home.loc.closed')}</dd>
+                <dd dir={h.time ? 'ltr' : undefined}>{h.time || t(h.text)}</dd>
               </div>
             ))}
           </dl>
-          <span className={`status ${status.open ? 'is-open' : 'is-closed'}`}>{status.text}</span>
+          <p className="hours-note">{t('home.loc.hoursNote')}</p>
         </div>
       </div>
     </section>

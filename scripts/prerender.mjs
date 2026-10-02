@@ -171,6 +171,25 @@ async function main() {
     basePath: '/blog',
   });
 
+  for (const [slug, key] of [['privacy', 'privacy'], ['accessibility', 'a11y']]) {
+    routes.push({
+      distPath: slug,
+      lang: 'he',
+      dir: 'rtl',
+      title: `${he.pages[key].title} | ${he.siteTitle}`,
+      description: he.pages[key].desc,
+      basePath: `/${slug}`,
+    });
+    routes.push({
+      distPath: `en/${slug}`,
+      lang: 'en',
+      dir: 'ltr',
+      title: `${en.pages[key].title} | ${en.siteTitle}`,
+      description: en.pages[key].desc,
+      basePath: `/${slug}`,
+    });
+  }
+
   for (const post of posts) {
     routes.push({
       distPath: `blog/${post.slug}`,

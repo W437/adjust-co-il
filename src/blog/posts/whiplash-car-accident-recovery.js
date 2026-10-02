@@ -1,6 +1,7 @@
 export default {
   slug: 'whiplash-car-accident-recovery',
   date: '2026-04-29',
+  updated: '2026-10-02',
   image: '/assets/blog/whiplash-car-accident-recovery.webp',
   readTime: 8,
   en: {
@@ -140,7 +141,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Doing nothing because the pain seems manageable.</strong> Untreated whiplash often becomes a chronic condition years later. Early treatment is dramatically more effective than late treatment.',
+          '<strong>Doing nothing because the pain seems manageable.</strong> Untreated whiplash can become a chronic condition. Early, appropriate treatment may help more than late treatment.',
           '<strong>Excessive rest and immobilization.</strong> The old advice to "stay in bed and wear a collar" is now known to prolong recovery. Gentle, progressive movement is the right approach.',
           '<strong>Skipping the rehabilitation phase.</strong> Once the pain is mostly gone, many patients stop treatment, and then the deep stabilizing muscles never fully recover. Months later, the pain returns, often worse.',
         ],
@@ -151,11 +152,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Approximately 20–30% of whiplash patients go on to develop <strong>chronic whiplash-associated disorders</strong>: symptoms that persist beyond six months. Risk factors include severity of the initial injury, early symptom intensity, and, crucially, lack of appropriate early treatment.',
+        text: 'Some whiplash patients go on to develop <strong>chronic whiplash-associated disorders</strong>: symptoms that persist beyond six months. Risk factors include severity of the initial injury, early symptom intensity, and sometimes a lack of appropriate early treatment.',
       },
       {
         type: 'paragraph',
-        text: 'Chronic whiplash is harder to treat than acute whiplash, but it is treatable. Even years after the original accident, structured chiropractic care combined with rehabilitation can significantly reduce symptoms and restore function.',
+        text: 'Chronic whiplash is harder to treat than acute whiplash, but it is treatable. Even years after the original accident, structured chiropractic care combined with rehabilitation may reduce symptoms and restore function.',
       },
       {
         type: 'heading',
@@ -171,16 +172,16 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you have been in a car accident (recently or even months ago) and are still dealing with neck pain, headaches, or stiffness, the most important step you can take is a thorough cervical examination and a structured treatment plan. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call to describe what happened first. Early, appropriate treatment can dramatically reduce the chance of long-term symptoms, and even chronic whiplash from older accidents can be significantly improved.',
+        text: 'If you have been in a car accident (recently or even months ago) and are still dealing with neck pain, headaches, or stiffness, the most important step you can take is a thorough cervical examination and a structured treatment plan. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call to describe what happened first. Early, appropriate treatment may reduce the chance of long-term symptoms, and chronic whiplash from older accidents can still be examined and often improved.',
       },
     ],
   },
   he: {
-    title: 'החלמה מ"שוט שלג" ומתאונת דרכים: מדריך כירופרקטור שלב אחר שלב',
+    title: 'החלמה מ"צליפת שוט" ומתאונת דרכים: מדריך כירופרקטור שלב אחר שלב',
     excerpt:
-      'אפילו התנגשות במהירות נמוכה יכולה להשאיר אתכם עם שבועות או חודשים של כאב צוואר, כאבי ראש ונוקשות. הנה איך "שוט שלג" באמת פוגע בגוף, מה מסייע להחלמה, והטעויות שמאריכות אותה.',
+      'אפילו התנגשות במהירות נמוכה יכולה להשאיר אתכם עם שבועות או חודשים של כאב צוואר, כאבי ראש ונוקשות. הנה איך "צליפת שוט" באמת פוגעת בגוף, מה מסייע להחלמה, והטעויות שמאריכות אותה.',
     metaDescription:
-      'החלמה מ"שוט שלג" ומתאונת דרכים: מדריך שלב אחר שלב לטיפול כירופרקטי, מה לעשות בימים הראשונים, טעויות נפוצות ומתי לצפות להחלמה מלאה. מאת ד"ר ויקטור דואני.',
+      'החלמה מ"צליפת שוט" ומתאונת דרכים: מדריך שלב אחר שלב לטיפול כירופרקטי, מה לעשות בימים הראשונים, טעויות נפוצות ומתי לצפות להחלמה מלאה. מאת ד"ר ויקטור דואני.',
     content: [
       {
         type: 'paragraph',
@@ -188,15 +189,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'זהו הדפוס הקלאסי של <strong>"שוט שלג" (whiplash)</strong>, ואחת הפציעות שמטופלות הכי פחות ברפואה המודרנית. הבנת מה באמת קורה בפציעת שוט שלג, ומה לעשות לגביה בסדר הנכון, היא ההבדל בין שבועות של החלמה לבין שנים של תסמינים כרוניים.',
+        text: 'זהו הדפוס הקלאסי של <strong>"צליפת שוט" (whiplash)</strong>, ואחת הפציעות שמטופלות הכי פחות ברפואה המודרנית. הבנת מה באמת קורה בפציעת צליפת שוט, ומה לעשות לגביה בסדר הנכון, היא ההבדל בין שבועות של החלמה לבין שנים של תסמינים כרוניים.',
       },
       {
         type: 'heading',
-        text: 'מה זה "שוט שלג" באמת?',
+        text: 'מה זה "צליפת שוט" באמת?',
       },
       {
         type: 'paragraph',
-        text: '<strong>"שוט שלג"</strong> מתאר את הפציעה שמתרחשת כשהראש והצוואר נכפים במהירות אחורה ואז קדימה (או מצד לצד) על ידי כוח חיצוני, לרוב התנגשות מאחור ברכב, אבל גם נפילות, פגיעות ספורט ותקיפות. המונח הטכני הוא <em>פציעת האצה-האטה צווארית</em>.',
+        text: '<strong>"צליפת שוט"</strong> מתארת את הפציעה שמתרחשת כשהראש והצוואר נכפים במהירות אחורה ואז קדימה (או מצד לצד) על ידי כוח חיצוני, לרוב התנגשות מאחור ברכב, אבל גם נפילות, פגיעות ספורט ותקיפות. המונח הטכני הוא <em>פציעת האצה-האטה צווארית</em>.',
       },
       {
         type: 'paragraph',
@@ -207,7 +208,7 @@ export default {
         items: [
           '<strong>מתיחת שריר</strong>: במיוחד כופפי הצוואר העמוקים, ה-sternocleidomastoid והטרפז העליון',
           '<strong>נקע רצועה</strong>: הרצועות המייצבות הקטנות אך הקריטיות בין החוליות הצוואריות',
-          '<strong>פגיעה במפרקי הפאסט</strong>: המפרקים הקטנים בחלק האחורי של כל חוליה, שסופגים כוח רב בארוע שוט שלג',
+          '<strong>פגיעה במפרקי הפאסט</strong>: המפרקים הקטנים בחלק האחורי של כל חוליה, שסופגים כוח רב בארוע צליפת שוט',
           '<strong>גירוי או פגיעה בדיסק</strong>: לעיתים מיידיים, לעיתים מתפתחים במשך שבועות',
           '<strong>גירוי עצבי</strong>: מדלקת ומשינוי מיקום מפרק',
           'תסמינים קלים של זעזוע מוח במקרים מסוימים, גם בלי פגיעה ישירה בראש',
@@ -215,7 +216,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'השילוב הזה הוא מה שהופך את "שוט שלג" לכל כך עיקש. זו אינה פציעה אחת. אלו מספר פציעות שכבתיות, שכל אחת מחלימה בקצב משלה.',
+        text: 'השילוב הזה הוא מה שהופך את "צליפת שוט" לכל כך עיקשת. זו אינה פציעה אחת. אלו מספר פציעות שכבתיות, שכל אחת מחלימה בקצב משלה.',
       },
       {
         type: 'heading',
@@ -227,11 +228,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'העיכוב הזה כל כך עקבי שהיעדר כאב בזירת התאונה <em>אינו</em> ראיה שלא התרחשה פציעה. מטופלים רבים שמרגישים בהתחלה "בסדר" מפתחים מאוחר יותר תסמיני שוט שלג משמעותיים.',
+        text: 'העיכוב הזה כל כך עקבי שהיעדר כאב בזירת התאונה <em>אינו</em> ראיה שלא התרחשה פציעה. מטופלים רבים שמרגישים בהתחלה "בסדר" מפתחים מאוחר יותר תסמיני צליפת שוט משמעותיים.',
       },
       {
         type: 'heading',
-        text: 'תסמינים נפוצים של "שוט שלג"',
+        text: 'תסמינים נפוצים של "צליפת שוט"',
       },
       {
         type: 'list',
@@ -259,7 +260,7 @@ export default {
         type: 'list',
         items: [
           '<strong>קבלו הערכה רפואית</strong>: גם אם אתם מרגישים בסדר, פנו לרופא או למיון לאחר כל תאונה משמעותית. שללו שבר, פגיעת ראש ופתולוגיה חריפה אחרת.',
-          '<strong>תעדו את התאונה</strong>: צילומים, פרטי ביטוח וכל מסמך רפואי. "שוט שלג" היא פציעה אמיתית עם עלויות טיפול אמיתיות, לעיתים קרובות מכוסות בביטוח.',
+          '<strong>תעדו את התאונה</strong>: צילומים, פרטי ביטוח וכל מסמך רפואי. "צליפת שוט" היא פציעה אמיתית עם עלויות טיפול אמיתיות, לעיתים קרובות מכוסות בביטוח.',
           '<strong>זוזו בעדינות, אל תקפיאו את הצוואר</strong>: אימוביליזציה ממושכת עם צווארונים קשים נחשבת כיום למזיקה ברוב המקרים. תנועה עדינה משמרת טווח תנועה ומפחיתה נוקשות.',
           '<strong>קרח ב-48 השעות הראשונות, ואז חום</strong>: קרח עוזר להפחית דלקת ראשונית; חום מועיל יותר למתח שרירי כרוני ברגע שהשלב החריף עובר.',
           '<strong>הימנעו ממשככי כאבים חזקים כתוכנית ארוכת טווח</strong>: שימוש קצר טווח סביר; שבועות של ניהול כאב מבוסס אופיואידים אינו.',
@@ -267,11 +268,11 @@ export default {
       },
       {
         type: 'heading',
-        text: 'איך טיפול כירופרקטי מטפל ב"שוט שלג"',
+        text: 'איך טיפול כירופרקטי מטפל ב"צליפת שוט"',
       },
       {
         type: 'paragraph',
-        text: 'גישה כירופרקטית ושיקומית מובנית ל"שוט שלג" מתקדמת בדרך כלל דרך שלבים ברורים:',
+        text: 'גישה כירופרקטית ושיקומית מובנית ל"צליפת שוט" מתקדמת בדרך כלל דרך שלבים ברורים:',
       },
       {
         type: 'subheading',
@@ -295,7 +296,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הרקמות הפגועות מחלימות, אבל שרירי הייצוב העמוקים של הצוואר נחלשו מהפציעה ומתקופת החוסר פעילות היחסית. תרגילים ספציפיים בונים מחדש את השרירים האלה, מאמנים מחדש יציבה ומיקום ראש תקינים, ומכינים את הצוואר להתמודד שוב עם החיים היומיומיים. השלב הזה קריטי. דילוג עליו הוא אחת הסיבות העיקריות שבגללן "שוט שלג" הופך לכרוני.',
+        text: 'הרקמות הפגועות מחלימות, אבל שרירי הייצוב העמוקים של הצוואר נחלשו מהפציעה ומתקופת החוסר פעילות היחסית. תרגילים ספציפיים בונים מחדש את השרירים האלה, מאמנים מחדש יציבה ומיקום ראש תקינים, ומכינים את הצוואר להתמודד שוב עם החיים היומיומיים. השלב הזה קריטי. דילוג עליו הוא אחת הסיבות העיקריות שבגללן "צליפת שוט" הופכת לכרונית.',
       },
       {
         type: 'subheading',
@@ -307,27 +308,27 @@ export default {
       },
       {
         type: 'heading',
-        text: 'שלוש הטעויות הנפוצות ביותר שמחמירות "שוט שלג"',
+        text: 'שלוש הטעויות הנפוצות ביותר שמחמירות "צליפת שוט"',
       },
       {
         type: 'list',
         items: [
-          '<strong>לא לעשות כלום כי הכאב נראה נסבל.</strong> "שוט שלג" לא מטופל לעיתים קרובות הופך למצב כרוני שנים מאוחר יותר. טיפול מוקדם יעיל באופן דרמטי יותר מטיפול מאוחר.',
+          '<strong>לא לעשות כלום כי הכאב נראה נסבל.</strong> "צליפת שוט" שלא טופלה עלולה להפוך למצב כרוני. טיפול מוקדם ומתאים עשוי לעזור יותר מטיפול מאוחר.',
           '<strong>מנוחה ואימוביליזציה מוגזמות.</strong> העצה הישנה "להישאר במיטה וללבוש צווארון" ידועה כיום כמאריכה את ההחלמה. תנועה עדינה ומתקדמת היא הגישה הנכונה.',
           '<strong>דילוג על שלב השיקום.</strong> ברגע שהכאב כמעט נעלם, מטופלים רבים מפסיקים טיפול, ואז שרירי הייצוב העמוקים אף פעם לא מחלימים לחלוטין. חודשים מאוחר יותר, הכאב חוזר, לעיתים גרוע יותר.',
         ],
       },
       {
         type: 'heading',
-        text: 'מתי "שוט שלג" הופך לכרוני',
+        text: 'מתי "צליפת שוט" הופכת לכרונית',
       },
       {
         type: 'paragraph',
-        text: 'בערך 20–30% ממטופלי "שוט שלג" מפתחים <strong>הפרעות כרוניות הקשורות לשוט שלג</strong>: תסמינים שנמשכים מעבר לחצי שנה. גורמי סיכון כוללים את חומרת הפציעה הראשונית, את עוצמת התסמינים המוקדמים, ובאופן מכריע, היעדר טיפול מוקדם מתאים.',
+        text: 'חלק ממטופלי "צליפת שוט" מפתחים <strong>הפרעות כרוניות הקשורות לצליפת שוט</strong>: תסמינים שנמשכים מעבר לחצי שנה. גורמי סיכון כוללים את חומרת הפציעה הראשונית, את עוצמת התסמינים המוקדמים, ולעיתים גם היעדר טיפול מוקדם מתאים.',
       },
       {
         type: 'paragraph',
-        text: '"שוט שלג" כרוני קשה יותר לטיפול מ"שוט שלג" חריף, אבל הוא ניתן לטיפול. גם שנים אחרי התאונה המקורית, טיפול כירופרקטי מובנה בשילוב שיקום יכול להפחית משמעותית את התסמינים ולשחזר תפקוד.',
+        text: '"צליפת שוט" כרונית קשה יותר לטיפול מ"צליפת שוט" חריפה, אבל היא ניתנת לטיפול. גם שנים אחרי התאונה המקורית, טיפול כירופרקטי מובנה בשילוב שיקום עשוי להפחית את התסמינים ולשחזר תפקוד.',
       },
       {
         type: 'heading',
@@ -335,7 +336,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומיקוד חזק בהחלמה פוסט-טראומטית, כולל "שוט שלג" ופציעות אחרות הקשורות לתאונות. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ושירת כקצין רפואה במילואים בחיל הרפואה (צה"ל) בטיפול בפציעות אנשי צוות אוויר, סביבה שבה שיקום פציעות מהיר ומובנה הוא חיוני. המרפאות שלו ב<strong>תל אביב</strong> וב<strong>טובל</strong> מיישמות את אותם סטנדרטים לטיפול ב"שוט שלג": הערכה זהירה, טיפול בשלבים, ותוכנית ברורה למניעת התפתחות המצב לכרוני.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומיקוד חזק בהחלמה פוסט-טראומטית, כולל "צליפת שוט" ופציעות אחרות הקשורות לתאונות. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ושירת כקצין רפואה במילואים בחיל הרפואה (צה"ל) בטיפול בפציעות אנשי צוות אוויר, סביבה שבה שיקום פציעות מהיר ומובנה הוא חיוני. המרפאות שלו ב<strong>תל אביב</strong> וב<strong>טובל</strong> מיישמות את אותם סטנדרטים לטיפול ב"צליפת שוט": הערכה זהירה, טיפול בשלבים, ותוכנית ברורה למניעת התפתחות המצב לכרוני.',
       },
       {
         type: 'heading',
@@ -343,7 +344,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם היו לכם תאונת דרכים (לאחרונה או אפילו לפני חודשים) ואתם עדיין מתמודדים עם כאב צוואר, כאבי ראש או נוקשות, הצעד החשוב ביותר שאתם יכולים לעשות הוא בדיקת צוואר יסודית ותוכנית טיפול מובנית. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בטובל, או התקשרו לתאר תחילה מה קרה. טיפול מוקדם ומתאים יכול להפחית באופן דרמטי את הסיכוי לתסמינים ארוכי טווח, ואפילו "שוט שלג" כרוני מתאונות ישנות ניתן לשפר באופן משמעותי.',
+        text: 'אם היו לכם תאונת דרכים (לאחרונה או אפילו לפני חודשים) ואתם עדיין מתמודדים עם כאב צוואר, כאבי ראש או נוקשות, הצעד החשוב ביותר שאתם יכולים לעשות הוא בדיקת צוואר יסודית ותוכנית טיפול מובנית. קבעו התייעצות עם ד"ר דואני בקליניקה ברמת אביב או בתובל, או התקשרו לתאר תחילה מה קרה. טיפול מוקדם ומתאים עשוי להפחית את הסיכוי לתסמינים ארוכי טווח, וגם "צליפת שוט" כרונית מתאונות ישנות אפשר לבדוק ולנסות לשפר.',
       },
     ],
   },

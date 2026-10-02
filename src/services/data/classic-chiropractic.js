@@ -9,9 +9,9 @@ export default {
   en: {
     title: 'Classic Chiropractic',
     metaDescription:
-      'Classic chiropractic care with Dr. Victor Duani: precise spinal adjustments that restore alignment, relieve back and neck pain, and improve nervous system function. Clinics in Tel Aviv and Karmiel.',
+      'Classic chiropractic care with Dr. Victor Duani: precise spinal adjustments that aim to improve joint movement and ease back and neck pain. Clinics in Tel Aviv and Karmiel.',
     intro:
-      'Precise, hands-on spinal adjustments that restore alignment, free restricted joints, and let your nervous system work the way it should, the foundation of every treatment plan at adjust.',
+      'Precise, hands-on spinal adjustments that aim to free restricted joints and ease pain, the foundation of every treatment plan at adjust.',
     content: [
       {
         type: 'heading',
@@ -108,9 +108,9 @@ export default {
   he: {
     title: 'כירופרקטיקה קלאסית',
     metaDescription:
-      'טיפול כירופרקטי קלאסי עם ד״ר ויקטור דואני: כיווני עמוד שדרה מדויקים שמחזירים יישור נכון, מקלים על כאבי גב וצוואר ומשפרים את תפקוד מערכת העצבים. קליניקות בתל אביב וכרמיאל.',
+      'טיפול כירופרקטי קלאסי עם ד״ר ויקטור דואני: התאמות מדויקות של עמוד השדרה, שמטרתן לשפר את תנועת המפרקים ולהקל על כאבי גב וצוואר. קליניקות בתל אביב וכרמיאל.',
     intro:
-      'כיווני עמוד שדרה מדויקים ומעשיים שמחזירים את היישור הנכון, משחררים מפרקים תפוסים ומאפשרים למערכת העצבים לתפקד כראוי, הבסיס לכל תוכנית טיפול ב‑adjust.',
+      'התאמות ידניות מדויקות של עמוד השדרה, שמטרתן לשחרר מפרקים תפוסים ולהקל על הכאב, הבסיס לכל תוכנית טיפול ב‑adjust.',
     content: [
       {
         type: 'heading',

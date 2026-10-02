@@ -62,3 +62,11 @@
   .booking { grid-template-columns: 1fr; }
   .two { grid-template-columns: 1fr; }
 }
+
+.field-hint { font-weight: 400; color: color-mix(in srgb, var(--ground) 70%, transparent); }
+.form-note { font-size: var(--s-sm); font-weight: 600; color: var(--ground); }
+.form-privacy { font-size: var(--s-xs); color: color-mix(in srgb, var(--ground) 70%, transparent); }
+.form-privacy a { color: var(--ground); }
+.booking-form input:focus-visible,
+.booking-form select:focus-visible,
+.booking-form textarea:focus-visible { outline: 2px solid var(--on-ink-accent); outline-offset: 2px; }

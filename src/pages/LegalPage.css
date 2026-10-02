@@ -1,0 +1,5 @@
+.legal { max-width: 46rem; padding-block: clamp(3rem, 8vw, 5.5rem); display: flex; flex-direction: column; gap: 1.6rem; }
+.legal h1 { font-size: var(--s-xl); }
+.legal-updated { font-size: var(--s-xs); color: var(--muted); margin-top: -1rem; }
+.legal h2 { font-size: 1.2rem; margin-bottom: 0.4rem; }
+.legal p { max-width: 40em; }

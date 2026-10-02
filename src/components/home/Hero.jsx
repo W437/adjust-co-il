@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import { useTranslation } from '../../i18n/LanguageContext';
-import { useClinicStatus } from '../../hooks/useClinicStatus';
 import { prefersReducedMotion } from '../../theme/theme';
 import { PHONE_DISPLAY, PHONE_TEL, whatsappUrl } from '../../utils/format';
 import SectionLink from '../SectionLink';
@@ -9,7 +8,6 @@ import './Hero.css';
 
 export default function Hero() {
   const { t } = useTranslation();
-  const status = useClinicStatus();
   const [settled, setSettled] = useState(false);
 
   useEffect(() => {
@@ -21,16 +19,13 @@ export default function Hero() {
     <section className="hero" id="home">
       <div className="wrap hero-grid">
         <div className="hero-copy">
-          <span className="label">{t('home.hero.label')}</span>
           <h1>{t('home.hero.h1')} <em>{t('home.hero.h1Em')}</em></h1>
           <p className="hero-lede">{t('home.hero.lede')}</p>
+          <p className="hero-motto">{t('home.hero.motto')}</p>
           <div className="hero-actions">
             <SectionLink hash="contact-form" className="btn btn-primary"><CalendarIcon />{t('ui.bookConsult')}</SectionLink>
             <a className="btn btn-ghost" href={whatsappUrl(t('ui.waMessage'))} target="_blank" rel="noopener noreferrer"><ChatIcon />{t('ui.whatsapp')}</a>
             <a className="btn btn-ghost" href={PHONE_TEL}><PhoneIcon /><span dir="ltr">{PHONE_DISPLAY}</span></a>
-          </div>
-          <div className="hero-status">
-            <span className={`status ${status.open ? 'is-open' : 'is-closed'}`}>{status.text}</span>
           </div>
           <div className="proof">
             <div><b><span className="stars" aria-hidden="true">★★★★★</span>4.9</b><span>{t('home.hero.proofReviews')}</span></div>

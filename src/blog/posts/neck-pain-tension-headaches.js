@@ -1,18 +1,19 @@
 export default {
   slug: 'neck-pain-tension-headaches',
   date: '2026-04-22',
+  updated: '2026-10-02',
   image: '/assets/blog/neck-pain-tension-headaches.webp',
   readTime: 7,
   en: {
     title: 'Neck Pain and Tension Headaches: The Hidden Cervical Spine Connection',
     excerpt:
-      'If your headaches come with a stiff neck (or your neck pain comes with headaches), they are almost certainly the same problem. Here is how the cervical spine drives both, and what actually helps.',
+      'If your headaches come with a stiff neck (or your neck pain comes with headaches), the two may be connected, though headaches have other causes too. Here is how the cervical spine can contribute to both, and what an examination looks for.',
     metaDescription:
-      'Neck pain and tension headaches share the same hidden source: the cervical spine. Learn how chiropractic care treats cervicogenic headaches and lasting neck pain. By Dr. Victor Duani.',
+      'Neck pain and tension headaches are sometimes linked through the cervical spine. Learn when the neck may be involved and how chiropractic care treats cervicogenic headaches and lasting neck pain. By Dr. Victor Duani.',
     content: [
       {
         type: 'paragraph',
-        text: 'There is a pattern most people never quite connect: a tight, tense neck by mid-afternoon, then a band-like headache by evening. Or the reverse: a low-grade headache that lifts the moment you stretch your neck. They feel like two separate problems, but they are almost always two faces of the same one: <strong>dysfunction in the cervical spine</strong>.',
+        text: 'There is a pattern most people never quite connect: a tight, tense neck by mid-afternoon, then a band-like headache by evening. Or the reverse: a low-grade headache that lifts the moment you stretch your neck. They feel like two separate problems, and sometimes they are linked through the same source: <strong>dysfunction in the cervical spine</strong>. A headache may be related to the neck, but there are other causes too. In an examination we check whether it suits chiropractic treatment or needs a referral.',
       },
       {
         type: 'paragraph',
@@ -42,7 +43,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Many headaches diagnosed as "tension headaches" or even "migraines" are actually cervicogenic, and respond beautifully when the neck is treated rather than just the head.',
+        text: 'Some headaches that feel like "tension headaches" have a cervicogenic component, and in those cases treating the neck, not just the head, may help. Telling the types apart requires a proper examination.',
       },
       {
         type: 'heading',
@@ -55,7 +56,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Forward head posture</strong>: Hours of looking down at a phone, laptop, or steering wheel. Every inch the head moves forward roughly doubles the load on the neck muscles.',
+          '<strong>Forward head posture</strong>: Hours of looking down at a phone, laptop, or steering wheel. The further the head sits forward, the more work the neck muscles have to do to hold it up.',
           '<strong>Prolonged static positions</strong>: The cervical joints are designed to move; long hours in a fixed posture cause them to lose mobility.',
           '<strong>Stress and jaw clenching</strong>: Chronic mental stress drives constant low-level tension in the upper trapezius, levator scapulae, and suboccipital muscles.',
           '<strong>Sleep position</strong>: Stomach sleeping in particular forces the neck into a sustained rotation that irritates the cervical joints night after night.',
@@ -81,7 +82,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Treating cervicogenic headaches and chronic neck pain together (because they are the same problem) typically involves:',
+        text: 'Treating cervicogenic headaches and chronic neck pain together, when an examination shows they are linked, typically involves:',
       },
       {
         type: 'subheading',
@@ -129,7 +130,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'For genuine cervicogenic headaches and tension-pattern neck pain, most patients notice a meaningful change within the first 2–3 sessions, frequently a significant reduction in headache frequency or intensity within the first week. Sustained resolution usually takes 6–10 sessions of treatment combined with consistent home exercises.',
+        text: 'It varies from person to person. When the headache is genuinely neck-related, some patients notice a change within the first few sessions, while others need longer. Lasting improvement usually depends on combining treatment with consistent home exercises. After the examination you will get a realistic estimate for your case, not a guarantee.',
       },
       {
         type: 'paragraph',
@@ -167,20 +168,20 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you have been managing recurring neck pain and tension headaches with painkillers for months or years, the most useful next step is a proper cervical examination. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call first to describe the pattern of your symptoms. In most cases, a clear diagnosis and a targeted treatment plan can break the cycle within weeks.',
+        text: 'If you have been managing recurring neck pain and tension headaches with painkillers for months or years, the most useful next step is a proper cervical examination. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call first to describe the pattern of your symptoms. The examination will show whether your headaches suit chiropractic treatment or whether a referral to a doctor is the right next step.',
       },
     ],
   },
   he: {
     title: 'כאב צוואר וכאבי ראש מתח: הקשר הנסתר של עמוד השדרה הצווארי',
     excerpt:
-      'אם כאבי הראש שלכם מלווים בצוואר תפוס (או כאב הצוואר שלכם מלווה בכאבי ראש), כמעט בוודאות מדובר באותה בעיה. הנה איך עמוד השדרה הצווארי מניע את שניהם, ומה באמת עוזר.',
+      'אם כאבי הראש שלכם מלווים בצוואר תפוס (או כאב הצוואר שלכם מלווה בכאבי ראש), ייתכן שיש ביניהם קשר, אבל לכאבי ראש יש גם סיבות אחרות. הנה איך עמוד השדרה הצווארי יכול לתרום לשניהם, ומה בודקים בבדיקה.',
     metaDescription:
-      'כאב צוואר וכאבי ראש מתח חולקים את אותו מקור נסתר: עמוד השדרה הצווארי. למדו איך טיפול כירופרקטי מטפל בכאבי ראש צוואריים ובכאב צוואר מתמשך. מאת ד"ר ויקטור דואני.',
+      'כאב צוואר וכאבי ראש מתח קשורים לפעמים דרך עמוד השדרה הצווארי. למדו מתי הצוואר עשוי להיות מעורב ואיך טיפול כירופרקטי מטפל בכאבי ראש צוואריים ובכאב צוואר מתמשך. מאת ד"ר ויקטור דואני.',
     content: [
       {
         type: 'paragraph',
-        text: 'יש דפוס שרוב האנשים לא ממש מחברים: צוואר מתוח ותפוס באמצע אחר הצהריים, ואז כאב ראש בצורת רצועה לקראת הערב. או הפוך: כאב ראש קל שמתפוגג ברגע שמותחים את הצוואר. הם מרגישים כמו שתי בעיות נפרדות, אבל הם כמעט תמיד שני פנים של אותה בעיה: <strong>חוסר תפקוד בעמוד השדרה הצווארי</strong>.',
+        text: 'יש דפוס שרוב האנשים לא ממש מחברים: צוואר מתוח ותפוס באמצע אחר הצהריים, ואז כאב ראש בצורת רצועה לקראת הערב. או הפוך: כאב ראש קל שמתפוגג ברגע שמותחים את הצוואר. הם מרגישים כמו שתי בעיות נפרדות, ולפעמים הם אכן קשורים לאותו מקור: <strong>חוסר תפקוד בעמוד השדרה הצווארי</strong>. כאב ראש יכול להיות קשור לצוואר, אבל יש לו גם סיבות אחרות. בבדיקה נבדוק אם הוא מתאים לטיפול או שצריך הפניה.',
       },
       {
         type: 'paragraph',
@@ -210,7 +211,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כאבי ראש רבים שמאובחנים כ"כאבי ראש מתח" או אפילו "מיגרנה" הם בעצם כאבי ראש צוואריים, ומגיבים יפה כשמטפלים בצוואר ולא רק בראש.',
+        text: 'לחלק מכאבי הראש שמרגישים כמו "כאבי ראש מתח" יש מרכיב צווארי, ובמקרים האלה טיפול בצוואר, ולא רק בראש, עשוי לעזור. כדי להבחין בין הסוגים צריך בדיקה מסודרת.',
       },
       {
         type: 'heading',
@@ -223,11 +224,11 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>ראש מקדים</strong>: שעות של הסתכלות מטה לטלפון, ללפטופ או להגה. כל סנטימטר שהראש זז קדימה מכפיל בערך את העומס על שרירי הצוואר.',
+          '<strong>ראש מקדים</strong>: שעות של הסתכלות מטה לטלפון, ללפטופ או להגה. ככל שהראש נמצא יותר קדימה, שרירי הצוואר צריכים לעבוד קשה יותר כדי להחזיק אותו.',
           '<strong>תנוחות סטטיות ממושכות</strong>: המפרקים הצוואריים מתוכננים לתנועה; שעות ארוכות בתנוחה קבועה גורמות להם לאבד ניידות.',
           '<strong>מתח וחריקת שיניים</strong>: מתח מנטלי כרוני מניע מתח קבוע ברמה נמוכה בטרפז העליון, ברומם השכמה ובשרירי הסובוקסיפיטל.',
           '<strong>תנוחת שינה</strong>: שינה על הבטן במיוחד כופה על הצוואר סיבוב מתמשך שמגרה את המפרקים הצוואריים לילה אחר לילה.',
-          '<strong>טראומה ישנה</strong>: שוט שלג (whiplash), נפילות או פציעות ספורט עלולים להשאיר הגבלת מפרק שיורית שגורמת בשקט לבעיות במשך שנים.',
+          '<strong>טראומה ישנה</strong>: צליפת שוט (whiplash), נפילות או פציעות ספורט עלולים להשאיר הגבלת מפרק שיורית שגורמת בשקט לבעיות במשך שנים.',
           'מאמץ עיניים וראייה לא מתוקנת: שיפלוץ עיניים והטיית ראש לקריאת מסכים במרחק לא נכון.',
         ],
       },
@@ -249,7 +250,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טיפול בכאבי ראש צוואריים ובכאב צוואר כרוני יחד (כי הם אותה בעיה) בדרך כלל כולל:',
+        text: 'טיפול בכאבי ראש צוואריים ובכאב צוואר כרוני יחד, כשהבדיקה מראה שהם קשורים, בדרך כלל כולל:',
       },
       {
         type: 'subheading',
@@ -297,7 +298,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'לכאבי ראש צוואריים אמיתיים ולכאב צוואר בדפוס מתח, רוב המטופלים שמים לב לשינוי משמעותי תוך 2–3 המפגשים הראשונים, לעיתים קרובות ירידה משמעותית בתדירות או בעוצמת כאבי הראש תוך השבוע הראשון. הקלה מתמשכת בדרך כלל לוקחת 6–10 מפגשי טיפול בשילוב עם תרגילים עקביים בבית.',
+        text: 'זה משתנה מאדם לאדם. כשכאב הראש אכן קשור לצוואר, יש מטופלים שמרגישים שינוי כבר בטיפולים הראשונים, ואחרים צריכים יותר זמן. שיפור מתמשך תלוי בדרך כלל בשילוב של טיפול ותרגילים קבועים בבית. אחרי הבדיקה תקבלו הערכה ריאלית למקרה שלכם, לא הבטחה.',
       },
       {
         type: 'paragraph',
@@ -335,7 +336,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם אתם מנהלים כאבי צוואר וכאבי ראש מתח חוזרים עם משככי כאבים כבר חודשים או שנים, הצעד הבא המועיל ביותר הוא בדיקת צוואר ראויה. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בטובל, או התקשרו תחילה לתאר את דפוס התסמינים. ברוב המקרים, אבחנה ברורה ותוכנית טיפול ממוקדת יכולות לשבור את המחזור תוך שבועות.',
+        text: 'אם אתם מנהלים כאבי צוואר וכאבי ראש מתח חוזרים עם משככי כאבים כבר חודשים או שנים, הצעד הבא המועיל ביותר הוא בדיקת צוואר ראויה. קבעו התייעצות עם ד"ר דואני בקליניקה ברמת אביב או בתובל, או התקשרו תחילה לתאר את דפוס התסמינים. הבדיקה תראה אם כאבי הראש שלכם מתאימים לטיפול כירופרקטי, או שהצעד הנכון הוא הפניה לרופא.',
       },
     ],
   },

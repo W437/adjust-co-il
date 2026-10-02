@@ -66,6 +66,11 @@ export default function Footer() {
 
         <div className="wrap footer-bottom">
           <span>© {new Date().getFullYear()} adjust · {t('hero.doctorName')}. {t('home.footer.rights')}</span>
+          <span className="footer-legal">
+            <Link to={localizePath('/privacy')}>{t('home.footer.privacy')}</Link>
+            {' · '}
+            <Link to={localizePath('/accessibility')}>{t('home.footer.a11y')}</Link>
+          </span>
           <span>built by <a href="https://elalw.com" target="_blank" rel="noopener noreferrer">elalw.com</a></span>
         </div>
       </footer>

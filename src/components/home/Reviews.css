@@ -120,3 +120,7 @@
 @keyframes fillX { from { scale: 0 1; } }
 
 @media (max-width: 860px) { .rev-top { grid-template-columns: 1fr; } }
+
+.google-link { align-self: flex-start; }
+.rev-updated { display: block; margin-top: -0.6rem; font-size: var(--s-xs); color: var(--muted); }
+.rev-disclaimer { font-size: var(--s-xs); color: var(--muted); margin-block: 0.25rem 1rem; }

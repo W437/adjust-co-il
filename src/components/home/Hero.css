@@ -1,7 +1,8 @@
 .hero { padding-block: clamp(2.25rem, 5vw, 4.5rem); }
 .hero-grid { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
 .hero-copy { display: flex; flex-direction: column; gap: 1.5rem; min-width: 0; }
-.hero h1 { font-size: var(--s-hero); }
+.hero h1 { font-size: clamp(2.1rem, 4.6vw, 3.6rem); }
+.hero h1 em { display: block; }
 .hero h1 em {
   font-style: normal;
   background: linear-gradient(100deg, var(--teal), var(--blue) 60%, var(--indigo));
@@ -10,6 +11,7 @@
   color: transparent;
 }
 .hero-lede { font-size: 1.15rem; max-width: 34em; }
+.hero-motto { font-size: var(--s-sm); color: var(--muted); margin-top: -0.75rem; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; }
 .proof {
   display: grid;
@@ -72,11 +74,11 @@
 
 @keyframes unveil { from { clip-path: inset(100% 0 0 0 round 22px); } to { clip-path: inset(0 0 0 0 round 22px); } }
 @keyframes settle { from { scale: 1.14; } }
-.hero .label, .hero h1, .hero-lede, .hero-actions, .hero-status, .proof { animation: rise 0.9s var(--ease-out) both; }
+.hero h1, .hero-lede, .hero-motto, .hero-actions, .proof { animation: rise 0.9s var(--ease-out) both; }
 .hero h1 { animation-delay: 0.1s; }
 .hero-lede { animation-delay: 0.22s; }
+.hero-motto { animation-delay: 0.28s; }
 .hero-actions { animation-delay: 0.32s; }
-.hero-status { animation-delay: 0.4s; }
 .proof { animation-delay: 0.48s; }
 .portrait { animation: unveil 1.15s cubic-bezier(0.7, 0, 0.2, 1) 0.05s both; }
 .portrait img { animation: settle 1.8s var(--ease-out) 0.05s both; transform-origin: 50% 30%; }
@@ -87,7 +89,7 @@
 }
 @media (max-width: 880px) {
   .hero-grid { grid-template-columns: 1fr; }
-  .portrait { max-width: 460px; width: 100%; margin-inline: auto; order: -1; aspect-ratio: 1 / 1; }
+  .portrait { max-width: 280px; width: 100%; margin-inline: auto; aspect-ratio: 1 / 1; }
 }
 @media (max-width: 560px) {
   .proof { grid-template-columns: 1fr 1fr; }

@@ -7,6 +7,7 @@ export default function FirstVisit() {
   const { t } = useTranslation();
   const steps = t('home.visit.steps');
   const bring = t('home.visit.bring');
+  const facts = t('home.visit.facts');
 
   return (
     <section className="block alt" id="visit">
@@ -33,6 +34,10 @@ export default function FirstVisit() {
             </div>
             <figcaption>{t('home.visit.roomCap')}</figcaption>
           </figure>
+          <div className="bring facts rv">
+            <h3>{t('home.visit.factsH')}</h3>
+            <ul>{facts.map((f) => <li key={f}>{f}</li>)}</ul>
+          </div>
           <div className="bring rv">
             <h3>{t('home.visit.bringH')}</h3>
             <ul>{bring.map((b) => <li key={b}>{b}</li>)}</ul>

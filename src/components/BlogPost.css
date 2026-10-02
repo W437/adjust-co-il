@@ -146,7 +146,6 @@
 .bp-book-dots { position: absolute; inset-inline-end: 1rem; top: 1rem; height: 58px; width: auto; opacity: 0.85; }
 .bp-book h2 { font-size: 1.2rem; padding-inline-end: 1.75rem; }
 .bp-book p { font-size: var(--s-sm); }
-.bp-book .status { align-self: flex-start; }
 .bp-book-actions { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.25rem; }
 .bp-book-actions .btn { width: 100%; }
 
@@ -181,3 +180,9 @@
   .bp-hero-frame { aspect-ratio: 16 / 10; border-radius: 16px; }
   .bp-body { font-size: 1.03rem; }
 }
+
+.bp-meta { font-size: var(--s-xs); color: var(--muted); }
+.bp-summary { border: 1px solid var(--line); border-radius: 14px; padding: 1.1rem 1.25rem; margin-bottom: 1.5rem; }
+.bp-summary ul { padding-inline-start: 1.1rem; display: flex; flex-direction: column; gap: 0.35rem; margin-top: 0.5rem; }
+.bp-sources { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid var(--line); font-size: var(--s-sm); }
+.bp-sources ol { padding-inline-start: 1.2rem; display: flex; flex-direction: column; gap: 0.35rem; }

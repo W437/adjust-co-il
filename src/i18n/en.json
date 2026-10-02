@@ -6,7 +6,7 @@
     "testimonials": "Testimonials",
     "contact": "Contact",
     "blog": "Blog",
-    "bookTreatment": "Book a Consultation",
+    "bookTreatment": "Arrange an appointment",
     "navBadges": [
       "15+ Years Experience",
       "Tel Aviv & Tuval",
@@ -106,7 +106,7 @@
     "items": [
       {
         "title": "Classic Chiropractic",
-        "desc": "Precise spinal adjustments to restore proper alignment, improve nervous system function, and relieve pain at its source."
+        "desc": "Precise hands-on spinal adjustments that aim to improve joint movement and ease pain."
       },
       {
         "title": "Dry Needling & IMS",
@@ -892,7 +892,7 @@
     "share": "Share",
     "relatedPosts": "More Articles",
     "bookCta": "Experiencing pain? Book a consultation with Dr. Duani today.",
-    "bookCtaButton": "Book a Consultation"
+    "bookCtaButton": "Arrange an appointment"
   },
   "servicePage": {
     "learnMore": "Learn more",
@@ -902,10 +902,10 @@
     "faqHeading": "Frequently Asked Questions",
     "relatedHeading": "Related Reading",
     "bookCta": "Ready to start? Book a consultation with Dr. Duani today.",
-    "bookCtaButton": "Book a Consultation"
+    "bookCtaButton": "Arrange an appointment"
   },
-  "siteTitle": "adjust · Dr. Victor Duani | Rehabilitative Chiropractic",
-  "metaDescription": "Rehabilitative chiropractic care by Dr. Victor Duani in Tel Aviv and Tuval. Specializing in orthopedic rehabilitation, spinal maintenance, and sports injury recovery. 20+ years experience, 4.9 rating.",
+  "siteTitle": "Dr. Victor Duani | Chiropractor in Ramat Aviv and Tuval near Karmiel",
+  "metaDescription": "Rehabilitative chiropractic for back and neck pain with Dr. Victor Duani: diagnosis, treatment and a personal movement plan. Clinics in Ramat Aviv (Tel Aviv) and Tuval near Karmiel.",
   "ui": {
     "toLight": "Switch to light mode",
     "toDark": "Switch to dark mode",
@@ -913,17 +913,13 @@
     "closeMenu": "Close menu",
     "call": "Call",
     "whatsapp": "WhatsApp",
-    "book": "Book",
-    "bookVisit": "Book a visit",
-    "bookConsult": "Book a consultation",
-    "waMessage": "Hi, I'd like to book a consultation.",
+    "book": "Arrange a visit",
+    "bookVisit": "Arrange an appointment",
+    "bookConsult": "Arrange an appointment",
+    "waMessage": "Hi, I'd like to arrange an appointment.",
     "minRead": "min read",
     "learnMore": "Learn more",
     "readArticle": "Read the article",
-    "openUntil": "Open now · until {t}",
-    "opensToday": "Closed · opens today at {t}",
-    "opensTomorrow": "Closed · opens tomorrow at {t}",
-    "opensDay": "Closed · opens {d} at {t}",
     "days": [
       "Sunday",
       "Monday",
@@ -945,10 +941,9 @@
   },
   "home": {
     "hero": {
-      "label": "Rehabilitative chiropractic · Tel Aviv & Tuval",
-      "h1": "Your body is built to heal",
-      "h1Em": "when it moves well.",
-      "lede": "Dr. Victor Duani treats back pain, neck pain, headaches and sports injuries at the source, combining precise chiropractic with dry needling and yoga-based rehab. The aim is the most improvement in the fewest sessions.",
+      "h1": "Rehabilitative chiropractic for back and neck pain",
+      "h1Em": "Dr. Victor Duani",
+      "lede": "Diagnosis, treatment and a personal movement plan. Clinics in Ramat Aviv and Tuval.",
       "proofReviews": "79 Google reviews",
       "proofLicensed": "Licensed",
       "proofMoh": "Ministry of Health",
@@ -956,7 +951,8 @@
       "proofFormerly": "Hospital rehab background",
       "alt": "Dr. Victor Duani, rehabilitative chiropractor",
       "name": "Dr. Victor Duani",
-      "cred": "Doctor of Chiropractic · DUT, South Africa · 2010"
+      "cred": "Doctor of Chiropractic · DUT, South Africa · 2010",
+      "motto": "Your body is built to heal when it moves well."
     },
     "creds": [
       {
@@ -1002,7 +998,7 @@
         {
           "key": "Neck & headaches",
           "title": "Neck pain & tension headaches",
-          "body": "Stiffness in the upper neck often drives headaches and even dizziness. Gentle work on the cervical spine and the soft tissue around it treats the source.",
+          "body": "Stiffness in the upper neck can contribute to headaches and sometimes dizziness, but they have other causes too. The examination checks whether your case suits treatment or needs a referral. When the neck is involved, gentle work on the cervical spine and the soft tissue around it may help.",
           "tech": [
             "Classic chiropractic",
             "Fascia release",
@@ -1060,7 +1056,7 @@
       "items": [
         {
           "h": "Classic chiropractic",
-          "p": "Precise spinal adjustments that restore alignment and relieve pain at its source."
+          "p": "Precise hands-on spinal adjustments that aim to improve joint movement and ease pain."
         },
         {
           "h": "Dry needling & IMS",
@@ -1117,7 +1113,7 @@
       "steps": [
         {
           "h": "Get in touch",
-          "p": "Call, send a WhatsApp or fill in the form. We'll find a time in Tel Aviv or Tuval."
+          "p": "Call, send a WhatsApp or fill in the form. We'll find a time in Ramat Aviv or Tuval."
         },
         {
           "h": "Assessment",
@@ -1136,6 +1132,11 @@
         "A short list of the medications you take",
         "Notes on past treatments and what helped",
         "Comfortable clothes you can move in"
+      ],
+      "factsH": "The first visit at a glance",
+      "facts": [
+        "You can ask about price and length before booking.",
+        "Treatment in the same session, according to clinical fit."
       ]
     },
     "sessions": {
@@ -1186,7 +1187,10 @@
       "more": "Show more reviews",
       "less": "Show fewer",
       "showing": "Showing {n} of {t} reviews. Translated from Hebrew where needed.",
-      "stars": "stars"
+      "stars": "stars",
+      "google": "See all reviews on Google",
+      "updated": "Rating and review count as of {d}.",
+      "disclaimer": "These are personal experiences of patients, not a promise of results."
     },
     "faq": {
       "label": "Questions",
@@ -1218,27 +1222,30 @@
     "loc": {
       "label": "Locations",
       "h2": "Two clinics. Pick the one closer to you.",
-      "p": "Dr. Duani treats at both. Book either one by phone or WhatsApp.",
-      "ta": "Tel Aviv",
+      "p": "Dr. Duani treats at both. Arrange a visit at either one by phone or WhatsApp.",
+      "ta": "Ramat Aviv",
       "tu": "Tuval",
       "taPin": "Center",
       "tuPin": "North",
-      "taSub": "Clinic in the center",
+      "taSub": "Tel Aviv · clinic in the center",
       "tuSub": "Clinic in the north",
       "taAlt": "Illustration: a leafy north Tel Aviv street with white Bauhaus buildings and the skyline by the sea",
       "tuAlt": "Illustration: stone houses among olive trees in the Galilee hills",
-      "call": "Call to book",
       "waze": "Navigate with Waze",
-      "hours": "Clinic hours",
-      "sunThu": "Sunday – Thursday",
+      "hours": "Reception hours",
       "fri": "Friday",
       "sat": "Saturday",
-      "closed": "Closed"
+      "closed": "Closed",
+      "monWed": "Monday & Wednesday",
+      "sunTueThu": "Sunday, Tuesday & Thursday",
+      "byArrangement": "By prior arrangement",
+      "hoursNote": "All visits are by prior arrangement only. We'll confirm by phone which clinic you'll be seen at on each day.",
+      "call": "Call to arrange"
     },
     "book": {
-      "label": "Book a consultation",
-      "h2": "Tell us what hurts. We'll call you back within 24 hours.",
-      "p": "Or reach the clinic directly, Sunday to Thursday 08:00 to 19:00 and Friday until 13:00.",
+      "label": "Arrange an appointment",
+      "h2": "Tell us what hurts. We'll call you back within 24 hours to arrange a time.",
+      "p": "Or reach the clinic directly by phone or WhatsApp.",
       "copy": "Copy",
       "copied": "Copied",
       "selected": "Selected",
@@ -1254,15 +1261,22 @@
       "submit": "Request a call back",
       "sending": "Sending…",
       "thanks": "Thanks, we got it.",
-      "thanksSub": "The clinic will call you back within 24 hours.",
+      "thanksSub": "The clinic will call you back within 24 hours to arrange a time.",
       "again": "Send another request",
-      "error": "The request didn't go through. Please try again, or call 053-276-7776."
+      "error": "The request didn't go through. Please try again, or call 053-276-7776.",
+      "formNote": "Submitting the form is not an appointment confirmation. We'll call you back to arrange one.",
+      "msgHint": "A short description is enough. Please don't send sensitive medical information in the form.",
+      "privacyNote": "Your inquiry goes only to Dr. Victor Duani and the clinic team, and is used only to call you back.",
+      "privacyLink": "Privacy policy",
+      "a11yLink": "Accessibility statement"
     },
     "footer": {
       "explore": "Explore",
       "treatments": "Treatments",
       "contact": "Contact",
-      "rights": "All rights reserved."
+      "rights": "All rights reserved.",
+      "privacy": "Privacy policy",
+      "a11y": "Accessibility statement"
     }
   },
   "pages": {
@@ -1274,9 +1288,13 @@
       "toc": "On this page",
       "all": "All articles",
       "askTitle": "Questions about your own pain?",
-      "askText": "Dr. Duani can assess it in person at the Tel Aviv or Tuval clinic.",
+      "askText": "Dr. Duani can assess it in person at the Ramat Aviv or Tuval clinic.",
       "notFound": "We couldn't find that article",
-      "notFoundSub": "It may have moved or been renamed. All articles are on the blog page."
+      "notFoundSub": "It may have moved or been renamed. All articles are on the blog page.",
+      "reviewed": "Professionally reviewed by Dr. Victor Duani",
+      "updated": "Updated {d}",
+      "summary": "In short",
+      "sources": "Sources"
     },
     "service": {
       "onThisPage": "On this page",
@@ -1288,6 +1306,68 @@
       "h1": "This page slipped out of place.",
       "p": "The link may be old or mistyped. Everything on the site is one click away from the homepage.",
       "home": "Back to the homepage"
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "desc": "What information adjust.co.il collects, why, and who receives it.",
+      "updated": "Last updated: October 2026",
+      "sections": [
+        {
+          "h": "Who we are",
+          "p": "adjust.co.il belongs to the clinic of Dr. Victor Duani, rehabilitative chiropractic, with clinics in Ramat Aviv and Tuval. For any question about your information, contact us at {phone} or {email}."
+        },
+        {
+          "h": "What the form collects",
+          "p": "The contact form asks for your name and phone (required), email (optional), preferred clinic and a short description of what is bothering you. A short description is enough. Please don't send sensitive medical information, such as test results or diagnoses, in the form. We will go over those together at the examination."
+        },
+        {
+          "h": "How we use it",
+          "p": "Only to call you back and arrange an appointment. We do not send marketing emails, and we do not sell or pass your information to others for marketing."
+        },
+        {
+          "h": "Who receives your inquiry",
+          "p": "The form is sent through an external form service (Web3Forms) to the clinic's email inbox. Only Dr. Victor Duani and the clinic team read it. Contacting us by WhatsApp or phone is also subject to those providers' terms."
+        },
+        {
+          "h": "How long we keep it",
+          "p": "Inquiry details are kept only as long as needed to arrange and follow up on your inquiry. If you become a patient, your medical record is managed separately, as required by law."
+        },
+        {
+          "h": "Cookies and browser storage",
+          "p": "The site uses no advertising or tracking cookies. Your browser only stores your display preference (light or dark). Fonts load from Google Fonts, so your IP address may reach Google."
+        },
+        {
+          "h": "Your rights",
+          "p": "You can ask to see, correct or delete the information you sent us. Contact us by phone or email and we will handle it."
+        }
+      ]
+    },
+    "a11y": {
+      "title": "Accessibility statement",
+      "desc": "What we have done to make adjust.co.il accessible, and how to contact us if something does not work.",
+      "updated": "Last updated: October 2026",
+      "sections": [
+        {
+          "h": "Our commitment",
+          "p": "We want everyone to be able to use the site, find information and contact the clinic, including people with disabilities. We work to bring the site in line with WCAG 2.1 level AA."
+        },
+        {
+          "h": "What we have done",
+          "p": "The whole site can be used with a keyboard, with a clear focus indicator. Images have text alternatives. Form fields have labels, and error messages are announced to screen readers. Text can be enlarged in the browser without losing content. The site is available in Hebrew and English, in light and dark mode, and respects reduced-motion settings."
+        },
+        {
+          "h": "Known limitations",
+          "p": "Some parts of the site may not yet be fully accessible. If you run into a problem, we want to know so we can fix it."
+        },
+        {
+          "h": "Clinic accessibility",
+          "p": "For details on getting to the Ramat Aviv and Tuval clinics and their physical accessibility, call us before your visit and we will help."
+        },
+        {
+          "h": "Accessibility contact",
+          "p": "If something on the site does not work for you, or you need the information in another way, contact Dr. Victor Duani at {phone} or {email}. We will get back to you as soon as we can."
+        }
+      ]
     }
   }
 }

@@ -14,6 +14,9 @@ const CATS = [
 ];
 const AVATAR_COLORS = ['#1f9e97', '#2893b3', '#2b72b8', '#4468c6', '#5361c9'];
 const PAGE = 9;
+// Update both when the rating / review count above is re-checked on Google.
+const GOOGLE_REVIEWS_URL = 'https://share.google/QKvdk9jZohF7j2IgH';
+const REVIEWS_CHECKED = new Date(2026, 9, 1);
 
 function inCat(i, id) {
   if (id === 'all') return true;
@@ -104,6 +107,8 @@ export default function Reviews() {
                 <small>{t('home.reviews.count')}</small>
               </div>
             </div>
+            <a className="btn btn-ghost google-link" href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer">{t('home.reviews.google')}</a>
+            <small className="rev-updated">{fill(t('home.reviews.updated'), { d: new Intl.DateTimeFormat(lang === 'he' ? 'he-IL' : 'en-US', { month: 'long', year: 'numeric' }).format(REVIEWS_CHECKED) })}</small>
             <div className="dist">
               {[5, 4, 3, 2, 1].map((s) => (
                 <div className="dist-row" key={s}>
@@ -123,6 +128,8 @@ export default function Reviews() {
             </figcaption>
           </figure>
         </div>
+
+        <p className="rev-disclaimer">{t('home.reviews.disclaimer')}</p>
 
         <div className="chips rv" role="group" aria-label={t('home.reviews.filterAria')}>
           {CATS.map((c) => (

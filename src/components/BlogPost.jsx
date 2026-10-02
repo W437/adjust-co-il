@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useTranslation } from '../i18n/LanguageContext';
 import { setPageSEO } from '../utils/seo';
-import { clinicStatus, PHONE_DISPLAY, PHONE_TEL, whatsappUrl } from '../utils/format';
+import { fill, PHONE_DISPLAY, PHONE_TEL, whatsappUrl } from '../utils/format';
 import { getPostBySlug, posts } from '../blog';
 import Nav from './Nav';
 import Footer from './Footer';
@@ -38,13 +38,11 @@ function ContentRenderer({ content }) {
 
 function BookingCard() {
   const { t } = useTranslation();
-  const status = clinicStatus(t);
   return (
     <div className="bp-book">
       <SpineDots className="bp-book-dots" />
       <h2>{t('pages.blog.askTitle')}</h2>
       <p>{t('pages.blog.askText')}</p>
-      <span className={`status ${status.open ? 'is-open' : 'is-closed'}`}>{status.text}</span>
       <div className="bp-book-actions">
         <SectionLink hash="contact-form" className="btn btn-primary"><CalendarIcon />{t('blog.bookCtaButton')}</SectionLink>
         <a className="btn btn-ghost" href={PHONE_TEL}><PhoneIcon /><span dir="ltr">{PHONE_DISPLAY}</span></a>
@@ -117,10 +115,12 @@ export default function BlogPost() {
     description: localized.metaDescription,
     image: `https://adjust.co.il${post.image}`,
     author: {
-      '@type': 'Organization',
-      name: 'adjust · Dr. Victor Duani Chiropractic',
+      '@type': 'Person',
+      name: 'Dr. Victor Duani',
       url: 'https://adjust.co.il',
     },
+    datePublished: post.date,
+    dateModified: post.reviewed || post.updated || post.date,
     publisher: {
       '@type': 'Organization',
       name: 'adjust · Dr. Victor Duani Chiropractic',
@@ -151,6 +151,11 @@ export default function BlogPost() {
             <span className="label">{post.readTime} {t('blog.readTime')}</span>
             <h1>{localized.title}</h1>
             <p className="bp-lede">{localized.excerpt}</p>
+            <p className="bp-meta">
+              {/* Set `reviewed: 'YYYY-MM-DD'` on a post only after Dr. Duani has reviewed it. */}
+              {post.reviewed && <>{t('pages.blog.reviewed')} · </>}
+              {fill(t('pages.blog.updated'), { d: new Intl.DateTimeFormat(lang === 'he' ? 'he-IL' : 'en-US', { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(post.reviewed || post.updated || post.date)) })}
+            </p>
           </header>
 
           <figure className="wrap bp-hero">
@@ -161,7 +166,23 @@ export default function BlogPost() {
 
           <div className="wrap bp-layout">
             <div className="bp-body">
+              {localized.summary && (
+                <div className="bp-summary">
+                  <h2 className="label">{t('pages.blog.summary')}</h2>
+                  <ul>{localized.summary.map((s) => <li key={s}>{s}</li>)}</ul>
+                </div>
+              )}
               <ContentRenderer content={localized.content} />
+              {localized.sources?.length > 0 && (
+                <section className="bp-sources">
+                  <h2>{t('pages.blog.sources')}</h2>
+                  <ol>
+                    {localized.sources.map((s) => (
+                      <li key={s.url || s.title}>{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer">{s.title}</a> : s.title}</li>
+                    ))}
+                  </ol>
+                </section>
+              )}
             </div>
 
             <aside className="bp-aside">

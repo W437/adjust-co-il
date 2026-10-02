@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import { useTranslation } from '../../i18n/LanguageContext';
 import { PHONE_DISPLAY, EMAIL, whatsappUrl } from '../../utils/format';
 import { ChatIcon } from '../icons';
@@ -7,7 +8,7 @@ import './Booking.css';
 const WEB3FORMS_KEY = import.meta.env.VITE_WEB3FORMS_KEY;
 
 export default function Booking() {
-  const { t } = useTranslation();
+  const { t, localizePath } = useTranslation();
   const [status, setStatus] = useState('idle');
   const [copyLabel, setCopyLabel] = useState('');
 
@@ -100,12 +101,20 @@ export default function Booking() {
                   </label>
                 </div>
                 <label htmlFor="message"><span>{t('home.book.msg')}</span>
-                  <textarea id="message" name="message" rows="3" placeholder={t('home.book.msgPh')} />
+                  <textarea id="message" name="message" rows="3" placeholder={t('home.book.msgPh')} aria-describedby="message-hint" />
+                  <small id="message-hint" className="field-hint">{t('home.book.msgHint')}</small>
                 </label>
-                <button type="submit" className="btn btn-primary" disabled={status === 'sending'}>
+                <p className="form-note" id="form-note">{t('home.book.formNote')}</p>
+                <button type="submit" className="btn btn-primary" disabled={status === 'sending'} aria-describedby="form-note">
                   {status === 'sending' ? t('home.book.sending') : t('home.book.submit')}
                 </button>
                 {status === 'error' && <p className="booking-error" role="alert">{t('home.book.error')}</p>}
+                <p className="form-privacy">
+                  {t('home.book.privacyNote')}{' '}
+                  <Link to={localizePath('/privacy')}>{t('home.book.privacyLink')}</Link>
+                  {' · '}
+                  <Link to={localizePath('/accessibility')}>{t('home.book.a11yLink')}</Link>
+                </p>
               </form>
             )}
           </div>
