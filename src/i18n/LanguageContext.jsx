@@ -13,9 +13,13 @@ function stripPrefix(pathname) {
   return pathname;
 }
 
+function withSlash(path) {
+  return path === '/' || path.endsWith('/') ? path : `${path}/`;
+}
+
 function addPrefix(basePath) {
-  if (basePath === '/' || basePath === '') return '/en';
-  return `/en${basePath}`;
+  if (basePath === '/' || basePath === '') return '/en/';
+  return `/en${withSlash(basePath)}`;
 }
 
 export function LanguageProvider({ children }) {
@@ -53,7 +57,7 @@ export function LanguageProvider({ children }) {
   const localizePath = useCallback(
     (path) => {
       const clean = path.startsWith('/') ? path : `/${path}`;
-      return lang === 'en' ? addPrefix(clean) : clean;
+      return lang === 'en' ? addPrefix(clean) : withSlash(clean);
     },
     [lang],
   );

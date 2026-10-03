@@ -2,8 +2,11 @@ import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useTranslation } from '../i18n/LanguageContext';
 import { setPageSEO } from '../utils/seo';
+import { postMeta, SITE_URL } from '../seo/meta';
 import { fill, PHONE_DISPLAY, PHONE_TEL, whatsappUrl } from '../utils/format';
 import { getPostBySlug, posts } from '../blog';
+import { getServiceBySlug } from '../services';
+import { RELATED } from '../seo/related';
 import Nav from './Nav';
 import Footer from './Footer';
 import SectionLink from './SectionLink';
@@ -66,9 +69,10 @@ export default function BlogPost() {
 
   useEffect(() => {
     if (localized && post) {
+      const meta = postMeta(post, lang);
       setPageSEO({
-        title: `${localized.title} | ${t('siteTitle')}`,
-        description: localized.metaDescription,
+        title: meta.title,
+        description: meta.description,
         path: `/blog/${post.slug}`,
         image: post.image,
         type: 'article',
@@ -103,7 +107,10 @@ export default function BlogPost() {
     );
   }
 
-  const otherPosts = posts.filter((p) => p.slug !== slug).slice(0, 3);
+  const related = RELATED[slug] || { services: [], posts: [] };
+  const relatedServices = related.services.map(getServiceBySlug).filter(Boolean);
+  const topical = related.posts.map(getPostBySlug).filter(Boolean);
+  const otherPosts = [...topical, ...posts.filter((p) => p.slug !== slug && !topical.includes(p))].slice(0, 3);
   const toc = localized.content
     .map((block, i) => (block.type === 'heading' ? { id: headingId(i), text: block.text } : null))
     .filter(Boolean);
@@ -128,7 +135,7 @@ export default function BlogPost() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://adjust.co.il${lang === 'en' ? '/en' : ''}/blog/${post.slug}`,
+      '@id': `${SITE_URL}${lang === 'en' ? '/en' : ''}/blog/${post.slug}/`,
     },
     inLanguage: lang === 'he' ? 'he-IL' : 'en-US',
   };
@@ -204,6 +211,19 @@ export default function BlogPost() {
             </aside>
           </div>
         </article>
+
+        {relatedServices.length > 0 && (
+          <section className="wrap bp-services" aria-labelledby="bp-services-title">
+            <h2 id="bp-services-title">{t('blog.relatedServices')}</h2>
+            <ul>
+              {relatedServices.map((s) => (
+                <li key={s.slug}>
+                  <Link to={localizePath(`/services/${s.slug}`)}>{(s[lang] || s.en).title}<ArrowIcon /></Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
 
         {otherPosts.length > 0 && (
           <section className="wrap bp-related" aria-labelledby="bp-related-title">

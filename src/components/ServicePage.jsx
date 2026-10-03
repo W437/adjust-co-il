@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useTranslation } from '../i18n/LanguageContext';
 import { setPageSEO } from '../utils/seo';
+import { serviceMeta } from '../seo/meta';
 import { getServiceBySlug, services } from '../services';
 import { getPostBySlug } from '../blog';
 import { PHONE_DISPLAY, PHONE_TEL, whatsappUrl } from '../utils/format';
@@ -49,9 +50,10 @@ export default function ServicePage() {
 
   useEffect(() => {
     if (localized && service) {
+      const meta = serviceMeta(service, lang);
       setPageSEO({
-        title: `${localized.title} | ${t('siteTitle')}`,
-        description: localized.metaDescription,
+        title: meta.title,
+        description: meta.description,
         path: `/services/${service.slug}`,
         image: service.image,
         lang,

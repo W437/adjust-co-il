@@ -14,7 +14,7 @@ export default function LegalPage({ page }) {
 
   useEffect(() => {
     setPageSEO({
-      title: `${t(`pages.${page}.title`)} | ${t('siteTitle')}`,
+      title: `${t(`pages.${page}.title`)} | adjust`,
       description: t(`pages.${page}.desc`),
       path: PATHS[page],
       type: 'website',

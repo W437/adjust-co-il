@@ -1,4 +1,5 @@
-const SITE_URL = 'https://adjust.co.il';
+import { SITE_URL, pageUrls } from '../seo/meta';
+
 const DEFAULT_IMAGE = `${SITE_URL}/assets/adjust-social-img.jpg`;
 
 function setMeta(selector, attr, value) {
@@ -36,13 +37,6 @@ function removeMeta(selector) {
   if (el) el.remove();
 }
 
-function buildUrls(basePath) {
-  const clean = basePath === '/' ? '' : basePath;
-  return {
-    he: `${SITE_URL}${clean || '/'}`,
-    en: `${SITE_URL}/en${clean}`,
-  };
-}
 
 export function setPageSEO({
   title,
@@ -53,7 +47,7 @@ export function setPageSEO({
   publishedTime,
   lang = 'he',
 }) {
-  const urls = buildUrls(path);
+  const urls = pageUrls(path);
   const currentUrl = lang === 'en' ? urls.en : urls.he;
   const imageUrl = image
     ? image.startsWith('http')

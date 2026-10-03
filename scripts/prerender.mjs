@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import { pageUrls, postMeta, serviceMeta, homeMeta, blogIndexMeta } from '../src/seo/meta.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, '..');
@@ -52,9 +53,8 @@ function htmlEscape(s) {
     .replace(/>/g, '&gt;');
 }
 
-function buildRouteHtml({ template, lang, dir, title, description, basePath, image, type = 'website', publishedTime }) {
-  const heUrl = `${SITE_URL}${basePath === '/' ? '/' : basePath}`;
-  const enUrl = `${SITE_URL}/en${basePath === '/' ? '' : basePath}`;
+function buildRouteHtml({ template, lang, dir, title, description, basePath, image, type = 'website', publishedTime, body = '', crumbs = null }) {
+  const { he: heUrl, en: enUrl } = pageUrls(basePath);
   const currentUrl = lang === 'en' ? enUrl : heUrl;
   const imageUrl = image
     ? image.startsWith('http') ? image : `${SITE_URL}${image}`
@@ -63,6 +63,24 @@ function buildRouteHtml({ template, lang, dir, title, description, basePath, ima
   const ogLocaleAlt = lang === 'en' ? 'he_IL' : 'en_US';
 
   let out = template;
+
+  out = out.replace('<div id="root"></div>', `<div id="root">${body}</div>`);
+
+  const isHome = basePath === '/';
+  if (!isHome) {
+    // Clinic / Person schema and the hero image preloads describe the home page only.
+    out = out.replace(/\n\s*<link rel="preload" as="image"[^>]*>/g, '');
+    out = out.replace(/\n\s*<script type="application\/ld\+json">\s*\{[^]*?<\/script>/g, (m) =>
+      /"@type":\s*"(Chiropractor|Person)"/.test(m) ? '' : m);
+  }
+  if (crumbs) {
+    const ld = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.url })),
+    };
+    out = out.replace(/<\/head>/, `    <script type="application/ld+json">${JSON.stringify(ld)}</script>\n  </head>`);
+  }
 
   out = out.replace(/<html\s+[^>]*>/, `<html lang="${lang}" dir="${dir}">`);
 
@@ -134,114 +152,84 @@ async function main() {
   const template = readFileSync(indexPath, 'utf8');
   const posts = await loadPosts();
   const services = await loadServices();
+  const { render } = await import(pathToFileURL(join(root, 'dist-ssr/entry-server.js')).href);
+
+  const L = {
+    he: { dir: 'rtl', home: 'בית', blog: 'בלוג', i18n: he },
+    en: { dir: 'ltr', home: 'Home', blog: 'Blog', i18n: en },
+  };
 
   const routes = [];
-
-  routes.push({
-    distPath: '.',
-    lang: 'he',
-    dir: 'rtl',
-    title: he.siteTitle,
-    description: he.metaDescription,
-    basePath: '/',
-  });
-  routes.push({
-    distPath: 'en',
-    lang: 'en',
-    dir: 'ltr',
-    title: en.siteTitle,
-    description: en.metaDescription,
-    basePath: '/',
-  });
-
-  routes.push({
-    distPath: 'blog',
-    lang: 'he',
-    dir: 'rtl',
-    title: `${he.blog.title} | ${he.siteTitle}`,
-    description: he.blog.subtitle,
-    basePath: '/blog',
-  });
-  routes.push({
-    distPath: 'en/blog',
-    lang: 'en',
-    dir: 'ltr',
-    title: `${en.blog.title} | ${en.siteTitle}`,
-    description: en.blog.subtitle,
-    basePath: '/blog',
-  });
-
-  for (const [slug, key] of [['privacy', 'privacy'], ['accessibility', 'a11y']]) {
+  const add = (lang, basePath, meta, extra = {}) => {
+    const urls = pageUrls(basePath);
+    const url = lang === 'en' ? urls.en : urls.he;
     routes.push({
-      distPath: slug,
-      lang: 'he',
-      dir: 'rtl',
-      title: `${he.pages[key].title} | ${he.siteTitle}`,
-      description: he.pages[key].desc,
-      basePath: `/${slug}`,
+      distPath: new URL(url).pathname.replace(/^\/|\/$/g, '') || '.',
+      urlPath: new URL(url).pathname,
+      lang,
+      dir: L[lang].dir,
+      title: meta.title,
+      description: meta.description,
+      basePath,
+      ...extra,
     });
-    routes.push({
-      distPath: `en/${slug}`,
-      lang: 'en',
-      dir: 'ltr',
-      title: `${en.pages[key].title} | ${en.siteTitle}`,
-      description: en.pages[key].desc,
-      basePath: `/${slug}`,
+  };
+  const crumbsFor = (lang, basePath, trail) => {
+    const home = (lang === 'en' ? pageUrls('/').en : pageUrls('/').he);
+    const here = lang === 'en' ? pageUrls(basePath).en : pageUrls(basePath).he;
+    return [{ name: L[lang].home, url: home }, ...trail, { name: null, url: here }];
+  };
+
+  for (const lang of ['he', 'en']) {
+    add(lang, '/', homeMeta(lang));
+    add(lang, '/blog', blogIndexMeta(lang), {
+      crumbs: crumbsFor(lang, '/blog', []).map((c) => ({ ...c, name: c.name || L[lang].blog })),
     });
+    for (const [slug, key] of [['privacy', 'privacy'], ['accessibility', 'a11y']]) {
+      add(lang, `/${slug}`, {
+        title: `${L[lang].i18n.pages[key].title} | adjust`,
+        description: L[lang].i18n.pages[key].desc,
+      });
+    }
   }
 
   for (const post of posts) {
-    routes.push({
-      distPath: `blog/${post.slug}`,
-      lang: 'he',
-      dir: 'rtl',
-      title: `${post.he.title} | ${he.siteTitle}`,
-      description: post.he.metaDescription,
-      basePath: `/blog/${post.slug}`,
-      image: post.image,
-      type: 'article',
-    });
-    routes.push({
-      distPath: `en/blog/${post.slug}`,
-      lang: 'en',
-      dir: 'ltr',
-      title: `${post.en.title} | ${en.siteTitle}`,
-      description: post.en.metaDescription,
-      basePath: `/blog/${post.slug}`,
-      image: post.image,
-      type: 'article',
-    });
+    for (const lang of ['he', 'en']) {
+      const bp = `/blog/${post.slug}`;
+      const blogUrl = lang === 'en' ? pageUrls('/blog').en : pageUrls('/blog').he;
+      add(lang, bp, postMeta(post, lang), {
+        image: post.image,
+        type: 'article',
+        publishedTime: post.date,
+        crumbs: crumbsFor(lang, bp, [{ name: L[lang].blog, url: blogUrl }]).map((c) => ({
+          ...c,
+          name: c.name || (post[lang] || post.en).title,
+        })),
+      });
+    }
   }
 
   for (const svc of services) {
-    routes.push({
-      distPath: `services/${svc.slug}`,
-      lang: 'he',
-      dir: 'rtl',
-      title: `${svc.he.title} | ${he.siteTitle}`,
-      description: svc.he.metaDescription,
-      basePath: `/services/${svc.slug}`,
-      image: svc.image,
-    });
-    routes.push({
-      distPath: `en/services/${svc.slug}`,
-      lang: 'en',
-      dir: 'ltr',
-      title: `${svc.en.title} | ${en.siteTitle}`,
-      description: svc.en.metaDescription,
-      basePath: `/services/${svc.slug}`,
-      image: svc.image,
-    });
+    for (const lang of ['he', 'en']) {
+      const bp = `/services/${svc.slug}`;
+      add(lang, bp, serviceMeta(svc, lang), {
+        image: svc.image,
+        crumbs: crumbsFor(lang, bp, []).map((c) => ({ ...c, name: c.name || (svc[lang] || svc.en).title })),
+      });
+    }
   }
 
   let count = 0;
+  let empty = 0;
   for (const r of routes) {
-    const html = buildRouteHtml({ template, ...r });
+    const body = render(r.urlPath);
+    if (!/<h1[\s>]/.test(body)) { empty++; console.warn(`  ! no <h1> rendered for ${r.urlPath}`); }
+    const html = buildRouteHtml({ template, body, ...r });
     writeRoute(r.distPath, html);
     count++;
   }
 
-  console.log(`✓ Prerendered ${count} routes`);
+  console.log(`✓ Prerendered ${count} routes (${empty} without an h1)`);
 }
 
 main().catch((err) => {

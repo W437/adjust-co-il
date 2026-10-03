@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useTranslation } from '../i18n/LanguageContext';
 import { setPageSEO } from '../utils/seo';
+import { homeMeta } from '../seo/meta';
 import Nav from '../components/Nav';
 import Hero from '../components/home/Hero';
 import Credentials from '../components/home/Credentials';
@@ -23,8 +24,8 @@ export default function HomePage() {
 
   useEffect(() => {
     setPageSEO({
-      title: t('siteTitle'),
-      description: t('metaDescription'),
+      title: homeMeta(lang).title,
+      description: homeMeta(lang).description,
       path: '/',
       type: 'website',
       lang,

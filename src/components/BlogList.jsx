@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from '../i18n/LanguageContext';
 import { setPageSEO } from '../utils/seo';
+import { blogIndexMeta } from '../seo/meta';
 import { fill, PHONE_DISPLAY, PHONE_TEL, whatsappUrl } from '../utils/format';
 import { posts } from '../blog';
 import Nav from './Nav';
@@ -63,8 +64,8 @@ export default function BlogList() {
 
   useEffect(() => {
     setPageSEO({
-      title: `${t('blog.title')} | ${t('siteTitle')}`,
-      description: t('blog.subtitle'),
+      title: blogIndexMeta(lang).title,
+      description: blogIndexMeta(lang).description,
       path: '/blog',
       type: 'website',
       lang,
