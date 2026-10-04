@@ -9,6 +9,7 @@ const SLIDES = [
   { src: '/assets/clinic/ra-desk-corner.webp', width: 1344, height: 1536, pos: '50% 40%' },
   { src: '/assets/clinic/tu-green-square.webp', width: 1536, height: 1536, pos: '50% 50%' },
   { src: '/assets/clinic/ra-table-swing.webp', width: 864, height: 1536, pos: '50% 55%' },
+  { src: '/assets/clinic/tu-green-wide2.webp', width: 1600, height: 768, pos: '75% 50%' },
   { src: '/assets/clinic/white-room.webp', width: 1152, height: 1536, pos: '50% 45%' },
 ];
 
