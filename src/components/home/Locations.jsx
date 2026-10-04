@@ -3,18 +3,26 @@ import { PHONE_TEL, israelDay } from '../../utils/format';
 import { PhoneIcon, PinIcon } from '../icons';
 import './Locations.css';
 
+// Reception hours per clinic, as given by the client. Days: 0 = Sunday.
 const CLINICS = [
-  { id: 'ta', img: '/assets/loc-telaviv.webp', waze: 'https://www.waze.com/ul?ll=32.10796593277039,34.79845703185863&navigate=yes', address: 'contact.centerAddress' },
-  { id: 'tu', img: '/assets/loc-tuval.webp', waze: 'https://www.waze.com/ul?ll=32.92684384968411,35.2425406270441&navigate=yes', address: 'contact.northAddress' },
+  {
+    id: 'ta', img: '/assets/loc-telaviv.webp', waze: 'https://www.waze.com/ul?ll=32.10796593277039,34.79845703185863&navigate=yes', address: 'contact.centerAddress',
+    hours: [
+      { day: 0, time: '14:00–20:00' },
+      { day: 2, time: '08:00–14:00' },
+    ],
+  },
+  {
+    id: 'tu', img: '/assets/loc-tuval.webp', waze: 'https://www.waze.com/ul?ll=32.92684384968411,35.2425406270441&navigate=yes', address: 'contact.northAddress',
+    hours: [
+      { day: 1, time: '08:00–14:00, 16:00–20:00' },
+      { day: 3, time: '08:00–14:00, 16:00–20:00' },
+      { day: 5, time: '07:00–14:00' },
+    ],
+  },
 ];
 
-// Reception hours from the Google Business profile (shared by both clinics).
-const HOURS = [
-  { days: [1, 3], label: 'home.loc.monWed', time: '08:00–14:00, 16:00–20:00' },
-  { days: [5], label: 'home.loc.fri', time: '07:00–14:00' },
-  { days: [0, 2, 4], label: 'home.loc.sunTueThu', text: 'home.loc.byArrangement' },
-  { days: [6], label: 'home.loc.sat', text: 'home.loc.closed' },
-];
+const DAY_KEYS = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
 
 export default function Locations() {
   const { t } = useTranslation();
@@ -41,6 +49,14 @@ export default function Locations() {
                   <PinIcon />
                   <span>{t(c.address)}<small>{t(`home.loc.${c.id}Sub`)}</small></span>
                 </address>
+                <dl className="loc-hours" aria-label={t('home.loc.hours')}>
+                  {c.hours.map((h) => (
+                    <div key={h.day} className={h.day === today ? 'today' : undefined}>
+                      <dt>{t(`home.loc.${DAY_KEYS[h.day]}`)}</dt>
+                      <dd dir="ltr">{h.time}</dd>
+                    </div>
+                  ))}
+                </dl>
                 <div className="loc-actions">
                   <a className="btn btn-waze" href={c.waze} target="_blank" rel="noopener noreferrer">
                     <img src="/assets/waze-badge.png" alt="" width="24" height="24" />{t('home.loc.waze')}
@@ -51,18 +67,7 @@ export default function Locations() {
             </article>
           ))}
         </div>
-        <div className="hours-strip rv">
-          <h3>{t('home.loc.hours')}</h3>
-          <dl>
-            {HOURS.map((h) => (
-              <div key={h.label} className={h.days.includes(today) ? 'today' : undefined}>
-                <dt>{t(h.label)}</dt>
-                <dd dir={h.time ? 'ltr' : undefined}>{h.time || t(h.text)}</dd>
-              </div>
-            ))}
-          </dl>
-          <p className="hours-note">{t('home.loc.hoursNote')}</p>
-        </div>
+        <p className="hours-note rv">{t('home.loc.hoursNote')}</p>
       </div>
     </section>
   );

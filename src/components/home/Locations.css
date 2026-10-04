@@ -53,24 +53,12 @@
 .loc address small { display: block; color: var(--muted); font-size: var(--s-xs); }
 .loc-actions { display: flex; gap: 0.6rem; flex-wrap: wrap; margin-top: auto; }
 
-.hours-strip {
-  margin-top: clamp(1rem, 2.5vw, 1.75rem);
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 1rem 2.25rem;
-  padding: 1.1rem 1.5rem;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  background: var(--ground);
-}
-.hours-strip h3 { font-size: 1.05rem; }
-.hours-strip dl { display: flex; flex-wrap: wrap; gap: 0.6rem 2rem; }
-.hours-strip dl > div { display: flex; flex-direction: column; }
-.hours-strip dt { font-size: var(--s-xs); color: var(--muted); }
-.hours-strip dd { font: 500 var(--s-sm) var(--f-mono); color: var(--ink); font-variant-numeric: tabular-nums; }
-.hours-strip .today dt { color: var(--teal); font-weight: 600; }
-.hours-note { flex-basis: 100%; font-size: var(--s-xs); color: var(--muted); }
+.loc-hours { display: flex; flex-direction: column; gap: 0.35rem; margin: 0; }
+.loc-hours > div { display: flex; justify-content: space-between; gap: 1rem; padding-bottom: 0.35rem; border-bottom: 1px solid var(--line); }
+.loc-hours dt { font-size: var(--s-sm); color: var(--muted); }
+.loc-hours dd { font: 500 var(--s-sm) var(--f-mono); color: var(--ink); font-variant-numeric: tabular-nums; margin: 0; }
+.loc-hours .today dt { color: var(--teal); font-weight: 600; }
+.hours-note { margin-top: clamp(1rem, 2.5vw, 1.75rem); text-align: center; font-size: var(--s-xs); color: var(--muted); }
 
 @media (max-width: 760px) {
   .locs { grid-template-columns: 1fr; }

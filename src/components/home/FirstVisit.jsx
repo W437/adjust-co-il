@@ -1,4 +1,5 @@
 import { useTranslation } from '../../i18n/LanguageContext';
+import ClinicGallery from './ClinicGallery';
 import './FirstVisit.css';
 
 const STEP_COLORS = ['#1f9e97', '#2b72b8', '#5361c9'];
@@ -28,12 +29,7 @@ export default function FirstVisit() {
           </ol>
         </div>
         <div className="room">
-          <figure className="rv">
-            <div className="room-ph">
-              <img className="drift" src="/assets/tuval-room.webp" alt={t('home.visit.roomAlt')} width="1400" height="1050" loading="lazy" decoding="async" />
-            </div>
-            <figcaption>{t('home.visit.roomCap')}</figcaption>
-          </figure>
+          <ClinicGallery />
           <div className="bring facts rv">
             <h3>{t('home.visit.factsH')}</h3>
             <ul>{facts.map((f) => <li key={f}>{f}</li>)}</ul>

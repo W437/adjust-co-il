@@ -1125,8 +1125,6 @@
           "p": "A plan built from the techniques that fit your case, with a realistic estimate of how many sessions it should take."
         }
       ],
-      "roomAlt": "Treatment room at the Tuval clinic in warm afternoon light, with a chiropractic table and anatomy posters",
-      "roomCap": "Treatment room, Tuval clinic",
       "bringH": "What to bring",
       "bring": [
         "Any imaging you have: X-ray, MRI or CT, even from years ago",
@@ -1138,7 +1136,37 @@
       "facts": [
         "You can ask about price and length before booking.",
         "Treatment in the same session, according to clinical fit."
-      ]
+      ],
+      "gallery": {
+        "slides": [
+          {
+            "alt": "Treatment room at the Tuval clinic in warm afternoon light, with a chiropractic table and anatomy posters",
+            "cap": "Treatment room, Tuval clinic"
+          },
+          {
+            "alt": "Treatment room at the Ramat Aviv clinic with anatomy posters, bookshelves, framed diplomas and a chiropractic table",
+            "cap": "Treatment room, Ramat Aviv clinic"
+          },
+          {
+            "alt": "Desk area at the Tuval clinic, with a sage green wall, a wooden desk and an exercise ball",
+            "cap": "Consultation corner, Tuval clinic"
+          },
+          {
+            "alt": "Chiropractic table at the Ramat Aviv clinic, with framed diplomas and a yoga swing on the wall",
+            "cap": "Chiropractic table, Ramat Aviv clinic"
+          },
+          {
+            "alt": "Bright treatment room with a white treatment bed and a white cabinet",
+            "cap": "Treatment room"
+          }
+        ],
+        "label": "Clinic photos",
+        "prev": "Previous photo",
+        "next": "Next photo",
+        "open": "Enlarge photo",
+        "close": "Close",
+        "goto": "Go to photo"
+      }
     },
     "sessions": {
       "label": "How many sessions?",
@@ -1236,12 +1264,13 @@
       "hours": "Reception hours",
       "fri": "Friday",
       "sat": "Saturday",
-      "closed": "Closed",
-      "monWed": "Monday & Wednesday",
-      "sunTueThu": "Sunday, Tuesday & Thursday",
-      "byArrangement": "By prior arrangement",
       "hoursNote": "All visits are by prior arrangement only. We'll confirm by phone which clinic you'll be seen at on each day.",
-      "call": "Call to arrange"
+      "call": "Call to arrange",
+      "sun": "Sunday",
+      "mon": "Monday",
+      "tue": "Tuesday",
+      "wed": "Wednesday",
+      "thu": "Thursday"
     },
     "book": {
       "label": "Arrange an appointment",
