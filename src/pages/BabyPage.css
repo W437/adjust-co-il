@@ -1,0 +1,55 @@
+.baby-hero { padding-block: clamp(2.25rem, 5vw, 4.5rem) clamp(1.5rem, 3vw, 2.5rem); }
+.baby-hero-copy { display: flex; flex-direction: column; gap: 1.25rem; max-width: 46rem; margin-bottom: clamp(1.75rem, 4vw, 3rem); }
+.baby-hero h1 { font-size: clamp(2.1rem, 4.8vw, 3.6rem); }
+.baby-lede { font-size: 1.15rem; max-width: 36em; }
+.baby-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; }
+.baby-hero-img { border-radius: 22px; overflow: hidden; background: var(--photo); aspect-ratio: 2 / 1; }
+.baby-hero-img img { width: 100%; height: 100%; object-fit: cover; }
+
+.baby-two { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 4.5rem); align-items: start; }
+.baby-two h2, .baby-about h2, .baby-cta h2 { font-size: var(--s-xl); margin-bottom: 1rem; }
+.baby-body { font-size: var(--s-md); max-width: 36em; }
+
+.baby-note { margin-top: 1.75rem; padding: 1rem 1.25rem; border-inline-start: 3px solid var(--teal); background: var(--ground); border-radius: 4px 12px 12px 4px; color: var(--ink); }
+[dir="rtl"] .baby-note { border-radius: 12px 4px 4px 12px; }
+.baby-photo { border-radius: 22px; overflow: hidden; background: var(--photo); aspect-ratio: 4 / 5; }
+.baby-photo img { width: 100%; height: 100%; object-fit: cover; }
+
+.baby-about { display: grid; grid-template-columns: 0.7fr 1.3fr; gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
+.baby-portrait {
+  border-radius: 22px;
+  overflow: hidden;
+  aspect-ratio: 4 / 5;
+  max-width: 320px;
+  background: radial-gradient(120% 90% at 70% 15%, var(--photo-hi), var(--photo) 70%);
+}
+.baby-portrait img { width: 100%; height: 100%; object-fit: cover; object-position: top center; mix-blend-mode: multiply; }
+.baby-name { font-family: var(--f-mono); font-size: var(--s-sm); color: var(--teal); margin-bottom: 0.75rem; }
+[dir="rtl"] .baby-name { font-family: var(--f-body); font-weight: 600; }
+
+.baby-locs { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(1rem, 2.5vw, 1.75rem); }
+.baby-loc { background: var(--paper); border: 1px solid var(--line); border-radius: 22px; overflow: hidden; display: flex; flex-direction: column; min-width: 0; }
+.baby-loc-img { aspect-ratio: 16 / 10; overflow: hidden; background: var(--photo); }
+.baby-loc-img img { width: 100%; height: 100%; object-fit: cover; }
+.baby-loc-body { padding: clamp(1.25rem, 3vw, 1.6rem); display: flex; flex-direction: column; gap: 0.9rem; }
+.baby-loc-body h3 { font-size: 1.5rem; }
+.baby-loc address { font-style: normal; display: flex; align-items: flex-start; gap: 0.55rem; color: var(--ink); }
+.baby-loc address svg { width: 18px; height: 18px; flex: none; color: var(--teal); margin-top: 4px; }
+.baby-loc-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+
+.baby-cta { display: flex; flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+.baby-cta .baby-actions { margin-top: 1rem; }
+.baby-disclaimer { padding-block: 1.75rem 2.5rem; text-align: center; font-size: var(--s-xs); color: var(--muted); }
+
+@media (max-width: 880px) {
+  .baby-two, .baby-about { grid-template-columns: 1fr; }
+  .baby-hero-img { aspect-ratio: 3 / 2; }
+  .baby-photo { aspect-ratio: 4 / 3; }
+  .baby-portrait { max-width: 240px; }
+}
+@media (max-width: 760px) {
+  .baby-locs { grid-template-columns: 1fr; }
+}
+@media (max-width: 560px) {
+  .baby-actions .btn { flex: 1 1 100%; }
+}

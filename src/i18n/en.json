@@ -13,7 +13,6 @@
       "Sports Rehab Expert",
       "IDF Medical Corps",
       "Yoga-Based Rehab",
-      "Ministry of Health Licensed",
       "Dry Needling & IMS",
       "Posture Correction"
     ]
@@ -42,10 +41,6 @@
         "sub": "DUT, South Africa"
       },
       {
-        "title": "Ministry of Health",
-        "sub": "Licensed"
-      },
-      {
         "title": "IDF Medical Corps",
         "sub": "Air Crew Chiropractor"
       },
@@ -56,7 +51,7 @@
     ],
     "ctaPrimary": "Book a Consultation",
     "ctaSecondary": "Explore Services",
-    "doctorName": "Dr. Victor Duani",
+    "doctorName": "Dr. Victor Duani, Chiropractor",
     "doctorCredential": "Doctor of Chiropractic, South Africa",
     "doctorFeatures": [
       "Specializing in sports injuries, spinal health, and rehabilitation",
@@ -91,7 +86,6 @@
     "credentials": [
       "Doctor of Chiropractic, DUT, South Africa",
       "Israeli Chiropractic Society",
-      "Ministry of Health Licensed",
       "IDF Medical Corps, Air Crew Chiropractor"
     ],
     "cta": "Book a Consultation"
@@ -152,10 +146,10 @@
   "testimonials": {
     "eyebrow": "Testimonials",
     "heading": "What Our Patients Are Saying",
-    "sub": "Real reviews from real patients. Average rating 4.9 out of 5.",
+    "sub": "Real reviews from real patients. Average rating 5.0 out of 5.",
     "reviewCount": "36",
-    "totalReviewCount": "79",
-    "avgRating": "4.9",
+    "totalReviewCount": "43",
+    "avgRating": "5.0",
     "totalReviews": "Total Reviews",
     "showMore": "Show More Reviews",
     "showLess": "Show Less",
@@ -768,7 +762,7 @@
         "label": "Years"
       },
       {
-        "number": "4.9",
+        "number": "5.0",
         "label": "Rating"
       },
       {
@@ -776,7 +770,7 @@
         "label": "Locations"
       },
       {
-        "number": "79",
+        "number": "43",
         "label": "Reviews"
       }
     ]
@@ -809,10 +803,6 @@
       {
         "number": "2",
         "label": "Clinic Locations"
-      },
-      {
-        "number": "Licensed",
-        "label": "Ministry of Health"
       },
       {
         "number": "Yoga",
@@ -938,20 +928,19 @@
     "about": "About",
     "reviews": "Reviews",
     "clinics": "Clinics",
-    "blog": "Blog"
+    "blog": "Blog",
+    "baby": "Babies"
   },
   "home": {
     "hero": {
       "h1": "Rehabilitative chiropractic for back and neck pain",
-      "h1Em": "Dr. Victor Duani",
+      "h1Em": "Dr. Victor Duani, Chiropractor",
       "lede": "Diagnosis, treatment and a personal movement plan. Clinics in Ramat Aviv and Tuval.",
-      "proofReviews": "79 Google reviews",
-      "proofLicensed": "Licensed",
-      "proofMoh": "Ministry of Health",
+      "proofReviews": "43 Google reviews",
       "proofSheba": "Sheba & Assaf Harofeh",
       "proofFormerly": "Hospital rehab background",
       "alt": "Dr. Victor Duani, rehabilitative chiropractor",
-      "name": "Dr. Victor Duani",
+      "name": "Dr. Victor Duani, Chiropractor",
       "cred": "Doctor of Chiropractic · DUT, South Africa · 2010",
       "motto": "Your body is built to heal when it moves well."
     },
@@ -1204,8 +1193,8 @@
     "reviews": {
       "label": "Patient reviews",
       "h2": "What patients say after treatment",
-      "count": "79 reviews on Google",
-      "ratingAria": "4.9 out of 5",
+      "count": "43 reviews on Google",
+      "ratingAria": "5.0 out of 5",
       "featured": "I came to Dr. Victor with pain that had been following me for nearly 8 years. The lower back pain disappeared completely and hasn't come back even after six months.",
       "featuredWho": "Y. · Google review",
       "featuredTag": "Lower back pain",
@@ -1311,6 +1300,13 @@
       "rights": "All rights reserved.",
       "privacy": "Privacy policy",
       "a11y": "Accessibility statement"
+    },
+    "baby": {
+      "label": "Babies & parents",
+      "h2": "Gentle touch for babies and parents",
+      "p": "Dr. Victor Duani, chiropractor, also works with babies and parents: a conversation, a gentle exam and a plain-language explanation. Parents stay next to their baby throughout the visit.",
+      "cta": "To the babies page",
+      "alt": "A clean, bright treatment room with a white treatment table and a white cabinet"
     }
   },
   "pages": {
@@ -1403,5 +1399,101 @@
         }
       ]
     }
+  },
+  "baby": {
+    "crumb": "Chiropractic for babies",
+    "eyebrow": "Chiropractic for babies",
+    "h1": "Baby care, and peace of mind for parents",
+    "lede": "Over 15 years of experience treating babies, with a tailored, gentle approach, and usually within a small number of treatments.",
+    "wa": "Chat on WhatsApp",
+    "book": "Arrange an appointment",
+    "heroAlt": "A bright treatment room at the Tuval clinic, with large windows, a desk and soft light",
+    "who": {
+      "h": "Who it's for",
+      "p": "Are you the parent of a baby, and something is on your mind? Maybe your lactation consultant, doula, physiotherapist or pediatrician suggested you come in."
+    },
+    "why": {
+      "h": "What brings parents to me",
+      "p": "Whether you had a natural birth, a caesarean or a vacuum delivery, there can be difficulties with breastfeeding, gas, a change in how often your baby poops, ongoing crying, a preference for one side or restless sleep. All of these are very common and normal, and don't necessarily point to a problem. Still, they can be a sign of nervous-system discomfort, so it's worth coming in for an exam and, if needed, treatment."
+    },
+    "visit": {
+      "h": "What a visit looks like",
+      "steps": [
+        {
+          "h": "A conversation",
+          "p": "We start by talking. I ask, you tell me, and I listen."
+        },
+        {
+          "h": "A gentle exam",
+          "p": "Then a gentle exam, with you right next to your baby the whole time."
+        },
+        {
+          "h": "A plain-language explanation",
+          "p": "At the end I explain in plain words what I saw and what I recommend."
+        }
+      ],
+      "note": "No pressure and no decisions on the spot. The worry of “what will they do to my baby” fades right away.",
+      "alt": "A clean, bright treatment room with a white treatment table and a white cabinet"
+    },
+    "about": {
+      "h": "A little about me",
+      "name": "Victor Duani, Chiropractor",
+      "p": "I'm Victor, a chiropractor. I work with adults, and with babies and parents too. With babies I work slowly and gently, and I believe parents should understand everything that happens in the room. If you like, come meet me and ask your questions.",
+      "alt": "Dr. Victor Duani, chiropractor, standing with a slight smile"
+    },
+    "faq": {
+      "h": "Frequently asked questions",
+      "durationSentence": "A visit takes about {min} minutes.",
+      "items": [
+        {
+          "q": "Is it safe?",
+          "a": "The exam is gentle, and you are with us the whole time. I first check whether you need to see the pediatrician. If something isn't suitable, I'll tell you."
+        },
+        {
+          "q": "What does a visit look like, and what should I bring?",
+          "a": "Bring the baby's health record from the well-baby clinic (Tipat Halav), and your questions.",
+          "a2": "You can feed or soothe your baby during the visit."
+        },
+        {
+          "q": "What can I expect?",
+          "a": "I don't promise results. I'll tell you what I saw and what I recommend, and you decide."
+        },
+        {
+          "q": "Do I need a doctor's referral?",
+          "a": "Not required. But I'm glad when parents also keep the pediatrician informed."
+        },
+        {
+          "q": "When should I see a doctor right away?",
+          "a": "High fever, difficulty breathing, floppiness, or anything that worries you: go to a doctor or the ER, before coming to me."
+        },
+        {
+          "q": "How much does it cost?",
+          "a": "I'm happy to answer on WhatsApp.",
+          "link": true
+        },
+        {
+          "q": "Where are you?",
+          "a": "In Ramat Aviv and in Tuval. Full addresses are below."
+        }
+      ]
+    },
+    "loc": {
+      "h": "Where we are",
+      "ta": "Ramat Aviv",
+      "tu": "Tuval",
+      "taAddr": "Brodetzky 36, Tel Aviv",
+      "tuAddr": "Tuval (near Karmiel)",
+      "taAlt": "The treatment room at the Ramat Aviv clinic: a treatment table, a work corner and anatomy posters",
+      "tuAlt": "The treatment room at the Tuval clinic: a treatment table, large windows and a desk",
+      "waze": "Navigate with Waze",
+      "call": "Call",
+      "note": "All visits are by prior arrangement. We'll confirm which clinic you'll be seen at on each day."
+    },
+    "cta": {
+      "h": "Want to ask something before booking?",
+      "p": "Message me on WhatsApp and I'll get back to you."
+    },
+    "disclaimer": "The information on this site is general and is not a substitute for medical advice. In an emergency, see a doctor or go to the ER.",
+    "waMessage": "Hello Dr. Victor, I'm interested in an appointment for my baby. Baby's age: "
   }
 }

@@ -22,6 +22,7 @@ export default function Nav() {
   const [active, setActive] = useState('');
   const isHome = basePath === '/';
   const onBlog = basePath.startsWith('/blog');
+  const onBaby = basePath.startsWith('/baby');
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 8);
@@ -54,6 +55,7 @@ export default function Nav() {
 
   const links = (
     <>
+      <Link to={localizePath('/baby')} className="nav-baby" onClick={close} aria-current={onBaby ? 'page' : undefined}>{t('nav2.baby')}</Link>
       {SECTIONS.map(({ hash, key }) => (
         <SectionLink key={hash} hash={hash} onClick={close} aria-current={isHome && active === hash ? 'true' : undefined}>
           {t(key)}

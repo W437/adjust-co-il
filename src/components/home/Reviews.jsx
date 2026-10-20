@@ -16,7 +16,7 @@ const AVATAR_COLORS = ['#1f9e97', '#2893b3', '#2b72b8', '#4468c6', '#5361c9'];
 const PAGE = 9;
 // Update both when the rating / review count above is re-checked on Google.
 const GOOGLE_REVIEWS_URL = 'https://share.google/QKvdk9jZohF7j2IgH';
-const REVIEWS_CHECKED = new Date(2026, 9, 1);
+const REVIEWS_CHECKED = new Date(2026, 9, 20);
 
 function inCat(i, id) {
   if (id === 'all') return true;
@@ -51,11 +51,6 @@ export default function Reviews() {
     const out = {};
     CATS.forEach((c) => { out[c.id] = items.filter((_, i) => inCat(i, c.id)).length; });
     return out;
-  }, [items]);
-  const dist = useMemo(() => {
-    const d = [0, 0, 0, 0, 0, 0];
-    items.forEach((r) => { d[r.rating || 5] += 1; });
-    return d;
   }, [items]);
 
   const dateFmt = (d) => {
@@ -101,7 +96,7 @@ export default function Reviews() {
         <div className="rev-top">
           <div className="score-card rv">
             <div className="score-row">
-              <span className="score-num">4.9</span>
+              <span className="score-num">5.0</span>
               <div>
                 <Stars n={5} label={t('home.reviews.ratingAria')} />
                 <small>{t('home.reviews.count')}</small>
@@ -109,15 +104,6 @@ export default function Reviews() {
             </div>
             <a className="btn btn-ghost google-link" href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer">{t('home.reviews.google')}</a>
             <small className="rev-updated">{fill(t('home.reviews.updated'), { d: new Intl.DateTimeFormat(lang === 'he' ? 'he-IL' : 'en-US', { month: 'long', year: 'numeric' }).format(REVIEWS_CHECKED) })}</small>
-            <div className="dist">
-              {[5, 4, 3, 2, 1].map((s) => (
-                <div className="dist-row" key={s}>
-                  <span>{s} ★</span>
-                  <span className="dist-bar"><b style={{ '--w': `${((dist[s] / items.length) * 100).toFixed(1)}%` }} /></span>
-                  <span>{dist[s]}</span>
-                </div>
-              ))}
-            </div>
           </div>
           <figure className="featured rv rv-2">
             <blockquote><p>{lang === 'he' ? '״' : '“'}{t('home.reviews.featured')}{lang === 'he' ? '״' : '”'}</p></blockquote>

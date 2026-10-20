@@ -74,3 +74,14 @@
   .top-book { display: none; }
   .top-logo img { height: 30px; }
 }
+
+.top-nav a.nav-baby {
+  color: var(--teal);
+  font-weight: 600;
+  padding: 0.3rem 0.8rem;
+  border-radius: 99px;
+  background: color-mix(in srgb, var(--teal) 12%, transparent);
+}
+.top-nav a.nav-baby::after { display: none; }
+.top-nav a.nav-baby:hover, .top-nav a.nav-baby[aria-current] { color: var(--teal); background: color-mix(in srgb, var(--teal) 20%, transparent); }
+.menu-in a.nav-baby { color: var(--teal); font-weight: 600; }

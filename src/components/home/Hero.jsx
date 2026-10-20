@@ -28,8 +28,7 @@ export default function Hero() {
             <a className="btn btn-ghost" href={PHONE_TEL}><PhoneIcon /><span dir="ltr">{PHONE_DISPLAY}</span></a>
           </div>
           <div className="proof">
-            <div><b><span className="stars" aria-hidden="true">★★★★★</span>4.9</b><span>{t('home.hero.proofReviews')}</span></div>
-            <div><b>{t('home.hero.proofLicensed')}</b><span>{t('home.hero.proofMoh')}</span></div>
+            <div><b><span className="stars" aria-hidden="true">★★★★★</span>5.0</b><span>{t('home.hero.proofReviews')}</span></div>
             <div><b>{t('home.hero.proofSheba')}</b><span>{t('home.hero.proofFormerly')}</span></div>
           </div>
         </div>

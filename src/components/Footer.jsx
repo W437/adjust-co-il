@@ -6,7 +6,7 @@ import MobileBottomBar from './MobileBottomBar';
 import { PHONE_DISPLAY, PHONE_TEL, EMAIL, whatsappUrl } from '../utils/format';
 import './Footer.css';
 
-export default function Footer() {
+export default function Footer({ waMessage, babyBar = false }) {
   const { t, lang, localizePath } = useTranslation();
 
   return (
@@ -34,6 +34,7 @@ export default function Footer() {
           <div className="footer-col">
             <h2>{t('home.footer.explore')}</h2>
             <ul>
+              <li><Link to={localizePath('/baby')}>{t('nav2.baby')}</Link></li>
               <li><SectionLink hash="conditions">{t('nav2.conditions')}</SectionLink></li>
               <li><SectionLink hash="about">{t('nav2.about')}</SectionLink></li>
               <li><SectionLink hash="testimonials">{t('nav2.reviews')}</SectionLink></li>
@@ -56,7 +57,7 @@ export default function Footer() {
             <h2>{t('home.footer.contact')}</h2>
             <ul>
               <li><a href={PHONE_TEL} dir="ltr">{PHONE_DISPLAY}</a></li>
-              <li><a href={whatsappUrl(t('ui.waMessage'))} target="_blank" rel="noopener noreferrer">{t('ui.whatsapp')}</a></li>
+              <li><a href={whatsappUrl(waMessage || t('ui.waMessage'))} target="_blank" rel="noopener noreferrer">{t('ui.whatsapp')}</a></li>
               <li><a href={`mailto:${EMAIL}`} dir="ltr">{EMAIL}</a></li>
               <li><SectionLink hash="clinics">{t('contact.centerAddress')}</SectionLink></li>
               <li><SectionLink hash="clinics">{t('contact.northAddress')}</SectionLink></li>
@@ -74,7 +75,7 @@ export default function Footer() {
           <span>built by <a href="https://elalw.com" target="_blank" rel="noopener noreferrer">elalw.com</a></span>
         </div>
       </footer>
-      <MobileBottomBar />
+      <MobileBottomBar waMessage={waMessage} baby={babyBar} />
     </>
   );
 }

@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { pageUrls, postMeta, serviceMeta, homeMeta, blogIndexMeta } from '../src/seo/meta.js';
+import { pageUrls, postMeta, serviceMeta, homeMeta, blogIndexMeta, babyMeta } from '../src/seo/meta.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, '..');
@@ -184,6 +184,10 @@ async function main() {
     add(lang, '/', homeMeta(lang));
     add(lang, '/blog', blogIndexMeta(lang), {
       crumbs: crumbsFor(lang, '/blog', []).map((c) => ({ ...c, name: c.name || L[lang].blog })),
+    });
+    add(lang, '/baby', babyMeta(lang), {
+      image: '/assets/clinic/tu-green-wide.webp',
+      crumbs: crumbsFor(lang, '/baby', []).map((c) => ({ ...c, name: c.name || L[lang].i18n.baby.crumb })),
     });
     for (const [slug, key] of [['privacy', 'privacy'], ['accessibility', 'a11y']]) {
       add(lang, `/${slug}`, {

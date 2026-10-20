@@ -74,6 +74,7 @@ async function main() {
   };
 
   pair('/', siteDate);
+  pair('/baby', siteDate);
   pair('/blog', siteDate);
   for (const post of posts) pair(`/blog/${post.slug}`, post.updated || post.date);
   for (const svc of services) pair(`/services/${svc.slug}`, siteDate);

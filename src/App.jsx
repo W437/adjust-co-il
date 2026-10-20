@@ -5,6 +5,7 @@ import BlogList from './components/BlogList';
 import BlogPost from './components/BlogPost';
 import ServicePage from './components/ServicePage';
 import LegalPage from './pages/LegalPage';
+import BabyPage from './pages/BabyPage';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
         <Route path="/blog" element={<BlogList />} />
         <Route path="/blog/:slug" element={<BlogPost />} />
         <Route path="/services/:slug" element={<ServicePage />} />
+        <Route path="/baby" element={<BabyPage />} />
         <Route path="/privacy" element={<LegalPage page="privacy" />} />
         <Route path="/accessibility" element={<LegalPage page="a11y" />} />
 
@@ -23,6 +25,7 @@ export default function App() {
         <Route path="/en/blog" element={<BlogList />} />
         <Route path="/en/blog/:slug" element={<BlogPost />} />
         <Route path="/en/services/:slug" element={<ServicePage />} />
+        <Route path="/en/baby" element={<BabyPage />} />
         <Route path="/en/privacy" element={<LegalPage page="privacy" />} />
         <Route path="/en/accessibility" element={<LegalPage page="a11y" />} />
 

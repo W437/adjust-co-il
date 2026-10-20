@@ -20,6 +20,19 @@ export const HOME = {
   },
 };
 
+export const BABY = {
+  he: {
+    title: 'כירופרקטיקה לתינוקות | ד״ר ויקטור דואני, כירופרקט',
+    description:
+      'טיפול עדין בתינוקות ושקט נפשי להורים: שיחה, בדיקה עדינה והסבר במילים פשוטות. ד״ר ויקטור דואני, כירופרקט, ברמת אביב ובתובל.',
+  },
+  en: {
+    title: 'Chiropractor for Babies | Dr. Victor Duani, Chiropractor',
+    description:
+      'Gentle care for babies and peace of mind for parents: a conversation, a gentle exam and a plain-language explanation. Dr. Victor Duani, chiropractor, in Ramat Aviv and Tuval.',
+  },
+};
+
 export const BLOG_INDEX = {
   he: {
     title: 'בלוג כירופרקטיקה: מדריכים לכאבי גב וצוואר',
@@ -259,6 +272,10 @@ export function serviceMeta(service, lang) {
 
 export function homeMeta(lang) {
   return HOME[lang];
+}
+
+export function babyMeta(lang) {
+  return BABY[lang];
 }
 
 export function blogIndexMeta(lang) {

@@ -83,7 +83,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a Ministry of Health–licensed chiropractor with over 20 years of clinical experience and a 4.9 patient rating. His rehabilitative approach treats the cause of your pain, not only the symptom, and every plan is built around getting you back to the activities that matter to you, with clinics in both Tel Aviv and Tuval (Karmiel).',
+        text: 'Dr. Victor Duani is a chiropractor with over 20 years of clinical experience. His rehabilitative approach treats the cause of your pain, not only the symptom, and every plan is built around getting you back to the activities that matter to you, with clinics in both Tel Aviv and Tuval (Karmiel).',
       },
     ],
     faq: [
@@ -182,7 +182,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד״ר ויקטור דואני הוא כירופרקט בעל רישיון משרד הבריאות, עם למעלה מ‑20 שנות ניסיון קליני ודירוג מטופלים של 4.9. הגישה השיקומית שלו מטפלת בשורש הכאב, ולא רק בסימפטום, וכל תוכנית נבנית סביב החזרה שלכם לפעילויות החשובות לכם, עם קליניקות בתל אביב ובתובל (כרמיאל).',
+        text: 'ד״ר ויקטור דואני הוא כירופרקט עם למעלה מ‑20 שנות ניסיון קליני. הגישה השיקומית שלו מטפלת בשורש הכאב, ולא רק בסימפטום, וכל תוכנית נבנית סביב החזרה שלכם לפעילויות החשובות לכם, עם קליניקות בתל אביב ובתובל (כרמיאל).',
       },
     ],
     faq: [

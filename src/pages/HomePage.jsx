@@ -5,6 +5,7 @@ import { setPageSEO } from '../utils/seo';
 import { homeMeta } from '../seo/meta';
 import Nav from '../components/Nav';
 import Hero from '../components/home/Hero';
+import BabyTeaser from '../components/home/BabyTeaser';
 import Credentials from '../components/home/Credentials';
 import ConditionFinder from '../components/home/ConditionFinder';
 import Techniques from '../components/home/Techniques';
@@ -47,6 +48,7 @@ export default function HomePage() {
       <main>
         <Hero />
         <Credentials />
+        <BabyTeaser />
         <ConditionFinder />
         <Techniques />
         <Journey />
