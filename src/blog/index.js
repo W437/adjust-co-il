@@ -15,7 +15,18 @@ import neckPainHeadaches from './posts/neck-pain-tension-headaches';
 import whiplashRecovery from './posts/whiplash-car-accident-recovery';
 import howManySessions from './posts/how-many-chiropractic-sessions-needed';
 
+import pelvicPainPregnancy from './posts/pelvic-pain-pregnancy';
+import sideEffectsRisks from './posts/chiropractic-side-effects-risks';
+import bedtimeRoutine from './posts/bedtime-routine-chronic-back-pain';
+import sciaticaSurgery from './posts/sciatica-surgery-when-needed';
+import babyHeadPreference from './posts/baby-head-preference-torticollis';
+
 export const posts = [
+  pelvicPainPregnancy,
+  sideEffectsRisks,
+  bedtimeRoutine,
+  sciaticaSurgery,
+  babyHeadPreference,
   howManySessions,
   whiplashRecovery,
   neckPainHeadaches,

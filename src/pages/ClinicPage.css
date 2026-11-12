@@ -1,0 +1,27 @@
+.clinic-hero { padding-block: clamp(2.5rem, 7vw, 5rem) clamp(1.5rem, 4vw, 3rem); }
+.clinic-hero .wrap { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
+.clinic-hero h1 { font-size: var(--s-hero); line-height: 1.08; margin-block: 0.6rem 1rem; text-wrap: balance; }
+.clinic-lede { font-size: var(--s-lg); color: var(--ink-soft); max-width: 36em; }
+.clinic-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.5rem; }
+.clinic-hero-img { margin: 0; border-radius: 22px; overflow: hidden; background: var(--photo); aspect-ratio: 4 / 3; }
+.clinic-hero-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.clinic-body { max-width: 52rem; padding-block: clamp(1rem, 3vw, 2rem) clamp(3rem, 8vw, 5rem); display: flex; flex-direction: column; gap: clamp(1.8rem, 4vw, 2.6rem); }
+.clinic-body h2 { font-size: var(--s-lg); margin-bottom: 0.5rem; }
+.clinic-body p { max-width: 40em; color: var(--ink-soft); }
+.clinic-addr { display: flex; align-items: center; gap: 0.5rem; font-style: normal; font-weight: 600; margin-bottom: 0.5rem; }
+.clinic-addr svg { width: 18px; height: 18px; color: var(--action); flex: none; }
+.clinic-body .btn-waze { margin-top: 0.9rem; }
+.clinic-hours { display: grid; gap: 0.4rem; max-width: 28rem; margin-bottom: 0.8rem; }
+.clinic-hours > div { display: flex; justify-content: space-between; gap: 1rem; padding: 0.55rem 0.9rem; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); }
+.clinic-hours dt { font-weight: 600; }
+.clinic-note { font-size: var(--s-sm); color: var(--muted); }
+.clinic-links { list-style: none; display: grid; gap: 0.35rem; margin-top: 0.6rem; }
+.clinic-links a, .clinic-body p a { color: var(--action); text-decoration: underline; text-underline-offset: 3px; }
+.clinic-faq details { border-bottom: 1px solid var(--line); padding-block: 0.7rem; }
+.clinic-faq summary { cursor: pointer; font-weight: 600; }
+.clinic-faq details p { margin-top: 0.5rem; }
+.clinic-cta { border: 1px solid var(--line); border-radius: 22px; background: var(--paper); padding: clamp(1.2rem, 3vw, 2rem); }
+@media (max-width: 800px) {
+  .clinic-hero .wrap { grid-template-columns: 1fr; }
+  .clinic-hero-img { order: -1; aspect-ratio: 16 / 10; }
+}

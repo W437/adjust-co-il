@@ -3,6 +3,7 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 import { pageUrls } from '../src/seo/meta.js';
+import { CLINIC_SLUGS } from '../src/clinics/pages.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, '..');
@@ -26,6 +27,11 @@ const POST_FILES = [
   'neck-pain-tension-headaches',
   'whiplash-car-accident-recovery',
   'how-many-chiropractic-sessions-needed',
+  'pelvic-pain-pregnancy',
+  'chiropractic-side-effects-risks',
+  'bedtime-routine-chronic-back-pain',
+  'sciatica-surgery-when-needed',
+  'baby-head-preference-torticollis',
 ];
 
 async function loadPosts() {
@@ -78,6 +84,7 @@ async function main() {
   pair('/blog', siteDate);
   for (const post of posts) pair(`/blog/${post.slug}`, post.updated || post.date);
   for (const svc of services) pair(`/services/${svc.slug}`, siteDate);
+  for (const slug of CLINIC_SLUGS) pair(`/clinics/${slug}`, siteDate);
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"

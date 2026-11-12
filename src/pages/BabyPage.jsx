@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import { useTranslation } from '../i18n/LanguageContext';
 import { setPageSEO } from '../utils/seo';
 import { babyMeta } from '../seo/meta';
@@ -33,7 +34,7 @@ function Img({ slot, alt, eager = false, sizes }) {
 }
 
 export default function BabyPage() {
-  const { t, lang } = useTranslation();
+  const { t, lang, localizePath } = useTranslation();
   const wa = whatsappUrl(t('baby.waMessage'));
   const steps = t('baby.visit.steps');
   const faq = t('baby.faq.items');
@@ -163,6 +164,7 @@ export default function BabyPage() {
                         <img src="/assets/waze-badge.png" alt="" width="24" height="24" />{t('baby.loc.waze')}
                       </a>
                       <a className="btn btn-ghost" href={PHONE_TEL}><PhoneIcon /><span dir="ltr">{PHONE_DISPLAY}</span></a>
+                      <Link className="btn btn-ghost" to={localizePath(`/clinics/${c.id === 'ta' ? 'ramat-aviv' : 'tuval'}`)}>{t('home.loc.clinicPage')}</Link>
                     </div>
                   </div>
                 </article>

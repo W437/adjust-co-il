@@ -59,8 +59,8 @@ export default function Footer({ waMessage, babyBar = false }) {
               <li><a href={PHONE_TEL} dir="ltr">{PHONE_DISPLAY}</a></li>
               <li><a href={whatsappUrl(waMessage || t('ui.waMessage'))} target="_blank" rel="noopener noreferrer">{t('ui.whatsapp')}</a></li>
               <li><a href={`mailto:${EMAIL}`} dir="ltr">{EMAIL}</a></li>
-              <li><SectionLink hash="clinics">{t('contact.centerAddress')}</SectionLink></li>
-              <li><SectionLink hash="clinics">{t('contact.northAddress')}</SectionLink></li>
+              <li><Link to={localizePath('/clinics/ramat-aviv')}>{t('contact.centerAddress')}</Link></li>
+              <li><Link to={localizePath('/clinics/tuval')}>{t('contact.northAddress')}</Link></li>
             </ul>
           </div>
         </div>

@@ -2,6 +2,7 @@ import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { pageUrls, postMeta, serviceMeta, homeMeta, blogIndexMeta, babyMeta } from '../src/seo/meta.js';
+import { CLINIC_SLUGS, CLINIC_PAGES, clinicMeta } from '../src/clinics/pages.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, '..');
@@ -31,6 +32,11 @@ async function loadPosts() {
     'neck-pain-tension-headaches',
     'whiplash-car-accident-recovery',
     'how-many-chiropractic-sessions-needed',
+    'pelvic-pain-pregnancy',
+    'chiropractic-side-effects-risks',
+    'bedtime-routine-chronic-back-pain',
+    'sciatica-surgery-when-needed',
+    'baby-head-preference-torticollis',
   ];
   const posts = [];
   for (const f of files) {
@@ -71,7 +77,7 @@ function buildRouteHtml({ template, lang, dir, title, description, basePath, ima
     // Clinic / Person schema and the hero image preloads describe the home page only.
     out = out.replace(/\n\s*<link rel="preload" as="image"[^>]*>/g, '');
     out = out.replace(/\n\s*<script type="application\/ld\+json">\s*\{[^]*?<\/script>/g, (m) =>
-      /"@type":\s*"(Chiropractor|Person)"/.test(m) ? '' : m);
+      /"@type":\s*"(MedicalClinic|Chiropractor|Person)"/.test(m) ? '' : m);
   }
   if (crumbs) {
     const ld = {
@@ -80,6 +86,33 @@ function buildRouteHtml({ template, lang, dir, title, description, basePath, ima
       itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.url })),
     };
     out = out.replace(/<\/head>/, `    <script type="application/ld+json">${JSON.stringify(ld)}</script>\n  </head>`);
+  }
+
+  if (basePath === '/baby') {
+    // Service node for the baby page: no outcome claims, no price, both clinics as providers.
+    const he_ = lang === 'he';
+    const svc = {
+      '@context': 'https://schema.org',
+      '@type': 'Service',
+      '@id': `${currentUrl}#service`,
+      name: he_ ? 'כירופרקטיקה לתינוקות' : 'Chiropractic for babies',
+      serviceType: he_ ? 'כירופרקטיקה לתינוקות' : 'Chiropractic care for babies',
+      description,
+      url: currentUrl,
+      image: imageUrl,
+      inLanguage: he_ ? 'he-IL' : 'en-US',
+      audience: { '@type': 'PeopleAudience', audienceType: he_ ? 'הורים לתינוקות' : 'Parents of babies' },
+      provider: ['telaviv', 'tuval'].map((c) => ({
+        '@type': 'MedicalClinic',
+        '@id': `${SITE_URL}/#clinic-${c}`,
+        name: he_
+          ? `adjust · ד״ר ויקטור דואני, כירופרקט${c === 'tuval' ? ' (תובל)' : ''}`
+          : `adjust · Dr. Victor Duani, Chiropractor${c === 'tuval' ? ' (Tuval)' : ''}`,
+        url: `${SITE_URL}/`,
+      })),
+      mainEntityOfPage: { '@type': 'WebPage', '@id': currentUrl },
+    };
+    out = out.replace(/<\/head>/, `    <script type="application/ld+json">${JSON.stringify(svc)}</script>\n  </head>`);
   }
 
   out = out.replace(/<html\s+[^>]*>/, `<html lang="${lang}" dir="${dir}">`);
@@ -225,6 +258,16 @@ async function main() {
       add(lang, bp, serviceMeta(svc, lang), {
         image: svc.image,
         crumbs: crumbsFor(lang, bp, []).map((c) => ({ ...c, name: c.name || (svc[lang] || svc.en).title })),
+      });
+    }
+  }
+
+  for (const slug of CLINIC_SLUGS) {
+    for (const lang of ['he', 'en']) {
+      const bp = `/clinics/${slug}`;
+      add(lang, bp, clinicMeta(slug, lang), {
+        image: CLINIC_PAGES[slug].image.src,
+        crumbs: crumbsFor(lang, bp, []).map((c) => ({ ...c, name: c.name || CLINIC_PAGES[slug][lang].crumb })),
       });
     }
   }

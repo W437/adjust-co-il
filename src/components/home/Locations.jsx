@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { useTranslation } from '../../i18n/LanguageContext';
 import { PHONE_TEL, israelDay } from '../../utils/format';
 import { CLINICS, DAY_KEYS } from '../../utils/clinics';
@@ -7,7 +8,7 @@ import './Locations.css';
 const IMAGES = { ta: '/assets/loc-telaviv.webp', tu: '/assets/loc-tuval.webp' };
 
 export default function Locations() {
-  const { t } = useTranslation();
+  const { t, localizePath } = useTranslation();
   const today = israelDay();
 
   return (
@@ -44,6 +45,7 @@ export default function Locations() {
                     <img src="/assets/waze-badge.png" alt="" width="24" height="24" />{t('home.loc.waze')}
                   </a>
                   <a className="btn btn-ghost" href={PHONE_TEL}><PhoneIcon />{t('home.loc.call')}</a>
+                  <Link className="btn btn-ghost" to={localizePath(`/clinics/${c.id === 'ta' ? 'ramat-aviv' : 'tuval'}`)}>{t('home.loc.clinicPage')}</Link>
                 </div>
               </div>
             </article>

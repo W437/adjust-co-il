@@ -9,6 +9,7 @@ const loaders = {
   ServicePage: () => import('./components/ServicePage'),
   LegalPage: () => import('./pages/LegalPage'),
   BabyPage: () => import('./pages/BabyPage'),
+  ClinicPage: () => import('./pages/ClinicPage'),
   NotFound: () => import('./pages/NotFound'),
 };
 
@@ -27,6 +28,7 @@ export function preloadRoute(pathname) {
   else if (/^\/blog\/[^/]+$/.test(path)) key = 'BlogPost';
   else if (/^\/services\/[^/]+$/.test(path)) key = 'ServicePage';
   else if (path === '/baby') key = 'BabyPage';
+  else if (/^\/clinics\/[^/]+$/.test(path)) key = 'ClinicPage';
   else if (path === '/privacy' || path === '/accessibility') key = 'LegalPage';
   return loaders[key]();
 }
