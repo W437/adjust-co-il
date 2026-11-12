@@ -233,6 +233,24 @@ async function main() {
     count++;
   }
 
+  // Real 404 page: Netlify serves dist/404.html with status 404 for any unknown URL.
+  let nf = buildRouteHtml({
+    template,
+    body: render('/page-not-found'),
+    lang: 'he',
+    dir: 'rtl',
+    title: `404 | ${he.siteTitle}`,
+    description: he.siteTitle,
+    basePath: '/404',
+  });
+  nf = nf
+    .replace(/\n\s*<link\s+rel="canonical"[^>]*>/, '')
+    .replace(/\n\s*<link\s+rel="alternate"\s+hreflang[^>]*>/g, '')
+    .replace(/\n\s*<meta\s+property="og:url"[^>]*>/, '')
+    .replace(/<meta\s+name="robots"\s+content="[^"]*"\s*\/?>/, '<meta name="robots" content="noindex" />')
+    .replace(/<meta\s+name="googlebot"\s+content="[^"]*"\s*\/?>/, '<meta name="googlebot" content="noindex" />');
+  writeFileSync(join(distDir, '404.html'), nf);
+
   console.log(`✓ Prerendered ${count} routes (${empty} without an h1)`);
 }
 

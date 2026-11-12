@@ -34,7 +34,7 @@ export default function Hero() {
         </div>
 
         <figure className={`portrait${settled ? '' : ' pre'}`}>
-          <img src="/assets/dr-victor-v2.webp" alt={t('home.hero.alt')} width="839" height="1080" fetchPriority="high" decoding="async" />
+          <img src="/assets/dr-victor-v2.webp" alt={t('home.hero.alt')} width="839" height="1080" decoding="async" />
           <SpineDots className="dots" />
           <figcaption>
             <strong>{t('home.hero.name')}</strong>
