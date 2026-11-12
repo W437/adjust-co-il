@@ -70,8 +70,16 @@ const POSTS = {
     },
   },
   'sleeping-positions-back-pain': {
-    he: { title: 'תנוחות שינה שעוזרות (ומזיקות) לכאבי גב' },
-    en: { title: 'Best (and Worst) Sleeping Positions for Back Pain' },
+    he: {
+      title: 'תנוחות שינה לכאבי גב: מה עוזר ומה מכביד',
+      description:
+        'איך לישון עם כאבי גב: תנוחות שינה שיכולות להקל, תנוחות שכדאי להימנע מהן, וגם כרית, מזרן ומתיחות קלות לבוקר. מדריך מאת ד״ר ויקטור דואני.',
+    },
+    en: {
+      title: 'Best (and Worst) Sleeping Positions for Back Pain',
+      description:
+        'Which sleeping positions can ease back pain and which make it worse, plus pillow, mattress and morning stretch tips from Dr. Victor Duani.',
+    },
   },
   'yoga-and-chiropractic': {
     he: { title: 'יוגה וכירופרקטיקה: איך משלבים לבריאות הגב' },
@@ -79,11 +87,15 @@ const POSTS = {
   },
   'pregnancy-back-pain': {
     he: {
-      title: 'כירופרקט בהריון: כאבי גב וטיפול בטוח',
+      title: 'כירופרקט בהריון: כאבי גב, אגן ומפרק SI',
       description:
         'כירופרקט בהריון: איך טיפול עדין יכול להקל על כאבי גב, מפרק SI ואגן, מתי מתאים ומתי כדאי להתייעץ קודם עם הרופא או המיילדת.',
     },
-    en: { title: 'Chiropractor in Pregnancy: Back Pain & Safe Care' },
+    en: {
+      title: 'Chiropractor in Pregnancy: Back, Pelvic & SI Pain',
+      description:
+        'Prenatal chiropractic for pregnancy back, pelvic and SI joint pain: what gentle care involves, when it suits and when to check with your doctor or midwife.',
+    },
   },
   'what-is-a-chiropractor': {
     he: { title: 'מה זה כירופרקטור? מדריך למטופלים חדשים' },
@@ -94,7 +106,11 @@ const POSTS = {
     },
   },
   'chiropractor-vs-osteopath-vs-physiotherapist': {
-    he: { title: 'כירופרקט, אוסטאופת או פיזיותרפיסט: למי לפנות?' },
+    he: {
+      title: 'פיזיותרפיה או כירופרקטיקה? ההבדלים ולמי לפנות',
+      description:
+        'פיזיותרפיה, כירופרקטיקה או אוסטאופתיה: מה ההבדל האמיתי בין הגישות, במה כל אחת מטפלת ולמי כדאי לפנות לכאבי גב, פציעת ספורט או כאב כרוני.',
+    },
     en: {
       title: 'Chiropractor vs Osteopath vs Physiotherapist',
       description:
@@ -110,7 +126,11 @@ const POSTS = {
     },
   },
   'is-chiropractic-safe-myths': {
-    he: { title: 'האם כירופרקטיקה מסוכנת? 7 מיתוסים ומה הראיות' },
+    he: {
+      title: 'האם כירופרקט מסוכן? 7 מיתוסים ומה הראיות',
+      description:
+        'האם כירופרקט מסוכן? קול הפיצוח, סיכון לשבץ, השפעות ארוכות טווח ומתי כדאי להיזהר: 7 מיתוסים נפוצים נבדקים מול הראיות, מאת ד״ר ויקטור דואני.',
+    },
     en: {
       title: 'Is Chiropractic Safe? 7 Common Myths, Checked',
       description:
@@ -126,14 +146,18 @@ const POSTS = {
     },
   },
   'sciatica-relief-without-surgery': {
-    he: { title: 'סיאטיקה: מה טיפול כירופרקטי יכול ולא יכול לתת' },
+    he: {
+      title: 'סיאטיקה: מה טיפול כירופרקטי יכול ולא יכול לתת',
+      description:
+        'טיפול בסיאטיקה ללא ניתוח: מה גורם לכאב בעצב הסיאטי, מה טיפול כירופרקטי יכול ולא יכול לתת ומתי חשוב לפנות לרופא. מאת ד״ר ויקטור דואני.',
+    },
     en: { title: 'Sciatica: What Chiropractic Care Can and Can\'t Do' },
   },
   'herniated-disc-treatment-chiropractic': {
     he: {
       title: 'כירופרקט לפריצת דיסק: מה אפשר ומה לא',
       description:
-        'כירופרקט לפריצת דיסק: איך נראה טיפול שמרני, שיקום והדרכה, מתי הוא מתאים ומתי צריך הפניה לרופא. מדריך מאת ד״ר ויקטור דואני.',
+        'טיפול כירופרקטי בפריצת דיסק: איך נראה טיפול שמרני, שיקום והדרכה, מתי הוא מתאים ומתי צריך הפניה לרופא. מדריך מאת ד״ר ויקטור דואני.',
     },
     en: {
       title: 'Herniated Disc: Can a Chiropractor Help?',
@@ -238,9 +262,9 @@ const SERVICES = {
   },
   'posture-improvement': {
     he: {
-      title: 'שיפור יציבה ברמת אביב ובתובל',
+      title: 'שיפור יציבה בצפון תל אביב (רמת אביב) ובתובל',
       description:
-        'שיפור יציבה עם ד״ר ויקטור דואני: אבחון יציבה מלא וטיפול מתקן לחוסר איזון מעבודה מול מסך, פציעות והרגלי יום-יום. קליניקות ברמת אביב ובתובל.',
+        'שיפור יציבה בצפון תל אביב עם ד״ר ויקטור דואני: אבחון יציבה מלא וטיפול מתקן לעבודה מול מסך, פציעות והרגלי יום-יום. קליניקות ברמת אביב ובתובל.',
     },
     en: {
       title: 'Posture Improvement in Ramat Aviv & Tuval',
