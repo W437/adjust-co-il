@@ -142,6 +142,12 @@ function buildRouteHtml({ template, lang, dir, title, description, basePath, ima
   return out;
 }
 
+// React's string renderer emits <link rel="preload"> hints at the start of the
+// output. They would sit inside #root (a hydration mismatch) and make phones
+// download desktop-only images early, so drop them; the head already preloads
+// the logo.
+const stripPreloadHints = (html) => html.replace(/^(?:<link rel="preload"[^>]*\/>)+/, '');
+
 function writeRoute(distPath, html) {
   const target = join(distDir, distPath, 'index.html');
   mkdirSync(dirname(target), { recursive: true });
@@ -226,7 +232,7 @@ async function main() {
   let count = 0;
   let empty = 0;
   for (const r of routes) {
-    const body = render(r.urlPath);
+    const body = stripPreloadHints(render(r.urlPath));
     if (!/<h1[\s>]/.test(body)) { empty++; console.warn(`  ! no <h1> rendered for ${r.urlPath}`); }
     const html = buildRouteHtml({ template, body, ...r });
     writeRoute(r.distPath, html);
@@ -236,7 +242,7 @@ async function main() {
   // Real 404 page: Netlify serves dist/404.html with status 404 for any unknown URL.
   let nf = buildRouteHtml({
     template,
-    body: render('/page-not-found'),
+    body: stripPreloadHints(render('/page-not-found')),
     lang: 'he',
     dir: 'rtl',
     title: `404 | ${he.siteTitle}`,
