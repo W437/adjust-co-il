@@ -4,147 +4,95 @@ export default {
   image: '/assets/blog/is-chiropractic-safe-myths.webp',
   readTime: 8,
   en: {
-    title: 'Is Chiropractic Treatment Safe? 7 Common Myths Debunked by a Practitioner',
+    title: 'Chiropractic Safety: An Honest Look at Risks and Side Effects',
     excerpt:
-      'Is chiropractic safe? Will it damage your spine? Is the cracking sound bad? A practicing chiropractor answers the 7 most common safety questions and explains what the evidence actually shows.',
+      'Who should see a doctor first, which side effects are common, and what the evidence does and does not say about neck manipulation and stroke. A calm look at the risks of chiropractic care.',
     metaDescription:
-      'Is chiropractic treatment safe? A practitioner debunks 7 common myths about chiropractic safety, the cracking sound, stroke risk, and long-term effects, with evidence.',
+      'An honest look at chiropractic risks and side effects: red flags, who should be checked first, common mild reactions, and what the evidence says about neck manipulation and stroke.',
     content: [
       {
         type: 'paragraph',
-        text: '"Is chiropractic actually safe?" is one of the most common questions a new patient asks, and it deserves a straight answer. The short version: when performed by a properly trained, licensed chiropractor on appropriately screened patients, chiropractic care has an excellent safety profile that compares favorably with many other treatments for back and neck pain, including long-term painkiller use.',
-      },
-      {
-        type: 'paragraph',
-        text: 'But the longer answer matters too, because there are real myths circulating, and patients deserve to understand both what is true and what is not. This article addresses the seven most common safety concerns directly.',
+        text: '"Is chiropractic safe?" is one of the most common questions a new patient asks, and a fair answer is more detailed than yes or no. Like almost every treatment, chiropractic care carries some risk. Most reactions are mild and short-lived, serious events are reported to be rare, and how much risk applies to you depends on your condition, your age, the technique used and how carefully you are screened beforehand. This article walks through that picture as plainly as we can. If you are new to the profession, you may also want to read <a href="/en/blog/what-is-a-chiropractor/">what a chiropractor is and what the training involves</a>.',
       },
       {
         type: 'heading',
-        text: 'Myth 1: "Chiropractic Adjustments Can Damage Your Spine"',
+        text: 'Who Should Be Checked by a Doctor First',
       },
       {
         type: 'paragraph',
-        text: 'This is the single biggest source of anxiety for first-time patients. The reality is that chiropractic adjustments are <strong>low-force, controlled movements</strong> applied to specific joints, not the dramatic, full-body twists shown in viral videos. A proper adjustment is fast and precise, but the force involved is much smaller than what your spine handles every day during normal activities like sitting up, lifting groceries, or rolling over in bed.',
-      },
-      {
-        type: 'paragraph',
-        text: 'Serious adverse events from chiropractic care are extremely rare in the published literature. Far more spinal damage is caused by years of poor posture, untreated movement dysfunction, and uncorrected disc problems than by a skilled adjustment.',
-      },
-      {
-        type: 'heading',
-        text: 'Myth 2: "Once You Start, You Have to Go Forever"',
-      },
-      {
-        type: 'paragraph',
-        text: 'This is a misunderstanding worth correcting clearly. A responsible course of chiropractic care has a defined goal and a defined endpoint. Most patients with a specific complaint (back pain, sciatica, headache) improve within a relatively short course of treatment (often 4–10 sessions, depending on the condition) and then taper off or stop altogether.',
-      },
-      {
-        type: 'paragraph',
-        text: 'Some patients <em>choose</em> to come back for occasional maintenance visits, the way you might see a dentist for a check-up. That is a choice, not a requirement, and a good chiropractor will tell you clearly when active treatment is no longer needed.',
-      },
-      {
-        type: 'paragraph',
-        text: 'If a clinic is pressuring you into open-ended, indefinite care without measurable improvement, that is a problem with the clinic, not with chiropractic.',
-      },
-      {
-        type: 'heading',
-        text: 'Myth 3: "The Cracking Sound Means Something Is Breaking"',
-      },
-      {
-        type: 'paragraph',
-        text: 'The "pop" or "crack" you hear during an adjustment is a phenomenon called <strong>cavitation</strong>. It is caused by a tiny gas bubble forming and collapsing inside the synovial fluid of the joint as the joint surfaces briefly separate. The same sound happens when you crack your knuckles, and decades of research has confirmed it does not damage the joint.',
-      },
-      {
-        type: 'paragraph',
-        text: 'The sound is also not a measure of how "successful" the adjustment was. Plenty of effective adjustments are completely silent. Skilled chiropractors care about restoring proper joint motion, not about generating noise.',
-      },
-      {
-        type: 'heading',
-        text: 'Myth 4: "Chiropractic Causes Strokes"',
-      },
-      {
-        type: 'paragraph',
-        text: 'This is one of the most persistent (and most misunderstood) concerns. Here is what the research actually shows:',
+        text: 'The most important safety step happens before any treatment: working out whether your symptoms are the kind a chiropractor should be treating at all. Seek medical assessment first, not chiropractic treatment, if you have:',
       },
       {
         type: 'list',
         items: [
-          'There is a very rare condition called <strong>vertebral artery dissection</strong>, in which one of the arteries supplying the back of the brain develops a tear. This can lead to stroke.',
-          'People with an early, undiagnosed dissection often experience neck pain or headache as the <em>first symptom</em>, which leads them to seek treatment from a chiropractor, massage therapist, or doctor.',
-          'Large epidemiological studies comparing chiropractic patients to patients visiting primary care physicians for the same symptoms have found <em>no increased stroke rate</em> among the chiropractic group. In other words: the stroke risk is associated with the underlying condition, not with the treatment.',
-          'A responsible chiropractor screens carefully for red flags (sudden severe headache unlike any before, dizziness with neurological symptoms, visual disturbance) and refers immediately when something does not look like a routine musculoskeletal problem.',
-        ],
-      },
-      {
-        type: 'paragraph',
-        text: 'Stroke is a serious risk to take seriously, but the data does not support the idea that chiropractic <em>causes</em> it. The risk is associated with a rare condition that can mimic ordinary neck pain.',
-      },
-      {
-        type: 'heading',
-        text: 'Myth 5: "Chiropractic Is Only for Adults With Back Pain"',
-      },
-      {
-        type: 'paragraph',
-        text: 'Chiropractic care can benefit patients across a wide age range, including:',
-      },
-      {
-        type: 'list',
-        items: [
-          '<strong>Older adults</strong>, with techniques modified for bone density and joint condition',
-          '<strong>Pregnant women</strong>, with specialized prenatal techniques and pillows',
-          '<strong>Athletes</strong>, for injury recovery and performance maintenance',
-          'Adults of any age with headaches, neck pain, joint problems, sports injuries, or posture-related issues',
-        ],
-      },
-      {
-        type: 'paragraph',
-        text: 'For very young children, chiropractic care should only be performed by practitioners with specific pediatric training, using extremely gentle techniques. Most general chiropractors will refer to a pediatric specialist when appropriate.',
-      },
-      {
-        type: 'heading',
-        text: 'Myth 6: "Chiropractic Is Not Evidence-Based"',
-      },
-      {
-        type: 'paragraph',
-        text: 'This was once a more reasonable criticism than it is today. Over the past two decades, a substantial body of clinical research has examined chiropractic care, particularly for low back pain and neck pain. Major national health guidelines, including those issued by NICE in the UK and the American College of Physicians, list <strong>spinal manipulation</strong> as a recommended first-line treatment for non-specific low back pain, ahead of opioids and other pharmaceutical approaches.',
-      },
-      {
-        type: 'paragraph',
-        text: 'Like any field, chiropractic includes a range of practitioners, from rigorously evidence-based to fringe. Choosing a clinician trained at a reputable school, who integrates rehabilitation and refers when needed, gives you the evidence-based version of the profession.',
-      },
-      {
-        type: 'heading',
-        text: 'Myth 7: "If I Have a Herniated Disc, Chiropractic Is Dangerous"',
-      },
-      {
-        type: 'paragraph',
-        text: 'This is a particularly important myth to correct, because so many disc patients are sent away believing surgery is their only option. The truth: many cases of herniated and bulging discs respond very well to conservative chiropractic care, often combined with rehabilitation exercises and decompression-style techniques. Adjustments for disc patients are <em>different</em> (gentler, often instrument-assisted or mobilization-based rather than high-velocity), and a properly trained chiropractor will adapt the approach accordingly.',
-      },
-      {
-        type: 'paragraph',
-        text: 'Surgery is sometimes the right call, but it is rarely the <em>first</em> right call. A conservative trial of structured, rehabilitation-focused chiropractic care is reasonable for most disc patients before surgical referral becomes the appropriate next step.',
-      },
-      {
-        type: 'heading',
-        text: 'When Chiropractic Is Not the Right Answer',
-      },
-      {
-        type: 'paragraph',
-        text: 'Honesty matters. Chiropractic care is not appropriate in every situation. You should seek immediate medical care, not chiropractic, for:',
-      },
-      {
-        type: 'list',
-        items: [
-          'Suspected fracture or significant recent trauma',
+          'A suspected fracture or significant recent trauma',
           'Progressive loss of bladder or bowel control',
-          'Rapidly worsening neurological symptoms: sudden weakness, numbness in the saddle area',
-          'Unexplained weight loss, fever, or other systemic signs that may indicate infection or cancer',
-          'A sudden severe headache unlike any you have experienced before',
+          'Rapidly worsening neurological symptoms, such as sudden weakness or numbness in the saddle area',
+          'Unexplained weight loss, fever, or other general signs that may point to infection or cancer',
+          'A sudden, severe headache unlike any you have had before, especially together with neck pain',
+          'Dizziness, double vision, slurred speech or facial numbness that appears suddenly',
         ],
       },
       {
         type: 'paragraph',
-        text: 'A responsible chiropractor will recognize these red flags and refer you immediately. That is a sign of a competent clinician, not a limitation of the field.',
+        text: 'Some conditions do not rule out chiropractic care but call for extra caution or a modified approach: previous spinal surgery, osteoporosis, blood-thinning medication, a known disc problem, or a history of cancer. Tell your practitioner about these before the first visit. A careful clinician will ask, examine, and refer you on when something falls outside chiropractic care. That is part of doing the job properly, not a weakness of the profession.',
+      },
+      {
+        type: 'heading',
+        text: 'Common Side Effects: Usually Mild and Short-Lived',
+      },
+      {
+        type: 'paragraph',
+        text: 'Some people notice temporary soreness, stiffness, tiredness or a mild headache after treatment, much like after unfamiliar exercise. These reactions usually settle within a day or two, but they are a real part of the experience and worth knowing about in advance. Persistent, worsening or unusual symptoms should be reported to your practitioner promptly. We cover this in more detail in our guide to <a href="/en/blog/chiropractic-side-effects-risks/">chiropractic side effects and risks</a>.',
+      },
+      {
+        type: 'paragraph',
+        text: 'The "crack" you sometimes hear during an adjustment is generally attributed to a gas bubble shifting within the joint fluid (cavitation), the same sound as cracking a knuckle. It is not generally thought to mean that something is breaking, and plenty of effective treatments are silent, so the sound is not a measure of whether the treatment worked.',
+      },
+      {
+        type: 'heading',
+        text: 'Neck Manipulation and Stroke: What We Know and Do Not Know',
+      },
+      {
+        type: 'paragraph',
+        text: 'This is the most serious concern people raise, and it deserves an honest account rather than reassurance or alarm. The relevant condition is <strong>cervical (vertebral) artery dissection</strong>, a tear in the wall of an artery in the neck that can, in some cases, lead to a stroke. It is uncommon, but it is one of the recognized causes of stroke in younger and middle-aged adults.',
+      },
+      {
+        type: 'list',
+        items: [
+          '<strong>There is an association, and its cause is debated.</strong> Studies have found that people who have had a dissection or stroke were more likely to have had neck manipulation recently. The 2014 American Heart Association / American Stroke Association scientific statement (<a href="https://www.ahajournals.org/doi/10.1161/STR.0000000000000016" target="_blank" rel="noopener noreferrer">Biller et al., Stroke</a>) concluded that an association exists, but that a causal link has not been established. It also advised that patients be told about the possible association before neck manipulation.',
+          '<strong>Reverse causation is a real possibility.</strong> Neck pain and headache can be the first symptoms of a dissection that has already started, so some people seek care from a chiropractor, a family doctor or a physiotherapist shortly before a stroke. A large Ontario study (<a href="https://pubmed.ncbi.nlm.nih.gov/18204390/" target="_blank" rel="noopener noreferrer">Cassidy et al., Spine, 2008</a>) found a similar pattern of visits before stroke for chiropractors and for family doctors, and concluded there was no evidence of extra risk from chiropractic care compared with primary care. Other researchers argue that studies of this kind cannot fully separate the two explanations.',
+          '<strong>The size of the risk is uncertain.</strong> Published estimates vary widely depending on the study design, the population and how events are counted. The events are rare enough that no randomized trial can settle the question, so the evidence comes from observational studies, which can show association but not prove cause.',
+          '<strong>Many people writing about this have a stake in the answer.</strong> Chiropractic researchers have a professional interest in the safety of their field, and critics may have interests of their own. This is a reason to look at the methods and the cautious wording of independent bodies, not at headlines from either side.',
+        ],
+      },
+      {
+        type: 'paragraph',
+        text: 'What does this mean in practice? Neck manipulation is a choice, not an obligation. You can ask your practitioner what the alternatives are, such as gentler mobilization, soft tissue work, or exercise, and whether high-velocity neck manipulation is really needed for your problem. You can decline it. If you develop a sudden, severe headache or neck pain that feels different from your usual pain, dizziness, double vision, difficulty speaking, or weakness or numbness in the face or limbs, at any time, whether or not you have had treatment, go to emergency care rather than waiting for a scheduled appointment. If you want to know how neck problems are approached at our clinic, see <a href="/en/blog/neck-pain-tension-headaches/">our article on neck pain and tension headaches</a>.',
+      },
+      {
+        type: 'heading',
+        text: 'Does It Have to Be Forever?',
+      },
+      {
+        type: 'paragraph',
+        text: 'No. A responsible course of care has a goal and a point at which you reassess. Many people with a specific complaint are treated over a limited number of sessions, and some choose occasional follow-up visits, which is a choice rather than a requirement. If a clinic pressures you into open-ended care without measurable progress, that is a reason to ask questions or look elsewhere. See also <a href="/en/blog/how-many-chiropractic-sessions-needed/">how many sessions people typically need</a>.',
+      },
+      {
+        type: 'heading',
+        text: 'Pregnancy, Children and Older Adults',
+      },
+      {
+        type: 'paragraph',
+        text: 'Techniques are adapted to the person. In older adults the approach is modified for bone density and joint condition. During pregnancy, treatment is usually gentler and uses positioning and pillows suited to the stage of pregnancy, and some women should be seen by their obstetric team first; our article on <a href="/en/blog/pregnancy-back-pain/">back pain in pregnancy</a> goes through what to expect. For infants and young children, care should only be provided by practitioners with specific paediatric training, using very gentle methods, after a medical assessment where appropriate.',
+      },
+      {
+        type: 'heading',
+        text: 'What About the Evidence for Benefit?',
+      },
+      {
+        type: 'paragraph',
+        text: 'Safety has to be weighed against benefit. For low back pain, UK guidance from NICE (<a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener noreferrer">NG59</a>) says manual therapy, including spinal manipulation, can be considered, but only as part of a package of care that includes exercise, not as a stand-alone treatment. In other words, the evidence is supportive but modest, and good practice combines hands-on care with active rehabilitation. People with a herniated disc often worry that chiropractic is dangerous for them. Techniques are usually modified for disc problems, and surgery is sometimes the right step; the point is to be assessed properly first.',
       },
       {
         type: 'heading',
@@ -152,7 +100,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience. After graduating from the Durban University of Technology (DUT) School of Chiropractic in South Africa, he worked at Assaf Harofeh Medical Center, managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, and served in the IDF Medical Corps reserves. His clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong> apply the same standards used in those medical settings: thorough screening, evidence-based techniques, and clear communication with patients about what chiropractic care can (and cannot) do.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience. After graduating from the Durban University of Technology (DUT) School of Chiropractic in South Africa, he worked at Assaf Harofeh Medical Center, managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, and served in the IDF Medical Corps reserves. His clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong> aim to apply the same standards used in those medical settings: careful screening, clear communication with patients about what chiropractic care can and cannot do, and referral when a case belongs elsewhere.',
       },
       {
         type: 'heading',
@@ -160,152 +108,100 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you have a specific medical history that makes you unsure about chiropractic (a previous spinal surgery, osteoporosis, a known disc problem), the best step is a phone call before scheduling. Dr. Duani can quickly tell you whether your case is appropriate for chiropractic, whether a modified approach is needed, or whether another specialist should see you first. Book a consultation or call the Tel Aviv or Tuval clinic. Getting clear answers is always free.',
+        text: 'If your medical history makes you unsure about chiropractic (a previous spinal surgery, osteoporosis, a known disc problem), the best step is a phone call before scheduling. Dr. Duani can tell you whether your case may be suitable for chiropractic, whether a modified approach is needed, or whether another specialist should see you first. Book a consultation or call the Ramat Aviv clinic or the Tuval clinic, near Karmiel.',
       },
     ],
   },
   he: {
-    title: 'האם טיפול כירופרקטי בטוח? 7 מיתוסים נפוצים שכירופרקטור מפריך',
+    title: 'מה כדאי לדעת על סיכונים ותופעות לוואי בטיפול כירופרקטי',
     excerpt:
-      'האם כירופרקטיקה בטוחה? האם היא תפגע בעמוד השדרה שלכם? האם קול הפיצוח רע? כירופרקטור פעיל עונה על 7 שאלות הבטיחות הנפוצות ביותר ומסביר מה המחקר באמת מראה.',
+      'מי צריך להיבדק אצל רופא קודם, אילו תופעות לוואי שכיחות, ומה הראיות אומרות (ולא אומרות) על מניפולציה בצוואר ושבץ. מבט רגוע על הסיכונים בטיפול כירופרקטי.',
     metaDescription:
-      'האם טיפול כירופרקטי בטוח? כירופרקטור מפריך 7 מיתוסים נפוצים לגבי בטיחות הכירופרקטיקה, קול הפיצוח, סיכון לשבץ והשפעות ארוכות טווח, עם ראיות.',
+      'מבט כן על הסיכונים ותופעות הלוואי של טיפול כירופרקטי: דגלים אדומים, מי צריך להיבדק קודם, תגובות קלות שכיחות, ומה הראיות אומרות על מניפולציה בצוואר ושבץ.',
     content: [
       {
         type: 'paragraph',
-        text: '"האם כירופרקטיקה באמת בטוחה?" היא אחת השאלות הנפוצות ביותר שמטופל חדש שואל, והיא ראויה לתשובה ישירה. הגרסה הקצרה: כשמבוצע על ידי כירופרקטור מוסמך עם הכשרה ראויה על מטופלים שעברו סינון מתאים, לטיפול הכירופרקטי יש פרופיל בטיחות מצוין שמשתווה לטובה לטיפולים רבים אחרים לכאבי גב וצוואר, כולל שימוש ארוך טווח במשככי כאבים.',
-      },
-      {
-        type: 'paragraph',
-        text: 'אבל גם התשובה הארוכה חשובה, כי יש מיתוסים אמיתיים שמסתובבים, ומטופלים ראויים להבין גם מה נכון וגם מה לא. המאמר הזה מטפל בשבעת חששות הבטיחות הנפוצים ביותר באופן ישיר.',
+        text: '"האם כירופרקטיקה בטוחה?" היא אחת השאלות הנפוצות ביותר שמטופל חדש שואל, ותשובה הוגנת מורכבת יותר מכן או לא. כמו כמעט כל טיפול, גם לטיפול כירופרקטי יש סיכונים מסוימים. רוב התגובות קלות וחולפות, אירועים חמורים מדווחים כנדירים, וגודל הסיכון שחל עליכם תלוי במצב שלכם, בגיל, בטכניקה שנבחרה ובמידת הקפדנות של הבדיקה שלפני הטיפול. המאמר הזה עובר על התמונה הזאת בפשטות ככל האפשר. אם אתם חדשים בתחום, אולי תרצו לקרוא גם <a href="/blog/what-is-a-chiropractor/">מה זה כירופרקט ומה כוללת ההכשרה שלו</a>.',
       },
       {
         type: 'heading',
-        text: 'מיתוס 1: "התאמות כירופרקטיות יכולות לפגוע בעמוד השדרה"',
+        text: 'מי צריך להיבדק אצל רופא קודם',
       },
       {
         type: 'paragraph',
-        text: 'זה המקור הגדול ביותר לחרדה אצל מטופלים בפעם הראשונה. המציאות היא שהתאמות כירופרקטיות הן <strong>תנועות מבוקרות בעוצמה נמוכה</strong> שמופעלות על מפרקים ספציפיים, לא הסיבובים הדרמטיים של כל הגוף שמוצגים בסרטונים ויראליים. התאמה תקינה היא מהירה ומדויקת, אבל הכוח המעורב קטן בהרבה ממה שעמוד השדרה מתמודד איתו מדי יום בפעילויות רגילות כמו ישיבה, נשיאת קניות או התהפכות במיטה.',
-      },
-      {
-        type: 'paragraph',
-        text: 'אירועים חמורים כתוצאה מטיפול כירופרקטי הם נדירים מאוד בספרות. הרבה יותר נזק לעמוד השדרה נגרם משנים של יציבה לקויה, מאי-תפקוד תנועתי שלא טופל, ומבעיות דיסק לא מתוקנות, מאשר מהתאמה מיומנת.',
-      },
-      {
-        type: 'heading',
-        text: 'מיתוס 2: "ברגע שמתחילים, צריך ללכת לכל החיים"',
-      },
-      {
-        type: 'paragraph',
-        text: 'זוהי אי-הבנה שכדאי לתקן בבירור. מסלול טיפולי כירופרקטי אחראי כולל מטרה מוגדרת ונקודת סיום מוגדרת. רוב המטופלים עם תלונה ספציפית (כאב גב, סיאטיקה, כאב ראש) משתפרים בתוך מספר מפגשים קצר יחסית (לרוב 4–10, תלוי במצב) ואז ממעטים או מפסיקים לחלוטין.',
-      },
-      {
-        type: 'paragraph',
-        text: 'חלק מהמטופלים <em>בוחרים</em> לחזור לטיפולי תחזוקה מדי פעם, כמו שמגיעים לרופא שיניים לבדיקה. זו בחירה, לא דרישה, וכירופרקטור טוב יגיד לכם בבירור מתי הטיפול הפעיל אינו נדרש עוד.',
-      },
-      {
-        type: 'paragraph',
-        text: 'אם מרפאה לוחצת אתכם להמשיך טיפול פתוח ובלתי מוגדר בלי שיפור מדיד, זו בעיה של המרפאה, לא של הכירופרקטיקה.',
-      },
-      {
-        type: 'heading',
-        text: 'מיתוס 3: "קול הפיצוח אומר שמשהו נשבר"',
-      },
-      {
-        type: 'paragraph',
-        text: 'ה"פופ" או "קראק" שאתם שומעים במהלך התאמה הוא תופעה שנקראת <strong>קוויטציה (cavitation)</strong>. היא נגרמת מבועית גז זעירה שנוצרת וקורסת בתוך נוזל הסינוביה של המפרק כאשר משטחי המפרק נפרדים לרגע. אותו צליל מתרחש כשמפצחים אצבעות, ועשרות שנות מחקר אישרו שזה לא פוגע במפרק.',
-      },
-      {
-        type: 'paragraph',
-        text: 'הצליל גם אינו מדד ל"הצלחה" של ההתאמה. הרבה התאמות יעילות הן שקטות לחלוטין. כירופרקטורים מיומנים אכפת להם משחזור תנועת מפרק תקינה, לא מהפקת רעש.',
-      },
-      {
-        type: 'heading',
-        text: 'מיתוס 4: "כירופרקטיקה גורמת לשבץ"',
-      },
-      {
-        type: 'paragraph',
-        text: 'זה אחד החששות העיקשים ביותר, והכי לא מובנים. הנה מה שהמחקר באמת מראה:',
-      },
-      {
-        type: 'list',
-        items: [
-          'ישנו מצב נדיר מאוד שנקרא <strong>דיסקציה של עורק הוורטברלי</strong>, שבו אחד העורקים המספקים דם לחלק האחורי של המוח מפתח קרע. זה עלול להוביל לשבץ.',
-          'אנשים עם דיסקציה מוקדמת לא מאובחנת חווים לעיתים קרובות כאב צוואר או כאב ראש כ<em>סימפטום הראשון</em>, מה שגורם להם לחפש טיפול אצל כירופרקטור, מעסה או רופא.',
-          'מחקרים אפידמיולוגיים גדולים שהשוו בין מטופלי כירופרקטיקה למטופלים שפנו לרופא משפחה עם אותם תסמינים מצאו <em>אין עלייה בשיעורי השבץ</em> בקבוצת הכירופרקטיקה. במילים אחרות: הסיכון לשבץ קשור למצב הבסיסי ולא לטיפול.',
-          'כירופרקטור אחראי סורק בקפדנות אחר דגלים אדומים (כאב ראש פתאומי חמור שלא דומה לאף אחד שהיה לפני, סחרחורת עם תסמינים נוירולוגיים, הפרעות ראייה) ומפנה מיד כשמשהו לא נראה כמו בעיה שלד-שרירית רגילה.',
-        ],
-      },
-      {
-        type: 'paragraph',
-        text: 'שבץ הוא סיכון רציני שיש לקחת ברצינות, אבל הנתונים לא תומכים ברעיון שהכירופרקטיקה <em>גורמת</em> לו. הסיכון קשור למצב נדיר שיכול לחקות כאב צוואר רגיל.',
-      },
-      {
-        type: 'heading',
-        text: 'מיתוס 5: "כירופרקטיקה היא רק למבוגרים עם כאבי גב"',
-      },
-      {
-        type: 'paragraph',
-        text: 'טיפול כירופרקטי יכול להועיל למטופלים בטווח גילים רחב, כולל:',
-      },
-      {
-        type: 'list',
-        items: [
-          '<strong>מבוגרים</strong>, עם טכניקות מותאמות לצפיפות עצם ומצב מפרקים',
-          '<strong>נשים בהריון</strong>, עם טכניקות וכריות ייעודיות טרום-לידתיות',
-          '<strong>ספורטאים</strong>, להחלמה מפציעות ולשימור ביצועים',
-          'מבוגרים בכל גיל עם כאבי ראש, כאבי צוואר, בעיות מפרקים, פציעות ספורט או בעיות יציבה',
-        ],
-      },
-      {
-        type: 'paragraph',
-        text: 'אצל ילדים צעירים מאוד, טיפול כירופרקטי צריך להתבצע רק על ידי מטפלים עם הכשרה ייעודית בילדים, באמצעות טכניקות עדינות במיוחד. רוב הכירופרקטורים הכלליים יפנו למומחה ילדים כשמתאים.',
-      },
-      {
-        type: 'heading',
-        text: 'מיתוס 6: "כירופרקטיקה אינה מבוססת מחקר"',
-      },
-      {
-        type: 'paragraph',
-        text: 'זו היתה פעם ביקורת סבירה יותר ממה שהיא היום. בעשרים השנים האחרונות, גוף מחקר קליני משמעותי בחן את הטיפול הכירופרקטי, במיוחד לכאבי גב תחתון ולכאבי צוואר. הנחיות לאומיות גדולות לבריאות, כולל אלה של NICE בבריטניה ושל American College of Physicians, מציינות <strong>מניפולציה של עמוד השדרה</strong> כטיפול קו ראשון מומלץ לכאב גב תחתון לא ספציפי, לפני אופיואידים וגישות תרופתיות אחרות.',
-      },
-      {
-        type: 'paragraph',
-        text: 'כמו בכל תחום, הכירופרקטיקה כוללת מגוון מטפלים, מקפדניים מבוססי-מחקר ועד שוליים. בחירת קלינאי שהוכשר בבית ספר מוכר, שמשלב שיקום ומפנה כשצריך, מספקת לכם את הגרסה מבוססת-המחקר של המקצוע.',
-      },
-      {
-        type: 'heading',
-        text: 'מיתוס 7: "אם יש לי פריצת דיסק, כירופרקטיקה מסוכנת"',
-      },
-      {
-        type: 'paragraph',
-        text: 'זה מיתוס חשוב במיוחד לתקן, כי כל כך הרבה מטופלים עם דיסק נשלחים הביתה באמונה שניתוח הוא האפשרות היחידה שלהם. האמת: מקרים רבים של פריצת דיסק ובליטת דיסק מגיבים טוב מאוד לטיפול כירופרקטי שמרני, לעיתים קרובות בשילוב עם תרגילי שיקום וטכניקות מבוססות דקומפרסיה. ההתאמות למטופלים עם דיסק <em>שונות</em> (עדינות יותר, לעיתים קרובות בעזרת מכשיר או מבוססות מוביליזציה ולא בעוצמה גבוהה), וכירופרקטור עם הכשרה ראויה יתאים את הגישה בהתאם.',
-      },
-      {
-        type: 'paragraph',
-        text: 'ניתוח הוא לפעמים הצעד הנכון, אבל הוא לעיתים רחוקות הצעד הנכון <em>הראשון</em>. ניסיון שמרני של טיפול כירופרקטי מובנה ומבוסס שיקום הוא סביר עבור רוב מטופלי הדיסק לפני שהפניה לניתוח הופכת לצעד הבא המתאים.',
-      },
-      {
-        type: 'heading',
-        text: 'מתי כירופרקטיקה אינה התשובה הנכונה',
-      },
-      {
-        type: 'paragraph',
-        text: 'הוגנות חשובה. טיפול כירופרקטי אינו מתאים בכל מצב. עליכם לחפש טיפול רפואי מיידי, לא כירופרקטי, עבור:',
+        text: 'הצעד החשוב ביותר מבחינת בטיחות קורה לפני כל טיפול: לברר אם התסמינים שלכם הם מסוג שכירופרקטור צריך לטפל בו בכלל. פנו להערכה רפואית קודם, ולא לטיפול כירופרקטי, אם יש לכם:',
       },
       {
         type: 'list',
         items: [
           'חשד לשבר או טראומה משמעותית לאחרונה',
           'איבוד מתקדם של שליטה על שלפוחית או מעיים',
-          'תסמינים נוירולוגיים שמחמירים במהירות: חולשה פתאומית, נימול באזור האוכף',
-          'ירידה בלתי מוסברת במשקל, חום, או סימנים מערכתיים אחרים שעשויים להעיד על זיהום או סרטן',
-          'כאב ראש פתאומי חמור שלא דומה לאף אחד שחוויתם',
+          'תסמינים נוירולוגיים שמחמירים במהירות, כמו חולשה פתאומית או נימול באזור האוכף',
+          'ירידה בלתי מוסברת במשקל, חום או סימנים כלליים אחרים שעשויים להעיד על זיהום או סרטן',
+          'כאב ראש פתאומי וחמור שלא דומה לאף כאב ראש שהיה לכם, במיוחד יחד עם כאב צוואר',
+          'סחרחורת, ראייה כפולה, דיבור מקוטע או נימול בפנים שמופיעים בפתאומיות',
         ],
       },
       {
         type: 'paragraph',
-        text: 'כירופרקטור אחראי יזהה את הדגלים האדומים האלה ויפנה אתכם מיד. זה סימן של קלינאי מוכשר, לא מגבלה של התחום.',
+        text: 'יש מצבים שאינם שוללים טיפול כירופרקטי אבל מחייבים זהירות נוספת או גישה מותאמת: ניתוח קודם בעמוד השדרה, אוסטיאופורוזיס, נטילת תרופות לדילול דם, בעיית דיסק ידועה או עבר של מחלה סרטנית. ספרו על כך למטפל כבר לפני הביקור הראשון. קלינאי זהיר ישאל, יבדוק ויפנה הלאה כשמשהו חורג מתחום הטיפול הכירופרקטי. זה חלק מעבודה נכונה, ולא חולשה של המקצוע.',
+      },
+      {
+        type: 'heading',
+        text: 'תופעות לוואי שכיחות: בדרך כלל קלות וחולפות',
+      },
+      {
+        type: 'paragraph',
+        text: 'יש אנשים שמרגישים אחרי הטיפול כאב או נוקשות זמניים, עייפות או כאב ראש קל, בדומה למה שקורה אחרי פעילות גופנית לא מוכרת. התגובות האלה חולפות בדרך כלל תוך יום-יומיים, אבל הן חלק אמיתי מהחוויה וכדאי לדעת עליהן מראש. תסמינים מתמשכים, מחמירים או חריגים כדאי לדווח עליהם למטפל במהירות. אנחנו מפרטים על כך יותר במדריך על <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי וסיכונים בטיפול כירופרקטי</a>.',
+      },
+      {
+        type: 'paragraph',
+        text: 'ה"קראק" ששומעים לפעמים במהלך התאמה מיוחס בדרך כלל לבועת גז שזזה בנוזל המפרק (קוויטציה), אותו צליל כמו פיצוח אצבע. לא מקובל לחשוב שהוא אומר שמשהו נשבר, והרבה טיפולים יעילים שקטים לגמרי, ולכן הצליל אינו מדד לשאלה אם הטיפול הצליח.',
+      },
+      {
+        type: 'heading',
+        text: 'מניפולציה בצוואר ושבץ: מה אנחנו יודעים ומה לא',
+      },
+      {
+        type: 'paragraph',
+        text: 'זה החשש החמור ביותר שמטופלים מעלים, והוא ראוי לתיאור כן ולא להרגעה ולא להפחדה. המצב הרלוונטי הוא <strong>דיסקציה של עורק צווארי (ורטברלי)</strong>, קרע בדופן עורק בצוואר שעלול במקרים מסוימים להוביל לשבץ. זה מצב לא שכיח, אבל הוא אחד הגורמים המוכרים לשבץ אצל צעירים ואנשים בגיל העמידה.',
+      },
+      {
+        type: 'list',
+        items: [
+          '<strong>יש קשר סטטיסטי, וסיבתו שנויה במחלוקת.</strong> מחקרים מצאו שאנשים שעברו דיסקציה או שבץ היו נוטים יותר לעבור לאחרונה מניפולציה בצוואר. ההצהרה המדעית של איגוד הלב האמריקאי ואיגוד השבץ מ-2014 (<a href="https://www.ahajournals.org/doi/10.1161/STR.0000000000000016" target="_blank" rel="noopener noreferrer">Biller ושות\', Stroke</a>) קבעה שקיים קשר, אך לא הוכח קשר סיבתי. היא גם המליצה ליידע מטופלים על הקשר האפשרי לפני מניפולציה בצוואר.',
+          '<strong>סיבתיות הפוכה היא אפשרות ממשית.</strong> כאב צוואר וכאב ראש יכולים להיות התסמינים הראשונים של דיסקציה שכבר החלה, ולכן יש אנשים שפונים לכירופרקטור, לרופא משפחה או לפיזיותרפיסט זמן קצר לפני שבץ. מחקר גדול באונטריו (<a href="https://pubmed.ncbi.nlm.nih.gov/18204390/" target="_blank" rel="noopener noreferrer">Cassidy ושות\', Spine, 2008</a>) מצא דפוס דומה של ביקורים לפני שבץ אצל כירופרקטורים ואצל רופאי משפחה, והסיק שאין ראיה לסיכון נוסף בטיפול כירופרקטי לעומת טיפול ראשוני. חוקרים אחרים טוענים שמחקרים מסוג זה אינם יכולים להפריד לגמרי בין שני ההסברים.',
+          '<strong>גודל הסיכון אינו ודאי.</strong> ההערכות שפורסמו משתנות מאוד, לפי תכנון המחקר, האוכלוסייה ושיטת ספירת האירועים. האירועים נדירים מספיק כך שאף ניסוי אקראי לא יכול להכריע בשאלה, ולכן הראיות מגיעות ממחקרי תצפית שיכולים להראות קשר אך לא להוכיח סיבה.',
+          '<strong>לרבים מהכותבים בנושא יש עניין בתשובה.</strong> לחוקרים כירופרקטים יש אינטרס מקצועי בבטיחות התחום שלהם, ולמבקרים יש לעיתים אינטרסים משלהם. זו סיבה להסתכל על שיטות המחקר ועל הניסוח הזהיר של גופים עצמאיים, ולא על כותרות מאף צד.',
+        ],
+      },
+      {
+        type: 'paragraph',
+        text: 'מה זה אומר בפועל? מניפולציה בצוואר היא בחירה ולא חובה. אפשר לשאול את המטפל מה החלופות, למשל מוביליזציה עדינה, עבודה על רקמות רכות או תרגילים, והאם מניפולציה מהירה בצוואר באמת נחוצה לבעיה שלכם. אפשר לסרב לה. אם מופיע כאב ראש פתאומי וחמור או כאב צוואר שמרגיש שונה מהכאב הרגיל שלכם, סחרחורת, ראייה כפולה, קושי בדיבור או חולשה או נימול בפנים או בגפיים, בכל עת, גם אם לא עברתם טיפול, פנו לטיפול חירום ואל תחכו לתור מתוכנן. על הגישה לבעיות צוואר אפשר לקרוא ב<a href="/blog/neck-pain-tension-headaches/">מאמר על כאבי צוואר וכאבי ראש מתח</a>.',
+      },
+      {
+        type: 'heading',
+        text: 'האם צריך ללכת לכל החיים?',
+      },
+      {
+        type: 'paragraph',
+        text: 'לא. מסלול טיפול אחראי כולל מטרה ונקודה שבה בודקים מחדש. אנשים רבים עם תלונה ספציפית מטופלים במספר מוגבל של מפגשים, ויש שבוחרים ביקורי המשך מדי פעם, וזו בחירה ולא דרישה. אם מרפאה לוחצת עליכם להמשיך טיפול פתוח בלי התקדמות מדידה, זו סיבה לשאול שאלות או לחפש במקום אחר. ראו גם <a href="/blog/how-many-chiropractic-sessions-needed/">כמה מפגשים אנשים צריכים בדרך כלל</a>.',
+      },
+      {
+        type: 'heading',
+        text: 'הריון, ילדים ומבוגרים',
+      },
+      {
+        type: 'paragraph',
+        text: 'הטכניקות מותאמות לאדם. אצל קשישים הגישה מותאמת לצפיפות העצם ולמצב המפרקים. בהריון הטיפול עדין בדרך כלל ומשתמש בתנוחות ובכריות המתאימות לשלב ההריון, ויש נשים שכדאי שייבדקו קודם אצל הצוות המיילד; המאמר שלנו על <a href="/blog/pregnancy-back-pain/">כאבי גב בהריון</a> מסביר למה לצפות. אצל תינוקות וילדים צעירים הטיפול צריך להתבצע רק על ידי מטפלים עם הכשרה ייעודית בילדים, בשיטות עדינות מאוד, ובמידת הצורך אחרי הערכה רפואית.',
+      },
+      {
+        type: 'heading',
+        text: 'ומה לגבי הראיות להועיל?',
+      },
+      {
+        type: 'paragraph',
+        text: 'את הבטיחות צריך לשקול מול התועלת. לגבי כאב גב תחתון, ההנחיה הבריטית של NICE (<a href="https://www.nice.org.uk/guidance/ng59" target="_blank" rel="noopener noreferrer">NG59</a>) קובעת שאפשר לשקול טיפול ידני, כולל מניפולציה של עמוד השדרה, אבל רק כחלק מחבילת טיפול הכוללת פעילות גופנית, ולא כטיפול עצמאי. במילים אחרות, הראיות תומכות אך צנועות, ומקובל לשלב טיפול ידני עם שיקום פעיל. אנשים עם פריצת דיסק חוששים לא פעם שכירופרקטיקה מסוכנת עבורם. הטכניקות מותאמות בדרך כלל לבעיות דיסק, וניתוח הוא לפעמים הצעד הנכון; העיקר להיבדק כראוי קודם.',
       },
       {
         type: 'heading',
@@ -313,7 +209,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני. לאחר סיום לימודיו בבית הספר לכירופרקטיקה של Durban University of Technology (DUT) בדרום אפריקה, הוא עבד בבית החולים אסף הרופא, ניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר, ושירת כקצין רפואה במילואים בחיל הרפואה (צה"ל). המרפאות שלו ב<strong>תל אביב</strong> וב<strong>תובל</strong> מיישמות את אותם סטנדרטים המקובלים בסביבות רפואיות אלה: סקירה יסודית, טכניקות מבוססות מחקר ותקשורת ברורה עם מטופלים על מה שטיפול כירופרקטי יכול (ולא יכול) לעשות.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני. לאחר סיום לימודיו בבית הספר לכירופרקטיקה של Durban University of Technology (DUT) בדרום אפריקה, הוא עבד בבית החולים אסף הרופא, ניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר, ושירת כקצין רפואה במילואים בחיל הרפואה (צה"ל). המרפאות שלו ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong> שואפות ליישם את אותם סטנדרטים המקובלים בסביבות רפואיות אלה: סקירה קפדנית, תקשורת ברורה עם מטופלים על מה שטיפול כירופרקטי יכול (ולא יכול) לעשות, והפניה כשמקרה שייך למקום אחר.',
       },
       {
         type: 'heading',
@@ -321,7 +217,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם יש לכם רקע רפואי ספציפי שגורם לכם להתלבט לגבי כירופרקטיקה (ניתוח קודם של עמוד השדרה, אוסטיאופורוזיס, בעיית דיסק ידועה), הצעד הטוב ביותר הוא שיחת טלפון לפני שמתאמים. ד"ר דואני יכול לומר לכם במהירות האם המקרה שלכם מתאים לכירופרקטיקה, האם נדרשת גישה מותאמת, או האם מומחה אחר צריך לראות אתכם תחילה. קבעו התייעצות או התקשרו למרפאה בתל אביב או בתובל. לקבל תשובות ברורות הוא תמיד בחינם.',
+        text: 'אם הרקע הרפואי שלכם גורם לכם להתלבט לגבי כירופרקטיקה (ניתוח קודם של עמוד השדרה, אוסטיאופורוזיס, בעיית דיסק ידועה), הצעד הטוב ביותר הוא שיחת טלפון לפני שמתאמים. ד"ר דואני יכול לומר לכם אם המקרה שלכם עשוי להתאים לכירופרקטיקה, אם נדרשת גישה מותאמת, או אם מומחה אחר צריך לראות אתכם תחילה. קבעו התייעצות או התקשרו למרפאה ברמת אביב או למרפאה בתובל, ליד כרמיאל.',
       },
     ],
   },

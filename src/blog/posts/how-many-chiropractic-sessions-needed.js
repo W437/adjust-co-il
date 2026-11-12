@@ -16,7 +16,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Here is the honest answer, broken down by condition, and the principles a careful chiropractor uses to refine that estimate based on how <em>you</em> respond.',
+        text: 'Here is the honest answer, broken down by condition, and the principles a careful chiropractor uses to refine that estimate based on how <em>you</em> respond. (New to chiropractic? Start with <a href="/en/blog/what-is-a-chiropractor/">what a chiropractor does</a>, or see what happens at <a href="/en/blog/your-first-chiropractic-appointment/">your first appointment</a>.)',
       },
       {
         type: 'heading',
@@ -36,7 +36,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'These are realistic ranges, not promises. The exact number depends on your specific diagnosis, your overall health, your response to early sessions, and how committed you are to the home exercises and lifestyle adjustments that go alongside the in-clinic care.',
+        text: 'These are rough rules of thumb, not research-derived figures and not promises. They vary between practitioners and patients. The exact number depends on your specific diagnosis, your overall health, your response to early sessions, and how committed you are to the home exercises and lifestyle adjustments that go alongside the in-clinic care.',
       },
       {
         type: 'heading',
@@ -69,7 +69,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'For a typical, mechanical lower back pain episode without a disc problem: <strong>4–6 sessions</strong> usually produces significant resolution. Many patients are largely pain-free within 2–3 visits and finish the course of treatment with home exercises and postural corrections to prevent recurrence.',
+        text: 'For a typical, mechanical lower back pain episode without a disc problem: <strong>4–6 sessions</strong> is a common range, and some patients feel much better within the first few visits. Treatment usually finishes with home exercises and postural corrections that aim to reduce the chance of recurrence.',
       },
       {
         type: 'subheading',
@@ -77,7 +77,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Chronic back pain takes longer because the tissues, muscles, and movement patterns have adapted to the dysfunction. Expect <strong>8–16 sessions</strong> over 2–4 months, combined with a structured rehabilitation program. Significant improvement is typical, but full resolution may require sustained changes in posture, work setup, and activity.',
+        text: 'Chronic back pain takes longer because the tissues, muscles, and movement patterns have adapted to the dysfunction. Expect <strong>8–16 sessions</strong> over 2–4 months, combined with a structured rehabilitation program. Many patients improve, but lasting change may require sustained changes in posture, work setup, and activity.',
       },
       {
         type: 'subheading',
@@ -85,7 +85,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Sciatic pain caused by disc irritation, facet joint dysfunction, or piriformis syndrome typically responds within <strong>6–12 sessions</strong>. More stubborn cases, particularly those involving significant disc herniation, may require 10–20 sessions over several months. Patients who follow the prescribed exercises consistently recover much faster than those who rely on in-clinic treatment alone.',
+        text: 'Sciatic pain caused by disc irritation, facet joint dysfunction, or piriformis syndrome is often assessed over roughly <strong>6–12 sessions</strong>. More stubborn cases, particularly those involving significant disc herniation, may take 10–20 sessions over several months. Patients who follow the prescribed exercises consistently tend to do better than those who rely on in-clinic treatment alone. For more detail, see <a href="/en/blog/sciatica-relief-without-surgery/">sciatica relief without surgery</a>.',
       },
       {
         type: 'subheading',
@@ -93,7 +93,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Disc patients usually require a longer course than non-disc back pain: <strong>8–16 sessions</strong> over 3–4 months, with rehabilitation continuing for several months beyond active treatment. Most patients experience meaningful improvement within the first month, with continued progress over the rest of the course.',
+        text: 'Disc patients usually require a longer course than non-disc back pain: <strong>8–16 sessions</strong> over 3–4 months, with rehabilitation continuing for several months beyond active treatment. Some patients notice improvement within the first month, with progress continuing over the rest of the course.',
       },
       {
         type: 'subheading',
@@ -101,7 +101,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Most patients with neck-driven headaches see noticeable improvement in headache frequency within the first 2–3 sessions and significant resolution within <strong>6–10 sessions</strong>. Long-term outcomes depend heavily on whether the postural causes (forward head, prolonged screen use) are addressed.',
+        text: 'Patients with neck-driven headaches may notice a change in headache frequency within the first few sessions, and a typical course is around <strong>6–10 sessions</strong>. Long-term outcomes depend heavily on whether the postural causes (forward head, prolonged screen use) are addressed.',
       },
       {
         type: 'subheading',
@@ -109,7 +109,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Whiplash recovery has clear phases: acute (1–2 weeks), restoration (2–6 weeks), and rehabilitation (4–12 weeks). Expect <strong>10–20 sessions</strong> across several months, with a strong emphasis on the rehabilitation phase to prevent chronic symptoms.',
+        text: 'Whiplash recovery has clear phases: acute (1–2 weeks), restoration (2–6 weeks), and rehabilitation (4–12 weeks). Expect <strong>10–20 sessions</strong> across several months, with a strong emphasis on the rehabilitation phase, which aims to reduce the risk of chronic symptoms.',
       },
       {
         type: 'subheading',
@@ -117,7 +117,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Variable, but most non-surgical sports injuries respond within <strong>6–10 sessions</strong>, often with a return-to-sport protocol that continues for several more weeks. Faster recovery is typical for younger, well-conditioned patients.',
+        text: 'Variable, but many non-surgical sports injuries are managed within about <strong>6–10 sessions</strong>, often with a return-to-sport protocol that continues for several more weeks. Recovery is often faster in younger, well-conditioned patients.',
       },
       {
         type: 'subheading',
@@ -125,7 +125,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Postural problems are slower to resolve because the patient is recreating the strain every day at work. Expect <strong>8–15 sessions</strong> over 3–4 months, with significant home and ergonomic work alongside the in-clinic treatment.',
+        text: 'Postural problems can be slower to improve because the patient is recreating the strain every day at work. Expect <strong>8–15 sessions</strong> over 3–4 months, with significant home and ergonomic work alongside the in-clinic treatment.',
       },
       {
         type: 'heading',
@@ -134,12 +134,12 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>How long the problem has been present.</strong> Longer-standing issues take longer to resolve.',
+          '<strong>How long the problem has been present.</strong> Longer-standing issues generally take longer.',
           '<strong>The specific diagnosis.</strong> A bulging disc takes longer than a simple joint restriction.',
           '<strong>Your overall health.</strong> Younger, fitter, well-rested patients recover faster.',
-          '<strong>Your home effort.</strong> Patients who consistently do the prescribed exercises recover dramatically faster than those who rely on treatment alone.',
+          '<strong>Your home effort.</strong> Patients who consistently do the prescribed exercises often recover faster than those who rely on treatment alone.',
           '<strong>Your work and lifestyle.</strong> A patient who returns to the same desk that caused the problem with no ergonomic changes will progress more slowly than one who adjusts their setup.',
-          '<strong>The skill of the clinician.</strong> Accurate diagnosis and targeted treatment cut down the total number of sessions significantly.',
+          '<strong>The skill of the clinician.</strong> Accurate diagnosis and targeted treatment help avoid unnecessary sessions.',
         ],
       },
       {
@@ -170,7 +170,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'This is a personal choice, not a requirement. Some patients, particularly those with high-stress jobs, prior injuries, or chronic conditions, find that a maintenance visit every 4–8 weeks keeps them out of pain and improves overall function. Others stop completely once treatment is finished and only return if a new problem appears.',
+        text: 'This is a personal choice, not a requirement. Some patients, particularly those with high-stress jobs, prior injuries, or chronic conditions, find that a maintenance visit every 4–8 weeks helps them stay comfortable and maintain function. Others stop completely once treatment is finished and only return if a new problem appears.',
       },
       {
         type: 'paragraph',
@@ -182,7 +182,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong>. After graduating from the Durban University of Technology (DUT) in South Africa, he worked at Assaf Harofeh Medical Center and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer. His treatment plans follow exactly the principles described in this article: a clear initial estimate, frequent re-evaluation, structured rehabilitation alongside in-clinic care, and an explicit commitment to end active treatment when you no longer need it.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong>. After graduating from the Durban University of Technology (DUT) in South Africa, he worked at Assaf Harofeh Medical Center and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer. His treatment plans follow exactly the principles described in this article: a clear initial estimate, frequent re-evaluation, structured rehabilitation alongside in-clinic care, and an explicit commitment to end active treatment when you no longer need it.',
       },
       {
         type: 'heading',
@@ -190,7 +190,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The most accurate number of sessions for <em>your</em> condition is one that a careful clinician gives you after examining the actual problem. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic. You will leave with a clear diagnosis, an honest estimate of how many sessions to expect, and a structured plan that ends when the problem is solved.',
+        text: 'The most accurate number of sessions for <em>your</em> condition is one that a careful clinician gives you after examining the actual problem. Book a consultation with Dr. Duani at the Ramat Aviv clinic or at Tuval, near Karmiel. The aim is to leave with a clear assessment, an honest estimate of how many sessions to expect, and a structured plan with a clear point at which it is reviewed or ends.',
       },
     ],
   },
@@ -207,7 +207,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הנה התשובה ההוגנת, מפורטת לפי מצב, והעקרונות שכירופרקטור זהיר משתמש בהם כדי לחדד את ההערכה לפי איך <em>אתם</em> מגיבים.',
+        text: 'הנה התשובה ההוגנת, מפורטת לפי מצב, והעקרונות שכירופרקטור זהיר משתמש בהם כדי לחדד את ההערכה לפי איך <em>אתם</em> מגיבים. (חדשים בתחום? התחילו ב<a href="/blog/what-is-a-chiropractor/">מה זה כירופרקט</a>, או קראו מה קורה ב<a href="/blog/your-first-chiropractic-appointment/">ביקור הראשון</a>.)',
       },
       {
         type: 'heading',
@@ -227,7 +227,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אלה טווחים ריאליים, לא הבטחות. המספר המדויק תלוי באבחנה הספציפית שלכם, בבריאות הכללית, בתגובה למפגשים המוקדמים, ובמידת המחויבות לתרגילי הבית והתאמות אורח החיים שמלוות את הטיפול במרפאה.',
+        text: 'אלה כללי אצבע גסים, לא נתונים שנגזרו ממחקר ולא הבטחות. הם משתנים בין מטפלים ובין מטופלים. המספר המדויק תלוי באבחנה הספציפית שלכם, בבריאות הכללית, בתגובה למפגשים המוקדמים, ובמידת המחויבות לתרגילי הבית והתאמות אורח החיים שמלוות את הטיפול במרפאה.',
       },
       {
         type: 'heading',
@@ -260,7 +260,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'לאפיזודת כאב גב תחתון מכאני טיפוסי ללא בעיית דיסק: <strong>4–6 מפגשים</strong> בדרך כלל מניבים הקלה משמעותית. מטופלים רבים כמעט נטולי כאב תוך 2–3 ביקורים ומסיימים את המסלול עם תרגילי בית ותיקוני יציבה למניעת הישנות.',
+        text: 'לאפיזודת כאב גב תחתון מכאני טיפוסי ללא בעיית דיסק: <strong>4–6 מפגשים</strong> הם טווח נפוץ, ויש מטופלים שמרגישים טוב יותר כבר בביקורים הראשונים. הטיפול מסתיים בדרך כלל עם תרגילי בית ותיקוני יציבה שנועדו להקטין את הסיכוי להישנות.',
       },
       {
         type: 'subheading',
@@ -268,7 +268,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כאב גב כרוני לוקח יותר זמן כי הרקמות, השרירים ודפוסי התנועה הסתגלו לחוסר התפקוד. צפו ל<strong>8–16 מפגשים</strong> במשך 2–4 חודשים, בשילוב עם תוכנית שיקום מובנית. שיפור משמעותי הוא טיפוסי, אבל פתרון מלא עשוי לדרוש שינויים מתמשכים ביציבה, בסידור עבודה ובפעילות.',
+        text: 'כאב גב כרוני לוקח יותר זמן כי הרקמות, השרירים ודפוסי התנועה הסתגלו לחוסר התפקוד. צפו ל<strong>8–16 מפגשים</strong> במשך 2–4 חודשים, בשילוב עם תוכנית שיקום מובנית. מטופלים רבים משתפרים, אבל שינוי מתמשך עשוי לדרוש שינויים מתמשכים ביציבה, בסידור עבודה ובפעילות.',
       },
       {
         type: 'subheading',
@@ -276,7 +276,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כאב סיאטי הנגרם מגירוי דיסק, תפקוד לקוי של מפרק פאסט או תסמונת פיריפורמיס בדרך כלל מגיב תוך <strong>6–12 מפגשים</strong>. מקרים עיקשים יותר, במיוחד אלה שכוללים פריצת דיסק משמעותית, עשויים לדרוש 10–20 מפגשים במשך מספר חודשים. מטופלים שעוקבים אחר התרגילים שנרשמו באופן עקבי מחלימים הרבה יותר מהר מאלה שמסתמכים על טיפול במרפאה בלבד.',
+        text: 'כאב סיאטי הנגרם מגירוי דיסק, תפקוד לקוי של מפרק פאסט או תסמונת פיריפורמיס נבחן לרוב לאורך <strong>6–12 מפגשים</strong> בקירוב. מקרים עיקשים יותר, במיוחד אלה שכוללים פריצת דיסק משמעותית, עשויים לקחת 10–20 מפגשים במשך מספר חודשים. מטופלים שעוקבים אחר התרגילים שנרשמו באופן עקבי נוטים להצליח יותר ממי שמסתמכים על טיפול במרפאה בלבד. לפרטים נוספים ראו <a href="/blog/sciatica-relief-without-surgery/">סיאטיקה בלי ניתוח</a>.',
       },
       {
         type: 'subheading',
@@ -284,7 +284,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מטופלי דיסק בדרך כלל דורשים מסלול ארוך יותר מכאב גב לא-דיסקלי: <strong>8–16 מפגשים</strong> במשך 3–4 חודשים, עם שיקום שממשיך מספר חודשים מעבר לטיפול הפעיל. רוב המטופלים חווים שיפור משמעותי במהלך החודש הראשון, עם המשך התקדמות בשאר המסלול.',
+        text: 'מטופלי דיסק בדרך כלל דורשים מסלול ארוך יותר מכאב גב לא-דיסקלי: <strong>8–16 מפגשים</strong> במשך 3–4 חודשים, עם שיקום שממשיך מספר חודשים מעבר לטיפול הפעיל. יש מטופלים שמרגישים שיפור במהלך החודש הראשון, עם המשך התקדמות בשאר המסלול.',
       },
       {
         type: 'subheading',
@@ -292,15 +292,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'רוב המטופלים עם כאבי ראש שמונעים על ידי הצוואר רואים שיפור ניכר בתדירות כאבי הראש במהלך 2–3 המפגשים הראשונים והקלה משמעותית תוך <strong>6–10 מפגשים</strong>. התוצאות לטווח ארוך תלויות בכבדות בכך שהסיבות היציבתיות (ראש מקדים, שימוש ממושך במסך) מטופלות.',
+        text: 'מטופלים עם כאבי ראש שמונעים על ידי הצוואר עשויים להבחין בשינוי בתדירות כאבי הראש כבר בכמה המפגשים הראשונים, ומסלול טיפוסי הוא סביב <strong>6–10 מפגשים</strong>. התוצאות לטווח ארוך תלויות בכבדות בכך שהסיבות היציבתיות (ראש מקדים, שימוש ממושך במסך) מטופלות.',
       },
       {
         type: 'subheading',
-        text: '"שוט שלג" והחלמה מתאונה',
+        text: '"צליפת שוט" והחלמה מתאונה',
       },
       {
         type: 'paragraph',
-        text: 'להחלמה מ"שוט שלג" יש שלבים ברורים: חריף (1–2 שבועות), שיקום (2–6 שבועות), ושיקום פונקציונלי (4–12 שבועות). צפו ל<strong>10–20 מפגשים</strong> במשך מספר חודשים, עם דגש חזק על שלב השיקום למניעת תסמינים כרוניים.',
+        text: 'להחלמה מ"צליפת שוט" יש שלבים ברורים: חריף (1–2 שבועות), שיקום (2–6 שבועות), ושיקום פונקציונלי (4–12 שבועות). צפו ל<strong>10–20 מפגשים</strong> במשך מספר חודשים, עם דגש חזק על שלב השיקום, שנועד להקטין את הסיכון לתסמינים כרוניים.',
       },
       {
         type: 'subheading',
@@ -308,7 +308,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'משתנה, אבל רוב פציעות הספורט הלא-ניתוחיות מגיבות תוך <strong>6–10 מפגשים</strong>, לרוב עם פרוטוקול חזרה לספורט שממשיך מספר שבועות נוספים. החלמה מהירה יותר טיפוסית למטופלים צעירים ובכושר טוב.',
+        text: 'משתנה, אבל פציעות ספורט לא-ניתוחיות רבות מטופלות בתוך כ-<strong>6–10 מפגשים</strong>, לרוב עם פרוטוקול חזרה לספורט שממשיך מספר שבועות נוספים. ההחלמה מהירה לרוב אצל מטופלים צעירים ובכושר טוב.',
       },
       {
         type: 'subheading',
@@ -316,7 +316,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'בעיות יציבה איטיות יותר לחלוף כי המטופל יוצר מחדש את העקה מדי יום בעבודה. צפו ל<strong>8–15 מפגשים</strong> במשך 3–4 חודשים, עם עבודה משמעותית בבית וארגונומיה לצד הטיפול במרפאה.',
+        text: 'בעיות יציבה יכולות להשתפר לאט יותר כי המטופל יוצר מחדש את העקה מדי יום בעבודה. צפו ל<strong>8–15 מפגשים</strong> במשך 3–4 חודשים, עם עבודה משמעותית בבית וארגונומיה לצד הטיפול במרפאה.',
       },
       {
         type: 'heading',
@@ -325,12 +325,12 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>כמה זמן הבעיה קיימת.</strong> בעיות ממושכות לוקחות יותר זמן לפתור.',
+          '<strong>כמה זמן הבעיה קיימת.</strong> בעיות ממושכות לוקחות בדרך כלל יותר זמן.',
           '<strong>האבחנה הספציפית.</strong> בליטת דיסק לוקחת יותר זמן מהגבלת מפרק פשוטה.',
           '<strong>הבריאות הכללית שלכם.</strong> מטופלים צעירים, בכושר ונחים מחלימים מהר יותר.',
-          '<strong>המאמץ הביתי שלכם.</strong> מטופלים שעושים בעקביות את התרגילים שנרשמו מחלימים באופן דרמטי מהר יותר מאלה שמסתמכים על טיפול בלבד.',
+          '<strong>המאמץ הביתי שלכם.</strong> מטופלים שעושים בעקביות את התרגילים שנרשמו מחלימים לעיתים מהר יותר מאלה שמסתמכים על טיפול בלבד.',
           '<strong>העבודה ואורח החיים שלכם.</strong> מטופל שחוזר לאותה שולחן עבודה שגרמה לבעיה ללא שינויים ארגונומיים יתקדם לאט יותר ממי שמתאים את הסביבה.',
-          '<strong>המיומנות של הקלינאי.</strong> אבחנה מדויקת וטיפול ממוקד מפחיתים משמעותית את המספר הכולל של המפגשים.',
+          '<strong>המיומנות של הקלינאי.</strong> אבחנה מדויקת וטיפול ממוקד עוזרים להימנע ממפגשים מיותרים.',
         ],
       },
       {
@@ -361,7 +361,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'זו בחירה אישית, לא דרישה. חלק מהמטופלים, במיוחד אלה עם עבודות בעלות מתח גבוה, פציעות קודמות או מצבים כרוניים, מוצאים שביקור תחזוקה כל 4–8 שבועות שומר אותם ללא כאב ומשפר תפקוד כללי. אחרים מפסיקים לחלוטין ברגע שהטיפול נגמר וחוזרים רק אם מופיעה בעיה חדשה.',
+        text: 'זו בחירה אישית, לא דרישה. חלק מהמטופלים, במיוחד אלה עם עבודות בעלות מתח גבוה, פציעות קודמות או מצבים כרוניים, מוצאים שביקור תחזוקה כל 4–8 שבועות עוזר להם להישאר בנוחות ולשמור על תפקוד. אחרים מפסיקים לחלוטין ברגע שהטיפול נגמר וחוזרים רק אם מופיעה בעיה חדשה.',
       },
       {
         type: 'paragraph',
@@ -373,7 +373,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong>תל אביב</strong> וב<strong>תובל</strong>. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר. תוכניות הטיפול שלו פועלות בדיוק לפי העקרונות המתוארים במאמר זה: הערכה ראשונית ברורה, הערכה מחדש תכופה, שיקום מובנה לצד טיפול במרפאה, ומחויבות מפורשת לסיים טיפול פעיל כשאינכם זקוקים לו עוד.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong>. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר. תוכניות הטיפול שלו פועלות בדיוק לפי העקרונות המתוארים במאמר זה: הערכה ראשונית ברורה, הערכה מחדש תכופה, שיקום מובנה לצד טיפול במרפאה, ומחויבות מפורשת לסיים טיפול פעיל כשאינכם זקוקים לו עוד.',
       },
       {
         type: 'heading',
@@ -381,7 +381,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'המספר המדויק ביותר של מפגשים ל<em>מצב שלכם</em> הוא זה שקלינאי זהיר נותן לכם לאחר בדיקת הבעיה האמיתית. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בתובל. תצאו עם אבחנה ברורה, הערכה הוגנת לכמה מפגשים לצפות, ותוכנית מובנית שמסתיימת כשהבעיה נפתרה.',
+        text: 'המספר המדויק ביותר של מפגשים ל<em>מצב שלכם</em> הוא זה שקלינאי זהיר נותן לכם לאחר בדיקת הבעיה האמיתית. קבעו התייעצות עם ד"ר דואני במרפאה ברמת אביב או בתובל, ליד כרמיאל. המטרה היא לצאת עם הערכה ברורה, הערכה הוגנת לכמה מפגשים לצפות, ותוכנית מובנית עם נקודה ברורה שבה בודקים אותה מחדש או מסיימים.',
       },
     ],
   },

@@ -4,11 +4,11 @@ export default {
   image: '/assets/blog/sciatica-relief-without-surgery.webp',
   readTime: 8,
   en: {
-    title: 'Sciatica Relief Without Surgery: How Chiropractic Care Treats Nerve Pain',
+    title: 'Sciatica Without Surgery: How Chiropractic Care May Help With Nerve Pain',
     excerpt:
-      'Sciatica can feel impossible to escape: sharp, radiating leg pain that resists rest and painkillers. The good news is that most patients improve significantly with conservative chiropractic care, no surgery required.',
+      'Sciatica can feel impossible to escape: sharp, radiating leg pain that resists rest and painkillers. Many people improve with conservative care, including chiropractic treatment combined with rehabilitation, without needing surgery.',
     metaDescription:
-      'Sciatica relief without surgery: how chiropractic care treats sciatic nerve pain, what causes it, and what to expect from treatment. By Dr. Victor Duani.',
+      'Sciatica without surgery: how chiropractic care may help with sciatic nerve pain, what causes it, and what to expect from treatment. By Dr. Victor Duani.',
     content: [
       {
         type: 'paragraph',
@@ -16,7 +16,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The encouraging news is this: <strong>most cases of sciatica resolve without surgery</strong>. With the right diagnosis and a structured course of conservative treatment, particularly chiropractic care combined with rehabilitation, the majority of patients experience significant relief, often within weeks.',
+        text: 'The encouraging news is this: <strong>most cases of sciatica improve without surgery</strong>. With the right diagnosis and a structured course of conservative treatment, such as chiropractic care combined with rehabilitation, many patients notice meaningful relief over a period of weeks, although recovery time varies from person to person.',
       },
       {
         type: 'heading',
@@ -28,7 +28,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'When something irritates or compresses the sciatic nerve (or one of the nerve roots that feed into it), the result is pain, numbness, tingling, or weakness along the nerve\'s path. The location and pattern of the symptoms often tell an experienced clinician exactly which nerve root is involved and what is compressing it.',
+        text: 'When something irritates or compresses the sciatic nerve (or one of the nerve roots that feed into it), the result is pain, numbness, tingling, or weakness along the nerve\'s path. The location and pattern of the symptoms often help an experienced clinician work out which nerve root is involved and what may be compressing it.',
       },
       {
         type: 'heading',
@@ -41,7 +41,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Herniated or bulging disc</strong>: The most common cause. A disc in the lower spine pushes outward and presses against a nerve root.',
+          '<strong>Herniated or bulging disc</strong>: The most common cause. A disc in the lower spine pushes outward and may press against a nerve root (see our article on <a href="/en/blog/herniated-disc-treatment-chiropractic/">herniated disc treatment</a>).',
           '<strong>Lumbar facet joint dysfunction</strong>: Restricted or inflamed joints in the lower back can irritate nearby nerves.',
           '<strong>Piriformis syndrome</strong>: The piriformis muscle deep in the buttock tightens and compresses the sciatic nerve directly.',
           '<strong>Spinal stenosis</strong>: Narrowing of the spinal canal, especially common in older patients, that compresses nerve roots.',
@@ -51,7 +51,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Identifying the specific cause is crucial, because treatment that works beautifully for one source of sciatic pain may be inappropriate for another.',
+        text: 'Identifying the specific cause is crucial, because treatment that helps with one source of sciatic pain may be inappropriate for another.',
       },
       {
         type: 'heading',
@@ -64,8 +64,8 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Bed rest</strong>: Extended rest weakens the supporting muscles and stiffens the joints, often making the problem worse rather than better.',
-          '<strong>Pure painkiller management</strong>: Numbing the pain without addressing the underlying compression allows the nerve to remain irritated for weeks or months.',
+          '<strong>Bed rest</strong>: Extended rest weakens the supporting muscles and stiffens the joints, which may slow recovery. Staying gently active is usually advised.',
+          '<strong>Pure painkiller management</strong>: Medication can be useful for short-term relief, but on its own it does not address the underlying irritation, which may keep the nerve sore for weeks or months.',
           '<strong>Generic exercises</strong>: Exercises that work for some sciatica patients can make others significantly worse, depending on the underlying cause. Specific direction matters.',
         ],
       },
@@ -83,7 +83,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A thorough history, physical examination, and neurological screening establish what is actually causing the symptoms. If imaging is needed (MRI is the gold standard for suspected disc problems), it is reviewed before treatment begins.',
+        text: 'A thorough history, physical examination, and neurological screening establish what is actually causing the symptoms. If imaging is needed (MRI is the usual imaging test for suspected disc problems), it is reviewed before treatment begins.',
       },
       {
         type: 'subheading',
@@ -91,7 +91,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Specific chiropractic techniques are used to reduce the pressure on the affected nerve root and restore proper joint motion in the lumbar spine and pelvis. For disc-related sciatica, gentler techniques (including instrument-assisted adjustments, traction-style decompression, and slow mobilization) are often preferred over high-velocity adjustments.',
+        text: 'Specific chiropractic techniques aim to reduce the pressure on the affected nerve root and restore proper joint motion in the lumbar spine and pelvis. For disc-related sciatica, gentler techniques (including instrument-assisted adjustments, traction-style decompression, and slow mobilization) are often preferred over high-velocity adjustments.',
       },
       {
         type: 'subheading',
@@ -99,7 +99,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Addressing the muscles surrounding the nerve (particularly the piriformis, gluteals, and lumbar musculature) relieves secondary tension that often amplifies sciatic pain. Dry needling can be especially effective for piriformis-related sciatica.',
+        text: 'Addressing the muscles surrounding the nerve (particularly the piriformis, gluteals, and lumbar musculature) may relieve secondary tension that can amplify sciatic pain. Dry needling may help in some patients with piriformis-related sciatica.',
       },
       {
         type: 'subheading',
@@ -119,7 +119,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Generic exercises taken from the internet can easily backfire. The right exercise for the wrong cause makes things worse.',
+        text: 'Generic exercises taken from the internet can easily backfire. The right exercise for the wrong cause can make things worse.',
       },
       {
         type: 'subheading',
@@ -135,11 +135,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Realistic expectations matter. Most sciatica patients experience meaningful improvement within 2–4 sessions and significant resolution within 6–12 sessions, depending on the cause and the duration of the problem. Acute sciatica that has been present for weeks tends to resolve faster than chronic sciatica that has been ignored for months.',
+        text: 'Realistic expectations matter. Timelines vary widely: some people notice improvement within the first few sessions, while others need a longer course, depending on the cause and how long the problem has been present. Recent-onset sciatica often settles faster than sciatica that has been present for months. Your practitioner can give you an estimate after the examination (see also <a href="/en/blog/understanding-back-pain/">our guide to understanding chronic back pain</a>).',
       },
       {
         type: 'paragraph',
-        text: 'A note of honesty: if you are not noticeably better within the first few sessions, a careful chiropractor re-examines, refines the diagnosis, and either changes the approach or refers you to a specialist. Sciatica that does not respond to conservative care occasionally does require surgical evaluation, but that should be the considered next step, not the default first step.',
+        text: 'A note of honesty: if you are not noticeably better within the first few sessions, a careful chiropractor re-examines, refines the diagnosis, and either changes the approach or refers you to a specialist. Sciatica that does not respond to conservative care sometimes does require surgical evaluation, which should be a considered next step rather than a default first step.',
       },
       {
         type: 'heading',
@@ -160,7 +160,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A responsible chiropractor recognizes these signs immediately and refers you to a spine surgeon or neurosurgeon without delay.',
+        text: 'A responsible chiropractor aims to recognize these signs promptly and refer you to a spine surgeon or neurosurgeon without delay. For a fuller explanation, read <a href="/en/blog/sciatica-surgery-when-needed/">when sciatica surgery is actually needed</a>.',
       },
       {
         type: 'heading',
@@ -168,24 +168,24 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience treating sciatica and disc-related conditions. After graduating from the Durban University of Technology (DUT) in South Africa, he worked at Assaf Harofeh Medical Center and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, settings where complex disc and nerve cases are common. His clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong> specialize in conservative, structured treatment for sciatica and lumbar disc problems, combining precise chiropractic care with targeted rehabilitation exercises.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience treating sciatica and disc-related conditions. After graduating from the Durban University of Technology (DUT) in South Africa, he worked at Assaf Harofeh Medical Center and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, settings where complex disc and nerve cases are common. His clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong> focus on conservative, structured treatment for sciatica and lumbar disc problems, combining chiropractic care with targeted rehabilitation exercises.',
       },
       {
         type: 'heading',
-        text: 'Living With Sciatica? Get a Real Answer',
+        text: 'Living With Sciatica? Start With a Proper Diagnosis',
       },
       {
         type: 'paragraph',
-        text: 'If sciatic pain has been part of your life for weeks or months and is not getting better on its own, the next step is a proper diagnosis. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic (bring any imaging you have) and walk out with a clear understanding of what is causing the pain and exactly what it will take to resolve it. Most sciatica is treatable. The sooner the right plan starts, the faster you get your life back.',
+        text: 'If sciatic pain has been part of your life for weeks or months and is not getting better on its own, the next step is a proper diagnosis. Book a consultation with Dr. Duani at the Ramat Aviv clinic or at Tuval, near Karmiel (bring any imaging you have) and aim to leave with a clearer understanding of what may be causing the pain and what a sensible plan looks like. Many people with sciatica improve with the right plan, and starting early may help.',
       },
     ],
   },
   he: {
-    title: 'הקלה מסיאטיקה ללא ניתוח: איך טיפול כירופרקטי מטפל בכאב עצבי',
+    title: 'סיאטיקה בלי ניתוח: איך טיפול כירופרקטי עשוי לסייע בכאב עצבי',
     excerpt:
-      'סיאטיקה יכולה להרגיש כמו לכוד: כאב חד שמקרין ברגל ומתנגד למנוחה ולמשככי כאבים. החדשות הטובות הן שרוב המטופלים משתפרים משמעותית עם טיפול כירופרקטי שמרני, ללא צורך בניתוח.',
+      'סיאטיקה יכולה להרגיש כמו מלכוד: כאב חד שמקרין ברגל ומתנגד למנוחה ולמשככי כאבים. אנשים רבים משתפרים עם טיפול שמרני, כולל טיפול כירופרקטי בשילוב שיקום, ללא צורך בניתוח.',
     metaDescription:
-      'הקלה מסיאטיקה ללא ניתוח: איך טיפול כירופרקטי מטפל בכאב של עצב הסיאטיק, מה גורם לזה ומה לצפות מהטיפול. מאת ד"ר ויקטור דואני.',
+      'סיאטיקה בלי ניתוח: איך טיפול כירופרקטי עשוי לסייע בכאב של עצב הסיאטיק, מה גורם לזה ומה לצפות מהטיפול. מאת ד"ר ויקטור דואני.',
     content: [
       {
         type: 'paragraph',
@@ -193,7 +193,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'החדשות המעודדות הן: <strong>רוב מקרי הסיאטיקה חולפים בלי ניתוח</strong>. עם אבחנה נכונה ומסלול טיפולי שמרני ומובנה, במיוחד טיפול כירופרקטי בשילוב שיקום, רוב המטופלים חווים הקלה משמעותית, לעיתים קרובות תוך שבועות.',
+        text: 'החדשות המעודדות הן: <strong>רוב מקרי הסיאטיקה משתפרים בלי ניתוח</strong>. עם אבחנה נכונה ומסלול טיפולי שמרני ומובנה, כמו טיפול כירופרקטי בשילוב שיקום, מטופלים רבים מרגישים הקלה משמעותית לאורך שבועות, אם כי זמן ההחלמה משתנה מאדם לאדם.',
       },
       {
         type: 'heading',
@@ -205,7 +205,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כאשר משהו מגרה או לוחץ על עצב הסיאטיק (או אחד משורשי העצב שמזינים אותו), התוצאה היא כאב, נימול, עקצוצים או חולשה לאורך מסלול העצב. המיקום והדפוס של התסמינים אומרים לעיתים קרובות לקלינאי מנוסה איזה שורש עצב מעורב בדיוק ומה לוחץ עליו.',
+        text: 'כאשר משהו מגרה או לוחץ על עצב הסיאטיק (או אחד משורשי העצב שמזינים אותו), התוצאה היא כאב, נימול, עקצוצים או חולשה לאורך מסלול העצב. המיקום והדפוס של התסמינים עוזרים לעיתים לקלינאי מנוסה להבין איזה שורש עצב מעורב ומה עשוי ללחוץ עליו.',
       },
       {
         type: 'heading',
@@ -218,7 +218,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>פריצת דיסק או בליטת דיסק</strong>: הגורם הנפוץ ביותר. דיסק בגב התחתון דוחף החוצה ולוחץ על שורש עצב.',
+          '<strong>פריצת דיסק או בליטת דיסק</strong>: הגורם הנפוץ ביותר. דיסק בגב התחתון דוחף החוצה ועלול ללחוץ על שורש עצב (ראו המאמר על <a href="/blog/herniated-disc-treatment-chiropractic/">טיפול בפריצת דיסק</a>).',
           '<strong>תפקוד לקוי של מפרקי הפאסט המותניים</strong>: מפרקים מוגבלים או דלוקים בגב התחתון יכולים לגרות עצבים סמוכים.',
           '<strong>תסמונת הפיריפורמיס</strong>: שריר הפיריפורמיס העמוק בעכוז מתהדק ולוחץ ישירות על עצב הסיאטיק.',
           '<strong>היצרות תעלת עמוד שדרה (Spinal stenosis)</strong>: היצרות תעלת עמוד השדרה, נפוצה במיוחד אצל מטופלים מבוגרים, שלוחצת על שורשי עצבים.',
@@ -228,7 +228,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'זיהוי הסיבה הספציפית הוא מכריע, כי טיפול שעובד נפלא לסוג אחד של כאב סיאטיק עלול להיות לא מתאים לסוג אחר.',
+        text: 'זיהוי הסיבה הספציפית הוא מכריע, כי טיפול שמסייע בסוג אחד של כאב סיאטיק עלול להיות לא מתאים לסוג אחר.',
       },
       {
         type: 'heading',
@@ -241,8 +241,8 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>מנוחה במיטה</strong>: מנוחה ממושכת מחלישה את שרירי התמיכה ומקפיאה את המפרקים, ולעיתים קרובות מחמירה את הבעיה במקום להקל עליה.',
-          '<strong>ניהול רק עם משככי כאבים</strong>: הקהיית הכאב בלי לטפל בלחץ הבסיסי מאפשרת לעצב להישאר מגורה שבועות או חודשים.',
+          '<strong>מנוחה במיטה</strong>: מנוחה ממושכת מחלישה את שרירי התמיכה ומקפיאה את המפרקים, ועלולה להאט את ההחלמה. בדרך כלל מומלץ להישאר פעילים בעדינות.',
+          '<strong>ניהול רק עם משככי כאבים</strong>: תרופות יכולות להועיל להקלה קצרת טווח, אבל לבדן הן אינן מטפלות בגירוי הבסיסי, ולכן העצב עלול להישאר רגיש שבועות או חודשים.',
           '<strong>תרגילים גנריים</strong>: תרגילים שעובדים לחלק ממטופלי הסיאטיקה יכולים להחמיר משמעותית אחרים, תלוי בסיבה הבסיסית. כיוון ספציפי חשוב.',
         ],
       },
@@ -260,7 +260,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אנמנזה יסודית, בדיקה גופנית וסקירה נוירולוגית קובעות מה באמת גורם לסימפטומים. אם הדמיה נדרשת (MRI הוא תקן הזהב לחשד לבעיות דיסק), היא נסקרת לפני שהטיפול מתחיל.',
+        text: 'אנמנזה יסודית, בדיקה גופנית וסקירה נוירולוגית קובעות מה באמת גורם לסימפטומים. אם הדמיה נדרשת (MRI הוא בדיקת ההדמיה המקובלת לחשד לבעיות דיסק), היא נסקרת לפני שהטיפול מתחיל.',
       },
       {
         type: 'subheading',
@@ -268,7 +268,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טכניקות כירופרקטיות ספציפיות משמשות להפחתת הלחץ על שורש העצב הפגוע ולשחזור תנועת מפרק תקינה בעמוד השדרה המותני ובאגן. לסיאטיקה הקשורה לדיסק, טכניקות עדינות יותר (כולל התאמות בעזרת מכשיר, דקומפרסיה בסגנון משיכה ומוביליזציה איטית) מועדפות לעיתים קרובות על פני התאמות בעוצמה גבוהה.',
+        text: 'טכניקות כירופרקטיות ספציפיות נועדו להפחית את הלחץ על שורש העצב הפגוע ולשחזור תנועת מפרק תקינה בעמוד השדרה המותני ובאגן. לסיאטיקה הקשורה לדיסק, טכניקות עדינות יותר (כולל התאמות בעזרת מכשיר, דקומפרסיה בסגנון משיכה ומוביליזציה איטית) מועדפות לעיתים קרובות על פני התאמות בעוצמה גבוהה.',
       },
       {
         type: 'subheading',
@@ -276,7 +276,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טיפול בשרירים סביב העצב (במיוחד הפיריפורמיס, שרירי העכוז ושרירי המותניים) מקל על מתח משני שלעיתים קרובות מגביר את כאב הסיאטיק. דריי נידלינג (ניקור יבש) יכול להיות יעיל במיוחד לסיאטיקה הקשורה לפיריפורמיס.',
+        text: 'טיפול בשרירים סביב העצב (במיוחד הפיריפורמיס, שרירי העכוז ושרירי המותניים) עשוי להקל על מתח משני שיכול להגביר את כאב הסיאטיק. דריי נידלינג (ניקור יבש) עשוי לסייע אצל חלק מהמטופלים עם סיאטיקה הקשורה לפיריפורמיס.',
       },
       {
         type: 'subheading',
@@ -296,7 +296,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'תרגילים גנריים מהאינטרנט יכולים בקלות להחמיר את המצב. התרגיל הנכון לסיבה הלא נכונה מחמיר.',
+        text: 'תרגילים גנריים מהאינטרנט יכולים בקלות להחמיר את המצב. התרגיל הנכון לסיבה הלא נכונה עלול להחמיר.',
       },
       {
         type: 'subheading',
@@ -312,11 +312,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ציפיות ריאליות חשובות. רוב מטופלי הסיאטיקה חווים שיפור משמעותי תוך 2–4 מפגשים והקלה משמעותית תוך 6–12 מפגשים, תלוי בסיבה ובמשך הבעיה. סיאטיקה חריפה שקיימת כבר שבועות נוטה לחלוף מהר יותר מסיאטיקה כרונית שהוזנחה חודשים.',
+        text: 'ציפיות ריאליות חשובות. לוחות הזמנים משתנים מאוד: יש אנשים שמרגישים שיפור כבר בכמה המפגשים הראשונים, ואחרים זקוקים למסלול ארוך יותר, תלוי בסיבה ובמשך הבעיה. סיאטיקה שהתחילה לאחרונה נוטה להירגע מהר יותר מסיאטיקה שקיימת חודשים. המטפל יוכל לתת הערכה אחרי הבדיקה (ראו גם <a href="/blog/understanding-back-pain/">המדריך שלנו להבנת כאבי גב כרוניים</a>).',
       },
       {
         type: 'paragraph',
-        text: 'הערת הוגנות: אם אינכם משתפרים באופן ניכר תוך כמה מפגשים ראשונים, כירופרקטור זהיר בודק מחדש, מחדד את האבחנה, ומשנה את הגישה או מפנה למומחה. סיאטיקה שאינה מגיבה לטיפול שמרני דורשת לעיתים הערכה ניתוחית, אבל זה צריך להיות הצעד הבא השקול, לא הצעד הראשון כברירת מחדל.',
+        text: 'הערת הוגנות: אם אינכם משתפרים באופן ניכר תוך כמה מפגשים ראשונים, כירופרקטור זהיר בודק מחדש, מחדד את האבחנה, ומשנה את הגישה או מפנה למומחה. סיאטיקה שאינה מגיבה לטיפול שמרני דורשת לפעמים הערכה ניתוחית, וזה צריך להיות צעד הבא שקול ולא צעד ראשון כברירת מחדל.',
       },
       {
         type: 'heading',
@@ -337,7 +337,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כירופרקטור אחראי מזהה את הסימנים האלה מיד ומפנה אתכם לרופא עמוד שדרה או נוירוכירורג ללא דיחוי.',
+        text: 'כירופרקטור אחראי שואף לזהות את הסימנים האלה במהירות ולהפנות אתכם לרופא עמוד שדרה או נוירוכירורג ללא דיחוי. להסבר מורחב קראו <a href="/blog/sciatica-surgery-when-needed/">מתי צריך ניתוח בסיאטיקה</a>.',
       },
       {
         type: 'heading',
@@ -345,15 +345,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני בטיפול בסיאטיקה ובמצבים הקשורים לדיסק. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר, סביבות שבהן מקרי דיסק ועצבים מורכבים נפוצים. המרפאות שלו ב<strong>תל אביב</strong> וב<strong>תובל</strong> מתמחות בטיפול שמרני ומובנה לסיאטיקה ולבעיות דיסק מותני, בשילוב טיפול כירופרקטי מדויק ותרגילי שיקום ממוקדים.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני בטיפול בסיאטיקה ובמצבים הקשורים לדיסק. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר, סביבות שבהן מקרי דיסק ועצבים מורכבים נפוצים. המרפאות שלו ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong> מתמקדות בטיפול שמרני ומובנה לסיאטיקה ולבעיות דיסק מותני, בשילוב טיפול כירופרקטי ותרגילי שיקום ממוקדים.',
       },
       {
         type: 'heading',
-        text: 'חיים עם סיאטיקה? קבלו תשובה אמיתית',
+        text: 'חיים עם סיאטיקה? התחילו באבחנה נכונה',
       },
       {
         type: 'paragraph',
-        text: 'אם כאב סיאטיק הוא חלק מהחיים שלכם כבר שבועות או חודשים ולא הולך ומשתפר מעצמו, הצעד הבא הוא אבחנה ראויה. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בתובל (הביאו כל הדמיה שיש לכם) וצאו עם הבנה ברורה של מה גורם לכאב ובדיוק מה יידרש כדי לפתור אותו. רוב הסיאטיקה ניתנת לטיפול. ככל שהתוכנית הנכונה מתחילה מוקדם יותר, כך תחזרו לחיים שלכם מהר יותר.',
+        text: 'אם כאב סיאטיק הוא חלק מהחיים שלכם כבר שבועות או חודשים ולא הולך ומשתפר מעצמו, הצעד הבא הוא אבחנה ראויה. קבעו התייעצות עם ד"ר דואני במרפאה ברמת אביב או בתובל, ליד כרמיאל (הביאו כל הדמיה שיש לכם) ושאפו לצאת עם הבנה ברורה יותר של מה עשוי לגרום לכאב ואיך נראית תוכנית סבירה. אנשים רבים עם סיאטיקה משתפרים עם התוכנית הנכונה, והתחלה מוקדמת עשויה לעזור.',
       },
     ],
   },

@@ -12,11 +12,11 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'Booking your first chiropractic appointment can feel like a leap into the unknown, especially if friends and the internet have given you wildly different versions of what to expect. The good news: a well-run first visit is calm, methodical, and unhurried. Most patients leave with a clearer understanding of their problem than they have had in months, and often with the first real relief.',
+        text: 'Booking your first chiropractic appointment can feel like a leap into the unknown, especially if friends and the internet have given you wildly different versions of what to expect. The good news: a well-run first visit is calm, methodical, and unhurried. Most patients leave with a clearer understanding of their problem than they have had in months, and sometimes with early relief.',
       },
       {
         type: 'paragraph',
-        text: 'Here is what a professional first chiropractic appointment actually looks like, step by step.',
+        text: 'Here is what a professional first chiropractic appointment actually looks like, step by step. (New to the profession? Start with <a href="/en/blog/what-is-a-chiropractor/">what a chiropractor is and how they are trained</a>.)',
       },
       {
         type: 'heading',
@@ -123,7 +123,7 @@ export default {
           'What the chiropractor believes is causing your symptoms',
           'Why that explanation fits the findings',
           'Whether chiropractic care is appropriate for your case (and if not, where to go next)',
-          'An estimated number of sessions and an expected timeline for improvement',
+          'An estimated number of sessions and an expected timeline for improvement (see <a href="/en/blog/how-many-chiropractic-sessions-needed/">how many sessions people usually need</a>)',
           'What you can do at home: exercises, postural adjustments, activity modifications',
         ],
       },
@@ -143,7 +143,7 @@ export default {
         type: 'list',
         items: [
           '<strong>Soft tissue work</strong>: Gentle work on tense muscles to prepare the area',
-          '<strong>The adjustment itself</strong>: Precise, controlled movement of specific spinal segments or joints. Brief, often with a popping sound (the harmless gas-bubble effect), and not painful',
+          '<strong>The adjustment itself</strong>: Precise, controlled movement of specific spinal segments or joints. Brief, often with a popping sound (a gas-bubble effect in the joint that is not thought to be harmful), and usually not painful',
           '<strong>Mobilization techniques</strong>: Slower, rhythmic movements used either alongside or instead of high-velocity adjustments',
           'A short set of exercises or stretches to do at home',
         ],
@@ -163,15 +163,15 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Immediate relief</strong>: Many patients walk out feeling significantly better, with reduced pain and freer movement',
-          '<strong>Mild soreness for 24–48 hours</strong>: Similar to the feeling after a strong workout, as muscles adjust to new positions and motion patterns. This is common, harmless, and resolves quickly',
+          '<strong>Early relief</strong>: Some patients walk out feeling better, with less pain and freer movement, though this varies',
+          '<strong>Mild soreness for 24–48 hours</strong>: Similar to the feeling after a strong workout, as muscles adjust to new positions and motion patterns. This is common and usually settles within a day or two',
           '<strong>Improved sleep</strong>: A surprisingly frequent first-night effect',
-          '<strong>Temporary tiredness</strong>: The nervous system has been "reset" and some patients feel pleasantly tired',
+          '<strong>Temporary tiredness</strong>: Some patients simply feel tired after treatment',
         ],
       },
       {
         type: 'paragraph',
-        text: 'Drinking water, gentle movement (not bed rest), and following the home exercises improves outcomes significantly. Avoid intense workouts for the first 24 hours.',
+        text: 'Drinking water, gentle movement (not bed rest), and following the home exercises may help your recovery. Avoid intense workouts for the first 24 hours.',
       },
       {
         type: 'heading',
@@ -179,7 +179,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Reach out if you experience anything that does not feel like normal post-treatment soreness: sharp new pain, numbness or weakness in an arm or leg, severe dizziness, or any other concerning symptom. These are uncommon, but a good clinic wants to hear from you and adjust the plan if needed.',
+        text: 'Reach out if you experience anything that does not feel like normal post-treatment soreness: sharp new pain, numbness or weakness in an arm or leg, severe dizziness, or any other concerning symptom. These are uncommon, but a good clinic wants to hear from you and adjust the plan if needed. For a fuller picture, see our guide to <a href="/en/blog/chiropractic-side-effects-risks/">chiropractic side effects and risks</a>.',
       },
       {
         type: 'heading',
@@ -187,7 +187,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong>. He graduated from the Durban University of Technology (DUT) in South Africa, worked at Assaf Harofeh Medical Center and Sheba Medical Center, Tel Hashomer, and structures his first visits exactly as described above: a careful history, a thorough examination, a clear explanation, and a tailored plan. The goal of the first visit is not just relief, but understanding: why this problem happened, and how to make sure it stops happening.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong>. He graduated from the Durban University of Technology (DUT) in South Africa, worked at Assaf Harofeh Medical Center and Sheba Medical Center, Tel Hashomer, and structures his first visits exactly as described above: a careful history, a thorough examination, a clear explanation, and a tailored plan. The goal of the first visit is not just relief, but understanding: why this problem may have happened, and what can make it less likely to come back.',
       },
       {
         type: 'heading',
@@ -195,7 +195,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you have been putting off booking because you were not sure what to expect, now you know. The first visit is straightforward, unhurried, and designed to give you real answers. Schedule a consultation at the Tel Aviv or Tuval clinic, or call to ask any remaining questions first, and take the first step toward understanding your pain and resolving it.',
+        text: 'If you have been putting off booking because you were not sure what to expect, now you know. The first visit is straightforward, unhurried, and designed to give you clear answers. Schedule a consultation at the Ramat Aviv clinic or at Tuval, near Karmiel, or call to ask any remaining questions first, and take the first step toward understanding and managing your pain.',
       },
     ],
   },
@@ -208,11 +208,11 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'תיאום הביקור הכירופרקטי הראשון יכול להרגיש כקפיצה אל הלא-נודע, במיוחד אם חברים והאינטרנט נתנו לכם גרסאות שונות לחלוטין למה לצפות. החדשות הטובות: ביקור ראשון מנוהל היטב הוא רגוע, מסודר ולא מבוהל. רוב המטופלים יוצאים עם הבנה ברורה יותר של הבעיה שלהם משהיתה להם חודשים, ולעיתים קרובות עם ההקלה האמיתית הראשונה.',
+        text: 'תיאום הביקור הכירופרקטי הראשון יכול להרגיש כקפיצה אל הלא-נודע, במיוחד אם חברים והאינטרנט נתנו לכם גרסאות שונות לחלוטין למה לצפות. החדשות הטובות: ביקור ראשון מנוהל היטב הוא רגוע, מסודר ולא מבוהל. רוב המטופלים יוצאים עם הבנה ברורה יותר של הבעיה שלהם משהיתה להם חודשים, ולעיתים עם הקלה ראשונה.',
       },
       {
         type: 'paragraph',
-        text: 'הנה איך באמת נראה ביקור כירופרקטי ראשון מקצועי, שלב אחר שלב.',
+        text: 'הנה איך באמת נראה ביקור כירופרקטי ראשון מקצועי, שלב אחר שלב. (חדשים בתחום? התחילו ב<a href="/blog/what-is-a-chiropractor/">מה זה כירופרקט ואיך מכשירים אותו</a>.)',
       },
       {
         type: 'heading',
@@ -319,7 +319,7 @@ export default {
           'מה הכירופרקטור מאמין שגורם לסימפטומים שלכם',
           'למה ההסבר הזה מתאים לממצאים',
           'האם טיפול כירופרקטי מתאים למקרה שלכם (ואם לא, לאן ללכת אחר כך)',
-          'מספר מפגשים משוער ולוח זמנים צפוי לשיפור',
+          'מספר מפגשים משוער ולוח זמנים צפוי לשיפור (ראו <a href="/blog/how-many-chiropractic-sessions-needed/">כמה טיפולים כירופרקטיים צריך בדרך כלל</a>)',
           'מה אתם יכולים לעשות בבית: תרגילים, התאמות יציבה, שינויי פעילות',
         ],
       },
@@ -339,7 +339,7 @@ export default {
         type: 'list',
         items: [
           '<strong>עבודה על רקמות רכות</strong>: עבודה עדינה על שרירים תפוסים להכנת האזור',
-          '<strong>ההתאמה עצמה</strong>: תנועה מדויקת ומבוקרת של מקטעי עמוד שדרה או מפרקים ספציפיים. קצרה, לעיתים עם קול פיצוח (אפקט בועית הגז הלא-מזיק), ולא כואבת',
+          '<strong>ההתאמה עצמה</strong>: תנועה מדויקת ומבוקרת של מקטעי עמוד שדרה או מפרקים ספציפיים. קצרה, לעיתים עם קול פיצוח (אפקט של בועית גז במפרק שלא מקובל לחשוב שהוא מזיק), ובדרך כלל לא כואבת',
           '<strong>טכניקות מוביליזציה</strong>: תנועות איטיות יותר וקצביות שמשמשות לצד התאמות בעוצמה גבוהה או במקומן',
           'סט קצר של תרגילים או מתיחות לעשות בבית',
         ],
@@ -359,15 +359,15 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>הקלה מיידית</strong>: מטופלים רבים יוצאים מרגישים טוב משמעותית, עם פחות כאב ותנועה חופשית יותר',
-          '<strong>כאב שרירים קל למשך 24–48 שעות</strong>: דומה לתחושה אחרי אימון חזק, כששרירים מתאימים את עצמם למיקומים ולתבניות תנועה חדשים. זה נפוץ, לא מזיק ומסתיים מהר',
+          '<strong>הקלה מוקדמת</strong>: יש מטופלים שיוצאים מרגישים טוב יותר, עם פחות כאב ותנועה חופשית יותר, אם כי זה משתנה',
+          '<strong>כאב שרירים קל למשך 24–48 שעות</strong>: דומה לתחושה אחרי אימון חזק, כששרירים מתאימים את עצמם למיקומים ולתבניות תנועה חדשים. זה נפוץ ובדרך כלל חולף תוך יום-יומיים',
           '<strong>שינה משופרת</strong>: אפקט שכיח להפליא בלילה הראשון',
-          '<strong>עייפות זמנית</strong>: מערכת העצבים עברה "איפוס" וחלק מהמטופלים מרגישים עייפים בנעימות',
+          '<strong>עייפות זמנית</strong>: חלק מהמטופלים פשוט מרגישים עייפים אחרי הטיפול',
         ],
       },
       {
         type: 'paragraph',
-        text: 'שתיית מים, תנועה עדינה (לא מנוחה במיטה) ושמירה על תרגילי הבית משפרים את התוצאות משמעותית. הימנעו מאימונים אינטנסיביים ב-24 השעות הראשונות.',
+        text: 'שתיית מים, תנועה עדינה (לא מנוחה במיטה) ושמירה על תרגילי הבית עשויים לתמוך בהחלמה. הימנעו מאימונים אינטנסיביים ב-24 השעות הראשונות.',
       },
       {
         type: 'heading',
@@ -375,7 +375,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'פנו אם אתם חווים משהו שלא מרגיש ככאב שרירים רגיל לאחר טיפול: כאב חדש וחד, נימול או חולשה בזרוע או ברגל, סחרחורת חמורה או כל סימפטום מטריד אחר. אלה לא נפוצים, אבל מרפאה טובה רוצה לשמוע מכם ולהתאים את התוכנית במידת הצורך.',
+        text: 'פנו אם אתם חווים משהו שלא מרגיש ככאב שרירים רגיל לאחר טיפול: כאב חדש וחד, נימול או חולשה בזרוע או ברגל, סחרחורת חמורה או כל סימפטום מטריד אחר. אלה לא נפוצים, אבל מרפאה טובה רוצה לשמוע מכם ולהתאים את התוכנית במידת הצורך. לתמונה מלאה יותר ראו המדריך על <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי וסיכונים בטיפול כירופרקטי</a>.',
       },
       {
         type: 'heading',
@@ -383,7 +383,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong>תל אביב</strong> וב<strong>תובל</strong>. הוא בוגר Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ומבנה את הביקורים הראשונים בדיוק כמתואר לעיל: אנמנזה זהירה, בדיקה יסודית, הסבר ברור ותוכנית מותאמת. מטרת הביקור הראשון אינה רק הקלה, אלא הבנה: למה הבעיה הזו קרתה ואיך לוודא שהיא תפסיק לקרות.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong>. הוא בוגר Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ומבנה את הביקורים הראשונים בדיוק כמתואר לעיל: אנמנזה זהירה, בדיקה יסודית, הסבר ברור ותוכנית מותאמת. מטרת הביקור הראשון אינה רק הקלה, אלא הבנה: למה הבעיה הזו אולי קרתה, ומה יכול להקטין את הסיכוי שתחזור.',
       },
       {
         type: 'heading',
@@ -391,7 +391,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם דחיתם את ההזמנה כי לא הייתם בטוחים למה לצפות, עכשיו אתם יודעים. הביקור הראשון פשוט, לא ממהר ומיועד לתת לכם תשובות אמיתיות. קבעו התייעצות במרפאה בתל אביב או בתובל, או התקשרו לשאול שאלות שנותרו לפני כן, וקחו את הצעד הראשון להבנת הכאב שלכם ולפתרונו.',
+        text: 'אם דחיתם את ההזמנה כי לא הייתם בטוחים למה לצפות, עכשיו אתם יודעים. הביקור הראשון פשוט, לא ממהר ומיועד לתת לכם תשובות ברורות. קבעו התייעצות במרפאה ברמת אביב או בתובל, ליד כרמיאל, או התקשרו לשאול שאלות שנותרו לפני כן, וקחו את הצעד הראשון להבנת הכאב שלכם ולהתמודדות איתו.',
       },
     ],
   },

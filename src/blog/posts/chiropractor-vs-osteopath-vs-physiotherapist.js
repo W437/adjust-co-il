@@ -12,7 +12,7 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'When you are in pain and trying to figure out who to see, the options can be confusing. A friend recommends a <strong>chiropractor</strong>. Your doctor suggests <strong>physiotherapy</strong>. Someone at the gym swears by their <strong>osteopath</strong>. They all promise to fix your back, your neck, your sports injury, but they are not the same profession, and the differences matter.',
+        text: 'When you are in pain and trying to figure out who to see, the options can be confusing. A friend recommends a <strong>chiropractor</strong>. Your doctor suggests <strong>physiotherapy</strong>. Someone at the gym swears by their <strong>osteopath</strong>. They all aim to help with your back, your neck, your sports injury, but they are not the same profession, and the differences matter.',
       },
       {
         type: 'paragraph',
@@ -24,7 +24,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'All three are evidence-based, regulated healthcare professions that treat musculoskeletal pain and movement problems. The fastest way to think about the differences:',
+        text: 'All three are established healthcare professions, regulated in many countries, that treat musculoskeletal pain and movement problems. The fastest way to think about the differences:',
       },
       {
         type: 'list',
@@ -44,11 +44,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A chiropractor is a healthcare professional who specializes in disorders of the spine and musculoskeletal system, and the impact those disorders have on the nervous system. Chiropractors qualify as <strong>Doctors of Chiropractic (DC)</strong> after 4–5 years of post-graduate study covering anatomy, neurology, orthopedics, radiology, and biomechanics.',
+        text: 'A chiropractor (<a href="/en/blog/what-is-a-chiropractor/">what is a chiropractor?</a>) is a healthcare professional who specializes in disorders of the spine and musculoskeletal system, and the impact those disorders have on the nervous system. Chiropractors qualify as <strong>Doctors of Chiropractic (DC)</strong> after 4–5 years of post-graduate study covering anatomy, neurology, orthopedics, radiology, and biomechanics.',
       },
       {
         type: 'paragraph',
-        text: 'Their signature tool is the <strong>spinal adjustment</strong>: a fast, precise, low-force movement that restores motion and position to a restricted vertebral segment. Modern chiropractic care also includes soft tissue therapy, dry needling, rehabilitation exercises, postural retraining, and lifestyle guidance.',
+        text: 'Their signature tool is the <strong>spinal adjustment</strong>: a fast, precise, low-force movement that aims to improve motion in a restricted spinal joint. Modern chiropractic care also includes soft tissue therapy, dry needling, rehabilitation exercises, postural retraining, and lifestyle guidance.',
       },
       {
         type: 'paragraph',
@@ -96,7 +96,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A physiotherapist is a movement and rehabilitation specialist who completes a bachelor\'s or master\'s degree in physical therapy. Physiotherapy is deeply integrated into hospitals, rehabilitation centers, and the public health system: most post-surgical and post-stroke rehabilitation in Israel is done by physiotherapists.',
+        text: 'A physiotherapist is a movement and rehabilitation specialist who completes a bachelor\'s or master\'s degree in physical therapy. Physiotherapy is deeply integrated into hospitals, rehabilitation centers, and the public health system: a large share of post-surgical and post-stroke rehabilitation is carried out by physiotherapists.',
       },
       {
         type: 'paragraph',
@@ -123,7 +123,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Here is the honest truth: there is significant overlap between all three professions when it comes to common complaints like back pain, neck pain, and sports injuries. A skilled chiropractor, osteopath, and physiotherapist can all help most patients with these conditions. The differences are less about the diagnosis and more about <strong>the toolkit each one uses</strong> and their philosophical emphasis.',
+        text: 'Here is the honest truth: there is significant overlap between all three professions when it comes to common complaints like back pain, neck pain, and sports injuries. A skilled chiropractor, osteopath, and physiotherapist may all be able to help many patients with these conditions. The differences are less about the diagnosis and more about <strong>the toolkit each one uses</strong> and their philosophical emphasis.',
       },
       {
         type: 'paragraph',
@@ -149,7 +149,7 @@ export default {
           'You have sciatica, radiating pain, or numbness/tingling',
           'You suspect a disc problem (bulge or herniation)',
           'Posture or desk work is clearly part of the problem',
-          'You want a clear diagnosis and a structured treatment plan that targets the root cause',
+          'You want a clear diagnosis and a structured treatment plan that targets the likely contributing factors',
         ],
       },
       {
@@ -185,11 +185,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'This is one of the most common reasons patients walk into a new clinic. Six months of physiotherapy with no real improvement. Years of painkillers that mask but never resolve. A treatment elsewhere that helped briefly, but the pain came right back.',
+        text: 'This is one of the most common reasons patients walk into a new clinic. Six months of physiotherapy with no real improvement. Years of painkillers that mask the pain without addressing its cause. A treatment elsewhere that helped briefly, but the pain came right back.',
       },
       {
         type: 'paragraph',
-        text: 'If one profession has not produced lasting results, switching to another is reasonable, but with a clear question in mind: <strong>what specifically was missed?</strong> Often the gap is not the profession but the assessment. A chiropractor who skips imaging and rushes to adjust will miss a disc herniation. A physiotherapist who only prescribes generic exercises without examining joint restriction will miss a locked spinal segment. A good clinician of any profession starts with a thorough diagnosis, and refers out when the case is outside their scope.',
+        text: 'If one profession has not produced lasting results, switching to another is reasonable, but with a clear question in mind: <strong>what specifically was missed?</strong> Often the gap is not the profession but the assessment. A chiropractor who skips imaging and rushes to adjust could miss a disc herniation. A physiotherapist who only prescribes generic exercises without examining joint restriction may miss a stiff spinal segment. A good clinician of any profession starts with a thorough diagnosis, and refers out when the case is outside their scope. See <a href="/en/blog/how-to-choose-a-chiropractor/">how to choose a chiropractor</a> for what to ask.',
       },
       {
         type: 'heading',
@@ -197,7 +197,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Yes, and increasingly, they do. Many of the most successful treatment programs combine approaches. A chiropractor may adjust a restricted spinal segment while a physiotherapist supervises the strengthening exercises that prevent the problem from returning. Rehabilitative chiropractic, in particular, is built on this combination: the structural correction comes first, then movement retraining locks in the result.',
+        text: 'Yes, and increasingly, they do. Many of the most successful treatment programs combine approaches. A chiropractor may adjust a restricted spinal segment while a physiotherapist supervises the strengthening exercises that prevent the problem from returning. Rehabilitative chiropractic, in particular, is built on this combination: joint mobilization comes first, then movement retraining helps maintain the result.',
       },
       {
         type: 'heading',
@@ -205,7 +205,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience. He graduated from the Durban University of Technology (DUT) in South Africa, and went on to work at Assaf Harofeh Medical Center and to manage rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, environments where chiropractors, physiotherapists, and physicians worked side by side. His practice in <strong>Tel Aviv</strong> and <strong>Tuval</strong> reflects that integrative experience: precise chiropractic adjustments combined with movement-based rehabilitation, designed to address the structural problem and lock in the result.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience. He graduated from the Durban University of Technology (DUT) in South Africa, and went on to work at Assaf Harofeh Medical Center and to manage rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, environments where chiropractors, physiotherapists, and physicians worked side by side. His practice in <strong><a href="/en/clinics/ramat-aviv/">Tel Aviv</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval</a></strong> reflects that integrative experience: precise chiropractic adjustments combined with movement-based rehabilitation, designed to address the problem and help maintain progress.',
       },
       {
         type: 'heading',
@@ -213,7 +213,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you are unsure whether your problem is best handled by chiropractic, physiotherapy, or another specialty, the most useful next step is a brief assessment with a clinician who is honest enough to tell you when something is outside their scope. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call to describe your symptoms first, and get a clear answer about whether chiropractic is the right place to start.',
+        text: 'If you are unsure whether your problem is best handled by chiropractic, physiotherapy, or another specialty, the most useful next step is a brief assessment with a clinician who is honest enough to tell you when something is outside their scope. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call to describe your symptoms first, and get a clear answer about whether chiropractic is the right place to start. Not sure what to expect? Read about <a href="/en/blog/your-first-chiropractic-appointment/">your first chiropractic appointment</a>.',
       },
     ],
   },
@@ -226,7 +226,7 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'כשכואב לכם ואתם מנסים להבין למי לפנות, האפשרויות יכולות להיות מבלבלות. חבר ממליץ על <strong>כירופרקטור</strong>. הרופא שלכם מציע <strong>פיזיותרפיה</strong>. מישהו מחדר הכושר נשבע באוסטיאופת שלו. כולם מבטיחים לטפל בגב, בצוואר או בפציעת הספורט שלכם, אבל אלה לא אותה מקצוע, וההבדלים חשובים.',
+        text: 'כשכואב לכם ואתם מנסים להבין למי לפנות, האפשרויות יכולות להיות מבלבלות. חבר ממליץ על <strong>כירופרקטור</strong>. הרופא שלכם מציע <strong>פיזיותרפיה</strong>. מישהו מחדר הכושר נשבע באוסטיאופת שלו. כולם שואפים לעזור עם הגב, בצוואר או בפציעת הספורט שלכם, אבל אלה לא אותו מקצוע, וההבדלים חשובים.',
       },
       {
         type: 'paragraph',
@@ -238,7 +238,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כל שלושת המקצועות הם מקצועות רפואיים מבוססי מחקר ומפוקחים שמטפלים בכאב שלד-שרירי ובבעיות תנועה. הדרך המהירה ביותר לחשוב על ההבדלים:',
+        text: 'כל שלושת המקצועות הם מקצועות בריאות מבוססים, מפוקחים במדינות רבות, שמטפלים בכאב שלד-שרירי ובבעיות תנועה. הדרך המהירה ביותר לחשוב על ההבדלים:',
       },
       {
         type: 'list',
@@ -258,11 +258,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כירופרקטור הוא איש מקצוע רפואי המתמחה בהפרעות של עמוד השדרה ושל מערכת השלד-שריר, ובהשפעתן על מערכת העצבים. כירופרקטורים מקבלים את התואר <strong>דוקטור לכירופרקטיקה (DC)</strong> לאחר 4–5 שנות לימודי תואר שני בנושאי אנטומיה, נוירולוגיה, אורתופדיה, רדיולוגיה וביומכניקה.',
+        text: 'כירופרקטור (<a href="/blog/what-is-a-chiropractor/">מה זה כירופרקט</a>) הוא איש מקצוע רפואי המתמחה בהפרעות של עמוד השדרה ושל מערכת השלד-שריר, ובהשפעתן על מערכת העצבים. כירופרקטורים מקבלים את התואר <strong>דוקטור לכירופרקטיקה (DC)</strong> לאחר 4–5 שנות לימודי תואר שני בנושאי אנטומיה, נוירולוגיה, אורתופדיה, רדיולוגיה וביומכניקה.',
       },
       {
         type: 'paragraph',
-        text: 'כלי החתימה שלהם הוא <strong>ההתאמה (אדג\'סטמנט)</strong>: תנועה מהירה, מדויקת ובעוצמה נמוכה שמשחזרת תנועה ומיצוב למקטע חוליה מוגבל. טיפול כירופרקטי מודרני כולל גם טיפול ברקמות רכות, דריי נידלינג (ניקור יבש), תרגילי שיקום, אימון יציבה והדרכה לאורח חיים בריא.',
+        text: 'כלי החתימה שלהם הוא <strong>ההתאמה (אדג\'סטמנט)</strong>: תנועה מהירה, מדויקת ובעוצמה נמוכה שנועדה לשפר את התנועה במפרק מוגבל בעמוד השדרה. טיפול כירופרקטי מודרני כולל גם טיפול ברקמות רכות, דריי נידלינג (ניקור יבש), תרגילי שיקום, אימון יציבה והדרכה לאורח חיים בריא.',
       },
       {
         type: 'paragraph',
@@ -310,7 +310,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'פיזיותרפיסט הוא מומחה לתנועה ושיקום שמשלים תואר ראשון או שני בפיזיותרפיה. הפיזיותרפיה משולבת עמוקות בבתי החולים, במרכזי השיקום ובמערכת הבריאות הציבורית: רוב השיקום שלאחר ניתוח ושלאחר אירוע מוחי בישראל נעשה על ידי פיזיותרפיסטים.',
+        text: 'פיזיותרפיסט הוא מומחה לתנועה ושיקום שמשלים תואר ראשון או שני בפיזיותרפיה. הפיזיותרפיה משולבת עמוקות בבתי החולים, במרכזי השיקום ובמערכת הבריאות הציבורית: חלק גדול מהשיקום שלאחר ניתוח ושלאחר אירוע מוחי נעשה על ידי פיזיותרפיסטים.',
       },
       {
         type: 'paragraph',
@@ -337,7 +337,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הנה האמת ההוגנת: יש חפיפה משמעותית בין שלושת המקצועות כשמדובר בתלונות נפוצות כמו כאב גב, כאב צוואר ופציעות ספורט. כירופרקטור, אוסטיאופת ופיזיותרפיסט מיומנים יכולים לעזור לרוב המטופלים במצבים אלה. ההבדלים פחות באבחנה ויותר ב<strong>ארגז הכלים שכל אחד משתמש בו</strong> ובדגש הפילוסופי.',
+        text: 'הנה האמת ההוגנת: יש חפיפה משמעותית בין שלושת המקצועות כשמדובר בתלונות נפוצות כמו כאב גב, כאב צוואר ופציעות ספורט. כירופרקטור, אוסטיאופת ופיזיותרפיסט מיומנים עשויים להיות מסוגלים לעזור להרבה מטופלים במצבים אלה. ההבדלים פחות באבחנה ויותר ב<strong>ארגז הכלים שכל אחד משתמש בו</strong> ובדגש הפילוסופי.',
       },
       {
         type: 'paragraph',
@@ -363,7 +363,7 @@ export default {
           'יש לכם סיאטיקה, כאב מקרין או נימול/עקצוצים',
           'אתם חושדים בבעיית דיסק (בליטה או פריצת דיסק)',
           'יציבה או עבודת משרד הן ברור חלק מהבעיה',
-          'אתם רוצים אבחנה ברורה ותוכנית טיפול מסודרת שמכוונת לסיבה השורשית',
+          'אתם רוצים אבחנה ברורה ותוכנית טיפול מסודרת שמכוונת לגורמים התורמים לבעיה',
         ],
       },
       {
@@ -399,11 +399,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'זו אחת הסיבות הנפוצות ביותר שמטופלים נכנסים למרפאה חדשה. שישה חודשי פיזיותרפיה ללא שיפור אמיתי. שנים של משככי כאבים שמסווים אבל אף פעם לא פותרים. טיפול במקום אחר שעזר לזמן קצר אבל הכאב חזר.',
+        text: 'זו אחת הסיבות הנפוצות ביותר שמטופלים נכנסים למרפאה חדשה. שישה חודשי פיזיותרפיה ללא שיפור אמיתי. שנים של משככי כאבים שמסווים את הכאב בלי לטפל בסיבה שלו. טיפול במקום אחר שעזר לזמן קצר אבל הכאב חזר.',
       },
       {
         type: 'paragraph',
-        text: 'אם מקצוע אחד לא הניב תוצאות מתמשכות, מעבר למקצוע אחר הוא סביר, אבל עם שאלה ברורה: <strong>מה בדיוק פוספס?</strong> לעיתים קרובות הפער לא במקצוע אלא באבחנה. כירופרקטור שמדלג על הדמיה וממהר להתאים יחמיץ פריצת דיסק. פיזיותרפיסט שרושם רק תרגילים גנריים בלי לבדוק הגבלת מפרק יחמיץ מקטע עמוד שדרה נעול. קלינאי טוב מכל מקצוע מתחיל באבחנה מעמיקה, ומפנה כשהמקרה מחוץ לטווח שלו.',
+        text: 'אם מקצוע אחד לא הניב תוצאות מתמשכות, מעבר למקצוע אחר הוא סביר, אבל עם שאלה ברורה: <strong>מה בדיוק פוספס?</strong> לעיתים קרובות הפער לא במקצוע אלא באבחנה. כירופרקטור שמדלג על הדמיה וממהר להתאים עלול להחמיץ פריצת דיסק. פיזיותרפיסט שרושם רק תרגילים גנריים בלי לבדוק הגבלת מפרק עלול להחמיץ מקטע נוקשה בעמוד השדרה. קלינאי טוב מכל מקצוע מתחיל באבחנה מעמיקה, ומפנה כשהמקרה מחוץ לטווח שלו. ראו <a href="/blog/how-to-choose-a-chiropractor/">איך בוחרים כירופרקט</a> לעצות מה כדאי לשאול.',
       },
       {
         type: 'heading',
@@ -411,7 +411,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כן, ויותר ויותר, הם עובדים. רבות מתוכניות הטיפול המוצלחות ביותר משלבות גישות. כירופרקטור עשוי להתאים מקטע עמוד שדרה מוגבל בזמן שפיזיותרפיסט מפקח על תרגילי החיזוק שמונעים מהבעיה לחזור. בכירופרקטיקה השיקומית, במיוחד, השילוב הזה הוא הבסיס: התיקון המבני בא קודם, ואז אימון התנועה מקבע את התוצאה.',
+        text: 'כן, ויותר ויותר, הם עובדים. רבות מתוכניות הטיפול המוצלחות ביותר משלבות גישות. כירופרקטור עשוי להתאים מקטע עמוד שדרה מוגבל בזמן שפיזיותרפיסט מפקח על תרגילי החיזוק שמונעים מהבעיה לחזור. בכירופרקטיקה השיקומית, במיוחד, השילוב הזה הוא הבסיס: שיפור התנועה במפרקים בא קודם, ואז אימון התנועה עוזר לשמר את התוצאה.',
       },
       {
         type: 'heading',
@@ -419,7 +419,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני. הוא בוגר Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא, תל השומר, סביבות שבהן כירופרקטורים, פיזיותרפיסטים ורופאים עבדו זה לצד זה. הפרקטיקה שלו ב<strong>תל אביב</strong> וב<strong>תובל</strong> משקפת את הניסיון האינטגרטיבי הזה: התאמות כירופרקטיות מדויקות בשילוב שיקום מבוסס תנועה, כדי לטפל בבעיה המבנית ולקבע את התוצאה.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני. הוא בוגר Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא, תל השומר, סביבות שבהן כירופרקטורים, פיזיותרפיסטים ורופאים עבדו זה לצד זה. הפרקטיקה שלו ב<strong><a href="/clinics/ramat-aviv/">תל אביב</a></strong> וב<strong><a href="/clinics/tuval/">תובל</a></strong> משקפת את הניסיון האינטגרטיבי הזה: התאמות כירופרקטיות מדויקות בשילוב שיקום מבוסס תנועה, כדי לטפל בבעיה ולעזור לשמר את ההתקדמות.',
       },
       {
         type: 'heading',
@@ -427,7 +427,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם אינכם בטוחים אם הבעיה שלכם מטופלת הכי טוב על ידי כירופרקטיקה, פיזיותרפיה או מומחה אחר, הצעד הבא המועיל ביותר הוא הערכה קצרה אצל קלינאי שהוגן מספיק להגיד לכם מתי משהו מחוץ לטווח שלו. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בתובל, או התקשרו לתאר את הסימפטומים תחילה, וקבלו תשובה ברורה האם כירופרקטיקה היא המקום הנכון להתחיל בו.',
+        text: 'אם אינכם בטוחים אם הבעיה שלכם מטופלת הכי טוב על ידי כירופרקטיקה, פיזיותרפיה או מומחה אחר, הצעד הבא המועיל ביותר הוא הערכה קצרה אצל קלינאי שהוגן מספיק להגיד לכם מתי משהו מחוץ לטווח שלו. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בתובל, או התקשרו לתאר את הסימפטומים תחילה, וקבלו תשובה ברורה האם כירופרקטיקה היא המקום הנכון להתחיל בו. לא בטוחים מה לצפות? קראו על <a href="/blog/your-first-chiropractic-appointment/">הביקור הכירופרקטי הראשון</a>.',
       },
     ],
   },

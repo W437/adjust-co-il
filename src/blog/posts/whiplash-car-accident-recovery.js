@@ -9,7 +9,7 @@ export default {
     excerpt:
       'Even a low-speed collision can leave you with weeks or months of neck pain, headaches, and stiffness. Here is how whiplash actually injures the body, what helps recovery, and the mistakes that prolong it.',
     metaDescription:
-      'Whiplash and car accident recovery: a step-by-step guide to chiropractic treatment, what to do in the first days, common mistakes, and when to expect full recovery. By Dr. Victor Duani.',
+      'Whiplash and car accident recovery: a step-by-step guide to chiropractic treatment, what to do in the first days, common mistakes, and what recovery can look like. By Dr. Victor Duani.',
     content: [
       {
         type: 'paragraph',
@@ -17,7 +17,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'This is the classic <strong>whiplash</strong> pattern, and it is one of the most under-treated injuries in modern medicine. Understanding what actually happens during a whiplash injury, and what to do about it in the right order, makes the difference between weeks of recovery and years of chronic symptoms.',
+        text: 'This is the classic <strong>whiplash</strong> pattern, and it is an injury that is easy to underestimate. Understanding what happens during a whiplash injury, and what to do about it in the right order, may help you recover more smoothly and reduce the risk of lingering symptoms.',
       },
       {
         type: 'heading',
@@ -78,7 +78,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Severity varies enormously. Some patients recover within weeks; others develop chronic symptoms that last for years if not properly treated.',
+        text: 'Severity varies enormously. Some patients recover within weeks; others develop chronic symptoms that can last for years. Neck pain after an accident is often closely related to the issues in <a href="/en/blog/neck-pain-tension-headaches/">neck pain and tension headaches</a>.',
       },
       {
         type: 'heading',
@@ -108,7 +108,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The priority in the first two weeks is reducing inflammation, preserving safe movement, and ruling out anything that needs a different approach (fracture, ligament instability, concussion). Treatment is gentle: soft tissue work, mobilization, light targeted movements. Forceful adjustments are typically avoided in the acute phase.',
+        text: 'The priority in the first two weeks is reducing inflammation, preserving gentle movement, and ruling out anything that needs a different approach (fracture, ligament instability, concussion). Treatment is gentle: soft tissue work, mobilization, light targeted movements. Forceful adjustments are typically avoided in the acute phase.',
       },
       {
         type: 'subheading',
@@ -116,7 +116,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'As acute inflammation settles, the focus shifts to restoring full joint motion in the cervical and upper thoracic spine. This is when carefully selected chiropractic adjustments, deeper soft tissue work, and progressive range-of-motion exercises become central.',
+        text: 'As acute inflammation settles, the focus shifts to restoring full joint motion in the cervical and upper thoracic spine. This is when carefully selected chiropractic adjustments, deeper soft tissue work (sometimes including <a href="/en/services/dry-needling-ims/">dry needling</a>), and progressive range-of-motion exercises become central.',
       },
       {
         type: 'subheading',
@@ -124,7 +124,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The injured tissues are healing, but the deep neck stabilizing muscles have weakened from the injury and the period of relative inactivity. Specific exercises rebuild these muscles, retrain proper posture and head position, and prepare the neck to handle daily life again. This phase is critical. Skipping it is one of the main reasons whiplash becomes chronic.',
+        text: 'The injured tissues are healing, but the deep neck stabilizing muscles have weakened from the injury and the period of relative inactivity. Specific exercises rebuild these muscles, retrain proper posture and head position, and prepare the neck to handle daily life again. This phase matters. Skipping it may be one reason whiplash symptoms linger.',
       },
       {
         type: 'subheading',
@@ -141,9 +141,9 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Doing nothing because the pain seems manageable.</strong> Untreated whiplash can become a chronic condition. Early, appropriate treatment may help more than late treatment.',
-          '<strong>Excessive rest and immobilization.</strong> The old advice to "stay in bed and wear a collar" is now known to prolong recovery. Gentle, progressive movement is the right approach.',
-          '<strong>Skipping the rehabilitation phase.</strong> Once the pain is mostly gone, many patients stop treatment, and then the deep stabilizing muscles never fully recover. Months later, the pain returns, often worse.',
+          '<strong>Doing nothing because the pain seems manageable.</strong> Whiplash that is not addressed can become a chronic condition. Early, appropriate treatment may help more than late treatment.',
+          '<strong>Excessive rest and immobilization.</strong> The old advice to "stay in bed and wear a collar" is no longer recommended and may slow recovery. Gentle, progressive movement is the right approach.',
+          '<strong>Skipping the rehabilitation phase.</strong> Once the pain is mostly gone, many patients stop treatment, and then the deep stabilizing muscles may not fully recover. Months later, the pain returns, often worse.',
         ],
       },
       {
@@ -156,7 +156,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Chronic whiplash is harder to treat than acute whiplash, but it is treatable. Even years after the original accident, structured chiropractic care combined with rehabilitation may reduce symptoms and restore function.',
+        text: 'Chronic whiplash is harder to treat than acute whiplash, but many patients can still be helped. Even years after the original accident, structured chiropractic care combined with rehabilitation may reduce symptoms and improve function. If the injury came from sport rather than a car accident, see <a href="/en/blog/sports-injury-recovery/">sports injury recovery</a>.',
       },
       {
         type: 'heading',
@@ -164,7 +164,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and a strong focus on post-traumatic recovery, including whiplash and other accident-related injuries. After graduating from the Durban University of Technology (DUT) in South Africa, he worked at Assaf Harofeh Medical Center and Sheba Medical Center, Tel Hashomer, and served in the IDF Medical Corps reserves treating air-crew injuries, an environment where prompt, structured rehabilitation of trauma is essential. His clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong> apply the same standards to whiplash care: careful assessment, phased treatment, and a clear plan to prevent the injury from becoming chronic.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and a strong focus on post-traumatic recovery, including whiplash and other accident-related injuries. After graduating from the Durban University of Technology (DUT) in South Africa, he worked at Assaf Harofeh Medical Center and Sheba Medical Center, Tel Hashomer, and served in the IDF Medical Corps reserves treating air-crew injuries, an environment where prompt, structured rehabilitation of trauma is essential. His clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong> apply the same standards to whiplash care: careful assessment, phased treatment, and a clear plan that aims to reduce the chance of the injury becoming chronic.',
       },
       {
         type: 'heading',
@@ -172,7 +172,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you have been in a car accident (recently or even months ago) and are still dealing with neck pain, headaches, or stiffness, the most important step you can take is a thorough cervical examination and a structured treatment plan. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call to describe what happened first. Early, appropriate treatment may reduce the chance of long-term symptoms, and chronic whiplash from older accidents can still be examined and often improved.',
+        text: 'If you have been in a car accident (recently or even months ago) and are still dealing with neck pain, headaches, or stiffness, the most important step you can take is a thorough cervical examination and a structured treatment plan. Book a consultation with Dr. Duani at the Ramat Aviv clinic or at Tuval, near Karmiel, or call to describe what happened first. Early, appropriate treatment may reduce the chance of long-term symptoms, and chronic whiplash from older accidents can still be examined and, in some patients, improved.',
       },
     ],
   },
@@ -181,7 +181,7 @@ export default {
     excerpt:
       'אפילו התנגשות במהירות נמוכה יכולה להשאיר אתכם עם שבועות או חודשים של כאב צוואר, כאבי ראש ונוקשות. הנה איך "צליפת שוט" באמת פוגעת בגוף, מה מסייע להחלמה, והטעויות שמאריכות אותה.',
     metaDescription:
-      'החלמה מ"צליפת שוט" ומתאונת דרכים: מדריך שלב אחר שלב לטיפול כירופרקטי, מה לעשות בימים הראשונים, טעויות נפוצות ומתי לצפות להחלמה מלאה. מאת ד"ר ויקטור דואני.',
+      'החלמה מ"צליפת שוט" ומתאונת דרכים: מדריך שלב אחר שלב לטיפול כירופרקטי, מה לעשות בימים הראשונים, טעויות נפוצות ומה אפשר לצפות בהחלמה. מאת ד"ר ויקטור דואני.',
     content: [
       {
         type: 'paragraph',
@@ -189,7 +189,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'זהו הדפוס הקלאסי של <strong>"צליפת שוט" (whiplash)</strong>, ואחת הפציעות שמטופלות הכי פחות ברפואה המודרנית. הבנת מה באמת קורה בפציעת צליפת שוט, ומה לעשות לגביה בסדר הנכון, היא ההבדל בין שבועות של החלמה לבין שנים של תסמינים כרוניים.',
+        text: 'זהו הדפוס הקלאסי של <strong>"צליפת שוט" (whiplash)</strong>, פציעה שקל לזלזל בה. הבנת מה קורה בפציעת צליפת שוט, ומה לעשות לגביה בסדר הנכון, עשויה לסייע בהחלמה חלקה יותר ולהפחית את הסיכון לתסמינים מתמשכים.',
       },
       {
         type: 'heading',
@@ -250,7 +250,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'החומרה משתנה מאוד. חלק מהמטופלים מחלימים תוך שבועות; אחרים מפתחים תסמינים כרוניים שנמשכים שנים אם לא מטופלים כראוי.',
+        text: 'החומרה משתנה מאוד. חלק מהמטופלים מחלימים תוך שבועות; אחרים מפתחים תסמינים כרוניים שעלולים להימשך שנים. כאב צוואר אחרי תאונה קשור לא פעם לנושאים שבמאמר <a href="/blog/neck-pain-tension-headaches/">כאב צוואר וכאבי ראש מתח</a>.',
       },
       {
         type: 'heading',
@@ -280,7 +280,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'העדיפות בשבועיים הראשונים היא הפחתת דלקת, שימור תנועה בטוחה ושלילת כל מה שדורש גישה שונה (שבר, חוסר יציבות של רצועה, זעזוע מוח). הטיפול עדין: עבודה על רקמות רכות, מוביליזציה, תנועות ממוקדות קלות. התאמות חזקות נמנעות בדרך כלל בשלב החריף.',
+        text: 'העדיפות בשבועיים הראשונים היא הפחתת דלקת, שימור תנועה עדינה ושלילת כל מה שדורש גישה שונה (שבר, חוסר יציבות של רצועה, זעזוע מוח). הטיפול עדין: עבודה על רקמות רכות, מוביליזציה, תנועות ממוקדות קלות. התאמות חזקות נמנעות בדרך כלל בשלב החריף.',
       },
       {
         type: 'subheading',
@@ -288,7 +288,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כשהדלקת החריפה שוקעת, המיקוד עובר לשחזור תנועת מפרק מלאה בעמוד השדרה הצווארי והגבי העליון. זה הזמן שבו התאמות כירופרקטיות שנבחרו בקפידה, עבודה עמוקה יותר על רקמות רכות ותרגילי טווח תנועה מתקדמים הופכים למרכזיים.',
+        text: 'כשהדלקת החריפה שוקעת, המיקוד עובר לשחזור תנועת מפרק מלאה בעמוד השדרה הצווארי והגבי העליון. זה הזמן שבו התאמות כירופרקטיות שנבחרו בקפידה, עבודה עמוקה יותר על רקמות רכות (לעיתים כולל <a href="/services/dry-needling-ims/">דיקור יבש</a>) ותרגילי טווח תנועה מתקדמים הופכים למרכזיים.',
       },
       {
         type: 'subheading',
@@ -296,7 +296,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הרקמות הפגועות מחלימות, אבל שרירי הייצוב העמוקים של הצוואר נחלשו מהפציעה ומתקופת החוסר פעילות היחסית. תרגילים ספציפיים בונים מחדש את השרירים האלה, מאמנים מחדש יציבה ומיקום ראש תקינים, ומכינים את הצוואר להתמודד שוב עם החיים היומיומיים. השלב הזה קריטי. דילוג עליו הוא אחת הסיבות העיקריות שבגללן "צליפת שוט" הופכת לכרונית.',
+        text: 'הרקמות הפגועות מחלימות, אבל שרירי הייצוב העמוקים של הצוואר נחלשו מהפציעה ומתקופת החוסר פעילות היחסית. תרגילים ספציפיים בונים מחדש את השרירים האלה, מאמנים מחדש יציבה ומיקום ראש תקינים, ומכינים את הצוואר להתמודד שוב עם החיים היומיומיים. השלב הזה חשוב. דילוג עליו עשוי להיות אחת הסיבות לכך שהתסמינים של "צליפת שוט" נמשכים.',
       },
       {
         type: 'subheading',
@@ -314,8 +314,8 @@ export default {
         type: 'list',
         items: [
           '<strong>לא לעשות כלום כי הכאב נראה נסבל.</strong> "צליפת שוט" שלא טופלה עלולה להפוך למצב כרוני. טיפול מוקדם ומתאים עשוי לעזור יותר מטיפול מאוחר.',
-          '<strong>מנוחה ואימוביליזציה מוגזמות.</strong> העצה הישנה "להישאר במיטה וללבוש צווארון" ידועה כיום כמאריכה את ההחלמה. תנועה עדינה ומתקדמת היא הגישה הנכונה.',
-          '<strong>דילוג על שלב השיקום.</strong> ברגע שהכאב כמעט נעלם, מטופלים רבים מפסיקים טיפול, ואז שרירי הייצוב העמוקים אף פעם לא מחלימים לחלוטין. חודשים מאוחר יותר, הכאב חוזר, לעיתים גרוע יותר.',
+          '<strong>מנוחה ואימוביליזציה מוגזמות.</strong> העצה הישנה "להישאר במיטה וללבוש צווארון" אינה מומלצת עוד ועלולה להאט את ההחלמה. תנועה עדינה ומתקדמת היא הגישה הנכונה.',
+          '<strong>דילוג על שלב השיקום.</strong> ברגע שהכאב כמעט נעלם, מטופלים רבים מפסיקים טיפול, ואז שרירי הייצוב העמוקים אולי לא מחלימים במלואם. חודשים מאוחר יותר, הכאב חוזר, לעיתים גרוע יותר.',
         ],
       },
       {
@@ -328,7 +328,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: '"צליפת שוט" כרונית קשה יותר לטיפול מ"צליפת שוט" חריפה, אבל היא ניתנת לטיפול. גם שנים אחרי התאונה המקורית, טיפול כירופרקטי מובנה בשילוב שיקום עשוי להפחית את התסמינים ולשחזר תפקוד.',
+        text: '"צליפת שוט" כרונית קשה יותר לטיפול מ"צליפת שוט" חריפה, אבל מטופלים רבים עדיין יכולים להרוויח מטיפול. גם שנים אחרי התאונה המקורית, טיפול כירופרקטי מובנה בשילוב שיקום עשוי להפחית את התסמינים ולשפר תפקוד. אם הפציעה נגרמה מספורט ולא מתאונת דרכים, ראו <a href="/blog/sports-injury-recovery/">החלמה מפציעות ספורט</a>.',
       },
       {
         type: 'heading',
@@ -336,7 +336,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומיקוד חזק בהחלמה פוסט-טראומטית, כולל "צליפת שוט" ופציעות אחרות הקשורות לתאונות. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ושירת כקצין רפואה במילואים בחיל הרפואה (צה"ל) בטיפול בפציעות אנשי צוות אוויר, סביבה שבה שיקום פציעות מהיר ומובנה הוא חיוני. המרפאות שלו ב<strong>תל אביב</strong> וב<strong>תובל</strong> מיישמות את אותם סטנדרטים לטיפול ב"צליפת שוט": הערכה זהירה, טיפול בשלבים, ותוכנית ברורה למניעת התפתחות המצב לכרוני.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומיקוד חזק בהחלמה פוסט-טראומטית, כולל "צליפת שוט" ופציעות אחרות הקשורות לתאונות. לאחר סיום לימודיו ב-Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ושירת כקצין רפואה במילואים בחיל הרפואה (צה"ל) בטיפול בפציעות אנשי צוות אוויר, סביבה שבה שיקום פציעות מהיר ומובנה הוא חיוני. המרפאות שלו ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong> מיישמות את אותם סטנדרטים לטיפול ב"צליפת שוט": הערכה זהירה, טיפול בשלבים, ותוכנית ברורה שנועדה להקטין את הסיכוי שהמצב יהפוך לכרוני.',
       },
       {
         type: 'heading',
@@ -344,7 +344,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם היו לכם תאונת דרכים (לאחרונה או אפילו לפני חודשים) ואתם עדיין מתמודדים עם כאב צוואר, כאבי ראש או נוקשות, הצעד החשוב ביותר שאתם יכולים לעשות הוא בדיקת צוואר יסודית ותוכנית טיפול מובנית. קבעו התייעצות עם ד"ר דואני בקליניקה ברמת אביב או בתובל, או התקשרו לתאר תחילה מה קרה. טיפול מוקדם ומתאים עשוי להפחית את הסיכוי לתסמינים ארוכי טווח, וגם "צליפת שוט" כרונית מתאונות ישנות אפשר לבדוק ולנסות לשפר.',
+        text: 'אם היו לכם תאונת דרכים (לאחרונה או אפילו לפני חודשים) ואתם עדיין מתמודדים עם כאב צוואר, כאבי ראש או נוקשות, הצעד החשוב ביותר שאתם יכולים לעשות הוא בדיקת צוואר יסודית ותוכנית טיפול מובנית. קבעו התייעצות עם ד"ר דואני בקליניקה ברמת אביב או בתובל, ליד כרמיאל, או התקשרו לתאר תחילה מה קרה. טיפול מוקדם ומתאים עשוי להפחית את הסיכוי לתסמינים ארוכי טווח, וגם "צליפת שוט" כרונית מתאונות ישנות אפשר לבדוק, ובחלק מהמטופלים גם לשפר.',
       },
     ],
   },

@@ -38,7 +38,7 @@ export default {
           'Felt at the base of the skull, the temples, or behind the eye',
           'Triggered or worsened by neck movement, prolonged sitting, or stress',
           'Accompanied by neck stiffness or tenderness in the upper trapezius muscles',
-          'Resistant to typical headache medications. They may dull the pain temporarily but never fully resolve it',
+          'Resistant to typical headache medications, which may dull the pain temporarily without addressing its source',
         ],
       },
       {
@@ -56,11 +56,11 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Forward head posture</strong>: Hours of looking down at a phone, laptop, or steering wheel. The further the head sits forward, the more work the neck muscles have to do to hold it up.',
+          '<strong>Forward head posture</strong>: Hours of looking down at a phone, laptop, or steering wheel. The further the head sits forward, the more work the neck muscles have to do to hold it up (more in <a href="/en/blog/posture-digital-age/">posture in the digital age</a>).',
           '<strong>Prolonged static positions</strong>: The cervical joints are designed to move; long hours in a fixed posture cause them to lose mobility.',
           '<strong>Stress and jaw clenching</strong>: Chronic mental stress drives constant low-level tension in the upper trapezius, levator scapulae, and suboccipital muscles.',
           '<strong>Sleep position</strong>: Stomach sleeping in particular forces the neck into a sustained rotation that irritates the cervical joints night after night.',
-          '<strong>Old trauma</strong>: Whiplash, falls, or sports injuries can leave residual joint restriction that quietly causes problems for years.',
+          '<strong>Old trauma</strong>: Whiplash, falls, or sports injuries can leave residual joint restriction that may cause problems for years (see <a href="/en/blog/whiplash-car-accident-recovery/">whiplash and car accident recovery</a>).',
           'Eye strain and uncorrected vision: Squinting and head-tilting to read screens at the wrong distance.',
         ],
       },
@@ -70,7 +70,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'When the actual source of the headache is the neck, painkillers behave predictably: they help a little at first, then less, then not at all. The underlying joint restriction and muscular tension are still there, generating pain signals, and the body adapts to the medication while the structural problem keeps escalating.',
+        text: 'When the actual source of the headache is the neck, painkillers behave predictably: they help a little at first, then less, then not at all. The underlying joint restriction and muscular tension are still there, generating pain signals, and the body may adapt to the medication while the underlying problem continues.',
       },
       {
         type: 'paragraph',
@@ -78,7 +78,7 @@ export default {
       },
       {
         type: 'heading',
-        text: 'How Chiropractic Care Resolves the Cycle',
+        text: 'How Chiropractic Care May Help Break the Cycle',
       },
       {
         type: 'paragraph',
@@ -98,7 +98,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Gentle, precise chiropractic adjustments or mobilization restore proper motion to the restricted cervical joints. For patients who prefer not to receive high-velocity adjustments, instrument-assisted techniques and mobilization deliver similar results with no popping sound.',
+        text: 'Gentle, precise chiropractic adjustments or mobilization aim to restore motion to the restricted cervical joints. For patients who prefer not to receive high-velocity neck adjustments, instrument-assisted techniques and mobilization are gentler options with no popping sound. It is reasonable to ask about alternatives and risks beforehand; we cover them in our guide to <a href="/en/blog/chiropractic-side-effects-risks/">chiropractic side effects and risks</a>.',
       },
       {
         type: 'subheading',
@@ -106,7 +106,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The deep muscles at the base of the skull and along the upper shoulders carry an enormous amount of chronic tension. Soft tissue work, dry needling, and targeted stretching release this tension and reduce the inputs that drive headaches.',
+        text: 'The deep muscles at the base of the skull and along the upper shoulders often carry chronic tension. Soft tissue work, dry needling, and targeted stretching aim to ease this tension, which may reduce the inputs that drive headaches.',
       },
       {
         type: 'subheading',
@@ -114,7 +114,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Treatment that does not address the cause will not last. Postural retraining (specific exercises to strengthen the deep neck flexors, mobilize the upper thoracic spine, and re-train head position) is essential. Without it, the problem returns the moment treatment ends.',
+        text: 'Treatment that does not address the likely cause may not last. Postural retraining (specific exercises to strengthen the deep neck flexors, mobilize the upper thoracic spine, and re-train head position) is an important part of care. Without it, the problem may return once treatment ends.',
       },
       {
         type: 'subheading',
@@ -130,7 +130,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'It varies from person to person. When the headache is genuinely neck-related, some patients notice a change within the first few sessions, while others need longer. Lasting improvement usually depends on combining treatment with consistent home exercises. After the examination you will get a realistic estimate for your case, not a guarantee.',
+        text: 'It varies from person to person. When the headache is genuinely neck-related, some patients notice a change within the first few sessions, while others need longer. Longer-term improvement usually depends on combining treatment with consistent home exercises. After the examination you will get a realistic estimate for your case, not a guarantee.',
       },
       {
         type: 'paragraph',
@@ -160,7 +160,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong>. He graduated from the Durban University of Technology (DUT) in South Africa, worked at Assaf Harofeh Medical Center, and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer. A significant portion of his caseload is patients with chronic neck pain and recurring headaches who have not found lasting relief elsewhere, and his approach combines precise cervical care with the postural and rehabilitation work that prevents the problem from returning.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong>. He graduated from the Durban University of Technology (DUT) in South Africa, worked at Assaf Harofeh Medical Center, and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer. A significant portion of his caseload is patients with chronic neck pain and recurring headaches who have not found relief elsewhere, and his approach combines cervical care with the postural and rehabilitation work that aims to help prevent the problem from returning. Neck pain is often part of a wider picture; our <a href="/en/blog/understanding-back-pain/">guide to understanding back pain</a> explains how chronic spinal pain develops.',
       },
       {
         type: 'heading',
@@ -168,7 +168,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you have been managing recurring neck pain and tension headaches with painkillers for months or years, the most useful next step is a proper cervical examination. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic, or call first to describe the pattern of your symptoms. The examination will show whether your headaches suit chiropractic treatment or whether a referral to a doctor is the right next step.',
+        text: 'If you have been managing recurring neck pain and tension headaches with painkillers for months or years, the most useful next step is a proper cervical examination. Book a consultation with Dr. Duani at the Ramat Aviv clinic or at Tuval, near Karmiel, or call first to describe the pattern of your symptoms. The examination will show whether your headaches suit chiropractic treatment or whether a referral to a doctor is the right next step.',
       },
     ],
   },
@@ -206,7 +206,7 @@ export default {
           'מורגש בבסיס הגולגולת, ברקות או מאחורי העין',
           'מתעורר או מחמיר על ידי תנועת צוואר, ישיבה ממושכת או מתח',
           'מלווה בנוקשות צוואר או רגישות בשרירי הטרפז העליונים',
-          'מתנגד לתרופות כאב ראש אופייניות. הן עשויות להקהות את הכאב לזמן קצר אבל אף פעם לא לפתור אותו לחלוטין',
+          'מתנגד לתרופות כאב ראש אופייניות, שעשויות להקהות את הכאב לזמן קצר בלי לטפל במקורו',
         ],
       },
       {
@@ -224,11 +224,11 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>ראש מקדים</strong>: שעות של הסתכלות מטה לטלפון, ללפטופ או להגה. ככל שהראש נמצא יותר קדימה, שרירי הצוואר צריכים לעבוד קשה יותר כדי להחזיק אותו.',
+          '<strong>ראש מקדים</strong>: שעות של הסתכלות מטה לטלפון, ללפטופ או להגה. ככל שהראש נמצא יותר קדימה, שרירי הצוואר צריכים לעבוד קשה יותר כדי להחזיק אותו (עוד ב<a href="/blog/posture-digital-age/">יציבה בעידן הדיגיטלי</a>).',
           '<strong>תנוחות סטטיות ממושכות</strong>: המפרקים הצוואריים מתוכננים לתנועה; שעות ארוכות בתנוחה קבועה גורמות להם לאבד ניידות.',
           '<strong>מתח וחריקת שיניים</strong>: מתח מנטלי כרוני מניע מתח קבוע ברמה נמוכה בטרפז העליון, ברומם השכמה ובשרירי הסובוקסיפיטל.',
           '<strong>תנוחת שינה</strong>: שינה על הבטן במיוחד כופה על הצוואר סיבוב מתמשך שמגרה את המפרקים הצוואריים לילה אחר לילה.',
-          '<strong>טראומה ישנה</strong>: צליפת שוט (whiplash), נפילות או פציעות ספורט עלולים להשאיר הגבלת מפרק שיורית שגורמת בשקט לבעיות במשך שנים.',
+          '<strong>טראומה ישנה</strong>: צליפת שוט (whiplash), נפילות או פציעות ספורט עלולים להשאיר הגבלת מפרק שיורית שעלולה לגרום לבעיות במשך שנים (ראו <a href="/blog/whiplash-car-accident-recovery/">צליפת שוט והחלמה מתאונת דרכים</a>).',
           'מאמץ עיניים וראייה לא מתוקנת: שיפלוץ עיניים והטיית ראש לקריאת מסכים במרחק לא נכון.',
         ],
       },
@@ -238,7 +238,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כשהמקור האמיתי של כאב הראש הוא הצוואר, משככי כאבים מתנהגים באופן צפוי: עוזרים מעט בהתחלה, אז פחות, אז בכלל לא. הגבלת המפרק והמתח השרירי הבסיסי עדיין שם, ומפיקים אותות כאב, והגוף מסתגל לתרופה בעוד הבעיה המבנית ממשיכה להחמיר.',
+        text: 'כשהמקור האמיתי של כאב הראש הוא הצוואר, משככי כאבים מתנהגים באופן צפוי: עוזרים מעט בהתחלה, אז פחות, אז בכלל לא. הגבלת המפרק והמתח השרירי הבסיסי עדיין שם, ומפיקים אותות כאב, והגוף עשוי להסתגל לתרופה בעוד הבעיה הבסיסית נמשכת.',
       },
       {
         type: 'paragraph',
@@ -246,7 +246,7 @@ export default {
       },
       {
         type: 'heading',
-        text: 'איך הטיפול הכירופרקטי שובר את המחזור',
+        text: 'איך הטיפול הכירופרקטי עשוי לעזור לשבור את המחזור',
       },
       {
         type: 'paragraph',
@@ -266,7 +266,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'התאמות כירופרקטיות עדינות ומדויקות או מוביליזציה משחזרות תנועה תקינה למפרקי הצוואר המוגבלים. למטופלים שמעדיפים לא לקבל התאמות בעוצמה גבוהה, טכניקות בעזרת מכשיר ומוביליזציה מספקות תוצאות דומות ללא קול פיצוח.',
+        text: 'התאמות כירופרקטיות עדינות ומדויקות או מוביליזציה נועדו לשחזר תנועה למפרקי הצוואר המוגבלים. למטופלים שמעדיפים לא לקבל התאמות צוואר בעוצמה גבוהה, טכניקות בעזרת מכשיר ומוביליזציה הן חלופות עדינות יותר, ללא קול פיצוח. מומלץ לשאול מראש על חלופות וסיכונים; אנחנו מסבירים עליהם במדריך על <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי וסיכונים בטיפול כירופרקטי</a>.',
       },
       {
         type: 'subheading',
@@ -274,7 +274,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'השרירים העמוקים בבסיס הגולגולת ולאורך הכתפיים העליונות נושאים כמות עצומה של מתח כרוני. עבודה על רקמות רכות, דריי נידלינג ומתיחות ממוקדות משחררות את המתח הזה ומפחיתות את הקלטים שמניעים כאבי ראש.',
+        text: 'השרירים העמוקים בבסיס הגולגולת ולאורך הכתפיים העליונות נושאים לא פעם מתח כרוני. עבודה על רקמות רכות, דריי נידלינג ומתיחות ממוקדות נועדו להקל על המתח הזה, מה שעשוי להפחית את הקלטים שמניעים כאבי ראש.',
       },
       {
         type: 'subheading',
@@ -282,7 +282,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טיפול שאינו מטפל בסיבה לא יחזיק. אימון יציבה (תרגילים ספציפיים לחיזוק כופפי הצוואר העמוקים, ניוד עמוד השדרה הגבי העליון ואימון מחדש של מיקום הראש) הכרחי. בלעדיו, הבעיה חוזרת ברגע שהטיפול מסתיים.',
+        text: 'טיפול שאינו מטפל בסיבה הסבירה אולי לא יחזיק. אימון יציבה (תרגילים ספציפיים לחיזוק כופפי הצוואר העמוקים, ניוד עמוד השדרה הגבי העליון ואימון מחדש של מיקום הראש) הוא חלק חשוב מהטיפול. בלעדיו, הבעיה עלולה לחזור כשהטיפול מסתיים.',
       },
       {
         type: 'subheading',
@@ -298,7 +298,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'זה משתנה מאדם לאדם. כשכאב הראש אכן קשור לצוואר, יש מטופלים שמרגישים שינוי כבר בטיפולים הראשונים, ואחרים צריכים יותר זמן. שיפור מתמשך תלוי בדרך כלל בשילוב של טיפול ותרגילים קבועים בבית. אחרי הבדיקה תקבלו הערכה ריאלית למקרה שלכם, לא הבטחה.',
+        text: 'זה משתנה מאדם לאדם. כשכאב הראש אכן קשור לצוואר, יש מטופלים שמרגישים שינוי כבר בטיפולים הראשונים, ואחרים צריכים יותר זמן. שיפור לטווח ארוך תלוי בדרך כלל בשילוב של טיפול ותרגילים קבועים בבית. אחרי הבדיקה תקבלו הערכה ריאלית למקרה שלכם, לא הבטחה.',
       },
       {
         type: 'paragraph',
@@ -328,7 +328,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong>תל אביב</strong> וב<strong>תובל</strong>. הוא בוגר Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר. חלק משמעותי מהמטופלים שלו הם אנשים עם כאב צוואר כרוני וכאבי ראש חוזרים שלא מצאו הקלה מתמשכת במקומות אחרים, והגישה שלו משלבת טיפול צוואר מדויק עם עבודת יציבה ושיקום שמונעת מהבעיה לחזור.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong>. הוא בוגר Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר. חלק משמעותי מהמטופלים שלו הם אנשים עם כאב צוואר כרוני וכאבי ראש חוזרים שלא מצאו הקלה במקומות אחרים, והגישה שלו משלבת טיפול צוואר עם עבודת יציבה ושיקום שנועדה לסייע במניעת חזרת הבעיה. כאב צוואר הוא לעיתים חלק מתמונה רחבה יותר; <a href="/blog/understanding-back-pain/">המדריך שלנו להבנת כאבי גב</a> מסביר איך מתפתח כאב כרוני בעמוד השדרה.',
       },
       {
         type: 'heading',
@@ -336,7 +336,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם אתם מנהלים כאבי צוואר וכאבי ראש מתח חוזרים עם משככי כאבים כבר חודשים או שנים, הצעד הבא המועיל ביותר הוא בדיקת צוואר ראויה. קבעו התייעצות עם ד"ר דואני בקליניקה ברמת אביב או בתובל, או התקשרו תחילה לתאר את דפוס התסמינים. הבדיקה תראה אם כאבי הראש שלכם מתאימים לטיפול כירופרקטי, או שהצעד הנכון הוא הפניה לרופא.',
+        text: 'אם אתם מנהלים כאבי צוואר וכאבי ראש מתח חוזרים עם משככי כאבים כבר חודשים או שנים, הצעד הבא המועיל ביותר הוא בדיקת צוואר ראויה. קבעו התייעצות עם ד"ר דואני בקליניקה ברמת אביב או בתובל, ליד כרמיאל, או התקשרו תחילה לתאר את דפוס התסמינים. הבדיקה תראה אם כאבי הראש שלכם מתאימים לטיפול כירופרקטי, או שהצעד הנכון הוא הפניה לרופא.',
       },
     ],
   },

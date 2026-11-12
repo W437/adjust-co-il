@@ -6,13 +6,29 @@ export default {
   en: {
     title: 'Sleeping Positions That Help (and Hurt) Your Back',
     excerpt:
-      'The way you sleep can make or break your back. Learn which sleeping positions promote spinal healing and which ones are silently causing damage, plus tips on pillows, mattresses, and morning stretches.',
+      'The way you sleep can make or break your back. Learn which sleeping positions tend to support your spine and which may be adding strain, plus tips on pillows, mattresses, and morning stretches.',
     metaDescription:
       'Discover the best and worst sleeping positions for back pain, plus pillow, mattress, and morning stretch tips from a chiropractor.',
     content: [
       {
         type: 'paragraph',
-        text: 'We spend roughly <strong>eight hours a day sleeping</strong>: that is a third of our entire lives. Most people pay careful attention to their posture while sitting at a desk or lifting heavy objects, yet they give almost no thought to the position their body holds for those eight continuous hours each night. The truth is that the wrong sleeping position can cause new back pain or worsen an existing condition, while the right one supports the spine\'s <strong>natural curves</strong> and promotes genuine healing. Understanding how sleep posture affects your back is one of the simplest and most impactful changes you can make for long-term spinal health.',
+        text: 'We spend roughly <strong>eight hours a day sleeping</strong>: that is a third of our entire lives. Most people pay careful attention to their posture while sitting at a desk or lifting heavy objects, yet they give almost no thought to the position their body holds for those eight continuous hours each night. The truth is that the wrong sleeping position can cause new back pain or worsen an existing condition, while the right one supports the spine\'s <strong>natural curves</strong> and may help you wake up with less pain. Understanding how sleep posture affects your back is one of the simplest and most impactful changes you can make for long-term spinal health.',
+      },
+      {
+        type: 'heading',
+        text: 'The Short Answer: Three Rules of Thumb',
+      },
+      {
+        type: 'list',
+        items: [
+          '<strong>On your side, with a pillow between your knees</strong>: a comfortable option for many people with back pain.',
+          '<strong>On your back, with a pillow under your knees</strong>: this may help keep the spine in a neutral position.',
+          '<strong>Avoid sleeping on your stomach where you can</strong>: it tends to strain the neck and lower back, so many people find it helps to change gradually.',
+        ],
+      },
+      {
+        type: 'paragraph',
+        text: 'Every body is different, so use these as a starting point and go with what feels best. If your pain is severe, wakes you at night, or comes with numbness or weakness, have it assessed. The details are below.',
       },
       {
         type: 'heading',
@@ -24,7 +40,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A poor sleeping position creates prolonged stress on intervertebral discs, facet joints, ligaments, and muscles. Over weeks and months, this nightly strain accumulates. It can lead to morning stiffness, chronic low back pain, neck pain, and even radiating nerve symptoms. The good news is that adjusting your sleep posture, and supporting it with the right pillow and mattress, can interrupt this cycle and give your spine the recovery time it needs.',
+        text: 'A poor sleeping position creates prolonged stress on intervertebral discs, facet joints, ligaments, and muscles. Over weeks and months, this nightly strain accumulates. It can lead to morning stiffness, chronic low back pain, neck pain, and even radiating nerve symptoms. The good news is that adjusting your sleep posture, and supporting it with the right pillow and mattress, may help interrupt this cycle and give your spine a better chance to recover overnight. For an evening wind-down that fits with this, see our <a href="/en/blog/bedtime-routine-chronic-back-pain/">bedtime routine for chronic back pain</a>.',
       },
       {
         type: 'heading',
@@ -48,7 +64,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Side sleeping is the second-best option and is especially beneficial for people who snore or suffer from sleep apnea. The key is to keep the spine as straight as possible. Place a firm pillow between your knees to prevent the upper leg from pulling the pelvis downward and rotating the lumbar spine. Your head pillow should be thick enough to fill the gap between your shoulder and ear, keeping the cervical spine level.',
+        text: 'Side sleeping is the second-best option and is especially beneficial for people who snore or suffer from sleep apnea. The key is to keep the spine as straight as possible. Place a firm pillow between your knees to prevent the upper leg from pulling the pelvis downward and rotating the lumbar spine. Your head pillow should be thick enough to fill the gap between your shoulder and ear, keeping the cervical spine level. If you are pregnant, our guide to <a href="/en/blog/pregnancy-back-pain/">back pain during pregnancy</a> has more on side sleeping and support.',
       },
       {
         type: 'paragraph',
@@ -60,7 +76,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'For patients recovering from a disc herniation, a modified side-lying position can offer significant relief. Lie on the unaffected side with a pillow between your knees and gently hug a second pillow in front of your chest. This prevents the upper body from rolling forward, keeps the spine neutral, and reduces pressure on the damaged disc. Many patients find this position allows them to sleep through the night with considerably less pain.',
+        text: 'For patients recovering from a disc herniation, a modified side-lying position may offer some relief. Lie on the unaffected side with a pillow between your knees and gently hug a second pillow in front of your chest. This prevents the upper body from rolling forward, keeps the spine neutral, and may reduce pressure on the affected disc. Some patients find this position lets them sleep with less pain.',
       },
       {
         type: 'heading',
@@ -68,11 +84,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: '<strong>Sleeping on your stomach</strong> is the most problematic position for spinal health. Because you cannot breathe face-down into a pillow, the neck is forced into a sustained rotation to one side, often for hours at a time. This places enormous asymmetric stress on the cervical vertebrae, discs, and surrounding muscles. Meanwhile, the weight of the torso sinks into the mattress, flattening the natural lumbar curve and compressing the facet joints in the lower back.',
+        text: '<strong>Sleeping on your stomach</strong> is often considered the most problematic position for spinal health. Because you cannot breathe face-down into a pillow, the neck is forced into a sustained rotation to one side, often for hours at a time. This can place extra asymmetric stress on the cervical vertebrae, discs, and surrounding muscles. Meanwhile, the weight of the torso sinks into the mattress, flattening the natural lumbar curve and compressing the facet joints in the lower back.',
       },
       {
         type: 'paragraph',
-        text: 'If you are a committed stomach sleeper and find it difficult to change, there are ways to reduce the damage. Use a very thin pillow, or no pillow at all, to minimize the angle of neck rotation. Place a flat pillow under your pelvis and lower abdomen to help restore some of the lumbar curve. Over time, try transitioning to side sleeping by placing a body pillow along your front to simulate the feeling of lying face-down.',
+        text: 'If you are a committed stomach sleeper and find it difficult to change, there are ways to reduce the strain. Use a very thin pillow, or no pillow at all, to minimize the angle of neck rotation. Place a flat pillow under your pelvis and lower abdomen to help restore some of the lumbar curve. Over time, try transitioning to side sleeping by placing a body pillow along your front to simulate the feeling of lying face-down.',
       },
       {
         type: 'heading',
@@ -113,20 +129,36 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you are waking up with back pain on a regular basis despite adjusting your sleeping position, pillow, and mattress, the problem may run deeper than sleep posture alone. Underlying spinal misalignments, disc issues, or muscular imbalances often require professional assessment and targeted treatment. A chiropractic evaluation can identify the root cause of your morning pain and provide a clear, personalized plan for recovery. Do not let another restless night define your mornings. Schedule an assessment and start sleeping the way your spine was designed to.',
+        text: 'If you are waking up with back pain on a regular basis despite adjusting your sleeping position, pillow, and mattress, the problem may run deeper than sleep posture alone. Underlying spinal stiffness, disc issues, or muscular imbalances often require professional assessment and targeted treatment. A chiropractic evaluation can help identify what may be behind your morning pain and lead to a personalized plan. Do not let another restless night define your mornings. Schedule an assessment and start sleeping the way your spine was designed to.',
       },
     ],
   },
   he: {
     title: 'תנוחות שינה שעוזרות (ומזיקות) לגב שלכם',
     excerpt:
-      'הדרך שבה אתם ישנים יכולה לרפא או להזיק לגב. גלו אילו תנוחות שינה תומכות בעמוד השדרה ואילו גורמות נזק, כולל טיפים לבחירת כרית, מזרן ומתיחות בוקר.',
+      'הדרך שבה אתם ישנים יכולה להקל על הגב או להכביד עליו. גלו אילו תנוחות שינה נוטות לתמוך בעמוד השדרה ואילו עלולות להוסיף לעומס, כולל טיפים לבחירת כרית, מזרן ומתיחות בוקר.',
     metaDescription:
       'גלו את תנוחות השינה הטובות והגרועות ביותר לכאבי גב, וקבלו טיפים לבחירת כרית, מזרן ומתיחות בוקר מכירופרקט מומחה.',
     content: [
       {
         type: 'paragraph',
-        text: 'אנחנו מבלים כשמונה שעות ביום בשינה: זה שליש מחיינו. רוב האנשים מקפידים על יציבה נכונה בזמן ישיבה ליד שולחן העבודה או הרמת משאות, אבל כמעט לא חושבים על התנוחה שהגוף שלהם מחזיק במשך שמונה שעות רצופות בכל לילה. האמת היא שתנוחת שינה שגויה עלולה לגרום לכאבי גב חדשים או להחמיר מצב קיים, בעוד שתנוחה נכונה תומכת בעקומות הטבעיות של עמוד השדרה ומקדמת ריפוי אמיתי. הבנת הקשר בין תנוחת שינה לבריאות הגב היא אחד השינויים הפשוטים והמשמעותיים ביותר שתוכלו לעשות למען בריאות עמוד השדרה לטווח ארוך.',
+        text: 'אנחנו מבלים כשמונה שעות ביום בשינה: זה שליש מחיינו. רוב האנשים מקפידים על יציבה נכונה בזמן ישיבה ליד שולחן העבודה או הרמת משאות, אבל כמעט לא חושבים על התנוחה שהגוף שלהם מחזיק במשך שמונה שעות רצופות בכל לילה. האמת היא שתנוחת שינה שגויה עלולה לגרום לכאבי גב חדשים או להחמיר מצב קיים, בעוד שתנוחה נכונה תומכת בעקומות הטבעיות של עמוד השדרה ועשויה לסייע לכם להתעורר עם פחות כאב. הבנת הקשר בין תנוחת שינה לבריאות הגב היא אחד השינויים הפשוטים והמשמעותיים ביותר שתוכלו לעשות למען בריאות עמוד השדרה לטווח ארוך.',
+      },
+      {
+        type: 'heading',
+        text: 'התשובה הקצרה: שלושה כללי אצבע',
+      },
+      {
+        type: 'list',
+        items: [
+          '<strong>על הצד, עם כרית בין הברכיים</strong>: אפשרות נוחה לאנשים רבים עם כאבי גב.',
+          '<strong>על הגב, עם כרית מתחת לברכיים</strong>: זה עשוי לעזור לשמור על עמוד השדרה בתנוחה ניטרלית.',
+          '<strong>כדאי להימנע משינה על הבטן במידת האפשר</strong>: היא נוטה להעמיס על הצוואר ועל הגב התחתון, ולכן רבים מגלים שכדאי לשנות את ההרגל בהדרגה.',
+        ],
+      },
+      {
+        type: 'paragraph',
+        text: 'כל גוף שונה, ולכן אלה נקודת פתיחה בלבד, ומה שמרגיש לכם הכי נוח הוא שקובע. אם הכאב חזק, מעיר אתכם בלילה או מלווה בחוסר תחושה או בחולשה, כדאי לבדוק זאת. הפרטים בהמשך.',
       },
       {
         type: 'heading',
@@ -138,7 +170,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'תנוחת שינה לקויה יוצרת לחץ מתמשך על דיסקים בין-חולייתיים, מפרקי פאסט, רצועות ושרירים. במשך שבועות וחודשים, העומס הלילי הזה מצטבר. הוא עלול להוביל לנוקשות בוקר, כאבי גב תחתון כרוניים, כאבי צוואר ואף תסמינים עצביים מקרינים. החדשות הטובות הן שהתאמת תנוחת השינה, יחד עם כרית ומזרן מתאימים, יכולה לשבור את המעגל הזה ולתת לעמוד השדרה את זמן ההתאוששות שהוא צריך.',
+        text: 'תנוחת שינה לקויה יוצרת לחץ מתמשך על דיסקים בין-חולייתיים, מפרקי פאסט, רצועות ושרירים. במשך שבועות וחודשים, העומס הלילי הזה מצטבר. הוא עלול להוביל לנוקשות בוקר, כאבי גב תחתון כרוניים, כאבי צוואר ואף תסמינים עצביים מקרינים. החדשות הטובות הן שהתאמת תנוחת השינה, יחד עם כרית ומזרן מתאימים, עשויה לעזור לשבור את המעגל הזה ולתת לעמוד השדרה סיכוי טוב יותר להתאושש במהלך הלילה. לשגרת ערב שמתאימה לכך, ראו <a href="/blog/bedtime-routine-chronic-back-pain/">שגרת הלילה לכאבי גב כרוניים</a>.',
       },
       {
         type: 'heading',
@@ -162,7 +194,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שינה על הצד היא האפשרות השנייה בטיבה, והיא מועילה במיוחד לאנשים שנוחרים או סובלים מדום נשימה בשינה. המפתח הוא לשמור על עמוד השדרה ישר ככל האפשר. הניחו כרית מוצקה בין הברכיים כדי למנוע מהרגל העליונה למשוך את האגן כלפי מטה ולסובב את עמוד השדרה המותני. כרית הראש צריכה להיות עבה מספיק כדי למלא את הרווח בין הכתף לאוזן ולשמור על הצוואר ישר.',
+        text: 'שינה על הצד היא האפשרות השנייה בטיבה, והיא מועילה במיוחד לאנשים שנוחרים או סובלים מדום נשימה בשינה. המפתח הוא לשמור על עמוד השדרה ישר ככל האפשר. הניחו כרית מוצקה בין הברכיים כדי למנוע מהרגל העליונה למשוך את האגן כלפי מטה ולסובב את עמוד השדרה המותני. כרית הראש צריכה להיות עבה מספיק כדי למלא את הרווח בין הכתף לאוזן ולשמור על הצוואר ישר. אם את בהריון, המדריך שלנו על <a href="/blog/pregnancy-back-pain/">כאבי גב בהריון</a> מרחיב על שינה על הצד ועל תמיכה נכונה.',
       },
       {
         type: 'paragraph',
@@ -174,7 +206,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'למטופלים המתאוששים מפריצת דיסק, תנוחת צד מותאמת יכולה להביא הקלה משמעותית. שכבו על הצד הלא פגוע עם כרית בין הברכיים וחבקו בעדינות כרית נוספת מול החזה. זה מונע מפלג הגוף העליון להתגלגל קדימה, שומר על עמוד השדרה בתנוחה ניטרלית ומפחית לחץ על הדיסק הפגוע. מטופלים רבים מגלים שתנוחה זו מאפשרת להם לישון לילה שלם עם פחות כאב באופן משמעותי.',
+        text: 'למטופלים המתאוששים מפריצת דיסק, תנוחת צד מותאמת עשויה להביא קצת הקלה. שכבו על הצד הלא פגוע עם כרית בין הברכיים וחבקו בעדינות כרית נוספת מול החזה. זה מונע מפלג הגוף העליון להתגלגל קדימה, שומר על עמוד השדרה בתנוחה ניטרלית ועשוי להפחית לחץ על הדיסק הפגוע. חלק מהמטופלים מגלים שתנוחה זו מאפשרת להם לישון עם פחות כאב.',
       },
       {
         type: 'heading',
@@ -182,11 +214,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: '<strong>שינה על הבטן</strong> היא התנוחה הבעייתית ביותר לבריאות עמוד השדרה. מכיוון שאי אפשר לנשום עם הפנים ישר לתוך הכרית, הצוואר נאלץ להישאר מסובב לצד אחד, לעתים קרובות במשך שעות. מצב זה מפעיל לחץ אסימטרי עצום על חוליות הצוואר, הדיסקים והשרירים הסובבים. במקביל, משקל פלג הגוף העליון שוקע לתוך המזרן, משטח את העקומת המותנית הטבעית ולוחץ על מפרקי הפאסט בגב התחתון.',
+        text: '<strong>שינה על הבטן</strong> נחשבת לעיתים קרובות לתנוחה הבעייתית ביותר לבריאות עמוד השדרה. מכיוון שאי אפשר לנשום עם הפנים ישר לתוך הכרית, הצוואר נאלץ להישאר מסובב לצד אחד, לעתים קרובות במשך שעות. מצב זה עלול להפעיל לחץ אסימטרי נוסף על חוליות הצוואר, הדיסקים והשרירים הסובבים. במקביל, משקל פלג הגוף העליון שוקע לתוך המזרן, משטח את העקומת המותנית הטבעית ולוחץ על מפרקי הפאסט בגב התחתון.',
       },
       {
         type: 'paragraph',
-        text: 'אם אתם ישנים על הבטן ומתקשים לשנות הרגל, יש דרכים להפחית את הנזק. השתמשו בכרית דקה מאוד, או בלי כרית כלל, כדי למזער את זווית סיבוב הצוואר. הניחו כרית שטוחה מתחת לאגן ולבטן התחתונה כדי לסייע בשחזור חלק מהעקומת המותנית. עם הזמן, נסו לעבור לשינה על הצד באמצעות כרית גוף ארוכה לאורך חזית הגוף שתדמה את התחושה של שכיבה על הבטן.',
+        text: 'אם אתם ישנים על הבטן ומתקשים לשנות הרגל, יש דרכים להפחית את העומס. השתמשו בכרית דקה מאוד, או בלי כרית כלל, כדי למזער את זווית סיבוב הצוואר. הניחו כרית שטוחה מתחת לאגן ולבטן התחתונה כדי לסייע בשחזור חלק מהעקומת המותנית. עם הזמן, נסו לעבור לשינה על הצד באמצעות כרית גוף ארוכה לאורך חזית הגוף שתדמה את התחושה של שכיבה על הבטן.',
       },
       {
         type: 'heading',
@@ -227,7 +259,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם אתם מתעוררים עם כאבי גב באופן קבוע למרות התאמת תנוחת השינה, הכרית והמזרן, ייתכן שהבעיה עמוקה יותר מתנוחת שינה בלבד. הסטיות בעמוד השדרה, בעיות דיסק או חוסר איזון שרירי דורשים לעתים קרובות הערכה מקצועית וטיפול ממוקד. הערכה כירופרקטית יכולה לזהות את הגורם השורשי לכאבי הבוקר שלכם ולספק תוכנית החלמה ברורה ומותאמת אישית. אל תתנו ללילה חסר מנוחה נוסף לקבוע את הבקרים שלכם. קבעו הערכה והתחילו לישון כמו שעמוד השדרה שלכם תוכנן לכך.',
+        text: 'אם אתם מתעוררים עם כאבי גב באופן קבוע למרות התאמת תנוחת השינה, הכרית והמזרן, ייתכן שהבעיה עמוקה יותר מתנוחת שינה בלבד. נוקשות בעמוד השדרה, בעיות דיסק או חוסר איזון שרירי דורשים לעתים קרובות הערכה מקצועית וטיפול ממוקד. הערכה כירופרקטית יכולה לעזור להבין מה עשוי לעמוד מאחורי כאבי הבוקר שלכם ולהוביל לתוכנית מותאמת אישית. אל תתנו ללילה חסר מנוחה נוסף לקבוע את הבקרים שלכם. קבעו הערכה והתחילו לישון כמו שעמוד השדרה שלכם תוכנן לכך.',
       },
     ],
   },

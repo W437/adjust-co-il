@@ -12,7 +12,11 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'If you have ever searched for relief from back pain, neck stiffness, or a chronic injury that just will not heal, you have probably come across the word <strong>chiropractor</strong>. But what does a chiropractor actually do? How is it different from a physiotherapist or osteopath? And, perhaps the most important question, is chiropractic care right for you?',
+        text: '<strong>In short:</strong> a chiropractor is a licensed health professional who assesses and treats problems of the spine, joints, and muscles, most often back pain, neck pain, and headaches that start in the neck. Treatment is mostly hands-on, including spinal adjustments, soft-tissue work, and exercise advice.',
+      },
+      {
+        type: 'paragraph',
+        text: 'If you have ever searched for relief from back pain, neck stiffness, or a chronic injury that just will not heal, you have probably come across the word <strong>chiropractor</strong>. But what does a chiropractor actually do? How is it different from a physiotherapist or osteopath (see <a href="/en/blog/chiropractor-vs-osteopath-vs-physiotherapist/">physiotherapy or chiropractic: which one to choose</a>)? And, perhaps the most important question, is chiropractic care right for you?',
       },
       {
         type: 'paragraph',
@@ -28,11 +32,19 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The core principle behind chiropractic care is simple: when the spine is properly aligned and moving freely, the nervous system can communicate with the rest of the body without interference, and the body is far better equipped to heal itself. When vertebrae are restricted, misaligned, or moving poorly (what chiropractors call <strong>subluxations</strong>), the result can be pain, stiffness, nerve irritation, headaches, and a cascade of other symptoms.',
+        text: 'The core idea behind chiropractic care is that the spine and joints should move freely and be well supported. When joints are restricted or moving poorly, the result can be pain, stiffness, muscle tension, and headaches that start in the neck. Chiropractic care aims to improve movement and function so the body can cope better with daily loads.',
       },
       {
         type: 'paragraph',
         text: 'Chiropractors use their hands (and occasionally specialized instruments) to perform <strong>spinal adjustments</strong>: precise, controlled movements that restore proper position and motion to joints. Modern chiropractic care also includes soft tissue therapy, rehabilitation exercises, postural retraining, and lifestyle guidance.',
+      },
+      {
+        type: 'heading',
+        text: 'Is a Chiropractor a Doctor?',
+      },
+      {
+        type: 'paragraph',
+        text: 'In many countries, a chiropractor is a licensed, primary-contact health professional: you can usually book directly, without a referral, and they are trained to assess your problem, treat what is within their scope, and refer you on when needed. Chiropractors hold a chiropractic degree and use the title Doctor of Chiropractic (DC), but they are <strong>not medical doctors (MDs)</strong>, and they do not generally prescribe medication or perform surgery. Titles, regulation, and scope of practice differ from country to country, so it is reasonable to ask any clinician about their qualifications and registration. Our guide on <a href="/en/blog/how-to-choose-a-chiropractor/">how to choose a chiropractor</a> lists what to ask.',
       },
       {
         type: 'heading',
@@ -45,13 +57,13 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Lower back pain</strong>: Both acute episodes and chronic, recurring pain. Chiropractic is recognized by many medical guidelines as a first-line treatment.',
+          '<strong>Lower back pain</strong>: Both acute episodes and chronic, recurring pain. Spinal manipulation is among the options some clinical guidelines list for lower back pain.',
           '<strong>Neck pain and stiffness</strong>: Especially the kind caused by long hours at a computer, poor posture, or stress.',
-          '<strong>Tension headaches and cervicogenic headaches</strong>: Headaches that originate from the neck and respond well to spinal adjustment.',
+          '<strong>Tension headaches and cervicogenic headaches</strong>: Headaches that originate from the neck and may respond to treatment of the neck and upper spine.',
           '<strong>Sciatica</strong>: Radiating leg pain caused by irritation or compression of the sciatic nerve.',
-          '<strong>Disc problems</strong>: Including bulging and herniated discs, where conservative care often prevents the need for surgery.',
+          '<strong>Disc problems</strong>: Including bulging and herniated discs, where conservative care is often tried first before surgery is considered.',
           'Sports injuries: Strains, sprains, and joint dysfunctions that limit performance or prolong recovery.',
-          'Joint pain: Shoulder, hip, knee, wrist, and ankle problems often improve when the related spinal levels and movement patterns are addressed.',
+          'Joint pain: Shoulder, hip, knee, wrist, and ankle problems may improve when the related spinal levels and movement patterns are addressed.',
           'Postural problems: Forward head posture, rounded shoulders, and the chronic discomfort they create.',
           'Whiplash and post-accident recovery: Soft tissue and joint injuries from car accidents and falls.',
         ],
@@ -70,7 +82,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Prolonged sitting and screen use is one of the most common drivers of spinal dysfunction in the modern world. If you spend hours in front of a computer and end the day with a stiff neck, sore upper back, or low-grade headache, chiropractic care can address the underlying postural strain rather than just the symptoms.',
+        text: 'Prolonged sitting and screen use is one of the most common drivers of spinal dysfunction in the modern world. If you spend hours in front of a computer and end the day with a stiff neck, sore upper back, or low-grade headache, chiropractic care may help address the underlying postural strain rather than just the symptoms.',
       },
       {
         type: 'subheading',
@@ -78,7 +90,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Whether you run, cycle, lift weights, play tennis, or practice yoga, repeated movement under load eventually exposes any weak link in your biomechanics. Chiropractic care helps athletes recover faster from minor injuries, prevent recurring ones, and maintain peak movement quality.',
+        text: 'Whether you run, cycle, lift weights, play tennis, or practice yoga, repeated movement under load eventually exposes any weak link in your biomechanics. Chiropractic care may help athletes recover from minor injuries, reduce the chance of recurring ones, and maintain movement quality.',
       },
       {
         type: 'subheading',
@@ -86,7 +98,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Many patients come to chiropractic care after years of trying painkillers, rest, and symptom-focused treatments without lasting results. A skilled chiropractor looks beyond the location of the pain to identify the structural and movement-based root cause, often producing improvement where other approaches have stalled.',
+        text: 'Many patients come to chiropractic care after years of trying painkillers, rest, and symptom-focused treatments without lasting results. A skilled chiropractor looks beyond the location of the pain to identify the structural and movement-based factors contributing to it, which sometimes leads to improvement where other approaches have stalled.',
       },
       {
         type: 'subheading',
@@ -94,7 +106,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Age-related changes in the spine (disc degeneration, joint stiffness, reduced mobility) respond well to gentle, age-appropriate chiropractic techniques. The goal is to preserve mobility, reduce pain, and keep people active for as long as possible.',
+        text: 'Age-related changes in the spine (disc degeneration, joint stiffness, reduced mobility) may respond to gentle, age-appropriate chiropractic techniques. The goal is to preserve mobility, reduce pain, and keep people active for as long as possible.',
       },
       {
         type: 'subheading',
@@ -102,7 +114,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Pregnancy places enormous mechanical stress on the lower back and pelvis. Chiropractors trained in prenatal care use modified techniques to provide safe, effective relief throughout pregnancy and during postnatal recovery.',
+        text: 'Pregnancy places enormous mechanical stress on the lower back and pelvis. Chiropractors trained in prenatal care use modified, gentle techniques that aim to ease discomfort during pregnancy and postnatal recovery. Check with your doctor or midwife first.',
       },
       {
         type: 'heading',
@@ -110,7 +122,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A responsible chiropractor will always screen for conditions that require a different approach. You should consult your physician before chiropractic care if you have:',
+        text: 'A responsible chiropractor will always screen for conditions that require a different approach. Worried about risks? See <a href="/en/blog/is-chiropractic-safe-myths/">is chiropractic safe? myths and facts</a>. You should consult your physician before chiropractic care if you have:',
       },
       {
         type: 'list',
@@ -132,7 +144,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A first chiropractic visit is rarely just an adjustment. It is a clinical consultation, designed to figure out what is actually happening before any treatment begins. A typical first visit includes:',
+        text: 'A first chiropractic visit (see <a href="/en/blog/your-first-chiropractic-appointment/">what to expect at your first appointment</a>) is rarely just an adjustment. It is a clinical consultation, designed to figure out what is actually happening before any treatment begins. A typical first visit includes:',
       },
       {
         type: 'list',
@@ -140,8 +152,8 @@ export default {
           '<strong>A detailed history</strong>: Your symptoms, medical background, lifestyle, work, sport, sleep, and any imaging or prior treatments.',
           '<strong>A physical and orthopedic examination</strong>: Posture, range of motion, neurological tests, palpation of the spine and joints.',
           '<strong>Imaging review</strong>: X-rays or MRI scans you may have, or referrals if new imaging is needed.',
-          '<strong>Diagnosis and treatment plan</strong>: A clear explanation of what is wrong, what can realistically be improved, and how many sessions are likely to be needed.',
-          'A first treatment (when appropriate): Often a combination of spinal adjustment, soft tissue work, and a few targeted exercises to start at home.',
+          '<strong>Diagnosis and treatment plan</strong>: A clear explanation of what is wrong, what can realistically be improved, and <a href="/en/blog/how-many-chiropractic-sessions-needed/">how many sessions</a> are likely to be needed.',
+          'A first treatment (when appropriate): Often a combination of spinal adjustment, soft tissue work, and a few targeted exercises to start at home. Mild soreness afterwards is possible: see <a href="/en/blog/chiropractic-side-effects-risks/">chiropractic side effects and risks</a>.',
         ],
       },
       {
@@ -150,7 +162,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a <strong>rehabilitative chiropractor</strong> with over 20 years of clinical experience. He graduated from the Durban University of Technology (DUT) School of Chiropractic in South Africa in 2010, worked at Assaf Harofeh Medical Center, and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer. He also served in the IDF Medical Corps reserves as a chiropractor for the air crew. Today he runs two private clinics, in <strong>Tel Aviv</strong> and in <strong>Tuval (near Karmiel)</strong>, combining classic chiropractic care with rehabilitation and movement-based therapy to address the root cause of each patient\'s condition, not just the symptoms.',
+        text: 'Dr. Victor Duani is a <strong>rehabilitative chiropractor</strong> with over 20 years of clinical experience. He graduated from the Durban University of Technology (DUT) School of Chiropractic in South Africa in 2010, worked at Assaf Harofeh Medical Center, and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer. He also served in the IDF Medical Corps reserves as a chiropractor for the air crew. Today he runs two private clinics, in <strong><a href="/en/clinics/ramat-aviv/">Tel Aviv</a></strong> and in <strong><a href="/en/clinics/tuval/">Tuval (near Karmiel)</a></strong>, combining classic chiropractic care with rehabilitation and movement-based therapy to address the factors contributing to each patient\'s condition, not just the symptoms.',
       },
       {
         type: 'heading',
@@ -158,11 +170,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you are dealing with persistent back or neck pain, recurring headaches, a sports injury that has not fully healed, or any movement-related discomfort that is interfering with your life, chiropractic care is very likely a worthwhile next step. A proper assessment is fast, painless, and will tell you exactly whether the problem is something a chiropractor can help with, or whether a different specialist is needed.',
+        text: 'If you are dealing with persistent back or neck pain, recurring headaches, a sports injury that has not fully healed, or any movement-related discomfort that is interfering with your life, chiropractic care may be a worthwhile next step. A proper assessment is usually quick and painless, and can help you understand whether the problem is something a chiropractor can help with, or whether a different specialist is needed.',
       },
       {
         type: 'paragraph',
-        text: 'The best way to find out is a short consultation. Book a session with Dr. Duani at the Tel Aviv or Tuval clinic, or call to ask any questions before scheduling. The sooner the root cause is identified, the faster real, lasting relief becomes possible.',
+        text: 'The best way to find out is a short consultation. Book a session with Dr. Duani at the Tel Aviv or Tuval clinic, or call to ask any questions before scheduling. The sooner the likely causes are identified, the sooner you can start a plan that suits you.',
       },
     ],
   },
@@ -175,7 +187,11 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'אם אי פעם חיפשתם הקלה מכאבי גב, נוקשות בצוואר או פציעה כרונית שפשוט לא מחלימה, סביר להניח שנתקלתם במילה <strong>כירופרקטור</strong>. אבל מה כירופרקטור באמת עושה? במה זה שונה מפיזיותרפיסט או אוסטיאופת? והכי חשוב: האם טיפול כירופרקטי מתאים לכם?',
+        text: '<strong>בקצרה:</strong> כירופרקט הוא איש מקצוע בריאותי מורשה שמעריך ומטפל בבעיות של עמוד השדרה, המפרקים והשרירים, בעיקר כאבי גב, כאבי צוואר וכאבי ראש שמקורם בצוואר. הטיפול הוא בעיקרו ידני וכולל התאמות של עמוד השדרה, עבודה על רקמות רכות והדרכה לתרגול.',
+      },
+      {
+        type: 'paragraph',
+        text: 'אם אי פעם חיפשתם הקלה מכאבי גב, נוקשות בצוואר או פציעה כרונית שפשוט לא מחלימה, סביר להניח שנתקלתם במילה <strong>כירופרקטור</strong>. אבל מה כירופרקטור באמת עושה? במה זה שונה מפיזיותרפיסט או מאוסטיאופת? (ראו <a href="/blog/chiropractor-vs-osteopath-vs-physiotherapist/">פיזיותרפיה או כירופרקטיקה</a>: למי לפנות) והכי חשוב: האם טיפול כירופרקטי מתאים לכם?',
       },
       {
         type: 'paragraph',
@@ -191,11 +207,19 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'העיקרון המרכזי שמאחורי הטיפול הכירופרקטי הוא פשוט: כאשר עמוד השדרה מיושר ונע באופן חופשי, מערכת העצבים יכולה לתקשר עם שאר הגוף ללא הפרעה, והגוף מצויד הרבה יותר טוב לרפא את עצמו. כאשר חוליות מוגבלות בתנועה, אינן מיושרות נכון או נעות בצורה לקויה (מה שכירופרקטורים מכנים <strong>סובלוקסציות</strong>), התוצאה יכולה להיות כאב, נוקשות, גירוי עצבי, כאבי ראש ושרשרת של תסמינים נוספים.',
+        text: 'הרעיון המרכזי שמאחורי הטיפול הכירופרקטי הוא שעמוד השדרה והמפרקים צריכים לנוע בחופשיות ולהיות נתמכים היטב. כאשר מפרקים מוגבלים בתנועה או נעים בצורה לקויה, התוצאה יכולה להיות כאב, נוקשות, מתח שרירי וכאבי ראש שמקורם בצוואר. הטיפול הכירופרקטי שואף לשפר את התנועה והתפקוד כך שהגוף יתמודד טוב יותר עם עומסי היומיום.',
       },
       {
         type: 'paragraph',
         text: 'כירופרקטורים משתמשים בידיים שלהם (ולעיתים במכשירים ייעודיים) כדי לבצע <strong>התאמות (אדג\'סטמנט)</strong>: תנועות מדויקות ומבוקרות שמשחזרות מיצוב ותנועה תקינים של המפרקים. טיפול כירופרקטי מודרני כולל גם טיפול ברקמות רכות, תרגילי שיקום, אימון יציבה והדרכה לאורח חיים בריא.',
+      },
+      {
+        type: 'heading',
+        text: 'האם כירופרקט הוא רופא?',
+      },
+      {
+        type: 'paragraph',
+        text: 'במדינות רבות כירופרקט הוא איש מקצוע בריאותי מורשה ב"מגע ראשוני": בדרך כלל אפשר לקבוע תור ישירות, ללא הפניה, והוא מוכשר להעריך את הבעיה, לטפל במה שבתחום המקצועי שלו ולהפנות הלאה בעת הצורך. כירופרקטורים הם בעלי תואר בכירופרקטיקה ומשתמשים בתואר דוקטור לכירופרקטיקה (DC), אך הם <strong>אינם רופאים (MD)</strong>, ובדרך כלל אינם רושמים תרופות ואינם מבצעים ניתוחים. תארים, פיקוח והיקף ההסמכה משתנים ממדינה למדינה, ולכן סביר לשאול כל מטפל על ההכשרה והרישוי שלו. במדריך שלנו על <a href="/blog/how-to-choose-a-chiropractor/">איך בוחרים כירופרקט</a> תמצאו מה כדאי לשאול.',
       },
       {
         type: 'heading',
@@ -208,15 +232,15 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>כאבי גב תחתון</strong>: גם התקפים חריפים וגם כאב כרוני וחוזר. הטיפול הכירופרקטי מוכר בהנחיות רפואיות רבות כקו טיפול ראשון.',
+          '<strong>כאבי גב תחתון</strong>: גם התקפים חריפים וגם כאב כרוני וחוזר. מניפולציה של עמוד השדרה נמנית בין האפשרויות שחלק מההנחיות הקליניות מציינות לכאבי גב תחתון.',
           '<strong>כאבי צוואר ונוקשות</strong>: במיוחד הסוג הנובע משעות ארוכות מול המחשב, יציבה לקויה או מתח.',
-          '<strong>כאבי ראש מתח וכאבי ראש צוואריים</strong>: כאבי ראש שמקורם בצוואר ומגיבים היטב להתאמה כירופרקטית.',
+          '<strong>כאבי ראש מתח וכאבי ראש צוואריים</strong>: כאבי ראש שמקורם בצוואר ועשויים להגיב לטיפול בצוואר ובעמוד השדרה העליון.',
           '<strong>סיאטיקה</strong>: כאב מקרין ברגל הנגרם מגירוי או לחיצה על עצב הסיאטיק.',
-          '<strong>בעיות דיסק</strong>: כולל דיסק בולט ופריצת דיסק, שבהם טיפול שמרני מונע במקרים רבים את הצורך בניתוח.',
+          '<strong>בעיות דיסק</strong>: כולל דיסק בולט ופריצת דיסק, שבהם לרוב מנסים קודם טיפול שמרני לפני שמתייחסים לאפשרות של ניתוח.',
           'פציעות ספורט: מתיחות, נקעים ותפקוד לקוי של מפרקים שמגבילים ביצועים או מאריכים החלמה.',
-          'כאבי מפרקים: בעיות בכתף, ירך, ברך, שורש כף יד וקרסול משתפרות לעיתים קרובות כאשר מטפלים גם ברמות עמוד השדרה הקשורות ובדפוסי התנועה.',
+          'כאבי מפרקים: בעיות בכתף, ירך, ברך, שורש כף יד וקרסול עשויות להשתפר כאשר מטפלים גם ברמות עמוד השדרה הקשורות ובדפוסי התנועה.',
           'בעיות יציבה: ראש מקדים, כתפיים מעוגלות והאי-נוחות הכרונית שהן יוצרות.',
-          '"שוט שלג" (Whiplash) והחלמה לאחר תאונה: פציעות של רקמות רכות ומפרקים כתוצאה מתאונות דרכים ונפילות.',
+          '"צליפת שוט" (Whiplash) והחלמה לאחר תאונה: פציעות של רקמות רכות ומפרקים כתוצאה מתאונות דרכים ונפילות.',
         ],
       },
       {
@@ -233,7 +257,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ישיבה ממושכת ושימוש מסך הם מהגורמים הנפוצים ביותר לחוסר תפקוד של עמוד השדרה בעולם המודרני. אם אתם מבלים שעות מול המחשב ומסיימים את היום עם צוואר תפוס, גב עליון כואב או כאב ראש קל, הטיפול הכירופרקטי יכול לטפל בעקת היציבה הבסיסית ולא רק בסימפטומים.',
+        text: 'ישיבה ממושכת ושימוש מסך הם מהגורמים הנפוצים ביותר לחוסר תפקוד של עמוד השדרה בעולם המודרני. אם אתם מבלים שעות מול המחשב ומסיימים את היום עם צוואר תפוס, גב עליון כואב או כאב ראש קל, הטיפול הכירופרקטי עשוי לסייע בטיפול בעומס היציבתי הבסיסי ולא רק בסימפטומים.',
       },
       {
         type: 'subheading',
@@ -241,7 +265,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'בין אם אתם רצים, רוכבים על אופניים, מרימים משקולות, משחקים טניס או מתרגלים יוגה, תנועה חוזרת תחת עומס חושפת בסופו של דבר כל חולשה במכניקה של הגוף. טיפול כירופרקטי עוזר לספורטאים להתאושש מהר יותר מפציעות קלות, למנוע פציעות חוזרות, ולשמור על איכות תנועה מקסימלית.',
+        text: 'בין אם אתם רצים, רוכבים על אופניים, מרימים משקולות, משחקים טניס או מתרגלים יוגה, תנועה חוזרת תחת עומס חושפת בסופו של דבר כל חולשה במכניקה של הגוף. טיפול כירופרקטי עשוי לעזור לספורטאים להתאושש מפציעות קלות, להפחית את הסיכוי לפציעות חוזרות ולשמור על איכות תנועה.',
       },
       {
         type: 'subheading',
@@ -249,7 +273,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מטופלים רבים מגיעים לטיפול כירופרקטי אחרי שנים של ניסיון עם משככי כאבים, מנוחה וטיפולים ממוקדי סימפטומים, בלי תוצאות מתמשכות. כירופרקטור מיומן מסתכל מעבר לאזור הכאב כדי לזהות את הסיבה השורשית המבנית והתנועתית, ומשיג לעיתים קרובות שיפור היכן שגישות אחרות נתקעו.',
+        text: 'מטופלים רבים מגיעים לטיפול כירופרקטי אחרי שנים של ניסיון עם משככי כאבים, מנוחה וטיפולים ממוקדי סימפטומים, בלי תוצאות מתמשכות. כירופרקטור מיומן מסתכל מעבר לאזור הכאב כדי לזהות את הגורמים המבניים והתנועתיים התורמים לכאב, מה שמוביל לעיתים לשיפור במקום שבו גישות אחרות נתקעו.',
       },
       {
         type: 'subheading',
@@ -257,7 +281,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שינויים הקשורים לגיל בעמוד השדרה (ניוון דיסקים, נוקשות מפרקים, ירידה בניידות) מגיבים היטב לטכניקות כירופרקטיות עדינות ומותאמות גיל. המטרה היא לשמר ניידות, להפחית כאב ולשמור על אנשים פעילים זמן רב ככל האפשר.',
+        text: 'שינויים הקשורים לגיל בעמוד השדרה (ניוון דיסקים, נוקשות מפרקים, ירידה בניידות) עשויים להגיב לטכניקות כירופרקטיות עדינות ומותאמות גיל. המטרה היא לשמר ניידות, להפחית כאב ולשמור על אנשים פעילים זמן רב ככל האפשר.',
       },
       {
         type: 'subheading',
@@ -265,7 +289,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הריון מטיל עומס מכני עצום על הגב התחתון ועל האגן. כירופרקטורים שהוכשרו בטיפול טרום-לידתי משתמשים בטכניקות מותאמות כדי לספק הקלה בטוחה ויעילה לאורך כל ההריון ובמהלך ההחלמה שלאחר הלידה.',
+        text: 'הריון מטיל עומס מכני עצום על הגב התחתון ועל האגן. כירופרקטורים שהוכשרו בטיפול טרום-לידתי משתמשים בטכניקות עדינות ומותאמות שמטרתן להקל על אי-הנוחות במהלך ההריון ובהחלמה שלאחר הלידה. כדאי להתייעץ קודם עם הרופא או המיילדת.',
       },
       {
         type: 'heading',
@@ -273,7 +297,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כירופרקטור אחראי תמיד יבצע סקירה לאיתור מצבים שדורשים גישה אחרת. רצוי להתייעץ עם הרופא לפני טיפול כירופרקטי אם יש לכם:',
+        text: 'כירופרקטור אחראי תמיד יבצע סקירה לאיתור מצבים שדורשים גישה אחרת. חוששים מסיכונים? קראו <a href="/blog/is-chiropractic-safe-myths/">האם כירופרקט מסוכן</a>. רצוי להתייעץ עם הרופא לפני טיפול כירופרקטי אם יש לכם:',
       },
       {
         type: 'list',
@@ -295,7 +319,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הביקור הכירופרקטי הראשון הוא לעיתים רחוקות רק "התאמה". זוהי התייעצות קלינית שמטרתה להבין מה באמת קורה לפני שמתחילים טיפול. ביקור ראשון טיפוסי כולל:',
+        text: 'הביקור הכירופרקטי הראשון (ראו <a href="/blog/your-first-chiropractic-appointment/">מה לצפות בפגישה הראשונה</a>) הוא לעיתים רחוקות רק "התאמה". זוהי התייעצות קלינית שמטרתה להבין מה באמת קורה לפני שמתחילים טיפול. ביקור ראשון טיפוסי כולל:',
       },
       {
         type: 'list',
@@ -303,8 +327,8 @@ export default {
           '<strong>אנמנזה מפורטת</strong>: הסימפטומים, הרקע הרפואי, אורח החיים, העבודה, הספורט, השינה וכל הדמיה או טיפול קודם.',
           '<strong>בדיקה גופנית ואורתופדית</strong>: יציבה, טווחי תנועה, בדיקות נוירולוגיות ומישוש עמוד השדרה והמפרקים.',
           '<strong>סקירת הדמיה</strong>: צילומי רנטגן או MRI קיימים, או הפניות להדמיה נוספת אם נדרש.',
-          '<strong>אבחנה ותוכנית טיפול</strong>: הסבר ברור על מה הבעיה, מה ניתן לשפר באופן ריאלי, וכמה מפגשים צפויים להידרש.',
-          'טיפול ראשון (כשמתאים): לרוב שילוב של התאמה כירופרקטית, עבודה על רקמות רכות, וכמה תרגילים ממוקדים להתחיל בבית.',
+          '<strong>אבחנה ותוכנית טיפול</strong>: הסבר ברור על מה הבעיה, מה ניתן לשפר באופן ריאלי, וכמה מפגשים צפויים להידרש (<a href="/blog/how-many-chiropractic-sessions-needed/">כמה טיפולים צריך</a>).',
+          'טיפול ראשון (כשמתאים): לרוב שילוב של התאמה כירופרקטית, עבודה על רקמות רכות, וכמה תרגילים ממוקדים להתחיל בבית. רגישות קלה לאחר הטיפול אפשרית: ראו <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי</a> וסיכונים בטיפול כירופרקטי.',
         ],
       },
       {
@@ -313,7 +337,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא <strong>כירופרקטור שיקומי</strong> עם מעל 20 שנות ניסיון קליני. הוא בוגר בית הספר לכירופרקטיקה של אוניברסיטת Durban University of Technology (DUT) בדרום אפריקה (2010), עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא, תל השומר. הוא גם שירת כקצין רפואה במילואים של חיל הרפואה (צה"ל) כשמטפל באנשי צוות אוויר. כיום הוא מנהל שתי מרפאות פרטיות, ב<strong>תל אביב</strong> וב<strong>תובל (סמוך לכרמיאל)</strong>, ומשלב טיפול כירופרקטי קלאסי עם שיקום וטיפול מבוסס תנועה כדי לטפל בסיבה השורשית של מצב כל מטופל, ולא רק בסימפטומים.',
+        text: 'ד"ר ויקטור דואני הוא <strong>כירופרקטור שיקומי</strong> עם מעל 20 שנות ניסיון קליני. הוא בוגר בית הספר לכירופרקטיקה של אוניברסיטת Durban University of Technology (DUT) בדרום אפריקה (2010), עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא, תל השומר. הוא גם שירת כקצין רפואה במילואים של חיל הרפואה (צה"ל) כשמטפל באנשי צוות אוויר. כיום הוא מנהל שתי מרפאות פרטיות, ב<strong><a href="/clinics/ramat-aviv/">תל אביב</a></strong> וב<strong><a href="/clinics/tuval/">תובל (סמוך לכרמיאל)</a></strong>, ומשלב טיפול כירופרקטי קלאסי עם שיקום וטיפול מבוסס תנועה כדי לטפל בגורמים התורמים למצבו של כל מטופל, ולא רק בסימפטומים.',
       },
       {
         type: 'heading',
@@ -321,11 +345,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם אתם מתמודדים עם כאב גב או צוואר מתמשך, כאבי ראש חוזרים, פציעת ספורט שלא נרפאה לגמרי, או כל אי-נוחות הקשורה בתנועה שמפריעה לכם בחיים, סביר מאוד שטיפול כירופרקטי יהיה הצעד הבא הנכון. הערכה מסודרת היא מהירה, לא כואבת, ותגיד לכם במדויק האם זו בעיה שכירופרקטור יכול לעזור בה, או שדרוש מומחה אחר.',
+        text: 'אם אתם מתמודדים עם כאב גב או צוואר מתמשך, כאבי ראש חוזרים, פציעת ספורט שלא נרפאה לגמרי, או כל אי-נוחות הקשורה בתנועה שמפריעה לכם בחיים, ייתכן שטיפול כירופרקטי יהיה הצעד הבא המתאים. הערכה מסודרת היא בדרך כלל מהירה ולא כואבת, ויכולה לעזור לכם להבין האם זו בעיה שכירופרקטור יכול לעזור בה, או שדרוש מומחה אחר.',
       },
       {
         type: 'paragraph',
-        text: 'הדרך הטובה ביותר לגלות היא התייעצות קצרה. קבעו טיפול עם ד"ר דואני במרפאה בתל אביב או בתובל, או התקשרו לשאול שאלות לפני שמתאמים תור. ככל שמזהים את הסיבה השורשית מוקדם יותר, כך ההקלה האמיתית והמתמשכת קרובה יותר.',
+        text: 'הדרך הטובה ביותר לגלות היא התייעצות קצרה. קבעו טיפול עם ד"ר דואני במרפאה בתל אביב או בתובל, או התקשרו לשאול שאלות לפני שמתאמים תור. ככל שמזהים את הגורמים האפשריים מוקדם יותר, כך אפשר להתחיל מוקדם יותר תוכנית שמתאימה לכם.',
       },
     ],
   },

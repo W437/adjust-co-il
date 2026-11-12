@@ -8,15 +8,15 @@ export default {
     excerpt:
       'Modern technology is reshaping our spines, and not for the better. Learn how tech neck develops, why poor posture affects far more than your back, and what you can do to correct it.',
     metaDescription:
-      'Discover how tech neck and poor posture damage your spine. Tips on ergonomic workspaces, corrective exercises, and chiropractic posture treatment from Dr. Duani.',
+      'Discover how tech neck and poor posture strain your spine. Tips on ergonomic workspaces, corrective exercises, and chiropractic posture treatment from Dr. Duani.',
     content: [
       {
         type: 'paragraph',
-        text: 'We live in a world designed around screens. From the moment we wake up scrolling through our phones to the hours we spend hunched over laptops at work, modern technology is quietly reshaping the way we hold our bodies. The result is an epidemic of posture-related problems that chiropractors see every single day: neck pain, chronic headaches, rounded shoulders, and spinal misalignment that can take years to fully correct.',
+        text: 'We live in a world designed around screens. From the moment we wake up scrolling through our phones to the hours we spend hunched over laptops at work, modern technology is quietly reshaping the way we hold our bodies. The result is an epidemic of posture-related problems that chiropractors see every single day: neck pain, chronic headaches, rounded shoulders, and spinal stiffness and strain that can build up over years.',
       },
       {
         type: 'paragraph',
-        text: 'The good news? Understanding how poor posture develops is the first step toward reversing it. Whether you work from an office, from home, or spend your commute staring at a phone, this guide will help you protect your spine and reclaim your health.',
+        text: 'The good news? Understanding how poor posture develops is the first step toward improving it. Whether you work from an office, from home, or spend your commute staring at a phone, this guide will help you look after your spine.',
       },
       {
         type: 'heading',
@@ -24,11 +24,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: '<strong>Tech neck</strong> (sometimes called "text neck") refers to the <strong>forward head posture</strong> that develops from looking down at screens for extended periods. In a neutral position, your head weighs roughly 4.5–5.5 kg. But for <strong>every 2.5 cm your head shifts forward</strong> from its natural alignment, the effective load on your cervical spine increases by <strong>approximately 4.5 kg</strong>. At just 5 cm forward, your neck muscles are working as if they are supporting 14 kg or more.',
+        text: '<strong>Tech neck</strong> (sometimes called "text neck") refers to the <strong>forward head posture</strong> that develops from looking down at screens for extended periods. In a neutral position, your head weighs roughly 4.5–5.5 kg. The <strong>further your head shifts forward</strong> from its natural alignment, the harder the muscles and joints of your neck have to work to hold it up, and the effective load on the cervical spine rises as the angle increases.',
       },
       {
         type: 'paragraph',
-        text: 'Over time, this constant strain causes the muscles at the back of the neck to tighten and shorten, while the muscles at the front weaken. The natural lordotic curve of the cervical spine begins to flatten or even reverse, leading to accelerated wear on the spinal discs and joints. What starts as occasional stiffness can gradually become a chronic structural problem.',
+        text: 'Over time, this constant strain causes the muscles at the back of the neck to tighten and shorten, while the muscles at the front weaken. The natural lordotic curve of the cervical spine may begin to flatten, which may add to the strain on the spinal discs and joints. What starts as occasional stiffness can gradually become a persistent problem.',
       },
       {
         type: 'heading',
@@ -41,11 +41,11 @@ export default {
       {
         type: 'list',
         items: [
-          'Chronic headaches and migraines: Tension in the suboccipital muscles at the base of the skull is one of the most common triggers for recurring headaches.',
-          'Neck and shoulder pain: Overworked upper trapezius and levator scapulae muscles lead to persistent pain and stiffness that no amount of stretching seems to relieve.',
-          'Reduced lung capacity: A slouched, rounded posture compresses the chest cavity, limiting how fully your lungs can expand. Studies suggest this can reduce oxygen intake by <strong>up to 30%</strong>.',
-          '<strong>Disc degeneration</strong>: Uneven pressure on spinal discs accelerates their breakdown, potentially leading to <strong>bulging or herniated discs</strong>.',
-          'Chronic fatigue: When your body works harder just to hold your head up, energy is drained from everything else. Many patients report feeling exhausted by mid-afternoon without understanding why.',
+          '<a href="/en/blog/neck-pain-tension-headaches/">Recurring headaches</a>: Tension in the suboccipital muscles at the base of the skull is a common contributor to tension-type headaches.',
+          'Neck and shoulder pain: Overworked upper trapezius and levator scapulae muscles lead to persistent pain and stiffness that can be hard to shake.',
+          'Reduced lung capacity: A slouched, rounded posture can restrict the chest, making it harder for your lungs to expand fully.',
+          '<strong>Disc degeneration</strong>: Uneven pressure on spinal discs over many years may add to wear and tear, and is one of several factors linked to <strong>disc problems</strong>.',
+          'Chronic fatigue: When your body works harder just to hold your head up, you may feel more tired. Some patients report feeling exhausted by mid-afternoon without understanding why.',
           'Jaw tension and TMJ issues: Forward head posture changes the resting position of the jaw, contributing to clenching, grinding, and temporomandibular joint dysfunction.',
         ],
       },
@@ -55,7 +55,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Prevention starts with your environment. A properly set up workspace can dramatically reduce the postural strain your body absorbs throughout the day. Here are the key principles:',
+        text: 'Prevention starts with your environment. A properly set up workspace can help reduce the postural strain your body absorbs throughout the day. Here are the key principles:',
       },
       {
         type: 'list',
@@ -73,7 +73,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Alongside workspace changes, targeted exercises can help reverse the muscular imbalances caused by prolonged sitting and screen use. Here are five you can start with today:',
+        text: 'Alongside workspace changes, targeted exercises can help reverse the muscular imbalances caused by prolonged sitting and screen use. Here are five you can start with today (yoga-based movement can help too: see <a href="/en/blog/yoga-and-chiropractic/">how yoga and chiropractic work together</a>):',
       },
       {
         type: 'list',
@@ -91,15 +91,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'While ergonomic adjustments and exercises are essential, many posture problems involve <strong>structural misalignments</strong> that require professional intervention. <strong>Chiropractic spinal adjustments</strong> work by gently realigning vertebrae that have shifted out of their optimal position, restoring the <strong>natural curvature of the spine</strong> and relieving pressure on the surrounding nerves, muscles, and discs.',
+        text: 'While ergonomic adjustments and exercises are essential, some posture problems involve <strong>stiff or restricted spinal joints</strong> that may benefit from a professional assessment. <strong>Chiropractic spinal adjustments</strong> aim to improve movement in restricted joints, which may help ease strain on the surrounding muscles and discs and support healthier <strong>posture and spinal movement</strong>.',
       },
       {
         type: 'paragraph',
-        text: 'At our clinic, Dr. Victor Duani performs a comprehensive postural assessment that examines your spinal alignment, muscle balance, and range of motion. Based on the findings, he develops a personalized correction plan that combines targeted adjustments with prescribed rehabilitative exercises. This integrated approach addresses both the structural and muscular components of poor posture, producing lasting results rather than temporary relief.',
+        text: 'At our clinic, Dr. Victor Duani performs a comprehensive postural assessment that examines your spinal alignment, muscle balance, and range of motion. Based on the findings, he develops a personalized correction plan that combines targeted adjustments with prescribed rehabilitative exercises. This integrated approach addresses both the structural and muscular components of poor posture, aimed at lasting improvement rather than temporary relief.',
       },
       {
         type: 'paragraph',
-        text: 'Patients typically notice improved range of motion and reduced pain within the first few sessions, with progressive structural improvement over the course of their treatment plan.',
+        text: 'Some patients notice improved range of motion and less pain within the first few sessions, with gradual improvement over the course of a treatment plan. Results vary from person to person.',
       },
       {
         type: 'heading',
@@ -107,7 +107,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Your posture is not something that was set in stone years ago. It is a living, adaptable pattern that responds to the choices you make every day. By optimizing your workspace, incorporating corrective exercises, and working with a skilled chiropractor to address any underlying spinal misalignments, you can reverse the damage of the digital age and build a stronger, healthier spine. If you have been experiencing neck pain, headaches, or simply feel that your posture is not what it used to be, schedule an assessment with Dr. Duani and take the first step toward lasting correction.',
+        text: 'Your posture is not something that was set in stone years ago. It is a living, adaptable pattern that responds to the choices you make every day. By optimizing your workspace, incorporating corrective exercises, and working with a skilled chiropractor to address any underlying spinal restrictions, you can reduce the strain of the digital age and work toward a stronger, healthier spine. If you have been experiencing neck pain, headaches, or simply feel that your posture is not what it used to be, schedule an assessment with Dr. Duani and take the first step toward lasting improvement.',
       },
     ],
   },
@@ -120,11 +120,11 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'אנחנו חיים בעולם שבנוי סביב מסכים. מהרגע שאנחנו מתעוררים וגוללים בטלפון ועד השעות הארוכות שאנחנו מבלים כפופים מעל המחשב הנייד בעבודה, הטכנולוגיה המודרנית משנה בשקט את הצורה שבה אנחנו מחזיקים את הגוף. התוצאה היא מגפה של בעיות הקשורות ליציבה, שכירופרקטורים רואים מדי יום: כאבי צוואר, כאבי ראש כרוניים, כתפיים מעוגלות ואי-יישור של עמוד השדרה שעלול לקחת שנים לתיקון מלא.',
+        text: 'אנחנו חיים בעולם שבנוי סביב מסכים. מהרגע שאנחנו מתעוררים וגוללים בטלפון ועד השעות הארוכות שאנחנו מבלים כפופים מעל המחשב הנייד בעבודה, הטכנולוגיה המודרנית משנה בשקט את הצורה שבה אנחנו מחזיקים את הגוף. התוצאה היא מגפה של בעיות הקשורות ליציבה, שכירופרקטורים רואים מדי יום: כאבי צוואר, כאבי ראש כרוניים, כתפיים מעוגלות ונוקשות ועומס בעמוד השדרה שעלולים להצטבר במשך שנים.',
       },
       {
         type: 'paragraph',
-        text: 'החדשות הטובות? הבנה כיצד מתפתחת יציבה לקויה היא הצעד הראשון לקראת שיקומה. בין אם אתם עובדים ממשרד, מהבית, או מבלים את הנסיעה לעבודה בוהים במסך הטלפון, המדריך הזה יעזור לכם להגן על עמוד השדרה ולשמור על הבריאות שלכם.',
+        text: 'החדשות הטובות? הבנה כיצד מתפתחת יציבה לקויה היא הצעד הראשון לקראת שיפורה. בין אם אתם עובדים ממשרד, מהבית, או מבלים את הנסיעה לעבודה בוהים במסך הטלפון, המדריך הזה יעזור לכם לשמור על עמוד השדרה שלכם.',
       },
       {
         type: 'heading',
@@ -132,11 +132,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: '<strong>"צוואר טכנולוגי" (Tech Neck)</strong> הוא מצב של <strong>יציבת ראש קדמית</strong> שמתפתחת כתוצאה מהסתכלות ממושכת כלפי מטה אל מסכים. במצב ניטרלי, הראש שלנו שוקל כ-5 קילוגרמים. אבל על <strong>כל 2.5 סנטימטר שהראש נע קדימה</strong> ממיקומו הטבעי, העומס האפקטיבי על עמוד השדרה הצווארי עולה ב<strong>כ-5 קילוגרמים</strong>. בהטיה קדמית של 5 סנטימטרים בלבד, שרירי הצוואר עובדים כאילו הם תומכים ביותר מ-15 קילוגרמים.',
+        text: '<strong>"צוואר טכנולוגי" (Tech Neck)</strong> הוא מצב של <strong>יציבת ראש קדמית</strong> שמתפתחת כתוצאה מהסתכלות ממושכת כלפי מטה אל מסכים. במצב ניטרלי, הראש שלנו שוקל כ-5 קילוגרמים. ככל ש<strong>הראש נע קדימה</strong> ממיקומו הטבעי, שרירי הצוואר ומפרקיו צריכים לעבוד קשה יותר כדי להחזיק אותו, והעומס האפקטיבי על עמוד השדרה הצווארי גדל עם הזווית.',
       },
       {
         type: 'paragraph',
-        text: 'עם הזמן, המאמץ המתמשך הזה גורם לשרירים בחלק האחורי של הצוואר להתכווץ ולהתקצר, בעוד שהשרירים בחלק הקדמי נחלשים. העקמומיות הלורדוטית הטבעית של עמוד השדרה הצווארי מתחילה להשתטח ואף להתהפך, מה שמוביל לבלאי מואץ של הדיסקים והמפרקים. מה שמתחיל כנוקשות מזדמנת עלול להפוך בהדרגה לבעיה מבנית כרונית.',
+        text: 'עם הזמן, המאמץ המתמשך הזה גורם לשרירים בחלק האחורי של הצוואר להתכווץ ולהתקצר, בעוד שהשרירים בחלק הקדמי נחלשים. העקמומיות הלורדוטית הטבעית של עמוד השדרה הצווארי עשויה להתחיל להשתטח, מה שעשוי להוסיף לעומס על הדיסקים והמפרקים. מה שמתחיל כנוקשות מזדמנת עלול להפוך בהדרגה לבעיה מתמשכת.',
       },
       {
         type: 'heading',
@@ -149,11 +149,11 @@ export default {
       {
         type: 'list',
         items: [
-          'כאבי ראש כרוניים ומיגרנות: מתח בשרירים הסאב-אוקסיפיטליים בבסיס הגולגולת הוא אחד הטריגרים הנפוצים ביותר לכאבי ראש חוזרים.',
-          'כאבי צוואר וכתפיים: שרירי הטרפזיוס העליון והלבטור סקפולה העמוסים מדי מובילים לכאב ונוקשות מתמשכים שאף כמות של מתיחות לא מצליחה להקל עליהם.',
-          'ירידה בקיבולת הריאות: יציבה כפופה ומעוגלת לוחצת על חלל בית החזה ומגבילה את התרחבות הריאות. מחקרים מצביעים על כך שזה יכול להפחית את צריכת החמצן <strong>בעד 30%</strong>.',
-          '<strong>ניוון דיסקים</strong>: לחץ לא אחיד על דיסקים בין-חולייתיים מאיץ את פירוקם, ועלול להוביל ל<strong>דיסקים בולטים או פריצות דיסק</strong>.',
-          'עייפות כרונית: כשהגוף עובד קשה יותר רק כדי להחזיק את הראש, אנרגיה נשאבת מכל דבר אחר. מטופלים רבים מדווחים על תחושת תשישות כבר באמצע אחר הצהריים מבלי להבין מדוע.',
+          '<a href="/blog/neck-pain-tension-headaches/">כאבי ראש חוזרים</a>: מתח בשרירים הסאב-אוקסיפיטליים בבסיס הגולגולת הוא גורם תורם נפוץ לכאבי ראש מתח.',
+          'כאבי צוואר וכתפיים: שרירי הטרפזיוס העליון והלבטור סקפולה העמוסים מדי מובילים לכאב ונוקשות מתמשכים שקשה להיפטר מהם.',
+          'ירידה בקיבולת הריאות: יציבה כפופה ומעוגלת יכולה להגביל את בית החזה ולהקשות על התרחבות מלאה של הריאות.',
+          '<strong>ניוון דיסקים</strong>: לחץ לא אחיד על דיסקים בין-חולייתיים לאורך שנים עשוי להוסיף לבלאי, והוא אחד מכמה גורמים הקשורים ל<strong>בעיות דיסק</strong>.',
+          'עייפות כרונית: כשהגוף עובד קשה יותר רק כדי להחזיק את הראש, ייתכן שתרגישו עייפים יותר. חלק מהמטופלים מדווחים על תחושת תשישות כבר באמצע אחר הצהריים מבלי להבין מדוע.',
           'מתח בלסת ובעיות במפרק הטמפורומנדיבולרי (TMJ): יציבת ראש קדמית משנה את מנוחת הלסת, ותורמת לחריקת שיניים, הידוק לסתות והפרעות במפרק הלסת.',
         ],
       },
@@ -163,7 +163,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מניעה מתחילה בסביבה שלכם. סביבת עבודה מותקנת כראוי יכולה להפחית באופן דרמטי את העומס היציבתי שהגוף סופג לאורך היום. הנה העקרונות המרכזיים:',
+        text: 'מניעה מתחילה בסביבה שלכם. סביבת עבודה מותקנת כראוי יכולה לעזור להפחית את העומס היציבתי שהגוף סופג לאורך היום. הנה העקרונות המרכזיים:',
       },
       {
         type: 'list',
@@ -181,7 +181,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'לצד שינויים בסביבת העבודה, תרגילים ממוקדים יכולים לסייע בהיפוך חוסר האיזון השרירי שנגרם מישיבה ממושכת ושימוש במסכים. הנה חמישה תרגילים להתחיל איתם:',
+        text: 'לצד שינויים בסביבת העבודה, תרגילים ממוקדים יכולים לסייע בהיפוך חוסר האיזון השרירי שנגרם מישיבה ממושכת ושימוש במסכים. הנה חמישה תרגילים להתחיל איתם (גם תנועה מבוססת יוגה יכולה לעזור: ראו <a href="/blog/yoga-and-chiropractic/">כיצד יוגה וכירופרקטיקה פועלות יחד</a>):',
       },
       {
         type: 'list',
@@ -199,15 +199,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'בעוד שהתאמות ארגונומיות ותרגילים הם חיוניים, בעיות יציבה רבות כוללות <strong>אי-יישור מבני</strong> שדורש התערבות מקצועית. <strong>התאמות כירופרקטיות</strong> של עמוד השדרה פועלות על ידי יישור עדין של חוליות שזזו ממיקומן האופטימלי, שיקום <strong>העקמומיות הטבעית של עמוד השדרה</strong> והפחתת הלחץ על העצבים, השרירים והדיסקים שמסביב.',
+        text: 'בעוד שהתאמות ארגונומיות ותרגילים הם חיוניים, בעיות יציבה מסוימות כוללות <strong>מפרקים נוקשים או מוגבלים בעמוד השדרה</strong> שעשויים להפיק תועלת מהערכה מקצועית. <strong>התאמות כירופרקטיות</strong> של עמוד השדרה שואפות לשפר את התנועה במפרקים מוגבלים, מה שעשוי לסייע בהקלה על העומס על השרירים והדיסקים שמסביב ולתמוך ב<strong>יציבה ובתנועה</strong> טובות יותר של עמוד השדרה.',
       },
       {
         type: 'paragraph',
-        text: 'במרפאה שלנו, ד"ר ויקטור דואני מבצע הערכה יציבתית מקיפה הבוחנת את יישור עמוד השדרה, איזון שרירים וטווח תנועה. בהתבסס על הממצאים, הוא מפתח תוכנית תיקון אישית המשלבת התאמות ממוקדות עם תרגילי שיקום מותאמים. גישה משולבת זו מטפלת הן במרכיבים המבניים והן במרכיבים השריריים של יציבה לקויה, ומניבה תוצאות ארוכות טווח במקום הקלה זמנית.',
+        text: 'במרפאה שלנו, ד"ר ויקטור דואני מבצע הערכה יציבתית מקיפה הבוחנת את יישור עמוד השדרה, איזון שרירים וטווח תנועה. בהתבסס על הממצאים, הוא מפתח תוכנית תיקון אישית המשלבת התאמות ממוקדות עם תרגילי שיקום מותאמים. גישה משולבת זו מטפלת הן במרכיבים המבניים והן במרכיבים השריריים של יציבה לקויה, במטרה לשפר לאורך זמן ולא רק להקל זמנית.',
       },
       {
         type: 'paragraph',
-        text: 'מטופלים מדווחים בדרך כלל על שיפור בטווח התנועה והפחתה בכאב כבר בטיפולים הראשונים, עם שיפור מבני מתקדם לאורך תוכנית הטיפול.',
+        text: 'חלק מהמטופלים מדווחים על שיפור בטווח התנועה ועל פחות כאב כבר בטיפולים הראשונים, עם שיפור הדרגתי לאורך תוכנית הטיפול. התוצאות משתנות מאדם לאדם.',
       },
       {
         type: 'heading',
@@ -215,7 +215,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'היציבה שלכם היא לא משהו שנקבע בסלע לפני שנים. היא דפוס חי וגמיש שמגיב לבחירות שאתם עושים כל יום. על ידי אופטימיזציה של סביבת העבודה, שילוב תרגילים מתקנים ועבודה עם כירופרקטור מיומן לטיפול באי-יישור מבני בסיסי, אתם יכולים להפוך את הנזק של העידן הדיגיטלי ולבנות עמוד שדרה חזק ובריא יותר. אם אתם סובלים מכאבי צוואר, כאבי ראש, או פשוט מרגישים שהיציבה שלכם כבר לא מה שהייתה, קבעו הערכה אצל ד"ר דואני ועשו את הצעד הראשון לקראת תיקון מתמשך.',
+        text: 'היציבה שלכם היא לא משהו שנקבע בסלע לפני שנים. היא דפוס חי וגמיש שמגיב לבחירות שאתם עושים כל יום. על ידי אופטימיזציה של סביבת העבודה, שילוב תרגילים מתקנים ועבודה עם כירופרקטור מיומן לטיפול בנוקשות בעמוד השדרה, אתם יכולים להפחית את העומס של העידן הדיגיטלי ולעבוד לקראת עמוד שדרה חזק ובריא יותר. אם אתם סובלים מכאבי צוואר, כאבי ראש, או פשוט מרגישים שהיציבה שלכם כבר לא מה שהייתה, קבעו הערכה אצל ד"ר דואני ועשו את הצעד הראשון לקראת שיפור מתמשך.',
       },
     ],
   },

@@ -4,19 +4,19 @@ export default {
   image: '/assets/blog/herniated-disc-treatment-chiropractic.webp',
   readTime: 9,
   en: {
-    title: 'Herniated Disc Treatment: Can a Chiropractor Help You Avoid Surgery?',
+    title: 'Herniated Disc Treatment: What Chiropractic Care Can and Cannot Offer',
     excerpt:
-      'A herniated disc diagnosis can feel like a sentence, but for most patients, surgery is not the only option. Learn how chiropractic care treats disc problems conservatively, and when surgery actually becomes the right call.',
+      'A herniated disc diagnosis can feel alarming, but surgery is not the only option for many patients. Learn how chiropractic care approaches disc problems conservatively, what it can and cannot offer, and when surgery becomes the right call.',
     metaDescription:
-      'Herniated disc treatment without surgery: how chiropractic care, decompression, and rehabilitation help most patients avoid the operating room. Guide by Dr. Victor Duani.',
+      'Herniated disc treatment: what chiropractic care, decompression, and rehabilitation can and cannot offer, and when surgery is the right call. Guide by Dr. Victor Duani.',
     content: [
       {
         type: 'paragraph',
-        text: 'Few diagnoses are as anxiety-inducing as <strong>herniated disc</strong>. The phrase itself sounds catastrophic, and for many patients, the first specialist they see hints at surgery as the inevitable end point. The reality is far more reassuring: <strong>the great majority of herniated disc patients improve with conservative care</strong>, and never need an operation.',
+        text: 'Few diagnoses are as anxiety-inducing as <strong>herniated disc</strong>. The phrase itself sounds catastrophic, and for many patients, the first specialist they see hints at surgery as the inevitable end point. The reality is often more reassuring: <strong>most herniated disc patients improve with conservative care over time</strong>, and many never need an operation.',
       },
       {
         type: 'paragraph',
-        text: 'This guide explains what a herniated disc actually is, how chiropractic care treats it without surgery, what the evidence supports, and when surgical referral genuinely is the right next step.',
+        text: 'This guide explains what a herniated disc actually is, how chiropractic care approaches it without surgery, what the evidence supports, and when surgical referral is the right next step. If your main symptom is leg pain, you may also want to read about <a href="/en/blog/sciatica-relief-without-surgery/">sciatica and conservative care</a>.',
       },
       {
         type: 'heading',
@@ -54,11 +54,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A frequently misunderstood fact: many herniated discs <em>resolve on their own</em> over weeks to months. The body reabsorbs displaced disc material, inflammation subsides, and symptoms improve, even when imaging continues to show the herniation.',
+        text: 'A frequently misunderstood fact: many herniated discs <em>resolve on their own</em> over weeks to months. Displaced disc material can be gradually reabsorbed, inflammation often subsides, and symptoms may improve, even when imaging continues to show the herniation.',
       },
       {
         type: 'paragraph',
-        text: 'Major spine research and clinical guidelines now consistently recommend a course of <strong>conservative treatment first</strong> (including chiropractic care, physiotherapy, and targeted rehabilitation) before surgical evaluation, except in cases of progressive neurological deficit or red-flag symptoms.',
+        text: 'Many clinical guidelines suggest a course of <strong>conservative treatment first</strong> (which may include chiropractic care, physiotherapy, and targeted rehabilitation) before surgical evaluation, except in cases of progressive neurological deficit or red-flag symptoms. Wondering which professional to see? Read <a href="/en/blog/chiropractor-vs-osteopath-vs-physiotherapist/">chiropractor, osteopath or physiotherapist: how they differ</a>.',
       },
       {
         type: 'heading',
@@ -66,7 +66,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A common misconception is that chiropractors will perform aggressive, high-velocity adjustments on disc patients. The opposite is true. Treatment for disc problems is <em>gentler, slower, and more carefully directed</em> than routine adjustments, and that is exactly why it works.',
+        text: 'A common misconception is that chiropractors will perform aggressive, high-velocity adjustments on disc patients. The opposite is true. Treatment for disc problems is usually <em>gentler, slower, and more carefully directed</em> than routine adjustments.',
       },
       {
         type: 'subheading',
@@ -99,7 +99,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Tense protective muscle spasm often amplifies the pain of a disc problem. Soft tissue work, dry needling, and targeted therapies reduce that secondary tension, which lets the nerve and disc settle.',
+        text: 'Tense protective muscle spasm often amplifies the pain of a disc problem. Soft tissue work, dry needling, and targeted therapies aim to reduce that secondary tension, which may help the nerve and disc settle.',
       },
       {
         type: 'subheading',
@@ -107,7 +107,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Many herniated disc patients have a "directional preference": a specific movement that consistently reduces pain or moves it closer to the spine (a process called <strong>centralization</strong>). Identifying this preference and prescribing the exercises that exploit it is one of the most effective tools in conservative disc care. McKenzie protocols are a common framework.',
+        text: 'Many herniated disc patients have a "directional preference": a specific movement that consistently reduces pain or moves it closer to the spine (a process called <strong>centralization</strong>). Identifying this preference and prescribing the exercises that exploit it is one of the commonly used tools in conservative disc care. McKenzie protocols are a common framework.',
       },
       {
         type: 'subheading',
@@ -115,7 +115,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Once acute pain is reduced, the focus shifts to rebuilding the muscular environment that protects the spine. Deep core stabilizers, gluteal muscles, and proper movement patterns are trained progressively to prevent recurrence.',
+        text: 'Once acute pain eases, the focus shifts to rebuilding the muscular environment that supports the spine. Deep core stabilizers, gluteal muscles, and movement patterns are trained progressively, which may help reduce the chance of recurrence. Some patients also find yoga-based rehabilitation useful at this stage (see <a href="/en/blog/yoga-and-chiropractic/">yoga and chiropractic care</a>).',
       },
       {
         type: 'subheading',
@@ -123,7 +123,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'How you sit, sleep, lift, and move during the recovery period has an enormous impact on outcomes. Specific guidance (workstation setup, sleep position, when to walk, what to avoid) is part of the treatment, not an afterthought.',
+        text: 'How you sit, sleep, lift, and move during the recovery period can have a large impact on how recovery goes. Specific guidance (workstation setup, sleep position, when to walk, what to avoid) is part of the treatment, not an afterthought.',
       },
       {
         type: 'heading',
@@ -131,7 +131,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Realistic timelines vary by severity, but most disc patients see meaningful improvement within 4–8 sessions of structured care, with continued progress over several months. Acute disc episodes that have been present for weeks tend to respond faster than chronic disc problems that have been ignored for years.',
+        text: 'Timelines vary widely with severity. Some patients notice improvement within the first few weeks of structured care, with progress continuing over several months, while others need longer. Recent disc episodes often respond faster than long-standing problems. Your practitioner can give an estimate after examining you.',
       },
       {
         type: 'paragraph',
@@ -156,7 +156,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A responsible chiropractor recognizes these signs and refers without hesitation. The goal is the right treatment for the right patient, not loyalty to one approach.',
+        text: 'A responsible chiropractor aims to recognize these signs and refers without hesitation. The goal is the right treatment for the right patient, not loyalty to one approach. Our article on <a href="/en/blog/sciatica-surgery-when-needed/">when sciatica surgery is needed</a> goes into this in more detail.',
       },
       {
         type: 'heading',
@@ -164,32 +164,32 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and a particular focus on conservative treatment of herniated and bulging disc problems. After graduating from the Durban University of Technology (DUT) School of Chiropractic in South Africa, he worked at Assaf Harofeh Medical Center and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, environments where complex disc cases are common and the standards for diagnosis and treatment are exacting. His clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong> combine careful chiropractic care with structured rehabilitation specifically designed to help disc patients recover without surgery whenever possible.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and a particular focus on conservative treatment of herniated and bulging disc problems. After graduating from the Durban University of Technology (DUT) School of Chiropractic in South Africa, he worked at Assaf Harofeh Medical Center and managed rehabilitative chiropractic at Sheba Medical Center, Tel Hashomer, environments where complex disc cases are common and the standards for diagnosis and treatment are exacting. His clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong> combine careful chiropractic care with structured rehabilitation designed to support disc patients in managing symptoms without surgery where appropriate.',
       },
       {
         type: 'heading',
-        text: 'Have a Herniated Disc? Get a Real Plan',
+        text: 'Have a Herniated Disc? Get a Clear Plan',
       },
       {
         type: 'paragraph',
-        text: 'If you have been told you have a herniated disc (or you suspect it based on your symptoms), the most useful next step is a careful diagnostic visit before any major decisions about treatment. Book a consultation with Dr. Duani at the Tel Aviv or Tuval clinic and bring your imaging. You will leave with a clear understanding of how severe the herniation actually is, what conservative care can realistically achieve, and a concrete plan to start. Surgery may be necessary in some cases, but it should be a considered decision, not the first option offered.',
+        text: 'If you have been told you have a herniated disc (or you suspect it based on your symptoms), the most useful next step is a careful diagnostic visit before any major decisions about treatment. Book a consultation with Dr. Duani at the Ramat Aviv clinic or at Tuval, near Karmiel, and bring your imaging. The aim is to leave with a clearer understanding of the findings, what conservative care can realistically offer in your case, and a plan to start. Surgery may be necessary in some cases, but it should be a considered decision, not the first option offered.',
       },
     ],
   },
   he: {
-    title: 'טיפול בפריצת דיסק: האם כירופרקטור יכול לעזור לכם להימנע מניתוח?',
+    title: 'טיפול בפריצת דיסק: מה כירופרקטיקה יכולה ולא יכולה להציע',
     excerpt:
-      'אבחנת פריצת דיסק יכולה להרגיש כמו גזר דין, אבל לרוב המטופלים, ניתוח אינו האפשרות היחידה. למדו איך טיפול כירופרקטי מטפל בבעיות דיסק שמרנית, ומתי ניתוח באמת הופך לצעד הנכון.',
+      'אבחנת פריצת דיסק יכולה להיות מפחידה, אבל עבור מטופלים רבים ניתוח אינו האפשרות היחידה. למדו איך טיפול כירופרקטי ניגש לבעיות דיסק באופן שמרני, מה הוא יכול ולא יכול להציע, ומתי ניתוח הופך לצעד הנכון.',
     metaDescription:
-      'טיפול בפריצת דיסק ללא ניתוח: איך טיפול כירופרקטי, דקומפרסיה ושיקום עוזרים לרוב המטופלים להימנע מחדר הניתוח. מדריך מאת ד"ר ויקטור דואני.',
+      'טיפול בפריצת דיסק: מה טיפול כירופרקטי, דקומפרסיה ושיקום יכולים ולא יכולים להציע, ומתי ניתוח הוא הצעד הנכון. מדריך מאת ד"ר ויקטור דואני.',
     content: [
       {
         type: 'paragraph',
-        text: 'מעט אבחנות מעוררות חרדה כמו <strong>פריצת דיסק</strong>. הביטוי עצמו נשמע קטסטרופלי, ולמטופלים רבים, המומחה הראשון שהם פוגשים רומז על ניתוח כנקודת הסוף הבלתי נמנעת. המציאות מרגיעה הרבה יותר: <strong>הרוב הגדול של מטופלי פריצת דיסק משתפרים עם טיפול שמרני</strong>, ואף פעם אינם זקוקים לניתוח.',
+        text: 'מעט אבחנות מעוררות חרדה כמו <strong>פריצת דיסק</strong>. הביטוי עצמו נשמע קטסטרופלי, ולמטופלים רבים, המומחה הראשון שהם פוגשים רומז על ניתוח כנקודת הסוף הבלתי נמנעת. המציאות מרגיעה לעיתים יותר: <strong>רוב מטופלי פריצת דיסק משתפרים עם טיפול שמרני לאורך זמן</strong>, ורבים מהם אינם זקוקים לניתוח.',
       },
       {
         type: 'paragraph',
-        text: 'המדריך הזה מסביר מה זה פריצת דיסק באמת, איך טיפול כירופרקטי מטפל בה ללא ניתוח, מה המחקר תומך בו ומתי הפניה לניתוח באמת הצעד הבא הנכון.',
+        text: 'המדריך הזה מסביר מה זה פריצת דיסק באמת, איך טיפול כירופרקטי ניגש אליה ללא ניתוח, מה המחקר תומך בו ומתי הפניה לניתוח היא הצעד הבא הנכון. אם התסמין העיקרי שלכם הוא כאב ברגל, כדאי לקרוא גם על <a href="/blog/sciatica-relief-without-surgery/">סיאטיקה וטיפול שמרני</a>.',
       },
       {
         type: 'heading',
@@ -227,11 +227,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'עובדה שלא מובנת לעיתים קרובות: פריצות דיסק רבות <em>חולפות מעצמן</em> במשך שבועות עד חודשים. הגוף סופג מחדש את חומר הדיסק הנודד, הדלקת שוככת, והתסמינים משתפרים, אפילו כשהדמיה ממשיכה להראות את הפריצה.',
+        text: 'עובדה שלא מובנת לעיתים קרובות: פריצות דיסק רבות <em>חולפות מעצמן</em> במשך שבועות עד חודשים. חומר הדיסק הנודד יכול להיספג מחדש בהדרגה, הדלקת לרוב שוככת, והתסמינים עשויים להשתפר, אפילו כשהדמיה ממשיכה להראות את הפריצה.',
       },
       {
         type: 'paragraph',
-        text: 'מחקר עמוד שדרה והנחיות קליניות עיקריות ממליצים כיום באופן עקבי על מסלול <strong>טיפול שמרני תחילה</strong> (כולל טיפול כירופרקטי, פיזיותרפיה ושיקום ממוקד) לפני הערכה ניתוחית, חוץ ממקרים של חסר נוירולוגי מתקדם או תסמיני דגלים אדומים.',
+        text: 'הנחיות קליניות רבות מציעות מסלול <strong>טיפול שמרני תחילה</strong> (שעשוי לכלול טיפול כירופרקטי, פיזיותרפיה ושיקום ממוקד) לפני הערכה ניתוחית, חוץ ממקרים של חסר נוירולוגי מתקדם או תסמיני דגלים אדומים. מתלבטים למי לפנות? קראו <a href="/blog/chiropractor-vs-osteopath-vs-physiotherapist/">פיזיותרפיה או כירופרקטיקה: מה ההבדל בין המקצועות</a>.',
       },
       {
         type: 'heading',
@@ -239,7 +239,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'תפיסה שגויה נפוצה היא שכירופרקטורים יבצעו התאמות אגרסיביות בעוצמה גבוהה על מטופלי דיסק. ההפך הוא הנכון. הטיפול בבעיות דיסק הוא <em>עדין יותר, איטי יותר ומכוון בקפידה רבה יותר</em> מהתאמות שגרתיות, וזו בדיוק הסיבה שזה עובד.',
+        text: 'תפיסה שגויה נפוצה היא שכירופרקטורים יבצעו התאמות אגרסיביות בעוצמה גבוהה על מטופלי דיסק. ההפך הוא הנכון. הטיפול בבעיות דיסק הוא בדרך כלל <em>עדין יותר, איטי יותר ומכוון בקפידה רבה יותר</em> מהתאמות שגרתיות.',
       },
       {
         type: 'subheading',
@@ -272,7 +272,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'התכווצות שרירית הגנתית מתח מגבירה לעיתים קרובות את הכאב של בעיית דיסק. עבודה על רקמות רכות, דריי נידלינג וטיפולים ממוקדים מפחיתים את המתח המשני הזה, מה שמאפשר לעצב ולדיסק להירגע.',
+        text: 'התכווצות שרירית הגנתית מתח מגבירה לעיתים קרובות את הכאב של בעיית דיסק. עבודה על רקמות רכות, דריי נידלינג וטיפולים ממוקדים נועדו להפחית את המתח המשני הזה, מה שעשוי לעזור לעצב ולדיסק להירגע.',
       },
       {
         type: 'subheading',
@@ -280,7 +280,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'למטופלי פריצת דיסק רבים יש "העדפת כיוון": תנועה ספציפית שמפחיתה כאב באופן עקבי או מזיזה אותו קרוב יותר לעמוד השדרה (תהליך שנקרא <strong>צנטרליזציה</strong>). זיהוי ההעדפה הזו ורישום התרגילים שמנצלים אותה הם מהכלים היעילים ביותר בטיפול דיסק שמרני. פרוטוקולי McKenzie הם מסגרת נפוצה.',
+        text: 'למטופלי פריצת דיסק רבים יש "העדפת כיוון": תנועה ספציפית שמפחיתה כאב באופן עקבי או מזיזה אותו קרוב יותר לעמוד השדרה (תהליך שנקרא <strong>צנטרליזציה</strong>). זיהוי ההעדפה הזו ורישום התרגילים שמנצלים אותה הם מהכלים הנפוצים בטיפול דיסק שמרני. פרוטוקולי McKenzie הם מסגרת נפוצה.',
       },
       {
         type: 'subheading',
@@ -288,7 +288,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ברגע שהכאב החריף יורד, המיקוד עובר לבנייה מחדש של הסביבה השרירית שמגנה על עמוד השדרה. מייצבי ליבה עמוקים, שרירי עכוז ודפוסי תנועה תקינים מאומנים בהדרגה כדי למנוע הישנות.',
+        text: 'כשהכאב החריף שוכך, המיקוד עובר לבנייה מחדש של הסביבה השרירית שתומכת בעמוד השדרה. מייצבי ליבה עמוקים, שרירי עכוז ודפוסי תנועה מאומנים בהדרגה, מה שעשוי לסייע להקטין את הסיכוי להישנות. חלק מהמטופלים מוצאים בשלב הזה גם שיקום מבוסס יוגה שימושי (ראו <a href="/blog/yoga-and-chiropractic/">יוגה וטיפול כירופרקטי</a>).',
       },
       {
         type: 'subheading',
@@ -296,7 +296,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'איך אתם יושבים, ישנים, מרימים ונעים בתקופת ההחלמה יש השפעה עצומה על התוצאות. הנחיות ספציפיות (סידור עמדת עבודה, תנוחת שינה, מתי ללכת, ממה להימנע) הן חלק מהטיפול, לא מחשבה שאחרי.',
+        text: 'איך אתם יושבים, ישנים, מרימים ונעים בתקופת ההחלמה יכולה להיות השפעה גדולה על מהלך ההחלמה. הנחיות ספציפיות (סידור עמדת עבודה, תנוחת שינה, מתי ללכת, ממה להימנע) הן חלק מהטיפול, לא מחשבה שאחרי.',
       },
       {
         type: 'heading',
@@ -304,7 +304,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'לוחות זמנים ריאליים משתנים לפי החומרה, אבל רוב מטופלי הדיסק רואים שיפור משמעותי תוך 4–8 מפגשים של טיפול מובנה, עם המשך התקדמות במשך מספר חודשים. אפיזודות דיסק חריפות שקיימות שבועות נוטות להגיב מהר יותר מבעיות דיסק כרוניות שהוזנחו שנים.',
+        text: 'לוחות הזמנים משתנים מאוד לפי החומרה. יש מטופלים שמרגישים שיפור כבר בשבועות הראשונים של טיפול מובנה, עם המשך התקדמות לאורך מספר חודשים, ואחרים זקוקים לזמן ארוך יותר. אפיזודות דיסק שהתחילו לאחרונה מגיבות לרוב מהר יותר מבעיות ותיקות. המטפל יוכל לתת הערכה לאחר בדיקה.',
       },
       {
         type: 'paragraph',
@@ -329,7 +329,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כירופרקטור אחראי מזהה את הסימנים האלה ומפנה ללא היסוס. המטרה היא הטיפול הנכון למטופל הנכון, לא נאמנות לגישה אחת.',
+        text: 'כירופרקטור אחראי שואף לזהות את הסימנים האלה ומפנה ללא היסוס. המטרה היא הטיפול הנכון למטופל הנכון, לא נאמנות לגישה אחת. במאמר <a href="/blog/sciatica-surgery-when-needed/">מתי צריך ניתוח בסיאטיקה</a> אנחנו מרחיבים בנושא.',
       },
       {
         type: 'heading',
@@ -337,15 +337,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומיקוד מיוחד בטיפול שמרני בפריצות ובליטות דיסק. לאחר סיום לימודיו בבית הספר לכירופרקטיקה של Durban University of Technology (DUT) בדרום אפריקה, הוא עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר, סביבות שבהן מקרי דיסק מורכבים נפוצים והסטנדרטים לאבחנה ולטיפול מחמירים. המרפאות שלו ב<strong>תל אביב</strong> וב<strong>תובל</strong> משלבות טיפול כירופרקטי זהיר עם שיקום מובנה שמתוכנן ספציפית לעזור למטופלי דיסק להתאושש ללא ניתוח כל עוד אפשר.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומיקוד מיוחד בטיפול שמרני בפריצות ובליטות דיסק. לאחר סיום לימודיו בבית הספר לכירופרקטיקה של Durban University of Technology (DUT) בדרום אפריקה, הוא עבד בבית החולים אסף הרופא וניהל את היחידה לכירופרקטיקה שיקומית במרכז הרפואי שיבא תל השומר, סביבות שבהן מקרי דיסק מורכבים נפוצים והסטנדרטים לאבחנה ולטיפול מחמירים. המרפאות שלו ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong> משלבות טיפול כירופרקטי זהיר עם שיקום מובנה שנועד לתמוך במטופלי דיסק בהתמודדות עם התסמינים ללא ניתוח, כשזה מתאים.',
       },
       {
         type: 'heading',
-        text: 'יש לכם פריצת דיסק? קבלו תוכנית אמיתית',
+        text: 'יש לכם פריצת דיסק? קבלו תוכנית ברורה',
       },
       {
         type: 'paragraph',
-        text: 'אם נאמר לכם שיש לכם פריצת דיסק (או שאתם חושדים בכך מהסימפטומים), הצעד המועיל ביותר הוא ביקור אבחוני זהיר לפני כל החלטה משמעותית על טיפול. קבעו התייעצות עם ד"ר דואני במרפאה בתל אביב או בתובל והביאו את ההדמיה שלכם. תצאו עם הבנה ברורה של כמה הפריצה באמת חמורה, מה טיפול שמרני יכול להשיג באופן ריאלי, ותוכנית קונקרטית להתחיל. ניתוח עשוי להיות נחוץ במקרים מסוימים, אבל זו צריכה להיות החלטה שקולה, לא האפשרות הראשונה שמוצעת.',
+        text: 'אם נאמר לכם שיש לכם פריצת דיסק (או שאתם חושדים בכך מהסימפטומים), הצעד המועיל ביותר הוא ביקור אבחוני זהיר לפני כל החלטה משמעותית על טיפול. קבעו התייעצות עם ד"ר דואני במרפאה ברמת אביב או בתובל, ליד כרמיאל, והביאו את ההדמיה שלכם. המטרה היא לצאת עם הבנה ברורה יותר של הממצאים, של מה טיפול שמרני יכול להציע באופן ריאלי במקרה שלכם, ושל תוכנית להתחיל. ניתוח עשוי להיות נחוץ במקרים מסוימים, אבל זו צריכה להיות החלטה שקולה, לא האפשרות הראשונה שמוצעת.',
       },
     ],
   },

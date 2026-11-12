@@ -12,7 +12,7 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'Choosing a chiropractor is not unlike choosing any other healthcare provider, except that the chiropractic field varies more in style, philosophy, and rigor than people realize. Two clinics half a kilometer apart can offer dramatically different experiences: one runs a careful diagnostic process and builds a tailored rehab plan, the other lines up patients for the same 90-second "crack" regardless of what is wrong.',
+        text: 'Choosing a chiropractor is not unlike choosing any other healthcare provider (if you are new to the profession, start with <a href="/en/blog/what-is-a-chiropractor/">what a chiropractor is and what the training involves</a>), except that the chiropractic field varies more in style, philosophy, and rigor than people realize. Two clinics half a kilometer apart can offer dramatically different experiences: one runs a careful diagnostic process and builds a tailored rehab plan, the other lines up patients for the same 90-second "crack" regardless of what is wrong.',
       },
       {
         type: 'paragraph',
@@ -24,7 +24,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Chiropractic education varies widely around the world. The most rigorous programs are 4–5 year post-graduate doctoral degrees that cover anatomy, neurology, orthopedics, radiology, and biomechanics in depth. Reputable schools include Durban University of Technology (DUT) in South Africa, Palmer College in the US, AECC University College in the UK, and a handful of others.',
+        text: 'Chiropractic education varies widely around the world. The most rigorous programs are 4–5 year post-graduate doctoral degrees that cover anatomy, neurology, orthopedics, radiology, and biomechanics in depth. Recognized schools include Durban University of Technology (DUT) in South Africa, Palmer College in the US, AECC University College in the UK, and a handful of others.',
       },
       {
         type: 'paragraph',
@@ -40,7 +40,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Be cautious of clinics that promise treatment without an exam, or that adjust every patient the same way regardless of symptoms.',
+        text: 'Be cautious of clinics that promise treatment without an exam, or that adjust every patient the same way regardless of symptoms. It also helps to understand <a href="/en/blog/chiropractor-vs-osteopath-vs-physiotherapist/">how a chiropractor differs from an osteopath or a physiotherapist</a>, so you can judge which kind of practitioner fits your problem.',
       },
       {
         type: 'heading',
@@ -64,7 +64,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Be wary of pre-sold packages of 30, 50, or 100 sessions paid upfront with no clinical justification for that number. Genuine chiropractic care is built around your response to treatment, not around a sales target.',
+        text: 'Be wary of pre-sold packages of 30, 50, or 100 sessions paid upfront with no clinical justification for that number. Good chiropractic care is built around your response to treatment, not around a sales target.',
       },
       {
         type: 'heading',
@@ -93,7 +93,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Clinics that present chiropractic as a stand-alone replacement for all medical care should raise a flag. Chiropractic is excellent within its scope, and equally important to know when something is outside that scope.',
+        text: 'Clinics that present chiropractic as a stand-alone replacement for all medical care should raise a flag. A careful practitioner will also talk openly about <a href="/en/blog/chiropractic-side-effects-risks/">possible side effects and risks</a> and about who should be checked by a doctor first. Chiropractic can be useful within its scope, and it is equally important to know when something is outside that scope.',
       },
       {
         type: 'heading',
@@ -114,7 +114,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If the only thing your chiropractor expects from you is to show up and lie down, you are likely getting symptom relief but not a real fix.',
+        text: 'If the only thing your chiropractor expects from you is to show up and lie down, you may be getting short-term symptom relief without a plan for the longer term.',
       },
       {
         type: 'heading',
@@ -139,7 +139,7 @@ export default {
           '<strong>The treatment plan is specific to you.</strong> Generic plans suggest generic thinking.',
           '<strong>The chiropractor explains in plain language.</strong> Jargon often hides uncertainty.',
           '<strong>Pricing and policies are transparent.</strong> No vague "package deals" presented as the only option.',
-          '<strong>The reviews describe outcomes, not just personality.</strong> Look for patients who describe specific, lasting improvements.',
+          '<strong>The reviews describe outcomes, not just personality.</strong> Look for patients who describe specific improvements, not just a pleasant visit.',
         ],
       },
       {
@@ -148,7 +148,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong>Tel Aviv</strong> and <strong>Tuval</strong>. He graduated from the Durban University of Technology (DUT) School of Chiropractic in South Africa, has worked at Assaf Harofeh and Sheba Medical Center, Tel Hashomer, and built his practice on the principles described in this article: thorough diagnosis, individualized treatment plans, careful integration with rehabilitation, and a commitment to refer out whenever a case is outside the scope of chiropractic care.',
+        text: 'Dr. Victor Duani is a rehabilitative chiropractor with over 20 years of clinical experience and clinics in <strong><a href="/en/clinics/ramat-aviv/">Ramat Aviv (Tel Aviv)</a></strong> and <strong><a href="/en/clinics/tuval/">Tuval, near Karmiel</a></strong>. He graduated from the Durban University of Technology (DUT) School of Chiropractic in South Africa, has worked at Assaf Harofeh and Sheba Medical Center, Tel Hashomer, and built his practice on the principles described in this article: thorough diagnosis, individualized treatment plans, careful integration with rehabilitation, and a commitment to refer out whenever a case is outside the scope of chiropractic care.',
       },
       {
         type: 'heading',
@@ -156,7 +156,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If the questions in this guide describe the kind of clinician you want to work with, we would be glad to meet you. Schedule a consultation at the Tel Aviv or Tuval clinic, or call first if you would like to discuss your case before booking. Either way, choosing the right chiropractor is the single biggest decision in whether your treatment actually works.',
+        text: 'If the questions in this guide describe the kind of clinician you want to work with, we would be glad to meet you. Schedule a consultation at the Ramat Aviv clinic or at Tuval, near Karmiel, or call first if you would like to discuss your case before booking. Either way, choosing the right chiropractor can make a real difference to how well your treatment goes.',
       },
     ],
   },
@@ -169,7 +169,7 @@ export default {
     content: [
       {
         type: 'paragraph',
-        text: 'בחירת כירופרקטור לא שונה במהותה מבחירת כל ספק שירותי בריאות אחר, אבל תחום הכירופרקטיקה משתנה יותר בסגנון, פילוסופיה וקפדנות ממה שאנשים חושבים. שתי מרפאות במרחק חצי קילומטר זו מזו יכולות להציע חוויות שונות מאוד: אחת מנהלת תהליך אבחוני זהיר ובונה תוכנית שיקום מותאמת, השנייה מעמידה את כל המטופלים בתור לאותה התאמה של 90 שניות בלי קשר למה הבעיה.',
+        text: 'בחירת כירופרקטור לא שונה במהותה מבחירת כל ספק שירותי בריאות אחר (אם אתם חדשים בתחום, כדאי להתחיל ב<a href="/blog/what-is-a-chiropractor/">מה זה כירופרקט ומה כוללת ההכשרה שלו</a>), אבל תחום הכירופרקטיקה משתנה יותר בסגנון, פילוסופיה וקפדנות ממה שאנשים חושבים. שתי מרפאות במרחק חצי קילומטר זו מזו יכולות להציע חוויות שונות מאוד: אחת מנהלת תהליך אבחוני זהיר ובונה תוכנית שיקום מותאמת, השנייה מעמידה את כל המטופלים בתור לאותה התאמה של 90 שניות בלי קשר למה הבעיה.',
       },
       {
         type: 'paragraph',
@@ -197,7 +197,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'היזהרו ממרפאות שמבטיחות טיפול בלי בדיקה, או שמתאימות לכל מטופל באותה צורה בלי קשר לתסמינים.',
+        text: 'היזהרו ממרפאות שמבטיחות טיפול בלי בדיקה, או שמתאימות לכל מטופל באותה צורה בלי קשר לתסמינים. כדאי גם להבין <a href="/blog/chiropractor-vs-osteopath-vs-physiotherapist/">מה ההבדל בין כירופרקטור, אוסטאופת ופיזיותרפיסט</a>, כדי לשפוט איזה סוג מטפל מתאים לבעיה שלכם.',
       },
       {
         type: 'heading',
@@ -221,7 +221,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'היזהרו מחבילות מכורות מראש של 30, 50 או 100 מפגשים שמשולמות מראש בלי הצדקה קלינית למספר הזה. טיפול כירופרקטי אמיתי נבנה סביב התגובה שלכם לטיפול, לא סביב יעד מכירות.',
+        text: 'היזהרו מחבילות מכורות מראש של 30, 50 או 100 מפגשים שמשולמות מראש בלי הצדקה קלינית למספר הזה. טיפול כירופרקטי טוב נבנה סביב התגובה שלכם לטיפול, לא סביב יעד מכירות.',
       },
       {
         type: 'heading',
@@ -250,7 +250,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מרפאות שמציגות את הכירופרקטיקה כתחליף עצמאי לכל הטיפול הרפואי צריכות להעלות דגל. הכירופרקטיקה מצוינת בתוך הטווח שלה, ולא פחות חשוב לדעת מתי משהו מחוץ לטווח הזה.',
+        text: 'מרפאות שמציגות את הכירופרקטיקה כתחליף עצמאי לכל הטיפול הרפואי צריכות להעלות דגל. לכירופרקטיקה יש מקום בתוך הטווח שלה, ולא פחות חשוב לדעת מתי משהו מחוץ לטווח הזה. מטפל אחראי ידבר בפתיחות גם על <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי וסיכונים אפשריים</a> ועל מי צריך להיבדק אצל רופא קודם.',
       },
       {
         type: 'heading',
@@ -271,7 +271,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם הדבר היחיד שהכירופרקטור שלכם מצפה ממכם הוא להופיע ולהשתכב, סביר שאתם מקבלים הקלה בסימפטומים אבל לא תיקון אמיתי.',
+        text: 'אם הדבר היחיד שהכירופרקטור שלכם מצפה ממכם הוא להופיע ולהשתכב, סביר שאתם מקבלים הקלה בסימפטומים אבל בלי תוכנית לטווח הארוך.',
       },
       {
         type: 'heading',
@@ -296,7 +296,7 @@ export default {
           '<strong>תוכנית הטיפול ספציפית לכם.</strong> תוכניות גנריות מעידות על חשיבה גנרית.',
           '<strong>הכירופרקטור מסביר בשפה פשוטה.</strong> ז\'רגון לעיתים קרובות מסתיר חוסר ודאות.',
           '<strong>תמחור ומדיניות שקופים.</strong> בלי "עסקאות חבילה" עמומות שמוצגות כאופציה היחידה.',
-          '<strong>הביקורות מתארות תוצאות, לא רק אישיות.</strong> חפשו מטופלים שמתארים שיפורים ספציפיים ומתמשכים.',
+          '<strong>הביקורות מתארות תוצאות, לא רק אישיות.</strong> חפשו מטופלים שמתארים שיפורים ספציפיים, ולא רק ביקור נעים.',
         ],
       },
       {
@@ -305,7 +305,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong>תל אביב</strong> וב<strong>תובל</strong>. הוא בוגר בית הספר לכירופרקטיקה של Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ובנה את הפרקטיקה שלו על הקווים המתוארים במאמר זה: אבחון יסודי, תוכניות טיפול אישיות, שילוב זהיר של שיקום ומחויבות להפנות כל מקרה שהוא מחוץ לטווח הטיפול הכירופרקטי.',
+        text: 'ד"ר ויקטור דואני הוא כירופרקטור שיקומי עם מעל 20 שנות ניסיון קליני ומרפאות ב<strong><a href="/clinics/ramat-aviv/">רמת אביב (תל אביב)</a></strong> וב<strong><a href="/clinics/tuval/">תובל, ליד כרמיאל</a></strong>. הוא בוגר בית הספר לכירופרקטיקה של Durban University of Technology (DUT) בדרום אפריקה, עבד בבית החולים אסף הרופא ובמרכז הרפואי שיבא תל השומר, ובנה את הפרקטיקה שלו על הקווים המתוארים במאמר זה: אבחון יסודי, תוכניות טיפול אישיות, שילוב זהיר של שיקום ומחויבות להפנות כל מקרה שהוא מחוץ לטווח הטיפול הכירופרקטי.',
       },
       {
         type: 'heading',
@@ -313,7 +313,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם השאלות במדריך הזה מתארות את סוג הקלינאי שאתם רוצים לעבוד איתו, נשמח להכיר. קבעו התייעצות במרפאה בתל אביב או בתובל, או התקשרו תחילה אם תרצו לדבר על המקרה שלכם לפני שמתאמים תור. כך או כך, בחירת הכירופרקטור הנכון היא ההחלטה הגדולה ביותר בקביעה האם הטיפול שלכם באמת יעבוד.',
+        text: 'אם השאלות במדריך הזה מתארות את סוג הקלינאי שאתם רוצים לעבוד איתו, נשמח להכיר. קבעו התייעצות במרפאה ברמת אביב או בתובל, ליד כרמיאל, או התקשרו תחילה אם תרצו לדבר על המקרה שלכם לפני שמתאמים תור. כך או כך, בחירת הכירופרקטור הנכון יכולה לעשות הבדל משמעותי באיך שהטיפול שלכם מתקדם.',
       },
     ],
   },
