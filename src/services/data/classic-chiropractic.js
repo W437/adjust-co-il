@@ -9,7 +9,7 @@ export default {
   en: {
     title: 'Classic Chiropractic',
     metaDescription:
-      'Classic chiropractic care with Dr. Victor Duani: precise spinal adjustments that aim to improve joint movement and ease back and neck pain. Clinics in Tel Aviv and Karmiel.',
+      'Classic chiropractic care with Dr. Victor Duani: precise spinal adjustments that aim to improve joint movement and ease back and neck pain. Clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
     intro:
       'Precise, hands-on spinal adjustments that aim to free restricted joints and ease pain, the foundation of every treatment plan at adjust.',
     content: [
@@ -83,7 +83,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Victor Duani is a chiropractor with over 20 years of clinical experience. His rehabilitative approach treats the cause of your pain, not only the symptom, and every plan is built around getting you back to the activities that matter to you, with clinics in both Tel Aviv and Tuval (Karmiel).',
+        text: 'Dr. Victor Duani is a chiropractor with over 20 years of clinical experience. His rehabilitative approach treats the cause of your pain, not only the symptom, and every plan is built around getting you back to the activities that matter to you, with clinics in both Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
       },
     ],
     faq: [
@@ -108,7 +108,7 @@ export default {
   he: {
     title: 'כירופרקטיקה קלאסית',
     metaDescription:
-      'טיפול כירופרקטי קלאסי עם ד״ר ויקטור דואני: התאמות מדויקות של עמוד השדרה, שמטרתן לשפר את תנועת המפרקים ולהקל על כאבי גב וצוואר. קליניקות בתל אביב וכרמיאל.',
+      'טיפול כירופרקטי קלאסי עם ד״ר ויקטור דואני: התאמות מדויקות של עמוד השדרה, שמטרתן לשפר את תנועת המפרקים ולהקל על כאבי גב וצוואר. קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
     intro:
       'התאמות ידניות מדויקות של עמוד השדרה, שמטרתן לשחרר מפרקים תפוסים ולהקל על הכאב, הבסיס לכל תוכנית טיפול ב‑adjust.',
     content: [
@@ -182,7 +182,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד״ר ויקטור דואני הוא כירופרקט עם למעלה מ‑20 שנות ניסיון קליני. הגישה השיקומית שלו מטפלת בשורש הכאב, ולא רק בסימפטום, וכל תוכנית נבנית סביב החזרה שלכם לפעילויות החשובות לכם, עם קליניקות בתל אביב ובתובל (כרמיאל).',
+        text: 'ד״ר ויקטור דואני הוא כירופרקט עם למעלה מ‑20 שנות ניסיון קליני. הגישה השיקומית שלו מטפלת בשורש הכאב, ולא רק בסימפטום, וכל תוכנית נבנית סביב החזרה שלכם לפעילויות החשובות לכם, עם קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
       },
     ],
     faq: [

@@ -9,7 +9,7 @@ export default {
   en: {
     title: 'Kinesio & Neurodynamic Taping',
     metaDescription:
-      'Kinesio and neurodynamic taping with Dr. Victor Duani: strategic taping that supports muscles, improves circulation, and extends your treatment between visits. Clinics in Tel Aviv and Karmiel.',
+      'Kinesio and neurodynamic taping with Dr. Victor Duani: strategic taping that supports muscles, improves circulation, and extends your treatment between visits. Clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
     intro:
       'Strategic, flexible taping that keeps working long after you leave the clinic, supporting muscles and joints, easing swelling, and reinforcing healthy movement throughout your day.',
     content: [
@@ -74,7 +74,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'For Dr. Duani, taping is never used in isolation. It extends the results of hands-on treatment so your recovery keeps progressing between visits. With over 20 years of clinical experience and clinics in Tel Aviv and Tuval (Karmiel), the right pattern is chosen for your body and your goals.',
+        text: 'For Dr. Duani, taping is never used in isolation. It extends the results of hands-on treatment so your recovery keeps progressing between visits. With over 20 years of clinical experience and clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel, the right pattern is chosen for your body and your goals.',
       },
     ],
     faq: [
@@ -99,7 +99,7 @@ export default {
   he: {
     title: 'טייפינג קינזיו ונוירודינמי',
     metaDescription:
-      'טייפינג קינזיו ונוירודינמי עם ד״ר ויקטור דואני: הדבקה אסטרטגית שתומכת בשרירים, משפרת זרימת דם וממשיכה את הטיפול בין הביקורים. קליניקות בתל אביב וכרמיאל.',
+      'טייפינג קינזיו ונוירודינמי עם ד״ר ויקטור דואני: הדבקה אסטרטגית שתומכת בשרירים, משפרת זרימת דם וממשיכה את הטיפול בין הביקורים. קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
     intro:
       'הדבקה אסטרטגית וגמישה שממשיכה לעבוד הרבה אחרי שאתם עוזבים את הקליניקה, תומכת בשרירים ובמפרקים, מפחיתה נפיחות ומחזקת תנועה בריאה לאורך כל היום.',
     content: [
@@ -164,7 +164,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'עבור ד״ר דואני, טייפינג אינו ניתן לעולם בנפרד. הוא מאריך את תוצאות הטיפול הידני כך שההחלמה שלכם ממשיכה להתקדם בין הביקורים. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות בתל אביב ובתובל (כרמיאל), נבחר הדפוס הנכון לגוף ולמטרות שלכם.',
+        text: 'עבור ד״ר דואני, טייפינג אינו ניתן לעולם בנפרד. הוא מאריך את תוצאות הטיפול הידני כך שההחלמה שלכם ממשיכה להתקדם בין הביקורים. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות ברמת אביב ובתובל, ליד כרמיאל, נבחר הדפוס הנכון לגוף ולמטרות שלכם.',
       },
     ],
     faq: [

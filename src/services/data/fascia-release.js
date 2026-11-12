@@ -9,7 +9,7 @@ export default {
   en: {
     title: 'Fascia Release',
     metaDescription:
-      'Fascia release therapy with Dr. Victor Duani: manual treatment that breaks down adhesions, restores tissue elasticity, and improves structural balance. Clinics in Tel Aviv and Karmiel.',
+      'Fascia release therapy with Dr. Victor Duani: manual treatment that breaks down adhesions, restores tissue elasticity, and improves structural balance. Clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
     intro:
       'Hands-on fascia release that frees the connective tissue wrapping your muscles, breaking down adhesions, restoring elasticity, and letting the whole body move with less restriction.',
     content: [
@@ -74,7 +74,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Duani treats the body as a connected whole, using fascia release to address restrictions that local treatment alone can miss. With over 20 years of clinical experience and clinics in Tel Aviv and Tuval (Karmiel), it is combined with adjustment, needling, and movement for a result that lasts.',
+        text: 'Dr. Duani treats the body as a connected whole, using fascia release to address restrictions that local treatment alone can miss. With over 20 years of clinical experience and clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel, it is combined with adjustment, needling, and movement for a result that lasts.',
       },
     ],
     faq: [
@@ -99,7 +99,7 @@ export default {
   he: {
     title: 'שחרור פסציה',
     metaDescription:
-      'טיפול בשחרור פסציה עם ד״ר ויקטור דואני: טיפול ידני שמפרק הידבקויות, מחזיר גמישות לרקמה ומשפר את האיזון המבני. קליניקות בתל אביב וכרמיאל.',
+      'טיפול בשחרור פסציה עם ד״ר ויקטור דואני: טיפול ידני שמפרק הידבקויות, מחזיר גמישות לרקמה ומשפר את האיזון המבני. קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
     intro:
       'שחרור פסציה ידני שמשחרר את רקמת החיבור העוטפת את השרירים, מפרק הידבקויות, מחזיר גמישות ומאפשר לכל הגוף לנוע עם פחות הגבלה.',
     content: [
@@ -164,7 +164,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד״ר דואני מתייחס לגוף כמכלול מחובר, ומשתמש בשחרור פסציה כדי לטפל בהגבלות שטיפול מקומי לבדו עלול לפספס. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות בתל אביב ובתובל (כרמיאל), הוא משולב עם כיוון, דיקור ותנועה לתוצאה שנשארת.',
+        text: 'ד״ר דואני מתייחס לגוף כמכלול מחובר, ומשתמש בשחרור פסציה כדי לטפל בהגבלות שטיפול מקומי לבדו עלול לפספס. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות ברמת אביב ובתובל, ליד כרמיאל, הוא משולב עם כיוון, דיקור ותנועה לתוצאה שנשארת.',
       },
     ],
     faq: [

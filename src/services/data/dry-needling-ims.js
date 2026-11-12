@@ -9,7 +9,7 @@ export default {
   en: {
     title: 'Dry Needling & IMS',
     metaDescription:
-      'Dry needling and IMS with Dr. Victor Duani: targeted trigger-point therapy that releases deep muscular tension and chronic pain. Clinics in Tel Aviv and Karmiel.',
+      'Dry needling and IMS with Dr. Victor Duani: targeted trigger-point therapy that releases deep muscular tension and chronic pain. Clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
     intro:
       'Targeted dry needling and Intramuscular Stimulation (IMS) that reach the tight, knotted muscle deep beneath the surface, releasing trigger points that massage and stretching alone cannot.',
     content: [
@@ -79,7 +79,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Duani combines dry needling and IMS with classic chiropractic and rehabilitation, so the muscle is not only released but retrained to stay relaxed. With over 20 years of clinical experience and clinics in Tel Aviv and Tuval (Karmiel), every treatment is precise, safe, and tailored to your pain.',
+        text: 'Dr. Duani combines dry needling and IMS with classic chiropractic and rehabilitation, so the muscle is not only released but retrained to stay relaxed. With over 20 years of clinical experience and clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel, every treatment is precise, safe, and tailored to your pain.',
       },
     ],
     faq: [
@@ -104,7 +104,7 @@ export default {
   he: {
     title: 'דיקור יבש ו-IMS',
     metaDescription:
-      'דיקור יבש ו-IMS עם ד״ר ויקטור דואני: טיפול ממוקד בנקודות הדק שמשחרר מתח שרירי עמוק וכאב כרוני. קליניקות בתל אביב וכרמיאל.',
+      'דיקור יבש ו-IMS עם ד״ר ויקטור דואני: טיפול ממוקד בנקודות הדק שמשחרר מתח שרירי עמוק וכאב כרוני. קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
     intro:
       'דיקור יבש וגירוי תוך-שרירי (IMS) שמגיעים אל השריר התפוס והקשור עמוק מתחת לפני השטח, ומשחררים נקודות הדק שעיסוי ומתיחה לבדם אינם מצליחים לשחרר.',
     content: [
@@ -174,7 +174,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד״ר דואני משלב דיקור יבש ו-IMS עם כירופרקטיקה קלאסית ושיקום, כך שהשריר לא רק משתחרר אלא גם לומד מחדש להישאר רגוע. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות בתל אביב ובתובל (כרמיאל), כל טיפול מדויק, בטוח ומותאם לכאב שלכם.',
+        text: 'ד״ר דואני משלב דיקור יבש ו-IMS עם כירופרקטיקה קלאסית ושיקום, כך שהשריר לא רק משתחרר אלא גם לומד מחדש להישאר רגוע. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות ברמת אביב ובתובל, ליד כרמיאל, כל טיפול מדויק, בטוח ומותאם לכאב שלכם.',
       },
     ],
     faq: [

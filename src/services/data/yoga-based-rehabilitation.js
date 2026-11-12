@@ -9,7 +9,7 @@ export default {
   en: {
     title: 'Yoga-Based Rehabilitation',
     metaDescription:
-      'Yoga-based rehabilitation with Dr. Victor Duani: targeted stretches and exercises designed for pain relief, mobility, and lasting spinal recovery. Clinics in Tel Aviv and Karmiel.',
+      'Yoga-based rehabilitation with Dr. Victor Duani: targeted stretches and exercises designed for pain relief, mobility, and lasting spinal recovery. Clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
     intro:
       'Targeted stretches and yoga-informed exercises, prescribed for your specific condition, built to release pain, restore mobility, and keep your spine strong long after treatment ends.',
     content: [
@@ -74,7 +74,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Duani pairs hands-on treatment with movement that you control, so recovery does not depend on the clinic alone. With over 20 years of clinical experience and clinics in Tel Aviv and Tuval (Karmiel), every exercise plan is realistic, specific, and built around your daily life.',
+        text: 'Dr. Duani pairs hands-on treatment with movement that you control, so recovery does not depend on the clinic alone. With over 20 years of clinical experience and clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel, every exercise plan is realistic, specific, and built around your daily life.',
       },
     ],
     faq: [
@@ -99,7 +99,7 @@ export default {
   he: {
     title: 'שיקום מבוסס יוגה',
     metaDescription:
-      'שיקום מבוסס יוגה עם ד״ר ויקטור דואני: מתיחות ותרגילים ממוקדים לשחרור כאב, שיפור ניידות והחלמה מתמשכת של עמוד השדרה. קליניקות בתל אביב וכרמיאל.',
+      'שיקום מבוסס יוגה עם ד״ר ויקטור דואני: מתיחות ותרגילים ממוקדים לשחרור כאב, שיפור ניידות והחלמה מתמשכת של עמוד השדרה. קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
     intro:
       'מתיחות ותרגילים בהשראת יוגה, מותאמים למצב הספציפי שלכם, בנויים לשחרר כאב, להחזיר ניידות ולשמור על עמוד שדרה חזק הרבה אחרי שהטיפול מסתיים.',
     content: [
@@ -164,7 +164,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד״ר דואני משלב טיפול ידני עם תנועה שאתם שולטים בה, כך שההחלמה אינה תלויה בקליניקה בלבד. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות בתל אביב ובתובל (כרמיאל), כל תוכנית תרגול ריאלית, ספציפית ובנויה סביב חיי היום-יום שלכם.',
+        text: 'ד״ר דואני משלב טיפול ידני עם תנועה שאתם שולטים בה, כך שההחלמה אינה תלויה בקליניקה בלבד. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות ברמת אביב ובתובל, ליד כרמיאל, כל תוכנית תרגול ריאלית, ספציפית ובנויה סביב חיי היום-יום שלכם.',
       },
     ],
     faq: [

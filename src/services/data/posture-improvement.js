@@ -9,7 +9,7 @@ export default {
   en: {
     title: 'Posture Improvement',
     metaDescription:
-      'Posture improvement with Dr. Victor Duani: full postural assessment and correction therapy for imbalances from desk work, injury, and daily habits. Clinics in Tel Aviv and Karmiel.',
+      'Posture improvement with Dr. Victor Duani: full postural assessment and correction therapy for imbalances from desk work, injury, and daily habits. Clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel.',
     intro:
       'A complete postural assessment and correction plan that addresses the real causes of slouching, neck strain, and back pain, from desk work and screens to old injuries and daily habits.',
     content: [
@@ -74,7 +74,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Dr. Duani treats posture as the foundation of long-term spinal health. Correcting it not only relieves current pain but prevents future problems. With over 20 years of clinical experience and clinics in Tel Aviv and Tuval (Karmiel), every plan is built around your body, your work, and your daily habits.',
+        text: 'Dr. Duani treats posture as the foundation of long-term spinal health. Correcting it not only relieves current pain but prevents future problems. With over 20 years of clinical experience and clinics in Ramat Aviv (Tel Aviv) and Tuval, near Karmiel, every plan is built around your body, your work, and your daily habits.',
       },
     ],
     faq: [
@@ -99,7 +99,7 @@ export default {
   he: {
     title: 'שיפור יציבה',
     metaDescription:
-      'שיפור יציבה עם ד״ר ויקטור דואני: אבחון יציבה מלא וטיפול מתקן לחוסר איזון מעבודה מול מסך, פציעות והרגלי יום-יום. קליניקות בתל אביב וכרמיאל.',
+      'שיפור יציבה עם ד״ר ויקטור דואני: אבחון יציבה מלא וטיפול מתקן לחוסר איזון מעבודה מול מסך, פציעות והרגלי יום-יום. קליניקות ברמת אביב ובתובל, ליד כרמיאל.',
     intro:
       'אבחון יציבה מלא ותוכנית תיקון שמטפלים בשורש הבעיה של כפיפות, מתח בצוואר וכאבי גב, מעבודה מול מסך ועד פציעות ישנות והרגלי יום-יום.',
     content: [
@@ -164,7 +164,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ד״ר דואני מתייחס ליציבה כבסיס לבריאות ארוכת-טווח של עמוד השדרה. תיקון שלה לא רק מקל על הכאב הנוכחי אלא מונע בעיות עתידיות. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות בתל אביב ובתובל (כרמיאל), כל תוכנית נבנית סביב הגוף, העבודה והרגלי היום-יום שלכם.',
+        text: 'ד״ר דואני מתייחס ליציבה כבסיס לבריאות ארוכת-טווח של עמוד השדרה. תיקון שלה לא רק מקל על הכאב הנוכחי אלא מונע בעיות עתידיות. עם למעלה מ‑20 שנות ניסיון קליני וקליניקות ברמת אביב ובתובל, ליד כרמיאל, כל תוכנית נבנית סביב הגוף, העבודה והרגלי היום-יום שלכם.',
       },
     ],
     faq: [

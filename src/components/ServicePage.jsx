@@ -94,25 +94,23 @@ export default function ServicePage() {
   const currentUrl = `${base}/services/${service.slug}`;
   const imageUrl = `https://adjust.co.il${service.image}`;
 
+  // Breadcrumbs come from the prerender step (one trail per page); this node is the service itself.
   const structuredData = [
     {
       '@context': 'https://schema.org',
-      '@type': 'MedicalProcedure',
+      '@type': 'Service',
       name: localized.title,
+      serviceType: localized.title,
       description: localized.metaDescription,
-      url: currentUrl,
+      url: `${currentUrl}/`,
       image: imageUrl,
       inLanguage: lang === 'he' ? 'he-IL' : 'en-US',
-      provider: { '@type': 'Chiropractor', '@id': 'https://adjust.co.il/#clinic-telaviv' },
-    },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: t('servicePage.breadcrumbHome'), item: `${base}/` },
-        { '@type': 'ListItem', position: 2, name: t('servicePage.breadcrumbServices'), item: `${base}/#services` },
-        { '@type': 'ListItem', position: 3, name: localized.title, item: currentUrl },
-      ],
+      provider: {
+        '@type': 'MedicalClinic',
+        '@id': 'https://adjust.co.il/#clinic-telaviv',
+        name: lang === 'he' ? 'adjust · ד״ר ויקטור דואני, כירופרקט' : 'adjust · Dr. Victor Duani, Chiropractor',
+        url: 'https://adjust.co.il/',
+      },
     },
   ];
 

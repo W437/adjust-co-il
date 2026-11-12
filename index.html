@@ -52,21 +52,23 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Chiropractor",
+      "@type": "MedicalClinic",
       "@id": "https://adjust.co.il/#clinic-telaviv",
       "name": "adjust · ד״ר ויקטור דואני, כירופרקט",
-      "alternateName": "adjust · Dr. Victor Duani, Chiropractor",
+      "alternateName": ["adjust · Dr. Victor Duani, Chiropractor", "adjust רמת אביב"],
       "description": "כירופרקט שיקומי המתמחה בכאבי גב, פריצת דיסק, כאבי צוואר, שיקום אורתופדי, דיקור יבש ופציעות ספורט.",
       "url": "https://adjust.co.il/",
       "telephone": "+972-53-276-7776",
-      "email": "adjust.drvictor@gmail.com",
+      "email": "victorduani@gmail.com",
       "image": "https://adjust.co.il/assets/dr-victor-cta.webp",
       "logo": "https://adjust.co.il/assets/adjust-new.webp",
       "priceRange": "$$",
+      "branchOf": { "@id": "https://adjust.co.il/#organization" },
+      "employee": { "@id": "https://adjust.co.il/#person" },
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "ברודצקי 36",
-        "addressLocality": "רמת אביב, תל אביב",
+        "addressLocality": "תל אביב-יפו",
         "addressCountry": "IL"
       },
       "geo": {
@@ -100,12 +102,18 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Chiropractor",
+      "@type": "MedicalClinic",
       "@id": "https://adjust.co.il/#clinic-tuval",
       "name": "adjust · ד״ר ויקטור דואני, כירופרקט (תובל)",
-      "url": "https://adjust.co.il/",
+      "alternateName": "adjust · Dr. Victor Duani, Chiropractor (Tuval)",
+      "description": "קליניקה של כירופרקט שיקומי בתובל, ליד כרמיאל: כאבי גב וצוואר, פריצת דיסק, שיקום אורתופדי, דיקור יבש ופציעות ספורט.",
+      "url": "https://adjust.co.il/clinics/tuval/",
       "telephone": "+972-53-276-7776",
-      "email": "adjust.drvictor@gmail.com",
+      "email": "victorduani@gmail.com",
+      "image": "https://adjust.co.il/assets/clinic/tu-green-wide.webp",
+      "logo": "https://adjust.co.il/assets/adjust-new.webp",
+      "branchOf": { "@id": "https://adjust.co.il/#organization" },
+      "employee": { "@id": "https://adjust.co.il/#person" },
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "תובל",
@@ -116,6 +124,10 @@
         { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Wednesday"], "opens": "08:00", "closes": "14:00" },
         { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Wednesday"], "opens": "16:00", "closes": "20:00" },
         { "@type": "OpeningHoursSpecification", "dayOfWeek": "Friday", "opens": "07:00", "closes": "14:00" }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/adjustdrvictorduanichiropractic/",
+        "https://www.instagram.com/dr_victorduani_chiro_adjust/"
       ]
     }
     </script>
@@ -124,8 +136,10 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "ד״ר ויקטור דואני, כירופרקט",
-      "alternateName": "Dr. Victor Duani, Chiropractor",
+      "@id": "https://adjust.co.il/#person",
+      "name": "ויקטור דואני",
+      "alternateName": "Victor Duani",
+      "honorificPrefix": "ד״ר",
       "jobTitle": "כירופרקט שיקומי",
       "description": "כירופרקט עם למעלה מ-20 שנות ניסיון, חבר האיגוד הישראלי לכירופרקטיקה.",
       "url": "https://adjust.co.il/",
@@ -145,10 +159,10 @@
         "@type": "Organization",
         "name": "האיגוד הישראלי לכירופרקטיקה"
       },
-      "worksFor": {
-        "@type": "Chiropractor",
-        "@id": "https://adjust.co.il/#clinic-telaviv"
-      }
+      "worksFor": [
+        { "@id": "https://adjust.co.il/#clinic-telaviv" },
+        { "@id": "https://adjust.co.il/#clinic-tuval" }
+      ]
     }
     </script>
 
@@ -161,7 +175,7 @@
       "alternateName": "adjust · Dr. Victor Duani, Chiropractor",
       "url": "https://adjust.co.il/",
       "inLanguage": ["he-IL", "en-US"],
-      "publisher": { "@id": "https://adjust.co.il/#clinic-telaviv" }
+      "publisher": { "@id": "https://adjust.co.il/#organization" }
     }
     </script>
 
@@ -174,6 +188,7 @@
       "alternateName": "adjust · Dr. Victor Duani, Chiropractor",
       "url": "https://adjust.co.il/",
       "logo": "https://adjust.co.il/assets/adjust-new.webp",
+      "founder": { "@id": "https://adjust.co.il/#person" },
       "sameAs": [
         "https://www.facebook.com/adjustdrvictorduanichiropractic/",
         "https://www.instagram.com/dr_victorduani_chiro_adjust/"
