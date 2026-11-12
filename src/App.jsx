@@ -1,14 +1,10 @@
 import { Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './i18n/LanguageContext';
-import HomePage from './pages/HomePage';
-import BlogList from './components/BlogList';
-import BlogPost from './components/BlogPost';
-import ServicePage from './components/ServicePage';
-import LegalPage from './pages/LegalPage';
-import BabyPage from './pages/BabyPage';
-import NotFound from './pages/NotFound';
 
-export default function App() {
+// `pages` supplies the route components: eager imports for prerendering
+// (src/pages-eager.js) or lazy chunks for the browser (src/pages-lazy.js).
+export default function App({ pages }) {
+  const { HomePage, BlogList, BlogPost, ServicePage, LegalPage, BabyPage, NotFound } = pages;
   return (
     <LanguageProvider>
       <Routes>
