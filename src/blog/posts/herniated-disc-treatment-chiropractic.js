@@ -66,7 +66,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'A common misconception is that chiropractors will perform aggressive, high-velocity adjustments on disc patients. The opposite is true. Treatment for disc problems is usually <em>gentler, slower, and more carefully directed</em> than routine adjustments.',
+        text: 'A common misconception is that chiropractors will perform aggressive, high-velocity adjustments on disc patients. The opposite is true. Treatment for disc problems is usually <em>lighter, slower, and more carefully directed</em> than routine adjustments.',
       },
       {
         type: 'subheading',
@@ -78,7 +78,7 @@ export default {
       },
       {
         type: 'subheading',
-        text: '2. Decompression and gentle mobilization',
+        text: '2. Decompression and light mobilization',
       },
       {
         type: 'paragraph',
@@ -87,7 +87,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Flexion-distraction</strong>: A specialized table-based technique that gently stretches and decompresses the lumbar spine without forceful manipulation',
+          '<strong>Flexion-distraction</strong>: A specialized table-based technique that carefully stretches and decompresses the lumbar spine without forceful manipulation',
           '<strong>Instrument-assisted adjustments</strong>: Tools that deliver precise, low-force impulses to specific spinal segments',
           '<strong>Mobilization rather than manipulation</strong>: Slow, rhythmic joint movement to restore function without high-velocity force',
           '<strong>Manual traction</strong>: Hands-on lengthening of the spine to reduce disc pressure',
@@ -239,7 +239,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'תפיסה שגויה נפוצה היא שכירופרקטורים יבצעו התאמות אגרסיביות בעוצמה גבוהה על מטופלי דיסק. ההפך הוא הנכון. הטיפול בבעיות דיסק הוא בדרך כלל <em>עדין יותר, איטי יותר ומכוון בקפידה רבה יותר</em> מהתאמות שגרתיות.',
+        text: 'תפיסה שגויה נפוצה היא שכירופרקטורים יבצעו התאמות אגרסיביות בעוצמה גבוהה על מטופלי דיסק. ההפך הוא הנכון. הטיפול בבעיות דיסק הוא בדרך כלל <em>קל יותר, איטי יותר ומכוון בקפידה רבה יותר</em> מהתאמות שגרתיות.',
       },
       {
         type: 'subheading',
@@ -251,7 +251,7 @@ export default {
       },
       {
         type: 'subheading',
-        text: '2. דקומפרסיה ומוביליזציה עדינה',
+        text: '2. דקומפרסיה ומוביליזציה קלה',
       },
       {
         type: 'paragraph',
@@ -260,7 +260,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Flexion-distraction</strong>: טכניקה ייעודית על שולחן שמותחת ומשחררת את עמוד השדרה המותני בעדינות ללא מניפולציה חזקה',
+          '<strong>Flexion-distraction</strong>: טכניקה ייעודית על שולחן שמותחת ומשחררת את עמוד השדרה המותני בזהירות ללא מניפולציה חזקה',
           '<strong>התאמות בעזרת מכשיר</strong>: כלים שמספקים דחפים מדויקים ובעוצמה נמוכה למקטעי עמוד שדרה ספציפיים',
           '<strong>מוביליזציה במקום מניפולציה</strong>: תנועת מפרק איטית וקצבית לשחזור תפקוד ללא כוח בעוצמה גבוהה',
           '<strong>טראקציה ידנית</strong>: הארכה ידנית של עמוד השדרה להפחתת לחץ הדיסק',

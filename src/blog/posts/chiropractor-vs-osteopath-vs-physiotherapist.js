@@ -30,7 +30,7 @@ export default {
         type: 'list',
         items: [
           '<strong>Chiropractors</strong> focus on the spine, the nervous system, and the function of joints, using precise, hands-on spinal adjustments alongside rehabilitation.',
-          '<strong>Osteopaths</strong> take a whole-body, hands-on approach that treats joints, muscles, fascia, and circulation, often with gentle articulation rather than high-velocity adjustments.',
+          '<strong>Osteopaths</strong> take a whole-body, hands-on approach that treats joints, muscles, fascia, and circulation, often with light articulation rather than high-velocity adjustments.',
           '<strong>Physiotherapists</strong> emphasize exercise-based rehabilitation, movement retraining, and manual therapy, and are deeply integrated into the public healthcare system in Israel.',
         ],
       },
@@ -71,7 +71,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Osteopaths use a whole-body, hands-on approach that emphasizes the interconnection between structure and function. Like chiropractors, they go through a multi-year doctoral or master\'s-level program. Their techniques include soft tissue work, joint mobilization, muscle energy techniques, and gentle articulation, generally with less of the high-velocity "click" associated with chiropractic adjustments.',
+        text: 'Osteopaths use a whole-body, hands-on approach that emphasizes the interconnection between structure and function. Like chiropractors, they go through a multi-year doctoral or master\'s-level program. Their techniques include soft tissue work, joint mobilization, muscle energy techniques, and light articulation, generally with less of the high-velocity "click" associated with chiropractic adjustments.',
       },
       {
         type: 'paragraph',
@@ -84,7 +84,7 @@ export default {
       {
         type: 'list',
         items: [
-          'Patients who prefer gentler, less forceful manipulation',
+          'Patients who prefer lighter, less forceful manipulation',
           'Whole-body tension and chronic stress patterns',
           'Digestive or visceral-linked musculoskeletal complaints',
           'Patients who want a longer, slower-paced manual session',
@@ -173,7 +173,7 @@ export default {
       {
         type: 'list',
         items: [
-          'You prefer gentler manipulation and longer sessions',
+          'You prefer lighter manipulation and longer sessions',
           'You have widespread, diffuse tension rather than one focal problem',
           'You have responded well to osteopathy in the past',
           'You want a hands-on, whole-body approach without spinal adjustments',
@@ -244,7 +244,7 @@ export default {
         type: 'list',
         items: [
           '<strong>כירופרקטורים</strong> מתמקדים בעמוד השדרה, במערכת העצבים ובתפקוד המפרקים, עם התאמות מדויקות וידניות לצד שיקום.',
-          '<strong>אוסטיאופתים</strong> נוקטים בגישה הוליסטית של גוף שלם, ידנית, שמטפלת במפרקים, שרירים, פאשיה ומחזור הדם, לרוב באמצעות תנועה עדינה ולא בהתאמות חדות.',
+          '<strong>אוסטיאופתים</strong> נוקטים בגישה הוליסטית של גוף שלם, ידנית, שמטפלת במפרקים, שרירים, פאשיה ומחזור הדם, לרוב באמצעות תנועה קלה ולא בהתאמות חדות.',
           '<strong>פיזיותרפיסטים</strong> מדגישים שיקום מבוסס תרגול, אימון מחדש של תנועה וטיפול ידני, והם משולבים עמוק במערכת הבריאות הציבורית בישראל.',
         ],
       },
@@ -285,7 +285,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אוסטיאופתים נוקטים בגישה הוליסטית של גוף שלם, ידנית, שמדגישה את הקשר בין מבנה לתפקוד. כמו כירופרקטורים, הם עוברים תוכנית לימודים רב-שנתית ברמת תואר שני או דוקטור. הטכניקות שלהם כוללות עבודה על רקמות רכות, מוביליזציה של מפרקים, טכניקות אנרגיה שרירית ותנועה עדינה, בדרך כלל עם פחות "פיצוח" חד מהזה שמזוהה עם התאמות כירופרקטיות.',
+        text: 'אוסטיאופתים נוקטים בגישה הוליסטית של גוף שלם, ידנית, שמדגישה את הקשר בין מבנה לתפקוד. כמו כירופרקטורים, הם עוברים תוכנית לימודים רב-שנתית ברמת תואר שני או דוקטור. הטכניקות שלהם כוללות עבודה על רקמות רכות, מוביליזציה של מפרקים, טכניקות אנרגיה שרירית ותנועה קלה, בדרך כלל עם פחות "פיצוח" חד מהזה שמזוהה עם התאמות כירופרקטיות.',
       },
       {
         type: 'paragraph',
@@ -298,7 +298,7 @@ export default {
       {
         type: 'list',
         items: [
-          'מטופלים שמעדיפים מניפולציה עדינה ופחות חזקה',
+          'מטופלים שמעדיפים מניפולציה קלה ופחות חזקה',
           'מתח מפושט בכל הגוף ודפוסי לחץ כרוניים',
           'תלונות שלד-שרירית בקשר לעיכול או למערכות הפנימיות',
           'מטופלים שרוצים מפגש ידני ארוך ואיטי יותר',
@@ -387,7 +387,7 @@ export default {
       {
         type: 'list',
         items: [
-          'אתם מעדיפים מניפולציה עדינה ומפגשים ארוכים',
+          'אתם מעדיפים מניפולציה קלה ומפגשים ארוכים',
           'יש לכם מתח רחב ומפושט ולא בעיה מוקדית אחת',
           'הגבתם היטב לאוסטיאופתיה בעבר',
           'אתם רוצים גישה ידנית של הגוף כולו ללא התאמות חדות של עמוד השדרה',

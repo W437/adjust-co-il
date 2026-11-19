@@ -68,7 +68,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'What does this mean in practice? Neck manipulation is a choice, not an obligation. You can ask your practitioner what the alternatives are, such as gentler mobilization, soft tissue work, or exercise, and whether high-velocity neck manipulation is really needed for your problem. You can decline it. If you develop a sudden, severe headache or neck pain that feels different from your usual pain, dizziness, double vision, difficulty speaking, or weakness or numbness in the face or limbs, at any time, whether or not you have had treatment, go to emergency care rather than waiting for a scheduled appointment. If you want to know how neck problems are approached at our clinic, see <a href="/en/blog/neck-pain-tension-headaches/">our article on neck pain and tension headaches</a>.',
+        text: 'What does this mean in practice? Neck manipulation is a choice, not an obligation. You can ask your practitioner what the alternatives are, such as lighter mobilization, soft tissue work, or exercise, and whether high-velocity neck manipulation is really needed for your problem. You can decline it. If you develop a sudden, severe headache or neck pain that feels different from your usual pain, dizziness, double vision, difficulty speaking, or weakness or numbness in the face or limbs, at any time, whether or not you have had treatment, go to emergency care rather than waiting for a scheduled appointment. If you want to know how neck problems are approached at our clinic, see <a href="/en/blog/neck-pain-tension-headaches/">our article on neck pain and tension headaches</a>.',
       },
       {
         type: 'heading',
@@ -84,7 +84,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Techniques are adapted to the person. In older adults the approach is modified for bone density and joint condition. During pregnancy, treatment is usually gentler and uses positioning and pillows suited to the stage of pregnancy, and some women should be seen by their obstetric team first; our article on <a href="/en/blog/pregnancy-back-pain/">back pain in pregnancy</a> goes through what to expect. For infants and young children, care should only be provided by practitioners with specific paediatric training, using very gentle methods, after a medical assessment where appropriate.',
+        text: 'Techniques are adapted to the person. In older adults the approach is modified for bone density and joint condition. During pregnancy, treatment is usually lighter and uses positioning and pillows suited to the stage of pregnancy, and some women should be seen by their obstetric team first; our article on <a href="/en/blog/pregnancy-back-pain/">back pain in pregnancy</a> goes through what to expect. For infants and young children, care should only be provided by practitioners with specific paediatric training, using very light methods, after a medical assessment where appropriate.',
       },
       {
         type: 'heading',
@@ -177,7 +177,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מה זה אומר בפועל? מניפולציה בצוואר היא בחירה ולא חובה. אפשר לשאול את המטפל מה החלופות, למשל מוביליזציה עדינה, עבודה על רקמות רכות או תרגילים, והאם מניפולציה מהירה בצוואר באמת נחוצה לבעיה שלכם. אפשר לסרב לה. אם מופיע כאב ראש פתאומי וחמור או כאב צוואר שמרגיש שונה מהכאב הרגיל שלכם, סחרחורת, ראייה כפולה, קושי בדיבור או חולשה או נימול בפנים או בגפיים, בכל עת, גם אם לא עברתם טיפול, פנו לטיפול חירום ואל תחכו לתור מתוכנן. על הגישה לבעיות צוואר אפשר לקרוא ב<a href="/blog/neck-pain-tension-headaches/">מאמר על כאבי צוואר וכאבי ראש מתח</a>.',
+        text: 'מה זה אומר בפועל? מניפולציה בצוואר היא בחירה ולא חובה. אפשר לשאול את המטפל מה החלופות, למשל מוביליזציה קלה, עבודה על רקמות רכות או תרגילים, והאם מניפולציה מהירה בצוואר באמת נחוצה לבעיה שלכם. אפשר לסרב לה. אם מופיע כאב ראש פתאומי וחמור או כאב צוואר שמרגיש שונה מהכאב הרגיל שלכם, סחרחורת, ראייה כפולה, קושי בדיבור או חולשה או נימול בפנים או בגפיים, בכל עת, גם אם לא עברתם טיפול, פנו לטיפול חירום ואל תחכו לתור מתוכנן. על הגישה לבעיות צוואר אפשר לקרוא ב<a href="/blog/neck-pain-tension-headaches/">מאמר על כאבי צוואר וכאבי ראש מתח</a>.',
       },
       {
         type: 'heading',
@@ -193,7 +193,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הטכניקות מותאמות לאדם. אצל קשישים הגישה מותאמת לצפיפות העצם ולמצב המפרקים. בהריון הטיפול עדין בדרך כלל ומשתמש בתנוחות ובכריות המתאימות לשלב ההריון, ויש נשים שכדאי שייבדקו קודם אצל הצוות המיילד; המאמר שלנו על <a href="/blog/pregnancy-back-pain/">כאבי גב בהריון</a> מסביר למה לצפות. אצל תינוקות וילדים צעירים הטיפול צריך להתבצע רק על ידי מטפלים עם הכשרה ייעודית בילדים, בשיטות עדינות מאוד, ובמידת הצורך אחרי הערכה רפואית.',
+        text: 'הטכניקות מותאמות לאדם. אצל קשישים הגישה מותאמת לצפיפות העצם ולמצב המפרקים. בהריון הטיפול קל בדרך כלל ומשתמש בתנוחות ובכריות המתאימות לשלב ההריון, ויש נשים שכדאי שייבדקו קודם אצל הצוות המיילד; המאמר שלנו על <a href="/blog/pregnancy-back-pain/">כאבי גב בהריון</a> מסביר למה לצפות. אצל תינוקות וילדים צעירים הטיפול צריך להתבצע רק על ידי מטפלים עם הכשרה ייעודית בילדים, בשיטות קלות מאוד, ובמידת הצורך אחרי הערכה רפואית.',
       },
       {
         type: 'heading',

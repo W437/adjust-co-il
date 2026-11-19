@@ -106,7 +106,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Age-related changes in the spine (disc degeneration, joint stiffness, reduced mobility) may respond to gentle, age-appropriate chiropractic techniques. The goal is to preserve mobility, reduce pain, and keep people active for as long as possible.',
+        text: 'Age-related changes in the spine (disc degeneration, joint stiffness, reduced mobility) may respond to light, age-appropriate chiropractic techniques. The goal is to preserve mobility, reduce pain, and keep people active for as long as possible.',
       },
       {
         type: 'subheading',
@@ -114,7 +114,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Pregnancy places enormous mechanical stress on the lower back and pelvis. Chiropractors trained in prenatal care use modified, gentle techniques that aim to ease discomfort during pregnancy and postnatal recovery. Check with your doctor or midwife first.',
+        text: 'Pregnancy places enormous mechanical stress on the lower back and pelvis. Chiropractors trained in prenatal care use modified, light techniques that aim to ease discomfort during pregnancy and postnatal recovery. Check with your doctor or midwife first.',
       },
       {
         type: 'heading',
@@ -281,7 +281,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שינויים הקשורים לגיל בעמוד השדרה (ניוון דיסקים, נוקשות מפרקים, ירידה בניידות) עשויים להגיב לטכניקות כירופרקטיות עדינות ומותאמות גיל. המטרה היא לשמר ניידות, להפחית כאב ולשמור על אנשים פעילים זמן רב ככל האפשר.',
+        text: 'שינויים הקשורים לגיל בעמוד השדרה (ניוון דיסקים, נוקשות מפרקים, ירידה בניידות) עשויים להגיב לטכניקות כירופרקטיות קלות ומותאמות גיל. המטרה היא לשמר ניידות, להפחית כאב ולשמור על אנשים פעילים זמן רב ככל האפשר.',
       },
       {
         type: 'subheading',
@@ -289,7 +289,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'הריון מטיל עומס מכני עצום על הגב התחתון ועל האגן. כירופרקטורים שהוכשרו בטיפול טרום-לידתי משתמשים בטכניקות עדינות ומותאמות שמטרתן להקל על אי-הנוחות במהלך ההריון ובהחלמה שלאחר הלידה. כדאי להתייעץ קודם עם הרופא או המיילדת.',
+        text: 'הריון מטיל עומס מכני עצום על הגב התחתון ועל האגן. כירופרקטורים שהוכשרו בטיפול טרום-לידתי משתמשים בטכניקות קלות ומותאמות שמטרתן להקל על אי-הנוחות במהלך ההריון ובהחלמה שלאחר הלידה. כדאי להתייעץ קודם עם הרופא או המיילדת.',
       },
       {
         type: 'heading',

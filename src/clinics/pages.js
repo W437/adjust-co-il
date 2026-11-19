@@ -63,7 +63,7 @@ export const CLINIC_PAGES = {
       hoursH: 'שעות קבלה בתובל',
       hoursNote: 'כל הביקורים בתיאום מראש בלבד. באיזו קליניקה מקבלים בכל יום נתאם איתכם בטלפון.',
       babyH: 'טיפול בתינוקות',
-      babyP: 'ד״ר דואני מטפל גם בתינוקות, בעדינות ועם שיחה פתוחה עם ההורים.',
+      babyP: 'ד״ר דואני מטפל גם בתינוקות, בזהירות ועם שיחה פתוחה עם ההורים.',
       babyLink: 'כירופרקטיקה לתינוקות',
       visitH: 'הביקור הראשון',
       visitP:
@@ -105,7 +105,7 @@ export const CLINIC_PAGES = {
       hoursH: 'Reception hours in Tuval',
       hoursNote: 'All visits are by prior arrangement only. We’ll confirm by phone which clinic you’ll be seen at on each day.',
       babyH: 'Care for babies',
-      babyP: 'Dr. Duani also sees babies, with gentle care and an open conversation with the parents.',
+      babyP: 'Dr. Duani also sees babies, carefully and with an open conversation with the parents.',
       babyLink: 'Chiropractic for babies',
       visitH: 'Your first visit',
       visitP:
@@ -162,7 +162,7 @@ export const CLINIC_PAGES = {
       hoursH: 'שעות קבלה ברמת אביב',
       hoursNote: 'כל הביקורים בתיאום מראש בלבד. באיזו קליניקה מקבלים בכל יום נתאם איתכם בטלפון.',
       babyH: 'טיפול בתינוקות',
-      babyP: 'ד״ר דואני מטפל גם בתינוקות, בעדינות ועם שיחה פתוחה עם ההורים.',
+      babyP: 'ד״ר דואני מטפל גם בתינוקות, בזהירות ועם שיחה פתוחה עם ההורים.',
       babyLink: 'כירופרקטיקה לתינוקות',
       visitH: 'הביקור הראשון',
       visitP:
@@ -207,7 +207,7 @@ export const CLINIC_PAGES = {
       hoursH: 'Reception hours in Ramat Aviv',
       hoursNote: 'All visits are by prior arrangement only. We’ll confirm by phone which clinic you’ll be seen at on each day.',
       babyH: 'Care for babies',
-      babyP: 'Dr. Duani also sees babies, with gentle care and an open conversation with the parents.',
+      babyP: 'Dr. Duani also sees babies, carefully and with an open conversation with the parents.',
       babyLink: 'Chiropractic for babies',
       visitH: 'Your first visit',
       visitP:

@@ -89,7 +89,7 @@ export default {
         items: [
           '<strong>Get a medical evaluation</strong>: Even if you feel fine, see a physician or go to an emergency room after any meaningful accident. Rule out fracture, head injury, and other acute pathology.',
           '<strong>Document the accident</strong>: Photos, insurance information, and any medical records. Whiplash is a real injury with real treatment costs, often covered by insurance.',
-          '<strong>Move gently, do not freeze the neck</strong>: Extended immobilization with hard collars is now considered harmful in most cases. Gentle movement preserves range of motion and reduces stiffness.',
+          '<strong>Move carefully, do not freeze the neck</strong>: Extended immobilization with hard collars is now considered harmful in most cases. Light movement preserves range of motion and reduces stiffness.',
           '<strong>Ice in the first 48 hours, then warm later</strong>: Ice helps reduce initial inflammation; heat is more useful for chronic muscle tension once the acute phase passes.',
           '<strong>Avoid heavy painkillers as a long-term plan</strong>: Short-term use is reasonable; weeks of opioid-based pain management is not.',
         ],
@@ -108,7 +108,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'The priority in the first two weeks is reducing inflammation, preserving gentle movement, and ruling out anything that needs a different approach (fracture, ligament instability, concussion). Treatment is gentle: soft tissue work, mobilization, light targeted movements. Forceful adjustments are typically avoided in the acute phase.',
+        text: 'The priority in the first two weeks is reducing inflammation, preserving light movement, and ruling out anything that needs a different approach (fracture, ligament instability, concussion). Treatment is controlled: soft tissue work, mobilization, light targeted movements. Forceful adjustments are typically avoided in the acute phase.',
       },
       {
         type: 'subheading',
@@ -142,7 +142,7 @@ export default {
         type: 'list',
         items: [
           '<strong>Doing nothing because the pain seems manageable.</strong> Whiplash that is not addressed can become a chronic condition. Early, appropriate treatment may help more than late treatment.',
-          '<strong>Excessive rest and immobilization.</strong> The old advice to "stay in bed and wear a collar" is no longer recommended and may slow recovery. Gentle, progressive movement is the right approach.',
+          '<strong>Excessive rest and immobilization.</strong> The old advice to "stay in bed and wear a collar" is no longer recommended and may slow recovery. Light, progressive movement is the right approach.',
           '<strong>Skipping the rehabilitation phase.</strong> Once the pain is mostly gone, many patients stop treatment, and then the deep stabilizing muscles may not fully recover. Months later, the pain returns, often worse.',
         ],
       },
@@ -261,7 +261,7 @@ export default {
         items: [
           '<strong>קבלו הערכה רפואית</strong>: גם אם אתם מרגישים בסדר, פנו לרופא או למיון לאחר כל תאונה משמעותית. שללו שבר, פגיעת ראש ופתולוגיה חריפה אחרת.',
           '<strong>תעדו את התאונה</strong>: צילומים, פרטי ביטוח וכל מסמך רפואי. "צליפת שוט" היא פציעה אמיתית עם עלויות טיפול אמיתיות, לעיתים קרובות מכוסות בביטוח.',
-          '<strong>זוזו בעדינות, אל תקפיאו את הצוואר</strong>: אימוביליזציה ממושכת עם צווארונים קשים נחשבת כיום למזיקה ברוב המקרים. תנועה עדינה משמרת טווח תנועה ומפחיתה נוקשות.',
+          '<strong>זוזו בזהירות, אל תקפיאו את הצוואר</strong>: אימוביליזציה ממושכת עם צווארונים קשים נחשבת כיום למזיקה ברוב המקרים. תנועה קלה משמרת טווח תנועה ומפחיתה נוקשות.',
           '<strong>קרח ב-48 השעות הראשונות, ואז חום</strong>: קרח עוזר להפחית דלקת ראשונית; חום מועיל יותר למתח שרירי כרוני ברגע שהשלב החריף עובר.',
           '<strong>הימנעו ממשככי כאבים חזקים כתוכנית ארוכת טווח</strong>: שימוש קצר טווח סביר; שבועות של ניהול כאב מבוסס אופיואידים אינו.',
         ],
@@ -280,7 +280,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'העדיפות בשבועיים הראשונים היא הפחתת דלקת, שימור תנועה עדינה ושלילת כל מה שדורש גישה שונה (שבר, חוסר יציבות של רצועה, זעזוע מוח). הטיפול עדין: עבודה על רקמות רכות, מוביליזציה, תנועות ממוקדות קלות. התאמות חזקות נמנעות בדרך כלל בשלב החריף.',
+        text: 'העדיפות בשבועיים הראשונים היא הפחתת דלקת, שימור תנועה קלה ושלילת כל מה שדורש גישה שונה (שבר, חוסר יציבות של רצועה, זעזוע מוח). הטיפול מבוקר: עבודה על רקמות רכות, מוביליזציה, תנועות ממוקדות קלות. התאמות חזקות נמנעות בדרך כלל בשלב החריף.',
       },
       {
         type: 'subheading',
@@ -314,7 +314,7 @@ export default {
         type: 'list',
         items: [
           '<strong>לא לעשות כלום כי הכאב נראה נסבל.</strong> "צליפת שוט" שלא טופלה עלולה להפוך למצב כרוני. טיפול מוקדם ומתאים עשוי לעזור יותר מטיפול מאוחר.',
-          '<strong>מנוחה ואימוביליזציה מוגזמות.</strong> העצה הישנה "להישאר במיטה וללבוש צווארון" אינה מומלצת עוד ועלולה להאט את ההחלמה. תנועה עדינה ומתקדמת היא הגישה הנכונה.',
+          '<strong>מנוחה ואימוביליזציה מוגזמות.</strong> העצה הישנה "להישאר במיטה וללבוש צווארון" אינה מומלצת עוד ועלולה להאט את ההחלמה. תנועה קלה ומתקדמת היא הגישה הנכונה.',
           '<strong>דילוג על שלב השיקום.</strong> ברגע שהכאב כמעט נעלם, מטופלים רבים מפסיקים טיפול, ואז שרירי הייצוב העמוקים אולי לא מחלימים במלואם. חודשים מאוחר יותר, הכאב חוזר, לעיתים גרוע יותר.',
         ],
       },

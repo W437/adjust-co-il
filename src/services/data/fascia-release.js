@@ -23,7 +23,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Fascia release uses sustained, hands-on pressure and movement to gently free these restrictions, restore the tissue’s natural glide, and let muscles return to their full length and function.',
+        text: 'Fascia release uses sustained, hands-on pressure and movement to gradually free these restrictions, restore the tissue’s natural glide, and let muscles return to their full length and function.',
       },
       {
         type: 'heading',
@@ -88,7 +88,7 @@ export default {
       },
       {
         q: 'How will I feel afterward?',
-        a: 'Most people feel looser and lighter, sometimes with mild soreness for a day. Drinking water and gentle movement help.',
+        a: 'Most people feel looser and lighter, sometimes with mild soreness for a day. Drinking water and light movement help.',
       },
       {
         q: 'How many sessions will I need?',
@@ -113,7 +113,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שחרור פסציה משתמש בלחץ ידני מתמשך ובתנועה כדי לשחרר בעדינות את ההגבלות הללו, להחזיר לרקמה את ההחלקה הטבעית שלה, ולאפשר לשרירים לחזור לאורך ולתפקוד המלא שלהם.',
+        text: 'שחרור פסציה משתמש בלחץ ידני מתמשך ובתנועה כדי לשחרר בהדרגה את ההגבלות הללו, להחזיר לרקמה את ההחלקה הטבעית שלה, ולאפשר לשרירים לחזור לאורך ולתפקוד המלא שלהם.',
       },
       {
         type: 'heading',
@@ -178,7 +178,7 @@ export default {
       },
       {
         q: 'איך ארגיש לאחר מכן?',
-        a: 'רוב האנשים מרגישים משוחררים וקלים יותר, לעיתים עם רגישות קלה למשך יום. שתיית מים ותנועה עדינה עוזרות.',
+        a: 'רוב האנשים מרגישים משוחררים וקלים יותר, לעיתים עם רגישות קלה למשך יום. שתיית מים ותנועה קלה עוזרות.',
       },
       {
         q: 'כמה טיפולים אצטרך?',

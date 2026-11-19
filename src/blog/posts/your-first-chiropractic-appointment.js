@@ -142,7 +142,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Soft tissue work</strong>: Gentle work on tense muscles to prepare the area',
+          '<strong>Soft tissue work</strong>: Light work on tense muscles to prepare the area',
           '<strong>The adjustment itself</strong>: Precise, controlled movement of specific spinal segments or joints. Brief, often with a popping sound (a gas-bubble effect in the joint that is not thought to be harmful), and usually not painful',
           '<strong>Mobilization techniques</strong>: Slower, rhythmic movements used either alongside or instead of high-velocity adjustments',
           'A short set of exercises or stretches to do at home',
@@ -171,7 +171,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Drinking water, gentle movement (not bed rest), and following the home exercises may help your recovery. Avoid intense workouts for the first 24 hours.',
+        text: 'Drinking water, light movement (not bed rest), and following the home exercises may help your recovery. Avoid intense workouts for the first 24 hours.',
       },
       {
         type: 'heading',
@@ -338,7 +338,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>עבודה על רקמות רכות</strong>: עבודה עדינה על שרירים תפוסים להכנת האזור',
+          '<strong>עבודה על רקמות רכות</strong>: עבודה קלה על שרירים תפוסים להכנת האזור',
           '<strong>ההתאמה עצמה</strong>: תנועה מדויקת ומבוקרת של מקטעי עמוד שדרה או מפרקים ספציפיים. קצרה, לעיתים עם קול פיצוח (אפקט של בועית גז במפרק שלא מקובל לחשוב שהוא מזיק), ובדרך כלל לא כואבת',
           '<strong>טכניקות מוביליזציה</strong>: תנועות איטיות יותר וקצביות שמשמשות לצד התאמות בעוצמה גבוהה או במקומן',
           'סט קצר של תרגילים או מתיחות לעשות בבית',
@@ -367,7 +367,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שתיית מים, תנועה עדינה (לא מנוחה במיטה) ושמירה על תרגילי הבית עשויים לתמוך בהחלמה. הימנעו מאימונים אינטנסיביים ב-24 השעות הראשונות.',
+        text: 'שתיית מים, תנועה קלה (לא מנוחה במיטה) ושמירה על תרגילי הבית עשויים לתמוך בהחלמה. הימנעו מאימונים אינטנסיביים ב-24 השעות הראשונות.',
       },
       {
         type: 'heading',

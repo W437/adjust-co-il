@@ -109,7 +109,7 @@ export default {
           '<strong>Assessment first</strong>: history, a physical and neurological examination, and a review of imaging if you have it, so that the cause is understood and the red flags are screened for',
           '<strong>Clear activity advice</strong>: staying as active as symptoms allow, short walks, avoiding both prolonged bed rest and movements that clearly provoke leg pain, and practical guidance on sitting, sleeping and lifting',
           '<strong>Rehabilitation</strong>: exercises chosen for your presentation, for example a direction of movement that reduces leg symptoms, followed by gradual strengthening of the trunk and hips',
-          '<strong>Manual care</strong>: gentle mobilization, soft-tissue work or other hands-on techniques that may reduce pain and help you move, alongside the exercises rather than instead of them',
+          '<strong>Manual care</strong>: light mobilization, soft-tissue work or other hands-on techniques that may reduce pain and help you move, alongside the exercises rather than instead of them',
           '<strong>Realistic expectations</strong>: nerve-related pain often improves in steps and not in a straight line, and a flare-up does not by itself mean failure',
           '<strong>A review after a few weeks</strong>: if the trend is not clearly improving, or if neurological findings appear or worsen, the plan changes or you are referred on for a surgical opinion',
         ],
@@ -152,7 +152,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Typically, early rehabilitation focuses on walking, gentle movement and avoiding positions the surgeon has restricted. Later it moves to strengthening the trunk and hips, improving movement patterns for lifting and sitting, and a gradual return to work and sport. Each step should be agreed with your surgical team. Manual or hands-on care, if used, belongs later and only with the surgeon\'s clearance. Recovery varies a lot between people, so a plan built around your own progress is more useful than a generic calendar.',
+        text: 'Typically, early rehabilitation focuses on walking, light movement and avoiding positions the surgeon has restricted. Later it moves to strengthening the trunk and hips, improving movement patterns for lifting and sitting, and a gradual return to work and sport. Each step should be agreed with your surgical team. Manual or hands-on care, if used, belongs later and only with the surgeon\'s clearance. Recovery varies a lot between people, so a plan built around your own progress is more useful than a generic calendar.',
       },
       {
         type: 'heading',
@@ -278,7 +278,7 @@ export default {
           '<strong>הערכה תחילה</strong>: אנמנזה, בדיקה גופנית ונוירולוגית וסקירת הדמיה אם יש, כדי להבין את הסיבה ולסנן סימני אזהרה',
           '<strong>הנחיות פעילות ברורות</strong>: להישאר פעילים ככל שהתסמינים מאפשרים, הליכות קצרות, להימנע גם ממנוחה ממושכת במיטה וגם מתנועות שמעוררות בבירור כאב רגל, והדרכה מעשית לישיבה, שינה והרמה',
           '<strong>שיקום</strong>: תרגילים שנבחרים לפי התמונה שלכם, למשל כיוון תנועה שמפחית תסמינים ברגל, ואחריו חיזוק הדרגתי של הגוף והירכיים',
-          '<strong>טיפול ידני</strong>: מוביליזציה עדינה, עבודה על רקמות רכות או טכניקות ידניות אחרות שעשויות להפחית כאב ולעזור לנוע, לצד התרגילים ולא במקומם',
+          '<strong>טיפול ידני</strong>: מוביליזציה קלה, עבודה על רקמות רכות או טכניקות ידניות אחרות שעשויות להפחית כאב ולעזור לנוע, לצד התרגילים ולא במקומם',
           '<strong>ציפיות מציאותיות</strong>: כאב עצבי משתפר לעיתים בצעדים ולא בקו ישר, והתלקחות אינה כשלעצמה סימן לכישלון',
           '<strong>בדיקת התקדמות אחרי כמה שבועות</strong>: אם המגמה אינה משתפרת בבירור, או אם מופיעים או מחמירים ממצאים נוירולוגיים, התוכנית משתנה או שמופנים לחוות דעת ניתוחית',
         ],
@@ -321,7 +321,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'בדרך כלל השיקום המוקדם מתמקד בהליכה, בתנועה עדינה ובהימנעות מתנוחות שהמנתח הגביל. בהמשך עוברים לחיזוק הגוף והירכיים, לשיפור דפוסי תנועה להרמה ולישיבה, ולחזרה הדרגתית לעבודה ולספורט. כל שלב צריך להיות מתואם עם הצוות המנתח. טיפול ידני, אם משתמשים בו, שייך לשלב מאוחר יותר ורק באישור המנתח. ההתאוששות שונה מאוד בין אנשים, ולכן תוכנית שנבנית סביב ההתקדמות שלכם מועילה יותר מלוח זמנים גנרי.',
+        text: 'בדרך כלל השיקום המוקדם מתמקד בהליכה, בתנועה קלה ובהימנעות מתנוחות שהמנתח הגביל. בהמשך עוברים לחיזוק הגוף והירכיים, לשיפור דפוסי תנועה להרמה ולישיבה, ולחזרה הדרגתית לעבודה ולספורט. כל שלב צריך להיות מתואם עם הצוות המנתח. טיפול ידני, אם משתמשים בו, שייך לשלב מאוחר יותר ורק באישור המנתח. ההתאוששות שונה מאוד בין אנשים, ולכן תוכנית שנבנית סביב ההתקדמות שלכם מועילה יותר מלוח זמנים גנרי.',
       },
       {
         type: 'heading',

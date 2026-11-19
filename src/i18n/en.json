@@ -836,7 +836,7 @@
       },
       {
         "name": "Posture Corrector Brace",
-        "desc": "Lightweight adjustable brace that gently pulls shoulders back to improve posture and reduce upper-back tension.",
+        "desc": "Lightweight adjustable brace that gradually pulls shoulders back to improve posture and reduce upper-back tension.",
         "details": "Breathable mesh fabric with padded shoulder straps for all-day comfort. Adjustable front buckle fits chest sizes 70–120 cm. Wear 30–60 minutes daily and gradually increase. Suitable for desk workers, students, and post-rehab patients working on postural correction.",
         "price": "149"
       },
@@ -988,7 +988,7 @@
         {
           "key": "Neck & headaches",
           "title": "Neck pain & tension headaches",
-          "body": "Stiffness in the upper neck can contribute to headaches and sometimes dizziness, but they have other causes too. The examination checks whether your case suits treatment or needs a referral. When the neck is involved, gentle work on the cervical spine and the soft tissue around it may help.",
+          "body": "Stiffness in the upper neck can contribute to headaches and sometimes dizziness, but they have other causes too. The examination checks whether your case suits treatment or needs a referral. When the neck is involved, tailored work on the cervical spine and the soft tissue around it may help.",
           "tech": [
             "Classic chiropractic",
             "Fascia release",
@@ -1304,8 +1304,8 @@
     },
     "baby": {
       "label": "Babies & parents",
-      "h2": "Gentle touch for babies and parents",
-      "p": "Dr. Victor Duani, chiropractor, also works with babies and parents: a conversation, a gentle exam and a plain-language explanation. Parents stay next to their baby throughout the visit.",
+      "h2": "Chiropractic care for babies and parents",
+      "p": "Dr. Victor Duani, chiropractor, also works with babies and parents: a conversation, a tailored exam and a plain-language explanation. Parents stay next to their baby throughout the visit.",
       "cta": "To the babies page",
       "alt": "A clean, bright treatment room with a white treatment table and a white cabinet"
     }
@@ -1405,7 +1405,7 @@
     "crumb": "Chiropractic for babies",
     "eyebrow": "Chiropractic for babies",
     "h1": "Baby care, and peace of mind for parents",
-    "lede": "Over 15 years of experience treating babies, with a tailored, gentle approach, and usually within a small number of treatments.",
+    "lede": "Over 15 years of experience treating babies, with a tailored, controlled approach, and usually within a small number of treatments.",
     "wa": "Chat on WhatsApp",
     "book": "Arrange an appointment",
     "heroAlt": "A bright treatment room at the Tuval clinic, with large windows, a desk and soft light",
@@ -1425,8 +1425,8 @@
           "p": "We start by talking. I ask, you tell me, and I listen."
         },
         {
-          "h": "A gentle exam",
-          "p": "Then a gentle exam, with you right next to your baby the whole time."
+          "h": "A tailored exam",
+          "p": "Then a tailored exam, with you right next to your baby the whole time."
         },
         {
           "h": "A plain-language explanation",
@@ -1439,7 +1439,7 @@
     "about": {
       "h": "A little about me",
       "name": "Victor Duani, Chiropractor",
-      "p": "I'm Victor, a chiropractor. I work with adults, and with babies and parents too. With babies I work slowly and gently, and I believe parents should understand everything that happens in the room. If you like, come meet me and ask your questions.",
+      "p": "I'm Victor, a chiropractor. I work with adults, and with babies and parents too. With babies I work slowly and carefully, and I believe parents should understand everything that happens in the room. If you like, come meet me and ask your questions.",
       "alt": "Dr. Victor Duani, chiropractor, standing with a slight smile"
     },
     "faq": {
@@ -1448,7 +1448,7 @@
       "items": [
         {
           "q": "Is it safe?",
-          "a": "The exam is gentle, and you are with us the whole time. I first check whether you need to see the pediatrician. If something isn't suitable, I'll tell you."
+          "a": "The exam is light, and you are with us the whole time. I first check whether you need to see the pediatrician. If something isn't suitable, I'll tell you."
         },
         {
           "q": "What does a visit look like, and what should I bring?",

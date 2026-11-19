@@ -6,9 +6,9 @@ export default {
   en: {
     title: 'A Bedtime Routine for Chronic Back Pain',
     excerpt:
-      'Pain disrupts sleep, and poor sleep can make pain feel worse. A calm, repeatable evening routine, with three gentle stretches, may help you wind down and sleep more comfortably.',
+      'Pain disrupts sleep, and poor sleep can make pain feel worse. A calm, repeatable evening routine, with three light stretches, may help you wind down and sleep more comfortably.',
     metaDescription:
-      'A practical bedtime routine for chronic back pain: a 5-step wind-down, 3 gentle stretches, what to do at 3 a.m., and when to see a doctor.',
+      'A practical bedtime routine for chronic back pain: a 5-step wind-down, 3 light stretches, what to do at 3 a.m., and when to see a doctor.',
     content: [
       {
         type: 'paragraph',
@@ -41,16 +41,16 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Step 1: Set a gentle end to the day.</strong> Choose a fixed time to start winding down, about 45 to 60 minutes before bed. A regular schedule helps the body learn when it is time to rest.',
+          '<strong>Step 1: Set a calm end to the day.</strong> Choose a fixed time to start winding down, about 45 to 60 minutes before bed. A regular schedule helps the body learn when it is time to rest.',
           '<strong>Step 2: Move out of the chair.</strong> If you have been sitting for hours, take a slow five-minute walk around the home. Light movement is usually kinder to a stiff back than staying still. If sitting is a big part of your day, our article on <a href="/en/blog/posture-digital-age/">posture in the digital age</a> offers ideas for easing the load.',
           '<strong>Step 3: Add warmth.</strong> A warm shower or a warm (not hot) heat pack on the lower back for 10 to 15 minutes may help tight muscles relax. Place a cloth between the pack and your skin and never fall asleep on a heating pad.',
-          '<strong>Step 4: Do three gentle stretches.</strong> Slow, easy movements, described in the next section, may help release the tension that builds up through the day.',
+          '<strong>Step 4: Do three light stretches.</strong> Slow, easy movements, described in the next section, may help release the tension that builds up through the day.',
           '<strong>Step 5: Quiet the mind and the screen.</strong> Dim the lights, put the phone away, and try slow breathing: in through the nose for about four seconds, out for about six. Longer exhales tend to signal the body that it is safe to slow down.',
         ],
       },
       {
         type: 'heading',
-        text: '3 Gentle Stretches Before Bed',
+        text: '3 Light Stretches Before Bed',
       },
       {
         type: 'paragraph',
@@ -62,7 +62,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Lie on your back with your knees bent. Bring one knee gently toward your chest, hold it with both hands, and breathe slowly for 20 to 30 seconds. Lower it and switch sides. Repeat two or three times per side.',
+        text: 'Lie on your back with your knees bent. Bring one knee carefully toward your chest, hold it with both hands, and breathe slowly for 20 to 30 seconds. Lower it and switch sides. Repeat two or three times per side.',
       },
       {
         type: 'subheading',
@@ -86,7 +86,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'If you enjoy slow, controlled movement and breathing, a guided approach may suit you well. Our <a href="/en/services/yoga-based-rehabilitation/">yoga-based rehabilitation</a> is built around gentle, progressive work tailored to the person, and you can read more about how it fits with spinal care in <a href="/en/blog/yoga-and-chiropractic/">yoga and chiropractic</a>.',
+        text: 'If you enjoy slow, controlled movement and breathing, a guided approach may suit you well. Our <a href="/en/services/yoga-based-rehabilitation/">yoga-based rehabilitation</a> is built around controlled, progressive work tailored to the person, and you can read more about how it fits with spinal care in <a href="/en/blog/yoga-and-chiropractic/">yoga and chiropractic</a>.',
       },
       {
         type: 'heading',
@@ -113,7 +113,7 @@ export default {
         items: [
           'Change position slowly. Roll to your side with a pillow between your knees, or lie on your back with a pillow under your knees.',
           'Try the slow breathing from Step 5 for a few minutes, with a hand on your belly.',
-          'Do one or two of the gentle stretches above if they feel comfortable. Keep the lights low.',
+          'Do one or two of the light stretches above if they feel comfortable. Keep the lights low.',
           'If you are still awake after about 20 minutes, get up, sit somewhere comfortable in dim light, and do something quiet until you feel sleepy. Avoid bright screens.',
           'Keep a small notepad by the bed. Writing down what woke you (a position, a time, a movement) can reveal patterns worth discussing with your practitioner.',
         ],
@@ -145,9 +145,9 @@ export default {
   he: {
     title: 'שגרת שינה לכאבי גב כרוניים',
     excerpt:
-      'כאב מפריע לשינה, ושינה לקויה עלולה להגביר את תחושת הכאב. שגרת ערב רגועה וקבועה, עם שלוש מתיחות עדינות, עשויה לעזור לכם להירגע ולישון בנוחות רבה יותר.',
+      'כאב מפריע לשינה, ושינה לקויה עלולה להגביר את תחושת הכאב. שגרת ערב רגועה וקבועה, עם שלוש מתיחות קלות, עשויה לעזור לכם להירגע ולישון בנוחות רבה יותר.',
     metaDescription:
-      'שגרת שינה לכאבי גב כרוניים: 5 צעדים לפני השינה, 3 מתיחות עדינות, מה עושים בשלוש בלילה, ומתי חשוב לפנות לרופא.',
+      'שגרת שינה לכאבי גב כרוניים: 5 צעדים לפני השינה, 3 מתיחות קלות, מה עושים בשלוש בלילה, ומתי חשוב לפנות לרופא.',
     content: [
       {
         type: 'paragraph',
@@ -184,16 +184,16 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>צעד 1: סמנו סוף עדין ליום.</strong> בחרו שעה קבועה להתחלת ההרפיה, בערך 45 עד 60 דקות לפני השינה. סדר יום קבוע עוזר לגוף ללמוד מתי הגיע הזמן לנוח.',
+          '<strong>צעד 1: סמנו סוף רגוע ליום.</strong> בחרו שעה קבועה להתחלת ההרפיה, בערך 45 עד 60 דקות לפני השינה. סדר יום קבוע עוזר לגוף ללמוד מתי הגיע הזמן לנוח.',
           '<strong>צעד 2: קומו מהכיסא.</strong> אם ישבתם שעות, צאו להליכה איטית של חמש דקות בבית. תנועה קלה בדרך כלל נעימה לגב תפוס יותר מישיבה במקום. אם ישיבה היא חלק גדול מהיום שלכם, המאמר שלנו על <a href="/blog/posture-digital-age/">יציבה בעידן הדיגיטלי</a> מציע רעיונות להפחתת העומס.',
           '<strong>צעד 3: הוסיפו חום.</strong> מקלחת חמימה או שקית חום פושרת (לא לוהטת) על הגב התחתון למשך 10 עד 15 דקות עשויות לעזור לשרירים תפוסים להשתחרר. הניחו בד בין השקית לעור, ולעולם אל תירדמו על כרית חימום.',
-          '<strong>צעד 4: בצעו שלוש מתיחות עדינות.</strong> תנועות איטיות וקלות, המתוארות בפרק הבא, עשויות לעזור לשחרר את המתח שנבנה במהלך היום.',
+          '<strong>צעד 4: בצעו שלוש מתיחות קלות.</strong> תנועות איטיות וקלות, המתוארות בפרק הבא, עשויות לעזור לשחרר את המתח שנבנה במהלך היום.',
           '<strong>צעד 5: השקיטו את הראש ואת המסך.</strong> עמעמו את האורות, הניחו את הטלפון בצד ונסו נשימה איטית: שאיפה דרך האף במשך כארבע שניות ונשיפה במשך כשש שניות. נשיפות ארוכות נוטות לשדר לגוף שבטוח להאט.',
         ],
       },
       {
         type: 'heading',
-        text: '3 מתיחות עדינות לפני השינה',
+        text: '3 מתיחות קלות לפני השינה',
       },
       {
         type: 'paragraph',
@@ -205,7 +205,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שכבו על הגב עם ברכיים כפופות. קרבו ברך אחת בעדינות אל החזה, אחזו בה בשתי הידיים ונשמו לאט במשך 20 עד 30 שניות. הורידו והחליפו צד. חזרו שתיים-שלוש פעמים לכל צד.',
+        text: 'שכבו על הגב עם ברכיים כפופות. קרבו ברך אחת בזהירות אל החזה, אחזו בה בשתי הידיים ונשמו לאט במשך 20 עד 30 שניות. הורידו והחליפו צד. חזרו שתיים-שלוש פעמים לכל צד.',
       },
       {
         type: 'subheading',
@@ -229,7 +229,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אם אתם נהנים מתנועה איטית ומבוקרת ומנשימה, ייתכן שגישה מונחית תתאים לכם. <a href="/services/yoga-based-rehabilitation/">שיקום מבוסס יוגה</a> אצלנו בנוי על עבודה עדינה והדרגתית המותאמת לכל אדם, ותוכלו לקרוא עוד על השילוב עם טיפול בעמוד השדרה במאמר <a href="/blog/yoga-and-chiropractic/">יוגה וכירופרקטיקה</a>.',
+        text: 'אם אתם נהנים מתנועה איטית ומבוקרת ומנשימה, ייתכן שגישה מונחית תתאים לכם. <a href="/services/yoga-based-rehabilitation/">שיקום מבוסס יוגה</a> אצלנו בנוי על עבודה מבוקרת והדרגתית המותאמת לכל אדם, ותוכלו לקרוא עוד על השילוב עם טיפול בעמוד השדרה במאמר <a href="/blog/yoga-and-chiropractic/">יוגה וכירופרקטיקה</a>.',
       },
       {
         type: 'paragraph',
@@ -264,7 +264,7 @@ export default {
         items: [
           'שנו תנוחה לאט. התהפכו על הצד עם כרית בין הברכיים, או שכבו על הגב עם כרית מתחת לברכיים.',
           'נסו את הנשימה האיטית מצעד 5 במשך כמה דקות, כשיד אחת מונחת על הבטן.',
-          'בצעו מתיחה אחת או שתיים מהמתיחות העדינות שלמעלה, אם זה נעים לכם. שמרו על אור עמום.',
+          'בצעו מתיחה אחת או שתיים מהמתיחות הקלות שלמעלה, אם זה נעים לכם. שמרו על אור עמום.',
           'אם אתם עדיין ערים אחרי כ-20 דקות, קומו, שבו במקום נוח באור חלש ועשו משהו שקט עד שתרגישו ישנוניות. הימנעו ממסכים בהירים.',
           'שימו פנקס קטן ליד המיטה. רישום של מה שהעיר אתכם (תנוחה, שעה, תנועה) עשוי לחשוף דפוסים ששווה לדון בהם עם המטפל.',
         ],

@@ -8,7 +8,7 @@ export default {
     excerpt:
       'Pelvic girdle pain, groin pain and SI joint pain are common in pregnancy. Learn what may be behind them, when to call your doctor or midwife, and what you can do at home.',
     metaDescription:
-      'Pelvic pain in pregnancy: symphysis pubis, SI joint and groin pain. Causes, red flags that need a doctor, home tips and gentle manual care options.',
+      'Pelvic pain in pregnancy: symphysis pubis, SI joint and groin pain. Causes, red flags that need a doctor, home tips and tailored manual care options.',
     content: [
       {
         type: 'paragraph',
@@ -101,20 +101,20 @@ export default {
           '<strong>Smaller steps.</strong> Shorter strides tend to load the pubic joint less. Avoid wide steps, long lunges and deep squats if they provoke pain.',
           '<strong>Avoid asymmetric movements.</strong> Sit down to dress rather than standing on one leg, keep your knees together when getting out of the car or bed (rotate as one unit, like a log), avoid crossing your legs and avoid carrying a heavy bag or child on one hip.',
           '<strong>Support belt.</strong> Some women find that a maternity pelvic support belt worn low across the hips gives welcome relief. Ask your physiotherapist or midwife which type and how long to wear it, since it is not meant for all-day use.',
-          '<strong>Gentle movement.</strong> Walking within your comfort zone, swimming, or water exercise may help many women. Stop anything that sharpens the pain and ask for adapted exercises.',
+          '<strong>Light movement.</strong> Walking within your comfort zone, swimming, or water exercise may help many women. Stop anything that sharpens the pain and ask for adapted exercises.',
         ],
       },
       {
         type: 'paragraph',
-        text: 'Gentle, supervised movement can also help. Our <a href="/en/services/yoga-based-rehabilitation/">yoga-based rehabilitation</a> approach uses slow, controlled exercises that aim to build pelvic and core stability, and it is adapted to each person and stage of pregnancy.',
+        text: 'Light, supervised movement can also help. Our <a href="/en/services/yoga-based-rehabilitation/">yoga-based rehabilitation</a> approach uses slow, controlled exercises that aim to build pelvic and core stability, and it is adapted to each person and stage of pregnancy.',
       },
       {
         type: 'heading',
-        text: 'Gentle Manual Therapy in Pregnancy: What It Involves and What Is Known',
+        text: 'Tailored Manual Therapy in Pregnancy: What It Involves and What Is Known',
       },
       {
         type: 'paragraph',
-        text: 'Many women ask whether a chiropractor can help with pelvic pain during pregnancy. The honest answer is that it may help some women, and that the research is limited. Studies of manual therapy, exercise and support belts for pregnancy-related pelvic and back pain are generally small and vary in quality, so no one can promise a particular result. What can be said is that gentle, adapted care is commonly used alongside other approaches, and that many women report feeling better after it.',
+        text: 'Many women ask whether a chiropractor can help with pelvic pain during pregnancy. The honest answer is that it may help some women, and that the research is limited. Studies of manual therapy, exercise and support belts for pregnancy-related pelvic and back pain are generally small and vary in quality, so no one can promise a particular result. What can be said is that light, adapted care is commonly used alongside other approaches, and that many women report feeling better after it.',
       },
       {
         type: 'paragraph',
@@ -122,7 +122,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'When treatment is appropriate, it is adapted to the stage of pregnancy and to your comfort. It may include gentle, low-force mobilization of the lower back, hip and SI joint, soft tissue work for tight muscles around the pelvis, positioning with pillows or an adapted table, and simple exercises to do at home. Techniques involving strong twisting or pressure on the abdomen are avoided. For some patients, <a href="/en/services/kinesio-neurodynamic-taping/">kinesio taping</a> is used as an additional support for the lower back and pelvic area, aiming to ease strain during daily activity.',
+        text: 'When treatment is appropriate, it is adapted to the stage of pregnancy and to your comfort. It may include controlled, low-force mobilization of the lower back, hip and SI joint, soft tissue work for tight muscles around the pelvis, positioning with pillows or an adapted table, and simple exercises to do at home. Techniques involving strong twisting or pressure on the abdomen are avoided. For some patients, <a href="/en/services/kinesio-neurodynamic-taping/">kinesio taping</a> is used as an additional support for the lower back and pelvic area, aiming to ease strain during daily activity.',
       },
       {
         type: 'paragraph',
@@ -138,7 +138,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Postpartum care often focuses on restoring pelvic stability gradually, correcting feeding and carrying positions, and rebuilding core and pelvic floor strength at a pace your body can handle. If you are also thinking about your baby\'s comfort and development, you can read about our gentle approach for <a href="/en/baby/">babies and infants</a>.',
+        text: 'Postpartum care often focuses on restoring pelvic stability gradually, correcting feeding and carrying positions, and rebuilding core and pelvic floor strength at a pace your body can handle. If you are also thinking about your baby\'s comfort and development, you can read about our tailored approach for <a href="/en/baby/">babies and infants</a>.',
       },
       {
         type: 'heading',
@@ -171,7 +171,7 @@ export default {
     excerpt:
       'כאבי אגן, כאבי מפשעה וכאב במפרק SI שכיחים בהריון. מה עשוי לעמוד מאחוריהם, מתי חייבים לפנות לרופא או למיילדת, ומה אפשר לעשות כבר היום.',
     metaDescription:
-      'כאבי אגן בהריון: סימפיזיוליזיס, מפרק SI וכאבי מפשעה. הסיבות, מתי לפנות מיד לרופא, טיפים לבית ומה כולל טיפול ידני עדין.',
+      'כאבי אגן בהריון: סימפיזיוליזיס, מפרק SI וכאבי מפשעה. הסיבות, מתי לפנות מיד לרופא, טיפים לבית ומה כולל טיפול ידני מותאם.',
     content: [
       {
         type: 'paragraph',
@@ -273,23 +273,23 @@ export default {
           '<strong>כרית בין הברכיים.</strong> שכבי על הצד עם כרית יציבה בין הברכיים והקרסוליים כדי לשמור על האגן ישר. כרית נוספת מתחת לבטן עשויה לעזור גם כן. עוד רעיונות תמצאי במדריך על <a href="/blog/sleeping-positions-back-pain/">תנוחות שינה לכאבי גב</a>.',
           '<strong>צעדים קטנים.</strong> צעדים קצרים נוטים להעמיס פחות על מפרק החיק. הימנעי מצעדים רחבים, מפסיעות ארוכות ומסקוואטים עמוקים אם הם מעוררים כאב.',
           '<strong>הימנעי מתנועות א-סימטריות.</strong> שבי כשאת מתלבשת במקום לעמוד על רגל אחת, שמרי את הברכיים צמודות בקימה מהרכב או מהמיטה (סיבוב כיחידה אחת, כמו גזע), אל תשבי ברגליים משוכלות, ואל תישאי תיק כבד או ילד על ירך אחת.',
-          '<strong>מדרגות בעדינות.</strong> עלי צעד אחרי צעד, ואם צד אחד כואב יותר, עלי קודם עם הרגל החזקה ורדי קודם עם החלשה, או היעזרי במעקה.',
+          '<strong>מדרגות בזהירות.</strong> עלי צעד אחרי צעד, ואם צד אחד כואב יותר, עלי קודם עם הרגל החזקה ורדי קודם עם החלשה, או היעזרי במעקה.',
           '<strong>חגורת תמיכה.</strong> יש נשים שמוצאות הקלה בחגורת תמיכה לאגן המיועדת להריון, הנענדת נמוך סביב הירכיים. כדאי לשאול פיזיותרפיסטית או מיילדת איזה סוג מתאים וכמה זמן ללבוש, כי היא לא נועדה לשימוש כל היום.',
           '<strong>חלקי את היום.</strong> החליפי בין ישיבה, עמידה והליכה, קחי הפסקות לפני שהכאב מגיע לשיאו, והאצילי משימות בית כבדות.',
-          '<strong>תנועה עדינה.</strong> הליכה בגבולות הנוחות, שחייה או תרגול במים עשויים לעזור לנשים רבות. הפסיקי כל פעילות שמחדדת את הכאב ובקשי תרגילים מותאמים.',
+          '<strong>תנועה קלה.</strong> הליכה בגבולות הנוחות, שחייה או תרגול במים עשויים לעזור לנשים רבות. הפסיקי כל פעילות שמחדדת את הכאב ובקשי תרגילים מותאמים.',
         ],
       },
       {
         type: 'paragraph',
-        text: 'גם תנועה עדינה ומודרכת יכולה לעזור. גישת <a href="/services/yoga-based-rehabilitation/">שיקום מבוסס יוגה</a> שלנו משתמשת בתרגילים איטיים ומבוקרים שנועדו לבנות יציבות באגן ובליבה, והיא מותאמת לכל מטופלת ולשלב ההריון שלה.',
+        text: 'גם תנועה קלה ומודרכת יכולה לעזור. גישת <a href="/services/yoga-based-rehabilitation/">שיקום מבוסס יוגה</a> שלנו משתמשת בתרגילים איטיים ומבוקרים שנועדו לבנות יציבות באגן ובליבה, והיא מותאמת לכל מטופלת ולשלב ההריון שלה.',
       },
       {
         type: 'heading',
-        text: 'טיפול ידני עדין בהריון: מה הוא כולל ומה ידוע עליו',
+        text: 'טיפול ידני מותאם בהריון: מה הוא כולל ומה ידוע עליו',
       },
       {
         type: 'paragraph',
-        text: 'נשים רבות שואלות אם כירופרקט יכול לעזור בכאבי אגן בהריון. התשובה הישרה היא שזה עשוי לעזור לחלק מהנשים, ושהמחקר בנושא מוגבל. מחקרים על טיפול ידני, תרגילים וחגורות תמיכה לכאבי אגן וגב הקשורים להריון הם בדרך כלל קטנים ובאיכות משתנה, ולכן אי אפשר להבטיח תוצאה מסוימת. מה שכן אפשר לומר הוא שטיפול עדין ומותאם משמש לעיתים קרובות לצד גישות אחרות, ושנשים רבות מדווחות על שיפור בהרגשה אחריו.',
+        text: 'נשים רבות שואלות אם כירופרקט יכול לעזור בכאבי אגן בהריון. התשובה הישרה היא שזה עשוי לעזור לחלק מהנשים, ושהמחקר בנושא מוגבל. מחקרים על טיפול ידני, תרגילים וחגורות תמיכה לכאבי אגן וגב הקשורים להריון הם בדרך כלל קטנים ובאיכות משתנה, ולכן אי אפשר להבטיח תוצאה מסוימת. מה שכן אפשר לומר הוא שטיפול קל ומותאם משמש לעיתים קרובות לצד גישות אחרות, ושנשים רבות מדווחות על שיפור בהרגשה אחריו.',
       },
       {
         type: 'paragraph',
@@ -297,7 +297,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כשהטיפול מתאים, הוא מותאם לשלב ההריון ולנוחות שלך. הוא עשוי לכלול גיוס עדין ובכוח נמוך של הגב התחתון, הירך ומפרק ה-SI, עבודה על רקמות רכות בשרירים מתוחים סביב האגן, מיקום עם כריות או מיטה מותאמת, ותרגילים פשוטים לביצוע בבית. נמנעים מטכניקות שכוללות פיתול חזק או לחץ על הבטן. אצל חלק מהמטופלות משתמשים ב<a href="/services/kinesio-neurodynamic-taping/">טייפינג קינזיולוגי</a> כתמיכה נוספת לגב התחתון ולאזור האגן, במטרה להפחית עומס בפעילות היומיומית.',
+        text: 'כשהטיפול מתאים, הוא מותאם לשלב ההריון ולנוחות שלך. הוא עשוי לכלול גיוס מבוקר ובכוח נמוך של הגב התחתון, הירך ומפרק ה-SI, עבודה על רקמות רכות בשרירים מתוחים סביב האגן, מיקום עם כריות או מיטה מותאמת, ותרגילים פשוטים לביצוע בבית. נמנעים מטכניקות שכוללות פיתול חזק או לחץ על הבטן. אצל חלק מהמטופלות משתמשים ב<a href="/services/kinesio-neurodynamic-taping/">טייפינג קינזיולוגי</a> כתמיכה נוספת לגב התחתון ולאזור האגן, במטרה להפחית עומס בפעילות היומיומית.',
       },
       {
         type: 'paragraph',
@@ -313,7 +313,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טיפול אחרי לידה מתמקד לרוב בשיקום הדרגתי של יציבות האגן, בתיקון תנוחות הנקה ונשיאה ובבניית כוח בליבה וברצפת האגן בקצב שהגוף שלך יכול לעמוד בו. אם את חושבת גם על הנוחות וההתפתחות של התינוק, אפשר לקרוא על הגישה העדינה שלנו ל<a href="/baby/">טיפול בתינוקות</a>. כאב חזק, כאב שמחמיר או כאב שמלווה בחום, בדימום כבד או בחולשה ברגל דורש קודם כול טיפול רפואי.',
+        text: 'טיפול אחרי לידה מתמקד לרוב בשיקום הדרגתי של יציבות האגן, בתיקון תנוחות הנקה ונשיאה ובבניית כוח בליבה וברצפת האגן בקצב שהגוף שלך יכול לעמוד בו. אם את חושבת גם על הנוחות וההתפתחות של התינוק, אפשר לקרוא על הגישה המותאמת שלנו ל<a href="/baby/">טיפול בתינוקות</a>. כאב חזק, כאב שמחמיר או כאב שמלווה בחום, בדימום כבד או בחולשה ברגל דורש קודם כול טיפול רפואי.',
       },
       {
         type: 'heading',
@@ -341,7 +341,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ברוב ההריונות התקינים פעילות עדינה מומלצת, אך יש להתאים אותה לכאב. הליכה על משטח ישר, שחייה ותרגילי יציבות מודרכים נסבלים בדרך כלל טוב יותר מתנועות ברגליים פשוקות או על רגל אחת. אם יש סיבוך כלשהו, התייעצי עם רופא הנשים.',
+        text: 'ברוב ההריונות התקינים פעילות קלה מומלצת, אך יש להתאים אותה לכאב. הליכה על משטח ישר, שחייה ותרגילי יציבות מודרכים נסבלים בדרך כלל טוב יותר מתנועות ברגליים פשוקות או על רגל אחת. אם יש סיבוך כלשהו, התייעצי עם רופא הנשים.',
       },
       {
         type: 'subheading',
@@ -349,7 +349,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'אפשר להתאים טיפול ידני עדין לכל שלב, אך ההחלטה תלויה בהריון הספציפי שלך ובדעת רופא הנשים. אנחנו ממליצים ליידע את הרופא או המיילדת שאת שוקלת טיפול, ולספר למטפל על ההיסטוריה ההריונית שלך לפני הפגישה הראשונה.',
+        text: 'אפשר להתאים טיפול ידני מותאם לכל שלב, אך ההחלטה תלויה בהריון הספציפי שלך ובדעת רופא הנשים. אנחנו ממליצים ליידע את הרופא או המיילדת שאת שוקלת טיפול, ולספר למטפל על ההיסטוריה ההריונית שלך לפני הפגישה הראשונה.',
       },
       {
         type: 'subheading',

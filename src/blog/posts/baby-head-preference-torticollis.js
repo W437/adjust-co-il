@@ -96,7 +96,7 @@ export default {
         items: [
           '<strong>Tummy time, only while awake and supervised</strong>: a few short sessions a day, starting from the first weeks, on a firm surface with you next to the baby. It reduces pressure on the back of the head and strengthens the neck and shoulders. Pediatric guidance, such as the <a href="https://www.rch.org.au/clinicalguide/guideline_index/Positional_plagiocephaly" target="_blank" rel="noopener">Royal Children\'s Hospital Melbourne guideline on positional plagiocephaly</a>, notes that regular tummy time helps develop head control. Stop if the baby becomes upset or sleepy. Never leave a baby to sleep on the tummy.',
           '<strong>Safe sleep always comes first</strong>: the baby sleeps on the back, on a firm flat mattress, with nothing soft in the crib. Do not use pillows, wedges or positioners to hold the head in place. Within these rules you can vary the direction the baby lies in the crib, for example by changing which end the head is at every few days, so that the baby looks toward the room from different sides.',
-          '<strong>Hold and feed on both sides</strong>: alternate the arm you carry with, and the side you feed from. Place toys, mobiles and your own face on the side the baby turns to less, to invite gentle turning.',
+          '<strong>Hold and feed on both sides</strong>: alternate the arm you carry with, and the side you feed from. Place toys, mobiles and your own face on the side the baby turns to less, to invite a light turn.',
           '<strong>Vary positions during the day</strong>: hold the baby upright, carry them on your shoulder or in a carrier, and limit long stretches in car seats, bouncers and swings while at home.',
           '<strong>Side-lying play while awake</strong>: with you present, a few minutes of play on the side can take the pressure off the flat area.',
         ],
@@ -107,11 +107,11 @@ export default {
       },
       {
         type: 'heading',
-        text: 'Gentle Chiropractic Care for Babies: What It Includes and What Is Not Yet Known',
+        text: 'Tailored Chiropractic Care for Babies: What It Includes and What Is Not Yet Known',
       },
       {
         type: 'paragraph',
-        text: 'At Dr. Victor Duani\'s clinic, infant care is built around conversation, a gentle examination with the parents next to the baby all the time, and a plain-language explanation at the end. You can read more about how a visit looks on the page about <a href="/en/baby/">chiropractic care for babies</a>. The clinics are in Ramat Aviv, Tel Aviv, and in Tuval, near Karmiel.',
+        text: 'At Dr. Victor Duani\'s clinic, infant care is built around conversation, a tailored examination with the parents next to the baby all the time, and a plain-language explanation at the end. You can read more about how a visit looks on the page about <a href="/en/baby/">chiropractic care for babies</a>. The clinics are in Ramat Aviv, Tel Aviv, and in Tuval, near Karmiel.',
       },
       {
         type: 'paragraph',
@@ -210,7 +210,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'חשוב לדעת שרוב התינוקות מסובבים את הראש לכל כיוון בלי בעיה, ושהעדפה קלה ובודדת היא חלק מההתפתחות התקינה. מה שכדאי לעקוב אחריו הוא דפוס: האם ההעדפה חוזרת כל יום, האם היא נשארת או גוברת, והאם התינוק מסוגל להסתובב לצד השני כשמזמינים אותו בעדינות. צילום קצר של התינוק בשכיבה, מדי כמה שבועות, יכול לעזור לכם ולרופא לראות אם יש שינוי. כך תגיעו לפגישה עם תמונה ברורה, ולא רק עם תחושה.',
+        text: 'חשוב לדעת שרוב התינוקות מסובבים את הראש לכל כיוון בלי בעיה, ושהעדפה קלה ובודדת היא חלק מההתפתחות התקינה. מה שכדאי לעקוב אחריו הוא דפוס: האם ההעדפה חוזרת כל יום, האם היא נשארת או גוברת, והאם התינוק מסוגל להסתובב לצד השני כשמזמינים אותו בזהירות. צילום קצר של התינוק בשכיבה, מדי כמה שבועות, יכול לעזור לכם ולרופא לראות אם יש שינוי. כך תגיעו לפגישה עם תמונה ברורה, ולא רק עם תחושה.',
       },
       {
         type: 'heading',
@@ -268,7 +268,7 @@ export default {
         items: [
           '<strong>זמן בטן, רק בערות ובהשגחה</strong>: כמה סבבים קצרים ביום, מהשבועות הראשונים, על משטח יציב כשאתם לצד התינוק. זה מפחית לחץ על העורף ומחזק את הצוואר והכתפיים. הנחיות רפואיות לילדים, כמו <a href="https://www.rch.org.au/clinicalguide/guideline_index/Positional_plagiocephaly" target="_blank" rel="noopener">ההנחיה של בית החולים לילדים המלכותי במלבורן בנושא פלגיוצפליה תנוחתית</a> (באנגלית), מציינות שזמן בטן סדיר מסייע בפיתוח שליטה בראש. הפסיקו אם התינוק נהיה נסער או מנמנם. לעולם אל תשאירו תינוק לישון על הבטן.',
           '<strong>שינה בטוחה תמיד קודמת</strong>: התינוק ישן על הגב, על מזרן יציב ושטוח, בלי חפצים רכים בעריסה. אין להשתמש בכריות, טריזים או מקבעי ראש. בתוך הכללים האלה אפשר לגוון את כיוון השכיבה בעריסה, למשל להחליף כל כמה ימים באיזה קצה מונח הראש, כדי שהתינוק יביט לחדר מצדדים שונים.',
-          '<strong>החזקה והאכלה משני הצדדים</strong>: החליפו את הזרוע שבה אתם נושאים, ואת הצד שממנו מאכילים. הציבו צעצועים, מוביילים ואת הפנים שלכם בצד שאליו התינוק פחות מסתובב, כדי להזמין סיבוב עדין.',
+          '<strong>החזקה והאכלה משני הצדדים</strong>: החליפו את הזרוע שבה אתם נושאים, ואת הצד שממנו מאכילים. הציבו צעצועים, מוביילים ואת הפנים שלכם בצד שאליו התינוק פחות מסתובב, כדי להזמין סיבוב קל.',
           '<strong>גיוון תנוחות במהלך היום</strong>: החזיקו את התינוק זקוף, שאו אותו על הכתף או בנשיאה, והגבילו פרקי זמן ארוכים בסלקל, במושב נוחות או בנדנדה כשאתם בבית.',
           '<strong>משחק בשכיבה על הצד בערות</strong>: בנוכחותכם, כמה דקות משחק על הצד יכולות להוריד לחץ מהאזור השטוח.',
         ],
@@ -279,11 +279,11 @@ export default {
       },
       {
         type: 'heading',
-        text: 'טיפול עדין בתינוקות: מה הוא כולל ומה עדיין לא ידוע',
+        text: 'טיפול מותאם בתינוקות: מה הוא כולל ומה עדיין לא ידוע',
       },
       {
         type: 'paragraph',
-        text: 'במרפאתו של ד"ר ויקטור דואני הטיפול בתינוקות בנוי משיחה, בדיקה עדינה כשההורים לצד התינוק כל הזמן, והסבר במילים פשוטות בסוף. אפשר לקרוא עוד על מהלך הפגישה בעמוד על <a href="/baby/">כירופרקטיקה לתינוקות</a>. המרפאות ממוקמות ברמת אביב בתל אביב, ובתובל, ליד כרמיאל.',
+        text: 'במרפאתו של ד"ר ויקטור דואני הטיפול בתינוקות בנוי משיחה, בדיקה מותאמת כשההורים לצד התינוק כל הזמן, והסבר במילים פשוטות בסוף. אפשר לקרוא עוד על מהלך הפגישה בעמוד על <a href="/baby/">כירופרקטיקה לתינוקות</a>. המרפאות ממוקמות ברמת אביב בתל אביב, ובתובל, ליד כרמיאל.',
       },
       {
         type: 'paragraph',

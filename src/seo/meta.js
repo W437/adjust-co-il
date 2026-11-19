@@ -24,12 +24,12 @@ export const BABY = {
   he: {
     title: 'כירופרקטיקה לתינוקות | ד״ר ויקטור דואני, כירופרקט',
     description:
-      'טיפול עדין בתינוקות ושקט נפשי להורים: שיחה, בדיקה עדינה והסבר במילים פשוטות. ד״ר ויקטור דואני, כירופרקט, ברמת אביב ובתובל.',
+      'טיפול מותאם בתינוקות ושקט נפשי להורים: שיחה, בדיקה מותאמת והסבר במילים פשוטות. ד״ר ויקטור דואני, כירופרקט, ברמת אביב ובתובל.',
   },
   en: {
     title: 'Chiropractor for Babies | Dr. Victor Duani, Chiropractor',
     description:
-      'Gentle care for babies and peace of mind for parents: a conversation, a gentle exam and a plain-language explanation. Dr. Victor Duani, chiropractor, in Ramat Aviv and Tuval.',
+      'Tailored care for babies and peace of mind for parents: a conversation, a tailored exam and a plain-language explanation. Dr. Victor Duani, chiropractor, in Ramat Aviv and Tuval.',
   },
 };
 
@@ -89,12 +89,12 @@ const POSTS = {
     he: {
       title: 'כירופרקט בהריון: כאבי גב, אגן ומפרק SI',
       description:
-        'כירופרקט בהריון: איך טיפול עדין יכול להקל על כאבי גב, מפרק SI ואגן, מתי מתאים ומתי כדאי להתייעץ קודם עם הרופא או המיילדת.',
+        'כירופרקט בהריון: איך טיפול מותאם יכול להקל על כאבי גב, מפרק SI ואגן, מתי מתאים ומתי כדאי להתייעץ קודם עם הרופא או המיילדת.',
     },
     en: {
       title: 'Chiropractor in Pregnancy: Back, Pelvic & SI Pain',
       description:
-        'Prenatal chiropractic for pregnancy back, pelvic and SI joint pain: what gentle care involves, when it suits and when to check with your doctor or midwife.',
+        'Prenatal chiropractic for pregnancy back, pelvic and SI joint pain: what tailored care involves, when it suits and when to check with your doctor or midwife.',
     },
   },
   'what-is-a-chiropractor': {

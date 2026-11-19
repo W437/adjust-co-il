@@ -64,7 +64,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Bed rest</strong>: Extended rest weakens the supporting muscles and stiffens the joints, which may slow recovery. Staying gently active is usually advised.',
+          '<strong>Bed rest</strong>: Extended rest weakens the supporting muscles and stiffens the joints, which may slow recovery. Staying lightly active is usually advised.',
           '<strong>Pure painkiller management</strong>: Medication can be useful for short-term relief, but on its own it does not address the underlying irritation, which may keep the nerve sore for weeks or months.',
           '<strong>Generic exercises</strong>: Exercises that work for some sciatica patients can make others significantly worse, depending on the underlying cause. Specific direction matters.',
         ],
@@ -91,7 +91,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Specific chiropractic techniques aim to reduce the pressure on the affected nerve root and restore proper joint motion in the lumbar spine and pelvis. For disc-related sciatica, gentler techniques (including instrument-assisted adjustments, traction-style decompression, and slow mobilization) are often preferred over high-velocity adjustments.',
+        text: 'Specific chiropractic techniques aim to reduce the pressure on the affected nerve root and restore proper joint motion in the lumbar spine and pelvis. For disc-related sciatica, lighter techniques (including instrument-assisted adjustments, traction-style decompression, and slow mobilization) are often preferred over high-velocity adjustments.',
       },
       {
         type: 'subheading',
@@ -241,7 +241,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>מנוחה במיטה</strong>: מנוחה ממושכת מחלישה את שרירי התמיכה ומקפיאה את המפרקים, ועלולה להאט את ההחלמה. בדרך כלל מומלץ להישאר פעילים בעדינות.',
+          '<strong>מנוחה במיטה</strong>: מנוחה ממושכת מחלישה את שרירי התמיכה ומקפיאה את המפרקים, ועלולה להאט את ההחלמה. בדרך כלל מומלץ להישאר פעילים בזהירות.',
           '<strong>ניהול רק עם משככי כאבים</strong>: תרופות יכולות להועיל להקלה קצרת טווח, אבל לבדן הן אינן מטפלות בגירוי הבסיסי, ולכן העצב עלול להישאר רגיש שבועות או חודשים.',
           '<strong>תרגילים גנריים</strong>: תרגילים שעובדים לחלק ממטופלי הסיאטיקה יכולים להחמיר משמעותית אחרים, תלוי בסיבה הבסיסית. כיוון ספציפי חשוב.',
         ],
@@ -268,7 +268,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טכניקות כירופרקטיות ספציפיות נועדו להפחית את הלחץ על שורש העצב הפגוע ולשחזור תנועת מפרק תקינה בעמוד השדרה המותני ובאגן. לסיאטיקה הקשורה לדיסק, טכניקות עדינות יותר (כולל התאמות בעזרת מכשיר, דקומפרסיה בסגנון משיכה ומוביליזציה איטית) מועדפות לעיתים קרובות על פני התאמות בעוצמה גבוהה.',
+        text: 'טכניקות כירופרקטיות ספציפיות נועדו להפחית את הלחץ על שורש העצב הפגוע ולשחזור תנועת מפרק תקינה בעמוד השדרה המותני ובאגן. לסיאטיקה הקשורה לדיסק, טכניקות קלות יותר (כולל התאמות בעזרת מכשיר, דקומפרסיה בסגנון משיכה ומוביליזציה איטית) מועדפות לעיתים קרובות על פני התאמות בעוצמה גבוהה.',
       },
       {
         type: 'subheading',

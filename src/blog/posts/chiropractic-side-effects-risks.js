@@ -42,7 +42,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'What helps: drink water, keep moving gently (a walk is better than lying still all day), and avoid heavy or unusual exercise for the first day if you are sore. Heat or a cold pack is fine if it feels good. Mention the reaction at your next visit.',
+        text: 'What helps: drink water, keep moving carefully (a walk is better than lying still all day), and avoid heavy or unusual exercise for the first day if you are sore. Heat or a cold pack is fine if it feels good. Mention the reaction at your next visit.',
       },
       {
         type: 'paragraph',
@@ -75,7 +75,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Where does that leave a patient? Serious harm appears to be rare, but we cannot say with confidence that it is zero, or that it is entirely unrelated to treatment. That is why many practitioners, including us, treat the neck with extra caution: screening first, and choosing gentler techniques (mobilization, soft tissue work, low-force methods) over high-velocity thrusts whenever they would serve you equally well. If you are worried about this specifically, say so. Declining neck manipulation is a legitimate choice, and there are other ways to treat neck pain. Our guide on <a href="/en/blog/neck-pain-tension-headaches/">neck pain and tension headaches</a> covers some of them.',
+        text: 'Where does that leave a patient? Serious harm appears to be rare, but we cannot say with confidence that it is zero, or that it is entirely unrelated to treatment. That is why many practitioners, including us, treat the neck with extra caution: screening first, and choosing lighter techniques (mobilization, soft tissue work, low-force methods) over high-velocity thrusts whenever they would serve you equally well. If you are worried about this specifically, say so. Declining neck manipulation is a legitimate choice, and there are other ways to treat neck pain. Our guide on <a href="/en/blog/neck-pain-tension-headaches/">neck pain and tension headaches</a> covers some of them.',
       },
       {
         type: 'heading',
@@ -116,7 +116,7 @@ export default {
           '<strong>A conversation first.</strong> Your history, medications, previous injuries and what exactly brought you in, before anything is touched.',
           '<strong>A physical examination.</strong> Movement, strength, reflexes and sensation are checked, so we know whether the problem looks mechanical or whether something else needs ruling out.',
           '<strong>Referral when needed.</strong> If something does not fit a routine musculoskeletal picture, the right step is a doctor or imaging, not another adjustment.',
-          '<strong>Technique matched to the person.</strong> Where it suits the patient, gentler options are used: mobilization, instrument-assisted or soft tissue methods. Which technique is used is decided case by case and discussed with you.',
+          '<strong>Technique matched to the person.</strong> Where it suits the patient, lighter options are used: mobilization, instrument-assisted or soft tissue methods. Which technique is used is decided case by case and discussed with you.',
           '<strong>Your consent at every step.</strong> You can say no to any technique at any time, including neck manipulation.',
         ],
       },
@@ -246,7 +246,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מה עוזר: לשתות מים, להמשיך לנוע בעדינות (הליכה עדיפה על שכיבה ארוכה), ולהימנע מפעילות מאומצת או חריגה ביום הראשון אם כואב. חום או קרח מקומי בסדר אם נעים לכם. ספרו על התגובה בביקור הבא, כי היא עוזרת למטפל להבין איזו עוצמה וטכניקה מתאימות לכם. זה מידע חשוב לא פחות מהבדיקה עצמה, ואין בו שום דבר מביך.',
+        text: 'מה עוזר: לשתות מים, להמשיך לנוע בזהירות (הליכה עדיפה על שכיבה ארוכה), ולהימנע מפעילות מאומצת או חריגה ביום הראשון אם כואב. חום או קרח מקומי בסדר אם נעים לכם. ספרו על התגובה בביקור הבא, כי היא עוזרת למטפל להבין איזו עוצמה וטכניקה מתאימות לכם. זה מידע חשוב לא פחות מהבדיקה עצמה, ואין בו שום דבר מביך.',
       },
       {
         type: 'paragraph',
@@ -279,7 +279,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מה זה אומר למטופל? נזק חמור נראה נדיר, אבל אי אפשר לומר בביטחון שהוא אפס, או שהוא בלתי קשור לטיפול לחלוטין. לכן מטפלים רבים, וגם אנחנו, מתייחסים לצוואר בזהירות יתרה: סינון קודם, ובחירה בטכניקות עדינות יותר (מוביליזציה, עבודה על רקמות רכות, שיטות בעוצמה נמוכה) על פני דחיפה מהירה בכל פעם שהן משרתות אתכם באותה מידה. אם החשש הזה מטריד אתכם במיוחד, אמרו זאת. סירוב למניפולציה בצוואר הוא בחירה לגיטימית, ויש דרכים אחרות לטפל בכאב צוואר. המדריך שלנו על <a href="/blog/neck-pain-tension-headaches/">כאבי צוואר וכאבי ראש מתח</a> מתאר כמה מהן.',
+        text: 'מה זה אומר למטופל? נזק חמור נראה נדיר, אבל אי אפשר לומר בביטחון שהוא אפס, או שהוא בלתי קשור לטיפול לחלוטין. לכן מטפלים רבים, וגם אנחנו, מתייחסים לצוואר בזהירות יתרה: סינון קודם, ובחירה בטכניקות קלות יותר (מוביליזציה, עבודה על רקמות רכות, שיטות בעוצמה נמוכה) על פני דחיפה מהירה בכל פעם שהן משרתות אתכם באותה מידה. אם החשש הזה מטריד אתכם במיוחד, אמרו זאת. סירוב למניפולציה בצוואר הוא בחירה לגיטימית, ויש דרכים אחרות לטפל בכאב צוואר. המדריך שלנו על <a href="/blog/neck-pain-tension-headaches/">כאבי צוואר וכאבי ראש מתח</a> מתאר כמה מהן.',
       },
       {
         type: 'heading',
@@ -320,7 +320,7 @@ export default {
           '<strong>שיחה קודם.</strong> ההיסטוריה שלכם, תרופות, פציעות קודמות ומה בדיוק הביא אתכם, לפני שנוגעים במשהו.',
           '<strong>בדיקה גופנית.</strong> בודקים תנועה, כוח, רפלקסים ותחושה, כדי להבין אם הבעיה נראית מכנית או שיש משהו אחר שצריך לשלול.',
           '<strong>הפניה כשצריך.</strong> אם משהו לא מתאים לתמונה שלד-שרירית רגילה, הצעד הנכון הוא רופא או הדמיה, לא עוד טיפול.',
-          '<strong>טכניקה שמותאמת לאדם.</strong> כשזה מתאים למטופל משתמשים באפשרויות עדינות יותר: מוביליזציה, שיטות בעזרת מכשיר או עבודה על רקמות רכות. הבחירה נעשית בכל מקרה לגופו ומנוהלת בשיחה איתכם.',
+          '<strong>טכניקה שמותאמת לאדם.</strong> כשזה מתאים למטופל משתמשים באפשרויות קלות יותר: מוביליזציה, שיטות בעזרת מכשיר או עבודה על רקמות רכות. הבחירה נעשית בכל מקרה לגופו ומנוהלת בשיחה איתכם.',
           '<strong>ההסכמה שלכם בכל שלב.</strong> אפשר לסרב לכל טכניקה בכל רגע, כולל מניפולציה בצוואר.',
         ],
       },

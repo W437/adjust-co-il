@@ -78,10 +78,10 @@ export default {
       {
         type: 'list',
         items: [
-          'Chin tucks: Sit or stand tall. Gently draw your chin straight back, as if making a "double chin." Hold for 5 seconds and repeat 10 times. This strengthens the deep cervical flexors that support proper head alignment.',
+          'Chin tucks: Sit or stand tall. Carefully draw your chin straight back, as if making a "double chin." Hold for 5 seconds and repeat 10 times. This strengthens the deep cervical flexors that support proper head alignment.',
           'Wall angels: Stand with your back flat against a wall, arms raised in a "goal post" position. Slowly slide your arms up and down the wall while keeping your wrists and elbows in contact with it. Perform 10–15 repetitions.',
-          'Thoracic extensions: Sit in a chair with a firm back. Place your hands behind your head and gently arch your upper back over the top of the chair. Hold for a few seconds and repeat 8–10 times to mobilize the mid-spine.',
-          'Chest stretches: Stand in a doorway with your forearms resting on either side of the frame. Step one foot forward and gently lean through the doorway until you feel a stretch across your chest and the front of your shoulders. Hold for 20–30 seconds.',
+          'Thoracic extensions: Sit in a chair with a firm back. Place your hands behind your head and carefully arch your upper back over the top of the chair. Hold for a few seconds and repeat 8–10 times to mobilize the mid-spine.',
+          'Chest stretches: Stand in a doorway with your forearms resting on either side of the frame. Step one foot forward and carefully lean through the doorway until you feel a stretch across your chest and the front of your shoulders. Hold for 20–30 seconds.',
           'Shoulder blade squeezes: Sit or stand with your arms at your sides. Squeeze your shoulder blades together as if trying to hold a pencil between them. Hold for 5 seconds and repeat 15 times. This activates the often-neglected rhomboid muscles.',
         ],
       },
@@ -188,8 +188,8 @@ export default {
         items: [
           'משיכת סנטר (Chin Tucks): שבו או עמדו זקוף. משכו את הסנטר ישר לאחור, כאילו אתם יוצרים "סנטר כפול". החזיקו 5 שניות וחזרו 10 פעמים. התרגיל מחזק את מכופפי הצוואר העמוקים שתומכים ביישור תקין של הראש.',
           'מלאכי קיר (Wall Angels): עמדו כשהגב צמוד לקיר, הידיים מורמות בתנוחת "שער". החליקו את הזרועות לאט למעלה ולמטה תוך שמירה על מגע של כפות הידיים והמרפקים עם הקיר. בצעו 10-15 חזרות.',
-          'הארכות חזה עליון (Thoracic Extensions): שבו על כיסא עם משענת יציבה. הניחו את הידיים מאחורי הראש וקשתו בעדינות את הגב העליון מעל חלקו העליון של הכיסא. החזיקו מספר שניות וחזרו 8-10 פעמים כדי לשפר את ניידות עמוד השדרה האמצעי.',
-          'מתיחות חזה: עמדו בפתח דלת כשהאמות נשענות על שני צדי המשקוף. העבירו רגל אחת קדימה והיכנסו בעדינות דרך הפתח עד שתרגישו מתיחה לרוחב החזה וחזית הכתפיים. החזיקו 20-30 שניות.',
+          'הארכות חזה עליון (Thoracic Extensions): שבו על כיסא עם משענת יציבה. הניחו את הידיים מאחורי הראש וקשתו בזהירות את הגב העליון מעל חלקו העליון של הכיסא. החזיקו מספר שניות וחזרו 8-10 פעמים כדי לשפר את ניידות עמוד השדרה האמצעי.',
+          'מתיחות חזה: עמדו בפתח דלת כשהאמות נשענות על שני צדי המשקוף. העבירו רגל אחת קדימה והיכנסו בזהירות דרך הפתח עד שתרגישו מתיחה לרוחב החזה וחזית הכתפיים. החזיקו 20-30 שניות.',
           'לחיצות שכמות (Shoulder Blade Squeezes): שבו או עמדו עם הזרועות לצדי הגוף. לחצו את עצמות השכמה זו לזו כאילו אתם מנסים להחזיק עיפרון ביניהן. החזיקו 5 שניות וחזרו 15 פעמים. התרגיל מפעיל את שרירי הרומבואיד שלעיתים קרובות מוזנחים.',
         ],
       },

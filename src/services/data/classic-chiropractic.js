@@ -31,7 +31,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Every joint is designed to move through a specific range. When that range becomes limited (through injury, posture, or repetitive strain), the body compensates, and pain and stiffness follow. A precise adjustment gently takes the joint slightly beyond its restricted barrier, which:',
+        text: 'Every joint is designed to move through a specific range. When that range becomes limited (through injury, posture, or repetitive strain), the body compensates, and pain and stiffness follow. A precise adjustment carefully takes the joint slightly beyond its restricted barrier, which:',
       },
       {
         type: 'list',
@@ -89,7 +89,7 @@ export default {
     faq: [
       {
         q: 'Is a chiropractic adjustment safe?',
-        a: 'For most people, yes. Adjustments performed by a licensed chiropractor after a proper assessment are considered safe. Dr. Duani always screens your history and examines you first, and adapts the technique, or chooses a gentler method, when needed.',
+        a: 'For most people, yes. Adjustments performed by a licensed chiropractor after a proper assessment are considered safe. Dr. Duani always screens your history and examines you first, and adapts the technique, or chooses a lighter method, when needed.',
       },
       {
         q: 'Does an adjustment hurt?',
@@ -130,7 +130,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כל מפרק נועד לנוע בטווח מסוים. כאשר הטווח נעשה מוגבל (בעקבות פציעה, יציבה לקויה או עומס חוזר), הגוף מפצה, ובעקבות זאת מופיעים כאב ונוקשות. כיוון מדויק לוקח את המפרק בעדינות מעט מעבר למחסום המוגבל, וכך:',
+        text: 'כל מפרק נועד לנוע בטווח מסוים. כאשר הטווח נעשה מוגבל (בעקבות פציעה, יציבה לקויה או עומס חוזר), הגוף מפצה, ובעקבות זאת מופיעים כאב ונוקשות. כיוון מדויק לוקח את המפרק בזהירות מעט מעבר למחסום המוגבל, וכך:',
       },
       {
         type: 'list',
@@ -188,7 +188,7 @@ export default {
     faq: [
       {
         q: 'האם כיוון כירופרקטי בטוח?',
-        a: 'עבור רוב האנשים, כן. כיוונים המבוצעים על ידי כירופרקט מורשה לאחר אבחון מסודר נחשבים בטוחים. ד״ר דואני תמיד בוחן תחילה את ההיסטוריה הרפואית ומבצע בדיקה, ומתאים את הטכניקה, או בוחר בשיטה עדינה יותר, בהתאם לצורך.',
+        a: 'עבור רוב האנשים, כן. כיוונים המבוצעים על ידי כירופרקט מורשה לאחר אבחון מסודר נחשבים בטוחים. ד״ר דואני תמיד בוחן תחילה את ההיסטוריה הרפואית ומבצע בדיקה, ומתאים את הטכניקה, או בוחר בשיטה קלה יותר, בהתאם לצורך.',
       },
       {
         q: 'האם הכיוון כואב?',

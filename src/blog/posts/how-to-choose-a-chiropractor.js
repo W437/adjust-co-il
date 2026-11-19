@@ -80,7 +80,7 @@ export default {
           'Can describe what they do in plain language',
           'Adjusts their technique to your age, build, comfort, and condition',
           'Combines manual care with soft tissue work and rehabilitation, not adjustments in isolation',
-          'Offers gentler alternatives (instrument-assisted, mobilization) for patients who prefer them',
+          'Offers lighter alternatives (instrument-assisted, mobilization) for patients who prefer them',
         ],
       },
       {
@@ -237,7 +237,7 @@ export default {
           'יכול לתאר מה הוא עושה בשפה פשוטה',
           'מתאים את הטכניקה לגיל, למבנה גוף, לנוחות ולמצב שלכם',
           'משלב טיפול ידני עם עבודה על רקמות רכות ושיקום, לא רק התאמות לבד',
-          'מציע חלופות עדינות יותר (בעזרת מכשיר, מוביליזציה) למטופלים שמעדיפים זאת',
+          'מציע חלופות קלות יותר (בעזרת מכשיר, מוביליזציה) למטופלים שמעדיפים זאת',
         ],
       },
       {

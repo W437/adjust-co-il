@@ -4,15 +4,15 @@ export default {
   image: '/assets/blog/pregnancy-back-pain.webp',
   readTime: 6,
   en: {
-    title: 'Pregnancy & Back Pain: Gentle Chiropractic Care for Expecting Mothers',
+    title: 'Pregnancy & Back Pain: Tailored Chiropractic Care for Expecting Mothers',
     excerpt:
-      'Back pain is very common in pregnancy, but you don\'t have to simply endure it. Learn how gentle, pregnancy-adapted chiropractic care may help ease discomfort, and why to check with your doctor or midwife first.',
+      'Back pain is very common in pregnancy, but you don\'t have to simply endure it. Learn how light, pregnancy-adapted chiropractic care may help ease discomfort, and why to check with your doctor or midwife first.',
     metaDescription:
-      'How gentle, pregnancy-adapted chiropractic care may help ease pregnancy back pain, SI joint and pelvic discomfort, and why to check with your doctor or midwife first.',
+      'How light, pregnancy-adapted chiropractic care may help ease pregnancy back pain, SI joint and pelvic discomfort, and why to check with your doctor or midwife first.',
     content: [
       {
         type: 'paragraph',
-        text: 'Pregnancy is one of the most transformative experiences a woman can go through, but it often comes with significant physical discomfort. Back pain is <strong>very common in pregnancy</strong> (<a href="https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/back-pain/" target="_blank" rel="noopener">NHS</a>), and many women describe it as one of the most challenging parts of carrying a child. The good news is that there are gentle options that may help. You do not have to simply endure the pain and wait for delivery day.',
+        text: 'Pregnancy is one of the most transformative experiences a woman can go through, but it often comes with significant physical discomfort. Back pain is <strong>very common in pregnancy</strong> (<a href="https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/back-pain/" target="_blank" rel="noopener">NHS</a>), and many women describe it as one of the most challenging parts of carrying a child. The good news is that there are tailored options that may help. You do not have to simply endure the pain and wait for delivery day.',
       },
       {
         type: 'paragraph',
@@ -46,7 +46,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Chiropractic care during pregnancy is generally given with gentle, low-force methods by a practitioner trained in prenatal techniques. There is no high-velocity twisting of the spine and no face-down positioning, and specialized pregnancy pillows and drop-piece tables let you lie comfortably regardless of belly size. Whether it is suitable still depends on your individual situation, so <strong>check with your doctor or midwife first</strong>, especially if your pregnancy is considered high-risk or you have any complications.',
+        text: 'Chiropractic care during pregnancy is generally given with tailored, low-force methods by a practitioner trained in prenatal techniques. There is no high-velocity twisting of the spine and no face-down positioning, and specialized pregnancy pillows and drop-piece tables let you lie comfortably regardless of belly size. Whether it is suitable still depends on your individual situation, so <strong>check with your doctor or midwife first</strong>, especially if your pregnancy is considered high-risk or you have any complications.',
       },
       {
         type: 'paragraph',
@@ -63,8 +63,8 @@ export default {
       {
         type: 'list',
         items: [
-          'Pelvic and lower back comfort: Gentle techniques aim to ease strain in the pelvis and lower back as your center of gravity shifts.',
-          'Reduced lower back and SI joint pain: Gentle adjustments may improve joint mobility and release muscle tension, which can ease some of the irritation behind pregnancy-related back pain.',
+          'Pelvic and lower back comfort: Tailored techniques aim to ease strain in the pelvis and lower back as your center of gravity shifts.',
+          'Reduced lower back and SI joint pain: Controlled adjustments may improve joint mobility and release muscle tension, which can ease some of the irritation behind pregnancy-related back pain.',
           'Better sleep: Pain is one of the biggest barriers to restful sleep during pregnancy. By easing musculoskeletal discomfort, some patients report sleeping more comfortably and waking with less stiffness.',
           'A drug-free option: Chiropractic does not involve medication, which can matter during pregnancy when medication options are limited. Always discuss any medication with your doctor.',
           'Posture and exercise guidance: Simple stretches, positioning tips, and movement advice you can use at home as your pregnancy progresses.',
@@ -80,11 +80,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Modified treatment tables with abdominal cutouts or supportive cushioning allow you to lie in a comfortable position without any pressure on the belly. Adjustments use gentle, low-force techniques, often involving a handheld instrument or light manual pressure rather than traditional high-velocity thrusts. Soft tissue work, including targeted massage and myofascial release, addresses the muscle tension and trigger points that accompany postural changes.',
+        text: 'Modified treatment tables with abdominal cutouts or supportive cushioning allow you to lie in a comfortable position without any pressure on the belly. Adjustments use tailored, low-force techniques, often involving a handheld instrument or light manual pressure rather than traditional high-velocity thrusts. Soft tissue work, including targeted massage and myofascial release, addresses the muscle tension and trigger points that accompany postural changes.',
       },
       {
         type: 'paragraph',
-        text: 'Each session typically concludes with take-home stretches and exercises designed to reinforce the benefits of the adjustment. These may include pelvic tilts, cat-cow stretches, gentle hip openers, and breathing exercises that support both spinal health and labor preparation. Treatment is adapted to each stage of pregnancy and to what feels comfortable for you.',
+        text: 'Each session typically concludes with take-home stretches and exercises designed to reinforce the benefits of the adjustment. These may include pelvic tilts, cat-cow stretches, light hip openers, and breathing exercises that support both spinal health and labor preparation. Treatment is adapted to each stage of pregnancy and to what feels comfortable for you.',
       },
       {
         type: 'heading',
@@ -97,7 +97,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>First trimester</strong>: Hormonal changes begin, and tiredness or nausea can affect your posture and sleep. Care is usually gentle, and starts with questions about your pregnancy and symptoms.',
+          '<strong>First trimester</strong>: Hormonal changes begin, and tiredness or nausea can affect your posture and sleep. Care is usually light, and starts with questions about your pregnancy and symptoms.',
           '<strong>Second trimester</strong>: The belly grows and your center of gravity starts to shift forward, so lower back and pelvic discomfort often become more noticeable. Positioning and support are adapted as the bump grows.',
           '<strong>Third trimester</strong>: Added weight and looser pelvic ligaments can make walking, sitting, and sleeping uncomfortable. Treatment is adapted to what is comfortable for you, using supportive cushions and side-lying positions where needed.',
         ],
@@ -115,7 +115,7 @@ export default {
         items: [
           'Wear supportive, low-heeled shoes: Avoid high heels and unsupportive flats. A shoe with good arch support and cushioning helps maintain pelvic alignment.',
           'Sleep with a <strong>pillow between your knees</strong> (see our guide to <a href="/en/blog/sleeping-positions-back-pain/">sleeping positions for back pain</a>): Side-sleeping with a pillow between the knees keeps the pelvis neutral and reduces SI joint strain overnight.',
-          'Stay active with gentle exercise: Walking and swimming are excellent low-impact activities that maintain muscle tone and joint mobility without stressing the spine.',
+          'Stay active with light exercise: Walking and swimming are excellent low-impact activities that maintain muscle tone and joint mobility without stressing the spine.',
           'Avoid prolonged standing or sitting: Change positions frequently. If your work requires long periods of standing, use a small footstool to alternate resting each foot.',
           'Try prenatal yoga (with your doctor or midwife\'s approval; see <a href="/en/blog/yoga-and-chiropractic/">how yoga and chiropractic work together</a>): Yoga may strengthen the core, improves flexibility, and teaches body awareness, all of which protect the spine during pregnancy.',
           'Use proper lifting mechanics: Bend at the knees, keep the load close to your body, and avoid twisting while lifting. Ask for help with heavy objects.',
@@ -135,20 +135,20 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Back pain during pregnancy is common, but it is not something you have to accept as inevitable. With gentle, pregnancy-adapted care, some expecting mothers find relief and enjoy a more comfortable pregnancy. Dr. Victor Duani treats pregnant patients using gentle, adapted techniques. If you are experiencing pregnancy-related back pain, we encourage you to reach out and schedule a consultation. After the birth, we also offer <a href="/en/baby/">gentle care for babies</a>. Your comfort matters, and help is available.',
+        text: 'Back pain during pregnancy is common, but it is not something you have to accept as inevitable. With light, pregnancy-adapted care, some expecting mothers find relief and enjoy a more comfortable pregnancy. Dr. Victor Duani treats pregnant patients using light, adapted techniques. If you are experiencing pregnancy-related back pain, we encourage you to reach out and schedule a consultation. After the birth, we also offer <a href="/en/baby/">tailored care for babies</a>. Your comfort matters, and help is available.',
       },
     ],
   },
   he: {
-    title: 'הריון וכאבי גב: טיפול כירופרקטי עדין לנשים בהריון',
+    title: 'הריון וכאבי גב: טיפול כירופרקטי מותאם לנשים בהריון',
     excerpt:
-      'כאבי גב נפוצים מאוד בהריון, אך אין צורך פשוט לסבול. גלי כיצד טיפול כירופרקטי עדין ומותאם להריון עשוי להקל על אי-נוחות, ומדוע כדאי להתייעץ קודם עם הרופא או המיילדת.',
+      'כאבי גב נפוצים מאוד בהריון, אך אין צורך פשוט לסבול. גלי כיצד טיפול כירופרקטי קל ומותאם להריון עשוי להקל על אי-נוחות, ומדוע כדאי להתייעץ קודם עם הרופא או המיילדת.',
     metaDescription:
-      'כיצד טיפול כירופרקטי עדין ומותאם להריון עשוי להקל על כאבי גב, אי-נוחות במפרק SI ובאגן, ומדוע כדאי להתייעץ קודם עם הרופא או המיילדת.',
+      'כיצד טיפול כירופרקטי קל ומותאם להריון עשוי להקל על כאבי גב, אי-נוחות במפרק SI ובאגן, ומדוע כדאי להתייעץ קודם עם הרופא או המיילדת.',
     content: [
       {
         type: 'paragraph',
-        text: 'הריון הוא אחת החוויות המשמעותיות ביותר בחייה של אישה, אך לעיתים קרובות הוא מלווה באי-נוחות גופנית משמעותית. כאבי גב <strong>נפוצים מאוד בהריון</strong> (<a href="https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/back-pain/" target="_blank" rel="noopener">NHS</a>), ונשים רבות מתארות אותם כאחד ההיבטים המאתגרים ביותר של ההריון. החדשות הטובות הן שקיימות אפשרויות עדינות שעשויות לעזור. אין צורך פשוט לסבול ולחכות ליום הלידה.',
+        text: 'הריון הוא אחת החוויות המשמעותיות ביותר בחייה של אישה, אך לעיתים קרובות הוא מלווה באי-נוחות גופנית משמעותית. כאבי גב <strong>נפוצים מאוד בהריון</strong> (<a href="https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/back-pain/" target="_blank" rel="noopener">NHS</a>), ונשים רבות מתארות אותם כאחד ההיבטים המאתגרים ביותר של ההריון. החדשות הטובות הן שקיימות אפשרויות מותאמות שעשויות לעזור. אין צורך פשוט לסבול ולחכות ליום הלידה.',
       },
       {
         type: 'paragraph',
@@ -182,7 +182,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טיפול כירופרקטי במהלך הריון ניתן בדרך כלל בשיטות עדינות ובכוח נמוך, על ידי מטפל המיומן בטכניקות טרום-לידתיות. אין סיבובים מהירים של עמוד השדרה ואין שכיבה על הבטן, וכריות הריון מיוחדות ומיטות טיפול מותאמות מאפשרות לשכב בנוחות ללא קשר לגודל הבטן. עם זאת, ההתאמה תלויה במצב האישי שלך, ולכן <strong>כדאי להתייעץ קודם עם הרופא או המיילדת</strong>, במיוחד אם ההריון מוגדר בסיכון גבוה או שיש סיבוכים.',
+        text: 'טיפול כירופרקטי במהלך הריון ניתן בדרך כלל בשיטות מותאמות ובכוח נמוך, על ידי מטפל המיומן בטכניקות טרום-לידתיות. אין סיבובים מהירים של עמוד השדרה ואין שכיבה על הבטן, וכריות הריון מיוחדות ומיטות טיפול מותאמות מאפשרות לשכב בנוחות ללא קשר לגודל הבטן. עם זאת, ההתאמה תלויה במצב האישי שלך, ולכן <strong>כדאי להתייעץ קודם עם הרופא או המיילדת</strong>, במיוחד אם ההריון מוגדר בסיכון גבוה או שיש סיבוכים.',
       },
       {
         type: 'paragraph',
@@ -199,8 +199,8 @@ export default {
       {
         type: 'list',
         items: [
-          'נוחות באגן ובגב התחתון: טכניקות עדינות שואפות להקל על העומס באגן ובגב התחתון כשמרכז הכובד זז.',
-          'הפחתת כאבים בגב תחתון ובמפרק SI: יישורים עדינים עשויים לשפר ניידות מפרקית ולשחרר מתח שרירי, ובכך להקל על חלק מהגירוי שמאחורי כאבי הגב בהריון.',
+          'נוחות באגן ובגב התחתון: טכניקות מותאמות שואפות להקל על העומס באגן ובגב התחתון כשמרכז הכובד זז.',
+          'הפחתת כאבים בגב תחתון ובמפרק SI: יישורים מבוקרים עשויים לשפר ניידות מפרקית ולשחרר מתח שרירי, ובכך להקל על חלק מהגירוי שמאחורי כאבי הגב בהריון.',
           'שינה טובה יותר: כאב הוא אחד המחסומים הגדולים ביותר לשינה רגועה במהלך הריון. בעזרת הקלה על אי-הנוחות השרירית-שלדית, חלק מהמטופלות מדווחות על שינה נוחה יותר ועל פחות נוקשות בבוקר.',
           'אפשרות ללא תרופות: טיפול כירופרקטי אינו כולל תרופות, דבר שיכול להיות חשוב בהריון כשאפשרויות התרופות מוגבלות. תמיד התייעצי עם הרופא לגבי כל תרופה.',
           'הדרכה ליציבה ולתרגול: מתיחות פשוטות, טיפים לתנוחות ועצות תנועה לביצוע בבית ככל שההריון מתקדם.',
@@ -216,11 +216,11 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'מיטות טיפול מותאמות עם חללים לבטן או ריפוד תומך מאפשרות לשכב בתנוחה נוחה ללא כל לחץ על הבטן. היישורים מבוצעים בטכניקות עדינות ובכוח נמוך, לעיתים קרובות באמצעות מכשיר ידני או לחץ ידני קל, ולא בתנועות מהירות מסורתיות. עבודת רקמות רכות, כולל עיסוי ממוקד ושחרור מיופסיאלי, מטפלת במתח השרירי ובנקודות הטריגר הנלווים לשינויי היציבה.',
+        text: 'מיטות טיפול מותאמות עם חללים לבטן או ריפוד תומך מאפשרות לשכב בתנוחה נוחה ללא כל לחץ על הבטן. היישורים מבוצעים בטכניקות מותאמות ובכוח נמוך, לעיתים קרובות באמצעות מכשיר ידני או לחץ ידני קל, ולא בתנועות מהירות מסורתיות. עבודת רקמות רכות, כולל עיסוי ממוקד ושחרור מיופסיאלי, מטפלת במתח השרירי ובנקודות הטריגר הנלווים לשינויי היציבה.',
       },
       {
         type: 'paragraph',
-        text: 'כל טיפול מסתיים בדרך כלל עם מתיחות ותרגילים לביצוע בבית, שנועדו לחזק את היתרונות של היישור. אלו עשויים לכלול הטיות אגן, מתיחות חתול-פרה, פתיחות ירכיים עדינות ותרגילי נשימה שתומכים הן בבריאות עמוד השדרה והן בהכנה ללידה. הטיפול מותאם לכל שלב של ההריון ולמה שנוח לך.',
+        text: 'כל טיפול מסתיים בדרך כלל עם מתיחות ותרגילים לביצוע בבית, שנועדו לחזק את היתרונות של היישור. אלו עשויים לכלול הטיות אגן, מתיחות חתול-פרה, פתיחות ירכיים קלות ותרגילי נשימה שתומכים הן בבריאות עמוד השדרה והן בהכנה ללידה. הטיפול מותאם לכל שלב של ההריון ולמה שנוח לך.',
       },
       {
         type: 'heading',
@@ -233,7 +233,7 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>טרימסטר ראשון</strong>: השינויים ההורמונליים מתחילים, ועייפות או בחילה עלולות להשפיע על היציבה ועל השינה. הטיפול בדרך כלל עדין, ומתחיל בשאלות על ההריון והתסמינים.',
+          '<strong>טרימסטר ראשון</strong>: השינויים ההורמונליים מתחילים, ועייפות או בחילה עלולות להשפיע על היציבה ועל השינה. הטיפול בדרך כלל קל, ומתחיל בשאלות על ההריון והתסמינים.',
           '<strong>טרימסטר שני</strong>: הבטן גדלה ומרכז הכובד מתחיל לנוע קדימה, ולכן אי-נוחות בגב התחתון ובאגן הופכת לעיתים בולטת יותר. התנוחה והתמיכה מותאמות ככל שהבטן גדלה.',
           '<strong>טרימסטר שלישי</strong>: משקל נוסף ורצועות אגן רפויות יותר עלולים להקשות על הליכה, ישיבה ושינה. הטיפול מותאם למה שנוח לך, בעזרת כריות תמיכה ותנוחות שכיבה על הצד לפי הצורך.',
         ],
@@ -251,7 +251,7 @@ export default {
         items: [
           'נעלי נוחות עם עקב נמוך ותמיכה: הימנעי מעקבים גבוהים ומנעליים שטוחות ללא תמיכה. נעל עם תמיכת קשת טובה וריפוד עוזרת לשמור על יישור האגן.',
           'שינה עם <strong>כרית בין הברכיים</strong> (ראי את המדריך שלנו על <a href="/blog/sleeping-positions-back-pain/">תנוחות שינה לכאבי גב</a>): שכיבה על הצד עם כרית בין הברכיים שומרת על האגן בניטרלי ומפחיתה עומס על מפרק ה-SI במהלך הלילה.',
-          'פעילות גופנית עדינה וסדירה: הליכה ושחייה הן פעילויות מצוינות בעלות אימפקט נמוך, שמשמרות טונוס שרירי וניידות מפרקים מבלי להעמיס על עמוד השדרה.',
+          'פעילות גופנית קלה וסדירה: הליכה ושחייה הן פעילויות מצוינות בעלות אימפקט נמוך, שמשמרות טונוס שרירי וניידות מפרקים מבלי להעמיס על עמוד השדרה.',
           'הימנעי מעמידה או ישיבה ממושכת: שני תנוחה לעיתים קרובות. אם העבודה דורשת עמידה ארוכה, השתמשי בשרפרף קטן כדי להחליף רגל נשענת.',
           'נסי יוגה להריון (באישור הרופא או המיילדת; ראי <a href="/blog/yoga-and-chiropractic/">כיצד יוגה וכירופרקטיקה פועלות יחד</a>): יוגה עשויה לחזק את שרירי הליבה, משפרת גמישות ומלמדת מודעות גופנית, כל אלו מגנים על עמוד השדרה במהלך ההריון.',
           'הרמה נכונה: כופפי ברכיים, החזיקי את המשא קרוב לגוף והימנעי מסיבובים תוך כדי הרמה. בקשי עזרה עם חפצים כבדים.',
@@ -271,7 +271,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'כאבי גב בהריון הם תופעה שכיחה, אך הם לא משהו שצריך פשוט לקבל כגזירת גורל. בעזרת טיפול עדין ומותאם להריון, חלק מהנשים מוצאות הקלה ונהנות מהריון נוח יותר. ד"ר ויקטור דואני מטפל בנשים בהריון בטכניקות עדינות ומותאמות. אם את חווה כאבי גב הקשורים להריון, אנו מזמינים אותך ליצור קשר ולקבוע פגישת ייעוץ. לאחר הלידה אנחנו מציעים גם <a href="/baby/">טיפול עדין בתינוקות</a>. הנוחות שלך חשובה, והעזרה זמינה.',
+        text: 'כאבי גב בהריון הם תופעה שכיחה, אך הם לא משהו שצריך פשוט לקבל כגזירת גורל. בעזרת טיפול קל ומותאם להריון, חלק מהנשים מוצאות הקלה ונהנות מהריון נוח יותר. ד"ר ויקטור דואני מטפל בנשים בהריון בטכניקות קלות ומותאמות. אם את חווה כאבי גב הקשורים להריון, אנו מזמינים אותך ליצור קשר ולקבוע פגישת ייעוץ. לאחר הלידה אנחנו מציעים גם <a href="/baby/">טיפול מותאם בתינוקות</a>. הנוחות שלך חשובה, והעזרה זמינה.',
       },
     ],
   },

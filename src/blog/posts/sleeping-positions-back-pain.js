@@ -52,7 +52,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Sleeping on your back is widely regarded as the best overall position for spinal health. It distributes your body weight evenly across the largest surface area, minimizes pressure points, and allows the head, neck, and spine to rest in a neutral position. There is no rotational force on the neck, and the lumbar curve is gently supported by the mattress beneath it.',
+        text: 'Sleeping on your back is widely regarded as the best overall position for spinal health. It distributes your body weight evenly across the largest surface area, minimizes pressure points, and allows the head, neck, and spine to rest in a neutral position. There is no rotational force on the neck, and the lumbar curve is supported in a suitable way by the mattress beneath it.',
       },
       {
         type: 'paragraph',
@@ -68,7 +68,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'One common mistake is curling into a tight fetal position. While a gentle bend at the hips and knees is fine, excessive curling rounds the spine, compresses the chest, and can strain the lower back and hip joints over time. Aim for a relaxed, elongated side-lying posture.',
+        text: 'One common mistake is curling into a tight fetal position. While a light bend at the hips and knees is fine, excessive curling rounds the spine, compresses the chest, and can strain the lower back and hip joints over time. Aim for a relaxed, elongated side-lying posture.',
       },
       {
         type: 'subheading',
@@ -76,7 +76,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'For patients recovering from a disc herniation, a modified side-lying position may offer some relief. Lie on the unaffected side with a pillow between your knees and gently hug a second pillow in front of your chest. This prevents the upper body from rolling forward, keeps the spine neutral, and may reduce pressure on the affected disc. Some patients find this position lets them sleep with less pain.',
+        text: 'For patients recovering from a disc herniation, a modified side-lying position may offer some relief. Lie on the unaffected side with a pillow between your knees and lightly hug a second pillow in front of your chest. This prevents the upper body from rolling forward, keeps the spine neutral, and may reduce pressure on the affected disc. Some patients find this position lets them sleep with less pain.',
       },
       {
         type: 'heading',
@@ -112,15 +112,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'No matter how well you position yourself at night, the body can still feel stiff after hours of relative immobility. A brief morning stretching routine, just two to three minutes, can release tension, restore blood flow, and prepare your spine for the day ahead. Perform each of the following stretches gently, holding for about thirty seconds:',
+        text: 'No matter how well you position yourself at night, the body can still feel stiff after hours of relative immobility. A brief morning stretching routine, just two to three minutes, can release tension, restore blood flow, and prepare your spine for the day ahead. Perform each of the following stretches carefully, holding for about thirty seconds:',
       },
       {
         type: 'list',
         items: [
           'Knee-to-chest stretch: Lying on your back, pull one knee toward your chest and hold it with both hands. This releases tension in the lower back and glutes. Repeat on the other side.',
-          'Gentle spinal twist: Still on your back, let both bent knees fall to one side while keeping your shoulders flat on the bed. This mobilizes the thoracic and lumbar spine. Repeat on the opposite side.',
+          'Light spinal twist: Still on your back, let both bent knees fall to one side while keeping your shoulders flat on the bed. This mobilizes the thoracic and lumbar spine. Repeat on the opposite side.',
           'Cat-cow stretch: On your hands and knees, alternate between arching your back upward (cat) and letting your belly drop toward the floor (cow). This warms up the entire spinal column and restores segmental mobility.',
-          'Pelvic tilts: Lying on your back with knees bent and feet flat, gently flatten your lower back into the mattress by tilting your pelvis upward, then release. This activates the deep core stabilizers and relieves morning stiffness in the lumbar region.',
+          'Pelvic tilts: Lying on your back with knees bent and feet flat, carefully flatten your lower back into the mattress by tilting your pelvis upward, then release. This activates the deep core stabilizers and relieves morning stiffness in the lumbar region.',
         ],
       },
       {
@@ -182,7 +182,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'שינה על הגב נחשבת לתנוחה הטובה ביותר לבריאות עמוד השדרה. היא מפזרת את משקל הגוף באופן אחיד על פני השטח הגדול ביותר, ממזערת נקודות לחץ ומאפשרת לראש, לצוואר ולעמוד השדרה לנוח בתנוחה ניטרלית. אין כוח סיבובי על הצוואר, והעקומת המותנית נתמכת בעדינות על ידי המזרן.',
+        text: 'שינה על הגב נחשבת לתנוחה הטובה ביותר לבריאות עמוד השדרה. היא מפזרת את משקל הגוף באופן אחיד על פני השטח הגדול ביותר, ממזערת נקודות לחץ ומאפשרת לראש, לצוואר ולעמוד השדרה לנוח בתנוחה ניטרלית. אין כוח סיבובי על הצוואר, והעקומת המותנית נתמכת באופן מותאם על ידי המזרן.',
       },
       {
         type: 'paragraph',
@@ -198,7 +198,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'טעות נפוצה היא התכרבלות בתנוחת עובר הדוקה מדי. כיפוף עדין במפרקי הירכיים והברכיים זה בסדר, אך התכרבלות מוגזמת מעגלת את עמוד השדרה, לוחצת על בית החזה ועלולה להעמיס על הגב התחתון ומפרקי הירך לאורך זמן. שאפו לתנוחת צד רפויה ומוארכת.',
+        text: 'טעות נפוצה היא התכרבלות בתנוחת עובר הדוקה מדי. כיפוף קל במפרקי הירכיים והברכיים זה בסדר, אך התכרבלות מוגזמת מעגלת את עמוד השדרה, לוחצת על בית החזה ועלולה להעמיס על הגב התחתון ומפרקי הירך לאורך זמן. שאפו לתנוחת צד רפויה ומוארכת.',
       },
       {
         type: 'subheading',
@@ -206,7 +206,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'למטופלים המתאוששים מפריצת דיסק, תנוחת צד מותאמת עשויה להביא קצת הקלה. שכבו על הצד הלא פגוע עם כרית בין הברכיים וחבקו בעדינות כרית נוספת מול החזה. זה מונע מפלג הגוף העליון להתגלגל קדימה, שומר על עמוד השדרה בתנוחה ניטרלית ועשוי להפחית לחץ על הדיסק הפגוע. חלק מהמטופלים מגלים שתנוחה זו מאפשרת להם לישון עם פחות כאב.',
+        text: 'למטופלים המתאוששים מפריצת דיסק, תנוחת צד מותאמת עשויה להביא קצת הקלה. שכבו על הצד הלא פגוע עם כרית בין הברכיים וחבקו בקלילות כרית נוספת מול החזה. זה מונע מפלג הגוף העליון להתגלגל קדימה, שומר על עמוד השדרה בתנוחה ניטרלית ועשוי להפחית לחץ על הדיסק הפגוע. חלק מהמטופלים מגלים שתנוחה זו מאפשרת להם לישון עם פחות כאב.',
       },
       {
         type: 'heading',
@@ -242,15 +242,15 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'גם אם מיקמתם את עצמכם היטב בלילה, הגוף עדיין עלול להרגיש נוקשה אחרי שעות של חוסר תנועה יחסי. שגרת מתיחות בוקר קצרה, שתיים-שלוש דקות בלבד, יכולה לשחרר מתח, לשקם זרימת דם ולהכין את עמוד השדרה ליום שמחכה. בצעו כל מתיחה בעדינות, והחזיקו כ-30 שניות:',
+        text: 'גם אם מיקמתם את עצמכם היטב בלילה, הגוף עדיין עלול להרגיש נוקשה אחרי שעות של חוסר תנועה יחסי. שגרת מתיחות בוקר קצרה, שתיים-שלוש דקות בלבד, יכולה לשחרר מתח, לשקם זרימת דם ולהכין את עמוד השדרה ליום שמחכה. בצעו כל מתיחה בזהירות, והחזיקו כ-30 שניות:',
       },
       {
         type: 'list',
         items: [
           'מתיחת ברך לחזה: בשכיבה על הגב, משכו ברך אחת לכיוון החזה והחזיקו בשתי הידיים. זה משחרר מתח בגב התחתון ובשרירי הישבן. חזרו לצד השני.',
-          'סיבוב עמוד שדרה עדין: עדיין על הגב, הניחו לשתי הברכיים הכפופות ליפול לצד אחד בזמן שהכתפיים נשארות שטוחות על המיטה. זה מגייס את עמוד השדרה החזי והמותני. חזרו לצד הנגדי.',
+          'סיבוב עמוד שדרה קל: עדיין על הגב, הניחו לשתי הברכיים הכפופות ליפול לצד אחד בזמן שהכתפיים נשארות שטוחות על המיטה. זה מגייס את עמוד השדרה החזי והמותני. חזרו לצד הנגדי.',
           'מתיחת חתול-פרה: על ארבע, החליפו בין קשת הגב כלפי מעלה (חתול) לבין שקיעת הבטן לכיוון הרצפה (פרה). זה מחמם את כל עמוד השדרה ומשקם ניידות מקטעית.',
-          'הטיות אגן: בשכיבה על הגב עם ברכיים כפופות וכפות רגליים שטוחות, לחצו בעדינות את הגב התחתון לתוך המזרן על ידי הטיית האגן כלפי מעלה, ואז שחררו. זה מפעיל את שרירי הליבה העמוקים ומקל על נוקשות בוקר באזור המותני.',
+          'הטיות אגן: בשכיבה על הגב עם ברכיים כפופות וכפות רגליים שטוחות, לחצו בזהירות את הגב התחתון לתוך המזרן על ידי הטיית האגן כלפי מעלה, ואז שחררו. זה מפעיל את שרירי הליבה העמוקים ומקל על נוקשות בוקר באזור המותני.',
         ],
       },
       {

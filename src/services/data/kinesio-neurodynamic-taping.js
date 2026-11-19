@@ -44,7 +44,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Taping is quick, painless, and usually applied at the end of a treatment to lock in the results. Dr. Duani chooses the pattern and tension based on your specific need: support, decompression, or movement retraining. The tape stays on for several days, including in the shower, and is removed gently.',
+        text: 'Taping is quick, painless, and usually applied at the end of a treatment to lock in the results. Dr. Duani chooses the pattern and tension based on your specific need: support, decompression, or movement retraining. The tape stays on for several days, including in the shower, and is removed carefully.',
       },
       {
         type: 'list',
@@ -134,7 +134,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'ההדבקה מהירה, ללא כאב, ולרוב מבוצעת בסוף הטיפול כדי לשמר את התוצאות. ד״ר דואני בוחר את הדפוס והמתח בהתאם לצורך הספציפי שלכם: תמיכה, שחרור לחץ או אימון תנועה מחדש. הטייפ נשאר על העור מספר ימים, כולל במקלחת, ומוסר בעדינות.',
+        text: 'ההדבקה מהירה, ללא כאב, ולרוב מבוצעת בסוף הטיפול כדי לשמר את התוצאות. ד״ר דואני בוחר את הדפוס והמתח בהתאם לצורך הספציפי שלכם: תמיכה, שחרור לחץ או אימון תנועה מחדש. הטייפ נשאר על העור מספר ימים, כולל במקלחת, ומוסר בזהירות.',
       },
       {
         type: 'list',

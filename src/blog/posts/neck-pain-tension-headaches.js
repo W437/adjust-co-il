@@ -98,7 +98,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'Gentle, precise chiropractic adjustments or mobilization aim to restore motion to the restricted cervical joints. For patients who prefer not to receive high-velocity neck adjustments, instrument-assisted techniques and mobilization are gentler options with no popping sound. It is reasonable to ask about alternatives and risks beforehand; we cover them in our guide to <a href="/en/blog/chiropractic-side-effects-risks/">chiropractic side effects and risks</a>.',
+        text: 'Light, precise chiropractic adjustments or mobilization aim to restore motion to the restricted cervical joints. For patients who prefer not to receive high-velocity neck adjustments, instrument-assisted techniques and mobilization are lighter options with no popping sound. It is reasonable to ask about alternatives and risks beforehand; we cover them in our guide to <a href="/en/blog/chiropractic-side-effects-risks/">chiropractic side effects and risks</a>.',
       },
       {
         type: 'subheading',
@@ -266,7 +266,7 @@ export default {
       },
       {
         type: 'paragraph',
-        text: 'התאמות כירופרקטיות עדינות ומדויקות או מוביליזציה נועדו לשחזר תנועה למפרקי הצוואר המוגבלים. למטופלים שמעדיפים לא לקבל התאמות צוואר בעוצמה גבוהה, טכניקות בעזרת מכשיר ומוביליזציה הן חלופות עדינות יותר, ללא קול פיצוח. מומלץ לשאול מראש על חלופות וסיכונים; אנחנו מסבירים עליהם במדריך על <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי וסיכונים בטיפול כירופרקטי</a>.',
+        text: 'התאמות כירופרקטיות קלות ומדויקות או מוביליזציה נועדו לשחזר תנועה למפרקי הצוואר המוגבלים. למטופלים שמעדיפים לא לקבל התאמות צוואר בעוצמה גבוהה, טכניקות בעזרת מכשיר ומוביליזציה הן חלופות קלות יותר, ללא קול פיצוח. מומלץ לשאול מראש על חלופות וסיכונים; אנחנו מסבירים עליהם במדריך על <a href="/blog/chiropractic-side-effects-risks/">תופעות לוואי וסיכונים בטיפול כירופרקטי</a>.',
       },
       {
         type: 'subheading',

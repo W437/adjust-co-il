@@ -88,11 +88,11 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>Cat-Cow (Marjaryasana-Bitilasana)</strong>: This gentle alternation between spinal flexion and extension mobilizes every segment of the spine, and is a gentle warm-up movement for many back conditions.',
-          'Child\'s Pose (Balasana): A resting posture that gently decompresses the lower back, stretches the spinal extensors, and encourages diaphragmatic breathing. Particularly helpful for patients with lumbar tension.',
+          '<strong>Cat-Cow (Marjaryasana-Bitilasana)</strong>: This light alternation between spinal flexion and extension mobilizes every segment of the spine, and is a light warm-up movement for many back conditions.',
+          'Child\'s Pose (Balasana): A resting posture that gradually decompresses the lower back, stretches the spinal extensors, and encourages diaphragmatic breathing. Particularly helpful for patients with lumbar tension.',
           'Downward Dog (Adho Mukha Svanasana): This inverted position creates traction along the entire spine, decompresses the vertebrae, and stretches the hamstrings and calves, tight posterior chain muscles that commonly contribute to lower back pain.',
           'Pigeon Pose (Eka Pada Rajakapotasana): A deep hip opener that releases tension in the piriformis and gluteal muscles, which may ease strain on the sacroiliac joint and the sciatic nerve.',
-          'Bridge Pose (Setu Bandhasana): Activates the glutes, hamstrings, and deep core muscles while gently extending the thoracic spine. Builds the posterior chain strength that is essential for protecting the lower back.',
+          'Bridge Pose (Setu Bandhasana): Activates the glutes, hamstrings, and deep core muscles while lightly extending the thoracic spine. Builds the posterior chain strength that is essential for protecting the lower back.',
         ],
       },
       {
@@ -198,11 +198,11 @@ export default {
       {
         type: 'list',
         items: [
-          '<strong>חתול-פרה (Cat-Cow / Marjaryasana-Bitilasana)</strong>: החלפה עדינה בין כיפוף ליישור של עמוד השדרה שמניידת כל מקטע, והיא תנועת חימום עדינה למצבי גב רבים.',
-          'תנוחת הילד (Child\'s Pose / Balasana): תנוחת מנוחה שמשחררת בעדינות את הגב התחתון, מותחת את שרירי היישור של עמוד השדרה ומעודדת נשימה סרעפתית. מועילה במיוחד למטופלים עם מתח באזור המותני.',
+          '<strong>חתול-פרה (Cat-Cow / Marjaryasana-Bitilasana)</strong>: החלפה קלה בין כיפוף ליישור של עמוד השדרה שמניידת כל מקטע, והיא תנועת חימום קלה למצבי גב רבים.',
+          'תנוחת הילד (Child\'s Pose / Balasana): תנוחת מנוחה שמשחררת בהדרגה את הגב התחתון, מותחת את שרירי היישור של עמוד השדרה ומעודדת נשימה סרעפתית. מועילה במיוחד למטופלים עם מתח באזור המותני.',
           'כלב הפוך (Downward Dog / Adho Mukha Svanasana): מצב הפוך שיוצר מתיחה לאורך כל עמוד השדרה, משחרר לחץ מהחוליות ומותח את שרירי הירך האחורית והשוקיים, שרירי שרשרת אחורית תפוסים שתורמים בדרך כלל לכאבי גב תחתון.',
           'תנוחת היונה (Pigeon Pose / Eka Pada Rajakapotasana): פתיחת ירכיים עמוקה שמשחררת מתח בשריר הפיריפורמיס ובשרירי העכוז, מה שעשוי להקל על העומס על מפרק הסקרואיליאק ועל עצב הסיאטיק.',
-          'תנוחת הגשר (Bridge Pose / Setu Bandhasana): מפעילה את שרירי העכוז, הירך האחורית ושרירי הליבה העמוקים תוך יישור עדין של עמוד השדרה הגבי. בונה חוזק בשרשרת האחורית שהוא חיוני להגנה על הגב התחתון.',
+          'תנוחת הגשר (Bridge Pose / Setu Bandhasana): מפעילה את שרירי העכוז, הירך האחורית ושרירי הליבה העמוקים תוך יישור קל של עמוד השדרה הגבי. בונה חוזק בשרשרת האחורית שהוא חיוני להגנה על הגב התחתון.',
         ],
       },
       {
