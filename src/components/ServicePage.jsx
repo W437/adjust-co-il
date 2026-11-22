@@ -91,7 +91,7 @@ export default function ServicePage() {
   }
 
   const base = `https://adjust.co.il${lang === 'en' ? '/en' : ''}`;
-  const currentUrl = `${base}/services/${service.slug}`;
+  const currentUrl = `${base}/services/${service.slug}/`;
   const imageUrl = `https://adjust.co.il${service.image}`;
 
   // Breadcrumbs come from the prerender step (one trail per page); this node is the service itself.
